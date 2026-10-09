@@ -1,0 +1,302 @@
+[
+  {
+    "id": "bank-05",
+    "category": "KYC, Aadhaar, and Identity Verification",
+    "subcategory": "KYC, Re-KYC & Account Freezes",
+    "title": "Know Your Customer (KYC), Re-KYC, Dormant Accounts & Account Freezes",
+    "keywords": [
+      "KYC",
+      "re-KYC",
+      "dormant account",
+      "account freeze",
+      "OVD",
+      "officially valid document",
+      "periodic updation",
+      "inoperative"
+    ],
+    "questions": [
+      "What is KYC in banking?",
+      "What documents are accepted for bank KYC?",
+      "Why did my bank freeze my account for pending KYC?",
+      "How often do I need to update my KYC with the bank?"
+    ],
+    "content": "Statutory customer identification rules under RBI Master Directions on KYC: (1) Officially Valid Documents (OVD): Passport, Driving Licence, Proof of possession of Aadhaar number, Voter's Identity Card, Job card issued by NREGA, or Letter issued by National Population Register. PAN card serves as mandatory proof of income and tax identity. (2) Periodic KYC Updation (Re-KYC): Mandated every 2 years for high-risk customers, 8 years for medium-risk, and 10 years for low-risk customers. Re-KYC can be completed digitally via video KYC or self-declaration if details are unchanged. (3) Account Freezes: If Re-KYC is ignored after multiple notices, banks can apply debit freezes.",
+    "source": "Reserve Bank of India (RBI) Master Direction - Know Your Customer (KYC) Direction",
+    "source_url": "https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "insfin-03",
+    "category": "KYC, Aadhaar, and Identity Verification",
+    "subcategory": "Insurance e-KYC & DigiLocker",
+    "title": "Insurance e-KYC, Electronic Policy Documents & DigiLocker Integration",
+    "keywords": [
+      "insurance e-KYC",
+      "mandatory e-KYC",
+      "DigiLocker",
+      "electronic policy",
+      "UIDAI OTP",
+      "frictionless onboarding",
+      "paperless verification"
+    ],
+    "questions": [
+      "Is KYC mandatory for buying all insurance policies in India?",
+      "How does insurance e-KYC work with Aadhaar?",
+      "How do I access insurance policies in DigiLocker?",
+      "Can an insurance claim be settled without KYC?"
+    ],
+    "content": "Mandatory identity verification norms in the insurance sector: (1) Mandatory e-KYC: Under IRDAI directives, completing KYC is legally mandatory before issuing ANY insurance policy (health, motor, life, travel), eliminating the old practice of deferring KYC until claim time. (2) Verification Modes: Executed via Aadhaar OTP, video-based customer identification (V-CIP), or CKYC identifier numbers. (3) DigiLocker Integration: Insurers push verified digital policy schedules directly to the policyholder's DigiLocker account, recognized as valid electronic documents with legal parity to original physical bonds under Rule 9A of the IT Rules.",
+    "source": "IRDAI Master Circular on Insurance Electronic KYC & DigiLocker Onboarding",
+    "source_url": "https://irdai.gov.in/master-circulars",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "kyc_officially_valid_documents_ovd",
+    "category": "KYC, Aadhaar, and Identity Verification",
+    "subcategory": "Officially Valid Documents (OVDs)",
+    "title": "Officially Valid Documents (OVDs) under RBI Master Direction on KYC",
+    "keywords": [
+      "OVD",
+      "officially valid documents",
+      "Aadhaar",
+      "Passport",
+      "Voter ID",
+      "Driving License",
+      "NPR letter",
+      "NREGA job card"
+    ],
+    "questions": [
+      "What documents are accepted as Officially Valid Documents (OVD) for bank accounts?",
+      "Can I use utility bills as permanent proof of address for bank KYC?",
+      "Is ration card accepted as an OVD by RBI?",
+      "What is a deemed OVD for temporary address proof?"
+    ],
+    "content": "Under Section 3(a)(vi) of the Prevention of Money Laundering Rules and RBI KYC Directions, exactly SIX documents are recognized as Officially Valid Documents (OVD): (1) Passport, (2) Driving Licence, (3) Proof of possession of Aadhaar number, (4) Voter's Identity Card, (5) Job card issued by NREGA signed by a state government officer, and (6) Letter issued by the National Population Register (NPR). (2) Deemed OVDs: For temporary address proof (if OVD lacks current address): utility bills not older than 2 months (electricity, water, piped gas), municipal tax receipts, or bank statements, which must be updated with an official OVD within 3 months.",
+    "source": "RBI Master Direction - Know Your Customer (KYC) Direction, 2016 (Updated)",
+    "source_url": "https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "kyc_video_customer_identification_v-cip",
+    "category": "KYC, Aadhaar, and Identity Verification",
+    "subcategory": "Video KYC (V-CIP)",
+    "title": "Video Customer Identification Process (V-CIP) for Paperless Onboarding",
+    "keywords": [
+      "V-CIP",
+      "video KYC",
+      "paperless bank opening",
+      "geo-tagging",
+      "live video call",
+      "facial match AI",
+      "PAN card verification"
+    ],
+    "questions": [
+      "What is Video KYC (V-CIP) and how does it work?",
+      "What documents do I need to keep ready for a Video KYC call?",
+      "Can I do Video KYC from outside India?",
+      "What security checks occur during a Video KYC interaction?"
+    ],
+    "content": "V-CIP enables complete, face-to-face equivalent digital onboarding without visiting a physical branch: (1) Technical Architecture: Operates over a secure encrypted video call initiated from the regulated entity's domain. (2) Mandatory Security Protocols: (a) Real-Time Geo-Tagging: GPS coordinates must confirm the customer is physically inside India during the call. (b) Live Liveness Detection: Facial matching algorithms ensure the person is alive and matches the Aadhaar/PAN photo. (c) Physical PAN Capture: Customer must hold up their original physical PAN card to the camera. (3) Bank Official Interaction: A trained bank officer conducts live audio-visual verification and notes answers.",
+    "source": "RBI Amendment to Master Direction on KYC - Introduction of Video Based Customer Identification Process",
+    "source_url": "https://www.rbi.org.in/Scripts/NotificationUser.aspx",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "kyc_ckyc_central_registry_cersai",
+    "category": "KYC, Aadhaar, and Identity Verification",
+    "subcategory": "Central KYC Registry (CKYCR)",
+    "title": "Central KYC Registry (CKYCR) & 14-Digit CKYC Identifier System",
+    "keywords": [
+      "CKYC",
+      "CKYCR",
+      "CERSAI",
+      "14-digit KYC identifier",
+      "KIN",
+      "single KYC for all financial entities",
+      "central registry"
+    ],
+    "questions": [
+      "What is Central KYC (CKYC) and KIN number?",
+      "How does CKYC eliminate repeating KYC at every bank or broker?",
+      "Who manages the CKYC registry in India?",
+      "How do I find my 14-digit CKYC number?"
+    ],
+    "content": "The Central KYC Records Registry (CKYCR) is managed by CERSAI (Central Registry of Securitisation Asset Reconstruction and Security Interest of India) under PMLA norms: (1) Purpose: Eradicates repetitive paperwork across the financial system. Once KYC is completed at ANY regulated institution (bank, broker, insurer, mutual fund), data is uploaded to CKYCR, issuing a unique 14-digit KYC Identifier Number (KIN). (2) Universal Interoperability: When opening an account at a new financial institution, the customer simply provides their 14-digit KIN; the institution pulls verified digital records directly from CKYCR without asking for fresh physical papers.",
+    "source": "CERSAI Central KYC Registry Operating Guidelines & PMLA Rules",
+    "source_url": "https://www.ckycindia.in/",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "kyc_aadhaar_biometric_lock_unlock",
+    "category": "KYC, Aadhaar, and Identity Verification",
+    "subcategory": "Aadhaar Biometric Locking",
+    "title": "UIDAI Aadhaar Biometric Lock/Unlock via mAadhaar App to Stop AePS Fraud",
+    "keywords": [
+      "biometric lock",
+      "Aadhaar lock",
+      "mAadhaar app",
+      "UIDAI portal",
+      "AePS fraud prevention",
+      "fingerprint locking",
+      "temporary unlock"
+    ],
+    "questions": [
+      "How do I lock my Aadhaar biometrics to prevent bank fraud?",
+      "What happens when I lock my biometrics on mAadhaar?",
+      "How do I temporarily unlock Aadhaar biometrics for SIM or passport verification?",
+      "Does biometric lock affect OTP authentication?"
+    ],
+    "content": "Crucial defensive security measure offered by UIDAI to eliminate unauthorized biometric exploitation (e.g. AePS ATM theft): (1) How Biometric Locking Works: Locking biometrics via the UIDAI portal (uidai.gov.in) or mAadhaar app completely blocks fingerprint and iris authentication across all platforms. Any attempted AePS cash withdrawal or biometric swipe fails instantly with Error 330. (2) OTP Functions Unaffected: OTP-based authentication (for income-tax filing, net banking, or DigiLocker) continues functioning normally. (3) Temporary Unlock: When biometric verification is legitimately needed (e.g. buying a SIM or passport appointment), the user temporarily unlocks it via the app for 10 minutes.",
+    "source": "Unique Identification Authority of India (UIDAI) Biometric Security Handbooks",
+    "source_url": "https://uidai.gov.in/en/my-aadhaar/about-your-aadhaar/security-in-aadhaar.html",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "kyc_masked_aadhaar_redaction_rules",
+    "category": "KYC, Aadhaar, and Identity Verification",
+    "subcategory": "Masked Aadhaar Mandates",
+    "title": "Masked Aadhaar: Mandatory First 8 Digits Redaction Rules & Legal Validity",
+    "keywords": [
+      "masked Aadhaar",
+      "redacted Aadhaar",
+      "first 8 digits hidden",
+      "UIDAI advisory",
+      "hotel check-in safety",
+      "Section 28A Aadhaar Act"
+    ],
+    "questions": [
+      "What is a Masked Aadhaar and how do I download it?",
+      "Is Masked Aadhaar legally valid for hotels and identity verification?",
+      "Why should I never share a photocopy of regular unmasked Aadhaar?",
+      "How does Masked Aadhaar protect against identity theft?"
+    ],
+    "content": "UIDAI privacy protection protocol guarding against physical identity theft: (1) Redaction Architecture: Masked Aadhaar replaces the first 8 digits of the 12-digit number with 'XXXX-XXXX', displaying only the last 4 digits alongside the photograph, QR code, and address. (2) Complete Legal Validity: Under Section 28A of the Aadhaar Act and RBI KYC guidelines, Masked Aadhaar holds identical legal validity to standard Aadhaar for all non-statutory offline verifications (hotel check-ins, event entries, apartment visitor logs). (3) Download: Can be downloaded directly from myaadhaar.uidai.gov.in by checking 'Do you want a masked Aadhaar?'.",
+    "source": "UIDAI Public Advisory on Use of Masked Aadhaar & Aadhaar Act Regulations",
+    "source_url": "https://uidai.gov.in/",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "kyc_periodic_re_kyc_timelines",
+    "category": "KYC, Aadhaar, and Identity Verification",
+    "subcategory": "Periodic Re-KYC Rules",
+    "title": "Periodic Updation of KYC (Re-KYC): Low, Medium, and High-Risk Account Timelines",
+    "keywords": [
+      "periodic KYC",
+      "re-KYC timelines",
+      "risk categorization",
+      "low risk 10 years",
+      "high risk 2 years",
+      "self-declaration re-KYC",
+      "account restriction"
+    ],
+    "questions": [
+      "How often must I do re-KYC for my bank account?",
+      "Can I complete re-KYC online without visiting the bank branch?",
+      "What happens if I miss the bank re-KYC deadline?",
+      "How do banks categorize customers into low, medium, and high risk?"
+    ],
+    "content": "RBI Master Directions mandate continuous risk-based periodic customer review: (1) Risk Timelines: High-Risk Customers (politically exposed persons, jewellers, trusts, high-turnover accounts): Re-KYC every 2 years. Medium-Risk Customers: Re-KYC every 8 years. Low-Risk Customers (salaried individuals, small depositors): Re-KYC every 10 years. (2) Frictionless Self-Declaration: Under updated RBI directives, if there is NO change in customer information (name, address), low-risk customers can complete Re-KYC simply by submitting a self-declaration through net banking, mobile banking, email, or ATM screens without visiting a branch.",
+    "source": "RBI Master Direction on KYC - Periodic Updation & Self-Declaration Directives",
+    "source_url": "https://www.rbi.org.in/Scripts/NotificationUser.aspx",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "kyc_fatca_crs_foreign_tax_declarations",
+    "category": "KYC, Aadhaar, and Identity Verification",
+    "subcategory": "FATCA & CRS Compliance",
+    "title": "FATCA / CRS Compliance: Self-Certification of Foreign Tax Residencies",
+    "keywords": [
+      "FATCA",
+      "CRS",
+      "foreign tax residency",
+      "tax declaration",
+      "US person",
+      "automatic exchange of information",
+      "account freeze FATCA"
+    ],
+    "questions": [
+      "What is FATCA declaration in Indian bank and mutual fund accounts?",
+      "Why do banks ask if I am a tax resident of another country?",
+      "What happens if I don't submit FATCA declaration?",
+      "What is Common Reporting Standard (CRS)?"
+    ],
+    "content": "International tax transparency agreements under the Income Tax Rules 1962: (1) Statutory Regimes: Foreign Account Tax Compliance Act (FATCA, inter-governmental pact with USA) and Common Reporting Standard (CRS, multilateral OECD framework). (2) The Requirement: All financial institutions (banks, mutual funds, brokers) must obtain a formal self-certification from account holders declaring their country of tax residence and Tax Identification Number (TIN). (3) Compliance Action: Financial entities report accounts held by foreign tax residents to Indian tax authorities, who share data automatically with partner nations. Uncertified accounts face regulatory blocking.",
+    "source": "Income Tax Rules 1962 Rules 114F-114H & CBDT Guidance Note on FATCA/CRS",
+    "source_url": "https://www.incometax.gov.in/",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "kyc_pan_aadhaar_linking_consequences",
+    "category": "KYC, Aadhaar, and Identity Verification",
+    "subcategory": "PAN-Aadhaar Linking Mandate",
+    "title": "PAN-Aadhaar Linking Mandate: Inoperative PAN Consequences & TDS Penalties",
+    "keywords": [
+      "PAN Aadhaar linking",
+      "inoperative PAN",
+      "Section 139AA",
+      "higher TDS 20 percent",
+      "no tax refund",
+      "penalty 1000",
+      "financial disruptions"
+    ],
+    "questions": [
+      "What happens if I did not link PAN with Aadhaar?",
+      "How much TDS is deducted if my PAN is inoperative?",
+      "Can an inoperative PAN be reactivated?",
+      "Can I invest in mutual funds or buy a car with an inoperative PAN?"
+    ],
+    "content": "Section 139AA of the Income Tax Act mandates linking of PAN with Aadhaar: (1) Inoperative Status: Failure to link renders the PAN 'Inoperative'. An inoperative PAN cannot be quoted for high-value transactions (buying property, vehicle registration, opening bank accounts, investing in mutual funds). (2) Severe Penal Consequences: No income-tax refund is issued, no interest on refunds is paid, and TDS / TCS is deducted at double the standard rate or a flat 20% under Section 206AA. (3) Reactivation: Can be reactivated by paying a statutory fee of ₹1,000 on the e-filing portal; takes up to 30 days to reflect across financial systems.",
+    "source": "Income Tax Act 1961 Section 139AA & CBDT Circulars on Inoperative PAN",
+    "source_url": "https://www.incometax.gov.in/",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "kyc_digilocker_it_act_legal_parity",
+    "category": "KYC, Aadhaar, and Identity Verification",
+    "subcategory": "DigiLocker Legal Parity",
+    "title": "DigiLocker: Section 9A IT Act Parity with Original Physical Documents",
+    "keywords": [
+      "DigiLocker",
+      "Rule 9A IT Act",
+      "legal parity with original",
+      "driving license DigiLocker",
+      "electronic verification",
+      "paperless compliance"
+    ],
+    "questions": [
+      "Can traffic police or banks reject documents shown on DigiLocker?",
+      "What is the legal status of DigiLocker documents under the IT Act?",
+      "How do banks pull verified documents from DigiLocker?",
+      "What documents can be stored in DigiLocker?"
+    ],
+    "content": "National digital wallet operated by the Ministry of Electronics and IT (MeitY): (1) Statutory Legal Parity: Under Rule 9A of the Information Technology (Preservation and Retention of Information by Intermediaries Providing Digital Locker Facilities) Rules 2016, issued documents in DigiLocker are deemed to be on PAR with original physical documents. Police, transport authorities, banks, and universities are legally mandated to accept them. (2) Direct Issuer Repository: Documents (Driving License, RC, PAN, 10th/12th marksheets, insurance policies) are fetched directly from the issuer's secure database via cryptographic digital signatures.",
+    "source": "Information Technology Act 2000 & Digital Locker Rules 2016 Rule 9A",
+    "source_url": "https://www.digilocker.gov.in/",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "kyc_small_accounts_relaxed_kyc",
+    "category": "KYC, Aadhaar, and Identity Verification",
+    "subcategory": "Small Accounts (Relaxed KYC)",
+    "title": "Small Accounts with Relaxed KYC: 1-Year Validity and Turnover Ceilings",
+    "keywords": [
+      "small account",
+      "relaxed KYC",
+      "simplified KYC",
+      "1-year validity",
+      "50000 balance limit",
+      "1 lakh annual credits",
+      "financial inclusion"
+    ],
+    "questions": [
+      "Can someone open a bank account without any official ID proof in India?",
+      "What is a 'Small Account' under RBI KYC directions?",
+      "What are the limits on balance and withdrawals in a Small Account?",
+      "How long is a Small Account valid before needing full KYC?"
+    ],
+    "content": "Financial inclusion avenue for citizens who currently lack any Officially Valid Document (OVD): (1) Relaxed Opening: Opened at bank branches simply with a self-attested photograph and signature or thumb impression in the presence of an authorized bank official. (2) Strict Regulatory Caps: (a) Total aggregate credits cannot exceed ₹1,00,000 in a financial year, (b) Total aggregate withdrawals and transfers cannot exceed ₹10,000 in a calendar month, and (c) The balance at any point in time cannot exceed ₹50,000. (3) 1-Year Sunset: Valid for 12 months, extendable by 12 more months if the holder shows proof of applying for an OVD.",
+    "source": "RBI Master Direction on KYC - Simplified Measures for Small Accounts",
+    "source_url": "https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx",
+    "verification_date": "2026-03"
+  }
+]

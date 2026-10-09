@@ -1,0 +1,320 @@
+[
+  {
+    "id": "claim-01",
+    "category": "Insurance Claims and Claim Settlement",
+    "subcategory": "Timelines & Free-Look Cancellation",
+    "title": "IRDAI Claim Settlement Timelines & Free-Look Cancellation",
+    "keywords": [
+      "claim settlement timelines",
+      "free-look period",
+      "IRDAI regulations",
+      "30 days",
+      "interest on delay",
+      "cancellation refund"
+    ],
+    "questions": [
+      "What is the IRDAI timeline for settling an insurance claim?",
+      "What is the penalty if an insurer delays claim payment?",
+      "What is the free-look period in insurance?",
+      "How do I cancel my policy within the free-look period?"
+    ],
+    "content": "IRDAI mandates strict timelines under the Policyholder Protection Regulations: (1) Claim Settlement Timeline: Insurers must settle or reject claims within 30 days of receiving all required documents. If an investigation is warranted, it must complete within 30 days, and the claim settled within 45 days thereafter. (2) Interest on Delayed Claims: If payment is delayed beyond statutory limits, the insurer must pay penal interest at 2% above the prevailing RBI bank rate from the document submission date to the settlement date. (3) Free-Look Period: Policyholders have 15 days (30 days for electronic policies or distance marketing) from policy receipt to review terms and cancel for a full premium refund, deducting only proportional risk premium, medical test charges, and stamp duty.",
+    "source": "IRDAI (Protection of Policyholders' Interests) Regulations & Master Circulars",
+    "source_url": "https://irdai.gov.in/regulations",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "claim-02",
+    "category": "Insurance Claims and Claim Settlement",
+    "subcategory": "Document Checklist",
+    "title": "Mandatory Claim Documents Checklist for Health, Motor & Life",
+    "keywords": [
+      "claim documents",
+      "claim checklist",
+      "health claim docs",
+      "discharge summary",
+      "motor claim FIR",
+      "death certificate",
+      "KYC"
+    ],
+    "questions": [
+      "What documents are needed for a health insurance claim?",
+      "What documents are required for car insurance accident claim?",
+      "What is required to claim life insurance death benefit?",
+      "Why is a hospital discharge summary mandatory?"
+    ],
+    "content": "Document completeness is critical for swift claim settlement across insurance verticals: (1) Health Insurance: Duly signed claim form, original hospital discharge summary (listing clinical history, diagnosis, and treatment course), itemised hospital break-up bills, pharmacy receipts with doctor prescriptions, diagnostic reports, and KYC with cancelled bank cheque. (2) Motor Insurance: Duly filled claim form, copy of Registration Certificate (RC), valid driver's licence copy at time of accident, police FIR (mandatory for third-party injury, death, or vehicle theft), repair estimate from garage, and original repair invoice. (3) Life Insurance: Original policy document, official municipal death certificate, claimant's statement form, KYC documents, bank details, and hospital medical records or police post-mortem/panchnama reports for accidental deaths.",
+    "source": "General Insurance Council & Life Insurance Council Standardization Handbooks",
+    "source_url": "https://irdai.gov.in/guidelines",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "claim-03",
+    "category": "Insurance Claims and Claim Settlement",
+    "subcategory": "Rejection Reasons & Mitigation",
+    "title": "Common Reasons for Claim Rejection & How to Avoid Them",
+    "keywords": [
+      "claim rejection",
+      "repudiation",
+      "non-disclosure",
+      "fraud",
+      "delayed intimation",
+      "excluded conditions",
+      "pre-existing disease"
+    ],
+    "questions": [
+      "Why do insurance companies reject claims?",
+      "What should I do if my insurance claim is unfairly rejected?",
+      "Can a claim be rejected for late intimation?",
+      "What constitutes non-disclosure in insurance?"
+    ],
+    "content": "Common grounds for insurance claim rejection and how policyholders can safeguard themselves: (1) Non-Disclosure of Material Facts: Hiding pre-existing conditions (diabetes, hypertension, tobacco usage) allows insurers to repudiate claims. Always declare full health history during proposal filling. (2) Delay in Intimation: Policies mandate intimation within 24-48 hours. However, IRDAI circulars clarify that genuine delays due to medical emergency, trauma, or unavoidable circumstances cannot be sole grounds for rejection. (3) Permanent Exclusions: Claiming for non-medical expenses (gloves, sanitizers), cosmetic surgery, or unapproved procedures. (4) Lapsed Policy: Claims occurring after the grace period expiry without premium payment are invalid. (5) Remedial Steps: Obtain formal written rejection reasons, gather clinical evidence, and appeal to the insurer's Grievance Redressal Officer (GRO).",
+    "source": "IRDAI Circulars on Rejection of Claims on Technical Grounds",
+    "source_url": "https://irdai.gov.in/circulars",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "health-05",
+    "category": "Insurance Claims and Claim Settlement",
+    "subcategory": "Cashless vs Reimbursement",
+    "title": "Cashless Hospitalization vs Reimbursement Claim Procedures",
+    "keywords": [
+      "cashless claim",
+      "reimbursement claim",
+      "TPA",
+      "pre-authorization",
+      "network hospital",
+      "settlement timeline",
+      "discharge"
+    ],
+    "questions": [
+      "How does cashless hospitalization work?",
+      "What is the difference between cashless and reimbursement claim?",
+      "What is pre-authorization in health insurance?",
+      "How long does reimbursement claim take?"
+    ],
+    "content": "Health insurance claims are processed through two distinct operational routes: (1) Cashless Hospitalization: Available at empanelled network hospitals. For planned admissions, pre-authorization must be submitted 48-72 hours in advance. For emergency admissions, notify the insurer/Third Party Administrator (TPA) within 24 hours. The insurer pays hospital bills directly, leaving the policyholder to pay only non-medical expenses and co-pays. Under recent IRDAI mandates, initial pre-authorization must be decided within 1 hour, and final discharge authorization within 3 hours. (2) Reimbursement Claim: When treated at a non-network facility, the policyholder pays all hospital expenses upfront and submits original bills, discharge summary, pharmacy receipts, and diagnostic reports to the insurer/TPA within 15 to 30 days of discharge for post-facto verification and reimbursement.",
+    "source": "IRDAI Health Insurance Regulations & Master Circulars",
+    "source_url": "https://irdai.gov.in/master-circulars",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "claim_cashless_preauth_timeline",
+    "category": "Insurance Claims and Claim Settlement",
+    "subcategory": "IRDAI 1-Hour & 3-Hour Mandates",
+    "title": "IRDAI 1-Hour Cashless Pre-Auth & 3-Hour Final Discharge Mandates",
+    "keywords": [
+      "1-hour cashless",
+      "3-hour discharge",
+      "cashless pre-authorization",
+      "discharge delay penalty",
+      "IRDAI Master Circular 2024",
+      "hospital detention"
+    ],
+    "questions": [
+      "How long can an insurance company take to approve cashless discharge?",
+      "What is the 3-hour rule for insurance discharge in India?",
+      "What happens if an insurer takes more than 3 hours to approve discharge?",
+      "Can a hospital keep a patient waiting for cashless discharge approval?"
+    ],
+    "content": "To eradicate patient harassment during hospital discharge, the IRDAI Master Circular on Health Insurance established binding timeframes for insurers and TPAs: (1) 1-Hour Cashless Pre-Authorisation: The insurer must convey its decision on cashless pre-authorization requests within 1 hour of receipt. (2) 3-Hour Final Discharge Clearance: Upon receiving the final discharge summary and billing from the hospital, the insurer/TPA must issue the final cashless settlement approval within 3 hours. (3) Delay Liability: If the insurer exceeds the 3-hour window, any additional hospital room rent charges incurred beyond 3 hours must be borne by the insurance company, not the policyholder. (4) Prohibited Action: Hospitals cannot detain patients post-discharge while awaiting TPA billing queries.",
+    "source": "IRDAI Master Circular on Health Insurance Products & Claims Processing",
+    "source_url": "https://irdai.gov.in/master-circulars",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "claim_reimbursement_sub_limits",
+    "category": "Insurance Claims and Claim Settlement",
+    "subcategory": "Reimbursement Scrutiny",
+    "title": "Reimbursement Claim Scrutiny: Non-Medical Expenses & Deductions",
+    "keywords": [
+      "non-medical expenses",
+      "consumables",
+      "List I expenses",
+      "IRDAI non-payable items",
+      "claim deduction",
+      "administrative charges"
+    ],
+    "questions": [
+      "Why was my hospital claim deducted for consumables?",
+      "What are non-medical expenses in health insurance?",
+      "What are List I non-payable items under IRDAI norms?",
+      "Can I get full reimbursement without any deductions?"
+    ],
+    "content": "During reimbursement claim scrutiny, insurers make standard regulatory deductions based on policy clauses and IRDAI's Standard List of Non-Payable Items (List I): (1) Consumable Items: PPE kits, gloves, masks, syringes, thermometer charges, and admission registration charges are traditionally classified as non-medical items unless the policyholder has purchased a 'Consumables Cover Add-on'. (2) Overhead & Administrative Costs: Administrative charges, luxury toiletries, documentation fees, and diet food for patient attendants are strictly non-reimbursable. (3) Tariff Parity: If the non-network hospital charged rates higher than reasonable and customary charges for that geographical region, insurers can trim claims to regional averages.",
+    "source": "IRDAI Master Circular on Standardization of Health Insurance - List I Items",
+    "source_url": "https://irdai.gov.in/master-circulars",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "claim_third_party_motor_mact",
+    "category": "Insurance Claims and Claim Settlement",
+    "subcategory": "Motor Accident Claims Tribunal (MACT)",
+    "title": "Third-Party Motor Accident Claims: MACT Process & Unlimited Liability",
+    "keywords": [
+      "MACT",
+      "Motor Accident Claims Tribunal",
+      "third-party claim",
+      "unlimited liability",
+      "Section 166",
+      "structured compensation",
+      "DAR"
+    ],
+    "questions": [
+      "How do third-party motor insurance claims get settled?",
+      "What is the Motor Accident Claims Tribunal (MACT)?",
+      "Is there a limit on third party motor insurance payout for death?",
+      "What is a Detailed Accident Report (DAR)?"
+    ],
+    "content": "Third-party motor claims involving injury, death, or third-party property damage cannot be settled privately; they are adjudicated by judicial tribunals: (1) Motor Accident Claims Tribunal (MACT): Established under the Motor Vehicles Act to adjudicate compensation for victims of road accidents. (2) Unlimited Financial Liability: Unlike own damage covers which are capped at IDV, the insurer's liability for third-party fatal accidents or permanent disability is unlimited and determined by court formulas evaluating age, income, and dependency. Third-party property damage is capped at ₹7.5 Lakh. (3) Detailed Accident Report (DAR): Police must compile a DAR within 90 days of accident and submit it to MACT, which treats it as a claim petition.",
+    "source": "Motor Vehicles Act 1988 Chapter XII & Supreme Court MACT Guidelines",
+    "source_url": "https://irdai.gov.in/acts",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "claim_investigation_60_days",
+    "category": "Insurance Claims and Claim Settlement",
+    "subcategory": "Claim Investigation Timelines",
+    "title": "Claim Investigation Standards: 30-Day Window and Evidence Rules",
+    "keywords": [
+      "claim investigation",
+      "30 days investigation",
+      "forensic audit",
+      "fraud investigation",
+      "investigation timeline",
+      "claim delay interest"
+    ],
+    "questions": [
+      "How long can an insurance company investigate a claim?",
+      "Can an insurer keep a claim on hold for months for investigation?",
+      "What rights does a policyholder have during insurance investigation?",
+      "When must the insurer pay interest for delay?"
+    ],
+    "content": "When an insurer suspects misrepresentation, staged accidents, or impersonation, formal investigations must follow strict regulatory boundaries: (1) Maximum 30-Day Investigation: Under IRDAI Policyholder Protection Regulations, an investigation into a claim must be initiated immediately and completed within 30 days of appointment of investigators. (2) Final Decision in 45 Days: Following the investigation report, the insurer must settle or reject the claim within an additional 45 days. (3) Burden of Proof: The legal burden of proving fraud or intentional non-disclosure rests entirely on the insurance company. (4) Mandatory Interest: If investigation drags beyond regulatory timeframes without valid grounds, the insurer is statutorily liable to pay interest at Bank Rate + 2%.",
+    "source": "IRDAI (Protection of Policyholders' Interests) Regulations",
+    "source_url": "https://irdai.gov.in/regulations",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "claim_hospital_blacklisting_fraud",
+    "category": "Insurance Claims and Claim Settlement",
+    "subcategory": "Excluded & Blacklisted Hospitals",
+    "title": "Excluded & Blacklisted Hospitals: Claim Admissibility Rules",
+    "keywords": [
+      "blacklisted hospital",
+      "excluded hospital",
+      "GIC blacklist",
+      "fraudulent hospital",
+      "emergency treatment exception",
+      "IRDAI excluded list"
+    ],
+    "questions": [
+      "Can insurance reject a claim because the hospital was blacklisted?",
+      "What happens if I get admitted to a blacklisted hospital in an emergency?",
+      "Where can I find the list of excluded hospitals for my insurer?",
+      "Why do insurance companies blacklist hospitals?"
+    ],
+    "content": "General and health insurers publish lists of 'Excluded / Blacklisted Hospitals' where past forensic audits uncovered fraudulent billing, phantom patients, or kickback schemes: (1) General Rule: Non-emergency treatments, elective surgeries, and routine admissions at excluded facilities are strictly inadmissible for both cashless and reimbursement claims. (2) Critical Emergency Exception: Under IRDAI directives, if an insured is brought to an excluded hospital in a life-threatening acute emergency (severe trauma, cardiac arrest), the insurer cannot summarily reject the claim; it must reimburse medically necessary stabilisation expenses upon verified doctor certification. (3) Duty of Notice: Insurers must publish updated excluded hospital lists on their official websites.",
+    "source": "General Insurance Council (GIC) Fraud Prevention Registry & IRDAI Directives",
+    "source_url": "https://irdai.gov.in/directives",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "claim_surveyor_licensing_role",
+    "category": "Insurance Claims and Claim Settlement",
+    "subcategory": "Surveyors & Loss Assessors",
+    "title": "Role of IRDAI-Licensed Independent Surveyors & Loss Assessors",
+    "keywords": [
+      "surveyor",
+      "loss assessor",
+      "SLA",
+      "survey report",
+      "independent assessment",
+      "statutory survey threshold",
+      "Section 64UM"
+    ],
+    "questions": [
+      "Who is an insurance surveyor?",
+      "When is a surveyor inspection mandatory for insurance claims?",
+      "Can I challenge a surveyor's report if the estimate is too low?",
+      "Is the insurance company bound by the surveyor's assessment?"
+    ],
+    "content": "Under Section 64UM of the Insurance Act 1938, independent loss assessment is legally mandated for non-life claims: (1) Mandatory Threshold: Any general insurance claim (motor, fire, marine, engineering) where the estimated loss exceeds ₹50,000 for motor or ₹1,00,000 for non-motor must be investigated and assessed by an independent surveyor licensed by IRDAI. (2) Independent Status: Surveyors are statutory professionals governed by the Insurance Surveyors and Loss Assessors Regulations; they are not direct employees of the insurer. (3) 30-Day Survey Report: The surveyor must submit their final report within 30 days of appointment. If the insurer disagrees with the report, it must appoint a second surveyor with IRDAI approval.",
+    "source": "Insurance Act 1938 Section 64UM & IRDAI (Insurance Surveyors and Loss Assessors) Regulations",
+    "source_url": "https://irdai.gov.in/acts",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "claim_delay_interest_bank_rate",
+    "category": "Insurance Claims and Claim Settlement",
+    "subcategory": "Penal Interest for Delays",
+    "title": "Penal Interest on Delayed Claims: Bank Rate Plus 2% Formula",
+    "keywords": [
+      "penal interest",
+      "delayed claim interest",
+      "bank rate plus 2 percent",
+      "RBI bank rate",
+      "IRDAI penalty",
+      "compensation for delay"
+    ],
+    "questions": [
+      "Does the insurance company have to pay interest if it delays paying my claim?",
+      "What is the interest rate on delayed insurance claims in India?",
+      "How is penal interest on insurance claims calculated?",
+      "Can an insurer avoid paying penal interest?"
+    ],
+    "content": "To deter unjustified claim withholding, IRDAI Policyholder Protection Regulations impose mandatory penal interest on delayed claims: (1) The Formula: The insurer must pay penal interest at a rate that is 2% above the prevailing Reserve Bank of India (RBI) Bank Rate at the beginning of the financial year in which the claim fell due. (2) Trigger Date: Interest begins accruing from the 30th day after receipt of the last necessary document (or 45th day after investigation) until the actual date of funds transfer into the policyholder's bank account. (3) Automatic Credit: The interest must be paid directly and automatically along with the primary claim payout without requiring a court order. Omitting interest is a regulatory compliance violation.",
+    "source": "IRDAI (Protection of Policyholders' Interests) Regulations",
+    "source_url": "https://irdai.gov.in/regulations",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "claim_death_repudiation_remedies",
+    "category": "Insurance Claims and Claim Settlement",
+    "subcategory": "Life Claim Repudiation Remedies",
+    "title": "Life Insurance Claim Repudiation: Legal Remedies & Review Committees",
+    "keywords": [
+      "claim repudiation",
+      "death claim rejection",
+      "Claims Review Committee",
+      "CRC",
+      "legal remedies",
+      "Insurance Ombudsman",
+      "Section 45"
+    ],
+    "questions": [
+      "What can a nominee do if a life insurance death claim is rejected?",
+      "What is the Claims Review Committee (CRC) in life insurance?",
+      "Can you challenge life insurance rejection in court?",
+      "When is a death claim repudiation illegal under Section 45?"
+    ],
+    "content": "If a life insurance death claim is repudiated by an insurer, the nominee has tiered avenues for legal remedy: (1) Written Repudiation Letter: The insurer must furnish detailed written grounds citing specific evidence and policy clauses. (2) Internal Claims Review Committee (CRC): Every life insurer maintains an independent Claims Review Committee headed by retired judicial officers or senior management; nominees can submit a review appeal within 30 days. (3) Section 45 Defence: If the policy was active for more than 3 continuous years, repudiation on grounds of non-disclosure is unlawful under Section 45. (4) External Avenues: If CRC upholds rejection, file a complaint before the Insurance Ombudsman (for claims up to ₹50 Lakh) or Consumer Disputes Redressal Commission.",
+    "source": "IRDAI Life Insurance Claims Guidelines & Insurance Ombudsman Rules 2017",
+    "source_url": "https://irdai.gov.in/guidelines",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "claim_discharge_voucher_under_protest",
+    "category": "Insurance Claims and Claim Settlement",
+    "subcategory": "Discharge Vouchers & Under Protest",
+    "title": "Full and Final Discharge Vouchers: Signing 'Under Protest' Safeguards",
+    "keywords": [
+      "discharge voucher",
+      "under protest",
+      "full and final settlement",
+      "undue influence",
+      "claim deduction dispute",
+      "Supreme Court ruling"
+    ],
+    "questions": [
+      "Should I sign a full and final discharge voucher if I disagree with the claim amount?",
+      "What does signing a claim voucher 'Under Protest' mean?",
+      "Can I claim remaining insurance money after signing a discharge voucher?",
+      "What did the Supreme Court rule on insurance discharge vouchers?"
+    ],
+    "content": "Insurers traditionally insisted that policyholders sign an unconditional 'Discharge Voucher' (DV) waiving all future claims before releasing partial claim funds: (1) IRDAI Circular on Discharge Vouchers: Insurers are strictly prohibited from compelling policyholders to execute unconditional full-and-final discharge vouchers as a precondition to releasing undisputed claim funds. (2) Landmark Supreme Court Ruling: The Supreme Court ruled that signing a discharge voucher does not bar the policyholder from approaching courts or the Ombudsman if the voucher was obtained under financial coercion, economic distress, or undue influence. (3) Safe Practice: Policyholders disputing deductions should endorse the voucher with the words: 'Received without prejudice and under protest'.",
+    "source": "IRDAI Circular on Execution of Discharge Voucher & Supreme Court Precedents",
+    "source_url": "https://irdai.gov.in/circulars",
+    "verification_date": "2026-03"
+  }
+]

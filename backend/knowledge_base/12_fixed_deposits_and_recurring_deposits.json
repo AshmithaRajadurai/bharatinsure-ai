@@ -1,0 +1,297 @@
+[
+  {
+    "id": "bank-02",
+    "category": "Fixed Deposits and Recurring Deposits",
+    "subcategory": "FD vs RD & DICGC",
+    "title": "Fixed Deposits (FD) vs Recurring Deposits (RD) & DICGC Insurance",
+    "keywords": [
+      "fixed deposit",
+      "recurring deposit",
+      "FD",
+      "RD",
+      "DICGC",
+      "deposit insurance",
+      "5 lakh insurance",
+      "TDS on FD",
+      "premature withdrawal"
+    ],
+    "questions": [
+      "What is the difference between FD and RD?",
+      "How safe are bank fixed deposits in India?",
+      "What is DICGC deposit insurance limit?",
+      "How much TDS is deducted on FD interest?"
+    ],
+    "content": "Term deposits provide guaranteed returns for fixed tenures: (1) Fixed Deposit (FD): Lump-sum deposit locked for a specific duration (7 days to 10 years) at a fixed interest rate. Premature withdrawals incur a penal rate deduction (typically 0.5% to 1.0%). (2) Recurring Deposit (RD): Regular monthly savings scheme where a fixed sum is deposited every month for a chosen tenure. (3) DICGC Insurance Cover: Under the Deposit Insurance and Credit Guarantee Corporation (DICGC) Act, all depositor funds (principal plus accrued interest across savings, current, FD, and RD) are insured up to ₹5,00,000 per depositor per bank in case of bank liquidation or moratorium. (4) Tax Deducted at Source (TDS): Banks deduct 10% TDS if annual interest exceeds ₹40,000 (₹50,000 for senior citizens). Submit Form 15G/15H to prevent TDS if total income is below taxable limits.",
+    "source": "DICGC Act 1961 & RBI Master Direction on Interest Rates on Deposits",
+    "source_url": "https://www.dicgc.org.in/",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "fd_dicgc_5lakh_deposit_insurance",
+    "category": "Fixed Deposits and Recurring Deposits",
+    "subcategory": "DICGC ₹5 Lakh Protection Mechanics",
+    "title": "DICGC ₹5 Lakh Insurance Cover: Per Depositor, Per Bank Protection",
+    "keywords": [
+      "DICGC",
+      "5 lakh limit",
+      "deposit insurance",
+      "same bank branches",
+      "joint account insurance",
+      "bank failure",
+      "90 days payout"
+    ],
+    "questions": [
+      "How does the ₹5 Lakh DICGC insurance work across multiple branches of the same bank?",
+      "Can I protect more than ₹5 Lakh by opening accounts in different capacities?",
+      "How quickly does DICGC pay depositors if a bank collapses?",
+      "Are fixed deposits in small finance banks covered by DICGC?"
+    ],
+    "content": "The Deposit Insurance and Credit Guarantee Corporation (DICGC), a wholly owned subsidiary of RBI, provides statutory protection for bank deposits: (1) Coverage Cap: Insures principal and interest up to a maximum of ₹5 Lakh per depositor per insured bank. All branches of the same bank are aggregated together for this ₹5 Lakh calculation. (2) Different Capacities Strategy: Separate ₹5 Lakh limits apply to accounts held in genuinely different capacities (e.g. ₹5 Lakh for Individual Account, plus ₹5 Lakh for Joint Account with spouse where primary order is reversed, plus ₹5 Lakh for Sole Proprietorship). (3) Mandatory 90-Day Payout: Under the 2021 DICGC Amendment, depositors of banks placed under RBI moratorium must receive insurance payouts within 90 days. Covers all commercial, small finance, and cooperative banks.",
+    "source": "Deposit Insurance and Credit Guarantee Corporation (DICGC) Act & Guidelines",
+    "source_url": "https://www.dicgc.org.in/",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "fd_premature_withdrawal_penalties",
+    "category": "Fixed Deposits and Recurring Deposits",
+    "subcategory": "Premature Withdrawal Penalties",
+    "title": "Fixed Deposit Premature Withdrawal Penalties & Step-Down Rates",
+    "keywords": [
+      "premature withdrawal",
+      "FD break penalty",
+      "penal interest",
+      "step down rate",
+      "broken tenure rate",
+      "premature closure charges"
+    ],
+    "questions": [
+      "What is the penalty for breaking a fixed deposit early?",
+      "How do banks calculate interest on premature FD withdrawal?",
+      "Can I withdraw my fixed deposit before maturity online?",
+      "Is there any FD that cannot be withdrawn prematurely?"
+    ],
+    "content": "Withdrawing an FD before its maturity date incurs interest recalculations: (1) Calculation Method: The interest paid is NOT the original contracted rate. The bank pays the interest rate applicable for the actual period the deposit remained with the bank (broken tenure rate), MINUS a premature withdrawal penalty (typically 0.50% to 1.00%). (2) Example: If you booked a 5-year FD at 7.5% but withdraw after 1 year (where the 1-year rate is 6.0%), with a 1% penalty, the bank pays only 5.0% (6.0% - 1.0%). (3) Non-Callable FDs: Deposits without premature withdrawal options (offered for deposits ≥ ₹1 Crore or specialized retail schemes) pay slightly higher interest but cannot be broken.",
+    "source": "RBI Master Direction - Interest Rate on Deposits",
+    "source_url": "https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "fd_senior_citizen_extra_interest",
+    "category": "Fixed Deposits and Recurring Deposits",
+    "subcategory": "Senior & Super Senior Rates",
+    "title": "Senior Citizen FD Rates: 0.50% Extra Interest & Super Senior Schemes",
+    "keywords": [
+      "senior citizen FD",
+      "super senior citizen",
+      "0.50% extra interest",
+      "above 60 years",
+      "above 80 years",
+      "we care deposit",
+      "special FD schemes"
+    ],
+    "questions": [
+      "How much extra interest do senior citizens get on fixed deposits?",
+      "What is a super senior citizen FD rate in India?",
+      "What proof is needed to get senior citizen FD rates?",
+      "Does the senior citizen interest rate apply to joint FDs?"
+    ],
+    "content": "Banks offer preferential interest margins for older citizens: (1) Senior Citizens (Age 60 to 79): Receive a standard 0.50% (50 basis points) higher interest rate over standard public rates across all tenure brackets. (2) Super Senior Citizens (Age 80 and above): Several commercial and public sector banks provide an additional 0.25% to 0.30% (total 0.75% to 0.80% extra margin). (3) Joint Accounts Rule: To avail of senior citizen interest rates on a joint FD, the primary/first account holder must be a senior citizen. Age proof is verified once via Aadhaar, PAN, or Passport.",
+    "source": "RBI Master Direction - Interest Rate on Deposits & Bank Schedules",
+    "source_url": "https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "fd_tax_saver_5year_fd",
+    "category": "Fixed Deposits and Recurring Deposits",
+    "subcategory": "5-Year Tax Saver FDs",
+    "title": "5-Year Tax Saver Fixed Deposits under Section 80C: Lock-in & Taxability",
+    "keywords": [
+      "tax saver FD",
+      "5 year lock in",
+      "Section 80C",
+      "no premature withdrawal",
+      "no loan against FD",
+      "interest taxable"
+    ],
+    "questions": [
+      "How much tax can I save with a 5-year tax saver FD?",
+      "Can I break a tax saver FD before 5 years?",
+      "Can I take a loan against a tax-saving fixed deposit?",
+      "Is the interest earned on tax-saver FDs tax-free?"
+    ],
+    "content": "Specialized fixed deposits notified under the Bank Term Deposit Scheme 2006: (1) Section 80C Deduction: Investment up to ₹1,50,000 per financial year qualifies for tax deduction under Section 80C (Old Tax Regime). (2) Strict 5-Year Lock-In: The deposit cannot be prematurely withdrawn, liquidated, or closed under any circumstances before completing 5 full years. (3) No Pledging or Loans: Tax-saver FDs cannot be pledged as collateral or used to obtain overdrafts or bank loans. (4) Interest is Fully Taxable: While the principal earns a tax deduction, all interest earned is fully taxable under the depositor's applicable income-tax slab, and subject to TDS.",
+    "source": "Bank Term Deposit Scheme 2006 & Income Tax Act Section 80C",
+    "source_url": "https://www.incometax.gov.in/",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "fd_tds_form15g_form15h",
+    "category": "Fixed Deposits and Recurring Deposits",
+    "subcategory": "TDS, Form 15G & Form 15H",
+    "title": "TDS on Fixed Deposit Interest: Section 194A, Form 15G and Form 15H Rules",
+    "keywords": [
+      "TDS on FD",
+      "Section 194A",
+      "Form 15G",
+      "Form 15H",
+      "40000 threshold",
+      "50000 senior threshold",
+      "zero tax declaration"
+    ],
+    "questions": [
+      "What is the difference between Form 15G and Form 15H?",
+      "When does a bank deduct TDS on fixed deposit interest?",
+      "What is the threshold for TDS on FD interest in India?",
+      "How do I stop bank from deducting TDS on my FD?"
+    ],
+    "content": "Section 194A of the Income Tax Act mandates Tax Deducted at Source (TDS) on bank interest: (1) Statutory Thresholds: Banks deduct 10% TDS if total interest across all branches of that bank exceeds ₹40,000 in a financial year for general citizens (₹50,000 for senior citizens). If PAN is not provided, TDS is deducted at 20%. (2) Form 15G: Self-declaration submitted by individuals aged below 60 whose total estimated income is below the basic tax exemption limit, requesting the bank not to deduct TDS. (3) Form 15H: Self-declaration submitted by senior citizens (aged 60+) whose net tax liability is zero. Both forms must be submitted fresh at the start of each financial year (April).",
+    "source": "Income Tax Act 1961 Section 194A & CBDT Notifications",
+    "source_url": "https://www.incometax.gov.in/",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "fd_cumulative_vs_non_cumulative",
+    "category": "Fixed Deposits and Recurring Deposits",
+    "subcategory": "Cumulative vs Non-Cumulative FDs",
+    "title": "Cumulative (Reinvestment) vs Non-Cumulative (Payout) Fixed Deposits",
+    "keywords": [
+      "cumulative FD",
+      "non-cumulative FD",
+      "quarterly compounding",
+      "regular monthly interest",
+      "reinvestment plan",
+      "effective yield"
+    ],
+    "questions": [
+      "What is the difference between cumulative and non-cumulative fixed deposit?",
+      "Which gives higher returns: cumulative or non-cumulative FD?",
+      "How is interest compounded in bank fixed deposits in India?",
+      "Can I get monthly pension-like income from fixed deposits?"
+    ],
+    "content": "Banks offer two payout structures for term deposits: (1) Cumulative (Reinvestment) FD: Interest is compounded quarterly and reinvested alongside the principal. The entire corpus (principal + accumulated interest) is paid out in a lump-sum at maturity. Results in higher effective annual yields due to the power of quarterly compounding. (2) Non-Cumulative (Payout) FD: Interest is not reinvested; instead, it is disbursed into the depositor's savings account at regular intervals (monthly, quarterly, or half-yearly). Ideal for retirees and pensioners seeking predictable monthly cash flows to meet household living expenses.",
+    "source": "RBI Master Direction on Interest Rates on Deposits",
+    "source_url": "https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "fd_sweep_in_auto_sweep_facility",
+    "category": "Fixed Deposits and Recurring Deposits",
+    "subcategory": "Sweep-In / Auto-Sweep Facilities",
+    "title": "Sweep-in Fixed Deposits / Auto-Sweep: Liquidity with Higher FD Returns",
+    "keywords": [
+      "sweep-in",
+      "auto-sweep",
+      "flexi deposit",
+      "savings account linked FD",
+      "reverse sweep",
+      "liquidity with returns"
+    ],
+    "questions": [
+      "What is auto-sweep facility in a savings bank account?",
+      "How does a sweep-in fixed deposit work?",
+      "Does auto-sweep incur premature withdrawal penalties?",
+      "Can auto-sweep prevent cheque bounces?"
+    ],
+    "content": "Sweep-in / Flexi-Deposit facilities bridge the gap between liquid savings accounts and higher-yielding FDs: (1) Auto-Sweep Mechanism: When the savings account balance crosses a pre-set threshold (e.g. ₹25,000), surplus funds automatically transfer in multiples of e.g. ₹5,000 into short-term FDs earning higher FD interest rates. (2) Reverse Sweep on Demand: When a cheque, ATM withdrawal, or UPI debit exceeds the liquid savings balance, the bank automatically 'reverse-sweeps' the exact deficit from the linked FD units using LIFO (Last-In-First-Out) logic, preventing transaction failure without disturbing the remaining FD units.",
+    "source": "RBI Guidelines on Value-Added Retail Deposit Products",
+    "source_url": "https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "fd_loan_against_fd_overdraft",
+    "category": "Fixed Deposits and Recurring Deposits",
+    "subcategory": "Loan & Overdraft Against FD",
+    "title": "Loan and Overdraft Against Fixed Deposit: Interest Spread & Repayment",
+    "keywords": [
+      "loan against FD",
+      "overdraft against FD",
+      "OD against FD",
+      "interest spread",
+      "90 percent limit",
+      "no credit score check"
+    ],
+    "questions": [
+      "Can I get a loan against my fixed deposit?",
+      "What is the interest rate for a loan against FD?",
+      "How much loan can I get on a ₹10 Lakh FD?",
+      "Why is loan against FD better than breaking an FD?"
+    ],
+    "content": "Taking a loan or overdraft (OD) against an FD enables urgent liquidity without breaking the deposit: (1) Loan Quantum: Banks sanction up to 85% to 95% of the total FD principal and accrued interest value as a secured overdraft limit. (2) Interest Spread: The interest charged is typically only 1.0% to 2.0% above the FD interest rate (e.g. if the FD earns 7.0%, the loan interest is 8.0% to 9.0%). (3) Key Advantages: No processing fees, no credit score / CIBIL checks, and interest is charged strictly on the amount utilized for the exact number of days borrowed, while the underlying FD continues to earn full interest undisturbed.",
+    "source": "RBI Master Direction on Advances Against Fixed Deposits",
+    "source_url": "https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "rd_recurring_deposit_mechanics",
+    "category": "Fixed Deposits and Recurring Deposits",
+    "subcategory": "Recurring Deposit Mechanics",
+    "title": "Recurring Deposit (RD) Mechanics: Monthly Compounding & Default Penalties",
+    "keywords": [
+      "recurring deposit",
+      "RD default penalty",
+      "missed RD installment",
+      "quarterly compounding RD",
+      "regular savings",
+      "RD maturity formula"
+    ],
+    "questions": [
+      "What happens if I miss a monthly recurring deposit payment?",
+      "How is recurring deposit interest compounded?",
+      "Can I change my monthly RD instalment amount?",
+      "How much penalty is charged for late RD payments?"
+    ],
+    "content": "Recurring Deposits (RDs) inculcate disciplined monthly savings: (1) Operational Structure: A fixed agreed amount (e.g. ₹1,000, ₹5,000) is debited automatically every month for a chosen tenure (6 months to 10 years) at a guaranteed interest rate. (2) Compounding: Under Indian banking conventions, RD interest is compounded quarterly. (3) Late Payment Penalty: If an instalment is not paid by the due date, banks levy a small delay fee (typically ₹1.50 to ₹2.00 per ₹100 of instalment per month). (4) Account Discontinuation: If consecutive instalments (typically 4 or 6 months) remain unpaid, the bank reserves the right to close the RD prematurely, crediting proceeds to the savings account.",
+    "source": "Indian Banks' Association (IBA) Model Rules on Recurring Deposits & RBI Norms",
+    "source_url": "https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "fd_nre_nro_deposits_nri",
+    "category": "Fixed Deposits and Recurring Deposits",
+    "subcategory": "NRI Bank Deposits (NRE/NRO/FCNR)",
+    "title": "NRI Bank Deposits: NRE vs NRO vs FCNR Fixed Deposits & Repatriation",
+    "keywords": [
+      "NRE deposit",
+      "NRO deposit",
+      "FCNR deposit",
+      "NRI banking",
+      "foreign currency deposit",
+      "FEMA regulations",
+      "tax-free NRI interest"
+    ],
+    "questions": [
+      "What is the difference between NRE, NRO, and FCNR fixed deposits?",
+      "Is NRE fixed deposit interest taxable in India?",
+      "Can I transfer money freely from an NRE account abroad?",
+      "What currency is an FCNR deposit maintained in?"
+    ],
+    "content": "Non-Resident Indians (NRIs) can hold term deposits under Foreign Exchange Management Act (FEMA) rules: (1) NRE (Non-Resident External) FD: Maintained in Indian Rupees, funded by foreign remittances. Both principal and interest are completely tax-free in India and freely repatriable abroad. (2) NRO (Non-Resident Ordinary) FD: Maintained in Indian Rupees for legitimate income earned inside India (rent, dividends). Interest is subject to 30% TDS + surcharge, and repatriation is capped at $1 Million USD per financial year. (3) FCNR (Foreign Currency Non-Resident) FD: Maintained in major foreign currencies (USD, GBP, EUR, JPY), eliminating currency exchange risk; interest is completely tax-free in India.",
+    "source": "RBI Master Direction - Remittance Facilities for Non-Resident Indians & FEMA Norms",
+    "source_url": "https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "fd_floating_rate_deposits",
+    "category": "Fixed Deposits and Recurring Deposits",
+    "subcategory": "Floating Rate Fixed Deposits",
+    "title": "Floating Rate Fixed Deposits vs Fixed Rate FDs: Interest Cycle Hedging",
+    "keywords": [
+      "floating rate FD",
+      "repo rate linked FD",
+      "interest rate cycle",
+      "inflation hedging",
+      "fixed vs floating deposit",
+      "automatic benchmark reset"
+    ],
+    "questions": [
+      "What is a floating rate fixed deposit in India?",
+      "When should I choose a floating rate FD over a fixed rate FD?",
+      "How does a floating rate FD change with RBI repo rate?",
+      "Does floating rate FD protect against rising inflation?"
+    ],
+    "content": "Floating rate term deposits protect depositors during rising interest rate cycles: (1) Benchmark Linking: The interest rate on a floating rate FD is not locked; it is tied directly to an external financial benchmark, such as the RBI Repo Rate or Treasury Bill (T-Bill) yields, with a fixed spread added on top. (2) Reset Mechanics: When the RBI alters the Repo Rate in monetary policy meetings, the FD interest rate resets automatically on pre-determined quarterly reset dates. (3) Strategic Choice: Advantageous during economic phases when inflation is climbing and interest rate hikes are anticipated, but disadvantageous when central banks begin easing and lowering rates.",
+    "source": "RBI Guidelines on Floating Rate Deposit Products & Benchmark Linking",
+    "source_url": "https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx",
+    "verification_date": "2026-03"
+  }
+]

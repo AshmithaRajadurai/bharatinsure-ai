@@ -1,0 +1,301 @@
+[
+  {
+    "id": "terms-02",
+    "category": "Tax Basics and Financial Compliance",
+    "subcategory": "Section 80D & 80C Tax Rules",
+    "title": "Tax Benefits under Section 80D & Section 80C (Income Tax Act)",
+    "keywords": [
+      "Section 80D",
+      "Section 80C",
+      "tax deductions",
+      "health insurance tax",
+      "life insurance tax",
+      "preventive health checkup",
+      "senior citizen tax"
+    ],
+    "questions": [
+      "How much tax can I save on health insurance under Section 80D?",
+      "What is the maximum limit under Section 80C?",
+      "Can I claim tax deduction for parents' health insurance?",
+      "What is the tax deduction for preventive health check-ups?"
+    ],
+    "content": "Key tax deductions under the Income Tax Act 1961 (applicable under the Old Tax Regime): (1) Section 80D (Health Insurance): Deductions up to ₹25,000 for self, spouse, and dependent children (<60 years). Additional ₹25,000 for parents (<60 years), or ₹50,000 if parents are senior citizens (≥60 years). Maximum combined deduction: ₹1,00,000 (if both self and parents are senior citizens). Includes up to ₹5,000 for preventive health check-ups within the overall cap. (2) Section 80C (Investments & Life Insurance): Up to ₹1,50,000 deduction for EPF, PPF, ELSS, life insurance premium (premium ≤ 10% of sum assured), home loan principal repayment, SSY, and children's tuition fees.",
+    "source": "Income Tax Act 1961 Section 80C & Section 80D Statutory Provisions",
+    "source_url": "https://www.incometax.gov.in/",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "tax_old_vs_new_tax_regime_comparison",
+    "category": "Tax Basics and Financial Compliance",
+    "subcategory": "Old vs New Tax Regime",
+    "title": "Old Tax Regime vs New Tax Regime: Slabs, Deductions & Section 115BAC Comparison",
+    "keywords": [
+      "Old Tax Regime",
+      "New Tax Regime",
+      "Section 115BAC",
+      "tax slab comparison",
+      "standard deduction 75000",
+      "exemptions forgone"
+    ],
+    "questions": [
+      "What is the difference between Old and New Tax Regime?",
+      "Which tax regime is better for me in India?",
+      "What deductions are allowed in the New Tax Regime?",
+      "What is the standard deduction for salaried employees under the New Tax Regime?"
+    ],
+    "content": "Comparative analysis of dual personal tax systems under Section 115BAC: (1) New Tax Regime (Default): Features lower, streamlined slab rates (Nil up to ₹3L, 5% for ₹3-7L, 10% for ₹7-10L, 15% for ₹10-12L, 20% for ₹12-15L, 30% above ₹15L). Permits standard deduction of ₹75,000 for salaried employees and employer NPS contribution under Section 80CCD(2), but disallows Chapter VI-A deductions (80C, 80D, HRA, home loan interest). (2) Old Tax Regime: Higher slab rates, but permits all deductions (80C up to ₹1.5L, 80D up to ₹1L, HRA, home loan interest up to ₹2L). (3) Choice Rule: Beneficial to switch to Old Regime only if total deductions exceed ~₹3.75 Lakh.",
+    "source": "Income Tax Act 1961 Section 115BAC & Finance (No. 2) Act 2024 Amendments",
+    "source_url": "https://www.incometax.gov.in/",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "tax_section_87a_rebate_rules",
+    "category": "Tax Basics and Financial Compliance",
+    "subcategory": "Section 87A Tax Rebate",
+    "title": "Section 87A Tax Rebate: Full Tax Exemption up to ₹7 Lakh in New Tax Regime",
+    "keywords": [
+      "Section 87A",
+      "tax rebate",
+      "7 lakh zero tax",
+      "marginal relief",
+      "rebate calculation",
+      "resident individual rebate"
+    ],
+    "questions": [
+      "Is income up to ₹7 Lakh tax-free in India?",
+      "How does Section 87A rebate work in the New Tax Regime?",
+      "What is marginal relief under Section 87A?",
+      "What is the maximum tax rebate under Section 87A in Old vs New regime?"
+    ],
+    "content": "Statutory tax relief provided to middle-income resident individuals under Section 87A: (1) New Tax Regime: Resident individuals with taxable income up to ₹7,00,000 receive a full tax rebate of up to ₹25,000, bringing their net income tax payable to exactly ₹0. (With the ₹75,000 standard deduction, salaried employees pay zero tax up to ₹7.75 Lakh gross income). (2) Marginal Relief: Introduced so individuals earning slightly above ₹7 Lakh do not pay tax that exceeds their incremental income. (3) Old Tax Regime: Rebate capped at ₹12,500 for total income up to ₹5,00,000.",
+    "source": "Income Tax Act 1961 Section 87A & CBDT Clarifications",
+    "source_url": "https://www.incometax.gov.in/",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "tax_section_80ccd_nps_additional_deduction",
+    "category": "Tax Basics and Financial Compliance",
+    "subcategory": "NPS Section 80CCD Deductions",
+    "title": "Section 80CCD(1B): Exclusive ₹50,000 Tax Deduction for National Pension System",
+    "keywords": [
+      "Section 80CCD(1B)",
+      "NPS tax benefit",
+      "extra 50000 deduction",
+      "National Pension System",
+      "Tier 1 account",
+      "employer NPS 80CCD(2)"
+    ],
+    "questions": [
+      "How much extra tax can I save by investing in NPS?",
+      "What is Section 80CCD(1B) in income tax?",
+      "Is the ₹50,000 NPS deduction over and above the ₹1.5 Lakh 80C limit?",
+      "What is Section 80CCD(2) employer contribution deduction?"
+    ],
+    "content": "Special income-tax incentives encouraging retirement savings through the National Pension System (NPS Tier-1): (1) Section 80CCD(1B): An exclusive, independent tax deduction of up to ₹50,000 for individual voluntary contributions to NPS Tier-1. This ₹50,000 deduction is OVER AND ABOVE the standard ₹1,50,000 limit available under Section 80C, allowing up to ₹2,00,000 in total deductions. (2) Section 80CCD(2): Employer contribution to an employee's NPS (up to 10% of Basic + DA, or 14% for Central Government employees) is fully deductible in BOTH the Old and New Tax Regimes.",
+    "source": "Income Tax Act 1961 Section 80CCD & PFRDA Tax Guidelines",
+    "source_url": "https://www.incometax.gov.in/",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "tax_section_10_10d_life_insurance_caps",
+    "category": "Tax Basics and Financial Compliance",
+    "subcategory": "Section 10(10D) Life Maturity Taxability",
+    "title": "Section 10(10D): Life Insurance Maturity Taxability & ₹5 Lakh Premium Ceiling",
+    "keywords": [
+      "Section 10(10D)",
+      "tax on life insurance maturity",
+      "5 lakh premium ceiling",
+      "ULIP 2.5 lakh ceiling",
+      "death benefit 100% tax free",
+      "Finance Act 2023"
+    ],
+    "questions": [
+      "Is life insurance maturity payout tax-free in India?",
+      "What is the new ₹5 Lakh annual premium limit under Section 10(10D)?",
+      "Are ULIP maturity proceeds taxable?",
+      "Is death claim payout always tax-free for the nominee?"
+    ],
+    "content": "Rules governing tax exemption of life insurance proceeds under Section 10(10D): (1) Death Benefit: Sum received upon the DEATH of the insured is ALWAYS 100% tax-free for the nominee under all circumstances, without any monetary ceiling. (2) Maturity Taxability for Traditional Policies: For policies issued on or after April 1, 2023, if aggregate annual premium across non-linked policies exceeds ₹5,00,000, maturity proceeds are NOT exempt from tax; the gain component is taxed as income from other sources. (3) ULIP Cap: Policies issued after Feb 1, 2021 with annual premiums exceeding ₹2,50,000 are taxed as capital gains.",
+    "source": "Income Tax Act 1961 Section 10(10D) & CBDT Circular No. 15/2023",
+    "source_url": "https://www.incometax.gov.in/",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "tax_capital_gains_real_estate_section_54",
+    "category": "Tax Basics and Financial Compliance",
+    "subcategory": "Real Estate Capital Gains & Section 54",
+    "title": "Capital Gains on Real Estate: 12.5% Tax & Section 54/54EC Capital Gains Bonds",
+    "keywords": [
+      "real estate capital gains",
+      "Section 54",
+      "Section 54EC",
+      "capital gains bonds",
+      "12.5 percent property tax",
+      "indexation grandfathering",
+      "buying new house tax exemption"
+    ],
+    "questions": [
+      "What is the capital gains tax on selling property in India after 2024?",
+      "How can I save tax on property sale under Section 54?",
+      "What are Section 54EC capital gains bonds (54EC bonds)?",
+      "How much money can be invested in 54EC bonds to save tax?"
+    ],
+    "content": "Taxation on property sales following Finance (No. 2) Act 2024: (1) Long-Term Capital Gains (LTCG, held > 24 months): Taxed at 12.5% without indexation (properties acquired before July 23, 2024 retain an option to compute tax at 20% with indexation if beneficial). (2) Section 54 Exemption: Tax on LTCG from selling a residential house can be 100% exempted if gains are reinvested into purchasing another residential house within 1 year before or 2 years after sale (or constructing within 3 years). (3) Section 54EC Bonds: Invest LTCG up to ₹50,00,000 in REC, PFC, NHAI, or IRFC bonds within 6 months of sale (5-year lock-in).",
+    "source": "Income Tax Act 1961 Sections 48, 54, 54EC & CBDT Notifications",
+    "source_url": "https://www.incometax.gov.in/",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "tax_advance_tax_installments_deadlines",
+    "category": "Tax Basics and Financial Compliance",
+    "subcategory": "Advance Tax Deadlines",
+    "title": "Advance Tax Mandate: 15% - 45% - 75% - 100% Instalment Deadlines & Section 234B/C",
+    "keywords": [
+      "advance tax",
+      "10000 liability threshold",
+      "advance tax deadlines",
+      "June 15",
+      "September 15",
+      "December 15",
+      "March 15",
+      "Section 234B",
+      "Section 234C"
+    ],
+    "questions": [
+      "Who is required to pay advance tax in India?",
+      "What are the 4 instalment due dates for advance tax?",
+      "What is the penalty interest for paying advance tax late?",
+      "Are senior citizens exempt from advance tax?"
+    ],
+    "content": "Pay-as-you-earn tax compliance mandate under Section 208 of the Income Tax Act: (1) Liability Threshold: Every individual whose estimated net income-tax liability for the financial year (after deducting TDS/TCS) is ₹10,000 or more must pay advance tax. (2) Instalment Calendar: 15% on or before June 15; 45% on or before September 15; 75% on or before December 15; 100% on or before March 15. (3) Penal Interest: Delay or default attracts mandatory penal interest under Section 234B and 234C at 1% per month. (4) Exemption: Resident senior citizens (aged 60+) having no business/professional income are completely exempt.",
+    "source": "Income Tax Act 1961 Sections 208, 211, 234B and 234C",
+    "source_url": "https://www.incometax.gov.in/",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "tax_tds_tcs_credit_form_26as_ais",
+    "category": "Tax Basics and Financial Compliance",
+    "subcategory": "Form 26AS, AIS & TIS",
+    "title": "Form 26AS, Annual Information Statement (AIS) & Tax Information Summary (TIS)",
+    "keywords": [
+      "Form 26AS",
+      "AIS",
+      "Annual Information Statement",
+      "TIS",
+      "Tax Information Summary",
+      "TDS mismatch",
+      "high-value transaction tracking",
+      "SFT"
+    ],
+    "questions": [
+      "What is the difference between Form 26AS and AIS (Annual Information Statement)?",
+      "How do I check TDS deducted by my employer or bank?",
+      "What high-value transactions appear in AIS?",
+      "What should I do if there is wrong information in my AIS?"
+    ],
+    "content": "Digital tax intelligence repositories maintained on the e-filing portal: (1) Form 26AS: Consolidated tax credit statement showing TDS deducted by employers/banks, TCS collected, advance tax paid, and self-assessment tax credits. (2) AIS (Annual Information Statement): Comprehensive financial dossier tracking 50+ data heads—including stock dividends, mutual fund sales, foreign remittances, cash deposits, property registrations, credit card bill payments > ₹10 Lakh. (3) TIS (Tax Information Summary): Summarized taxable values derived from AIS. (4) Feedback Loop: Taxpayers can submit online feedback in AIS disputing erroneous figures.",
+    "source": "Income Tax Rules 1962 Rule 114-I & CBDT Guidelines on AIS",
+    "source_url": "https://www.incometax.gov.in/",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "tax_itr_forms_selection_guide",
+    "category": "Tax Basics and Financial Compliance",
+    "subcategory": "ITR Form Selection",
+    "title": "Income Tax Return Forms Guide: Choosing Between ITR-1, ITR-2, ITR-3, and ITR-4",
+    "keywords": [
+      "ITR forms",
+      "ITR-1 Sahaj",
+      "ITR-2",
+      "ITR-3",
+      "ITR-4 Sugam",
+      "capital gains ITR",
+      "presumptive taxation",
+      "defective return"
+    ],
+    "questions": [
+      "Which ITR form should I file?",
+      "Can I file ITR-1 if I have capital gains from shares or mutual funds?",
+      "What is ITR-4 Sugam for presumptive taxation?",
+      "What happens if I file the wrong ITR form?"
+    ],
+    "content": "Navigating statutory return filing categories under CBDT rules: (1) ITR-1 (Sahaj): For resident individuals with total income up to ₹50 Lakh from Salary, one house property, and other sources (interest). CANNOT be used if you have capital gains, business income, or foreign assets. (2) ITR-2: For individuals/HUFs having capital gains (shares, mutual funds, real estate), more than one house property, or foreign assets, but NO business/professional income. (3) ITR-3: For individuals with business or professional income. (4) ITR-4 (Sugam): For presumptive business income under Section 44AD/44ADA. Wrong form selection triggers a 'Defective Return' notice under Section 139(9).",
+    "source": "CBDT Annual Notifications on Income Tax Return Forms",
+    "source_url": "https://www.incometax.gov.in/",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "tax_belated_revised_itr_deadlines",
+    "category": "Tax Basics and Financial Compliance",
+    "subcategory": "Belated & Revised ITR Deadlines",
+    "title": "Belated and Revised ITR Filing under Section 139(4) & 139(5): Deadlines and Penalties",
+    "keywords": [
+      "belated ITR",
+      "revised ITR",
+      "Section 139(4)",
+      "Section 139(5)",
+      "late filing fee Section 234F",
+      "July 31 deadline",
+      "December 31 deadline"
+    ],
+    "questions": [
+      "What is the last date to file a belated tax return in India?",
+      "What is the penalty for filing ITR after July 31?",
+      "How many times can I revise my Income Tax Return?",
+      "Can I carry forward business or stock losses if I file late?"
+    ],
+    "content": "Statutory timelines and consequences under Section 139: (1) Original Due Date: July 31 of the assessment year for non-audit individuals. (2) Belated Return (Section 139(4)): Can be filed up to December 31 of the assessment year, subject to late filing fees under Section 234F (₹5,000 for income > ₹5 Lakh; ₹1,000 for income ≤ ₹5 Lakh) and loss of the right to carry forward capital/business losses. (3) Revised Return (Section 139(5)): Can be filed up to December 31 to rectify genuine errors or omissions discovered in an originally filed return, without any penalty.",
+    "source": "Income Tax Act 1961 Sections 139(4), 139(5) and 234F",
+    "source_url": "https://www.incometax.gov.in/",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "tax_section_80tta_80ttb_savings_interest",
+    "category": "Tax Basics and Financial Compliance",
+    "subcategory": "Sections 80TTA & 80TTB",
+    "title": "Savings & FD Interest Deductions: Section 80TTA (₹10,000) vs Section 80TTB (₹50,000)",
+    "keywords": [
+      "Section 80TTA",
+      "Section 80TTB",
+      "savings interest deduction",
+      "senior citizen FD deduction",
+      "10000 exemption",
+      "50000 exemption",
+      "interest taxability"
+    ],
+    "questions": [
+      "Is savings bank interest tax-free up to ₹10,000 under Section 80TTA?",
+      "Does Section 80TTA apply to fixed deposit interest?",
+      "What is Section 80TTB deduction for senior citizens?",
+      "Can senior citizens claim both 80TTA and 80TTB?"
+    ],
+    "content": "Specific tax deductions for bank interest income: (1) Section 80TTA: Available to individuals aged below 60 and HUFs. Grants deduction up to ₹10,000 per financial year on interest earned exclusively from SAVINGS bank accounts (commercial banks, cooperative banks, post office). Does NOT apply to fixed deposits or recurring deposits. (2) Section 80TTB: Available exclusively to resident Senior Citizens (aged 60+). Grants deduction up to ₹50,000 per financial year across ALL bank deposits combined—including savings accounts, fixed deposits, and recurring deposits. Senior citizens cannot claim 80TTA.",
+    "source": "Income Tax Act 1961 Section 80TTA & Section 80TTB",
+    "source_url": "https://www.incometax.gov.in/",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "tax_charitable_donations_section_80g",
+    "category": "Tax Basics and Financial Compliance",
+    "subcategory": "Section 80G Charitable Donations",
+    "title": "Section 80G Deductions: 50% vs 100% Tax Relief for Registered Charitable Donations",
+    "keywords": [
+      "Section 80G",
+      "charitable donations tax",
+      "PM CARES 100 percent deduction",
+      "Form 10BE",
+      "cash donation limit 2000",
+      "80G receipt"
+    ],
+    "questions": [
+      "How much tax deduction do I get for charitable donations under Section 80G?",
+      "What is Form 10BE donation certificate?",
+      "Can I claim 80G deduction for cash donations?",
+      "Which donations qualify for 100% tax deduction without qualifying limits?"
+    ],
+    "content": "Rules governing charitable donation deductions under Section 80G: (1) Deduction Categories: (a) 100% deduction without qualifying limit: National Defence Fund, Prime Minister's National Relief Fund, PM CARES Fund. (b) 50% deduction without limit: Jawaharlal Nehru Memorial Fund. (c) 50% or 100% deduction subject to a qualifying limit (10% of Adjusted Gross Total Income) for approved religious trusts, educational institutions, and NGOs. (2) Form 10BE Mandate: Taxpayers must obtain a formal donation certificate in Form 10BE generated by the NGO. (3) Cash Limit: Cash donations exceeding ₹2,000 are completely disallowed.",
+    "source": "Income Tax Act 1961 Section 80G & CBDT Rules on Charitable Trusts",
+    "source_url": "https://www.incometax.gov.in/",
+    "verification_date": "2026-03"
+  }
+]

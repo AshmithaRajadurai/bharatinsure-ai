@@ -1,0 +1,300 @@
+[
+  {
+    "id": "cred-01",
+    "category": "Credit Scores and Credit Reports",
+    "subcategory": "Score vs Rating & CICs",
+    "title": "Credit Score vs Credit Rating & Credit Information Companies (CICs)",
+    "keywords": [
+      "credit score",
+      "credit rating",
+      "CIBIL",
+      "Experian",
+      "Equifax",
+      "CRIF High Mark",
+      "CIC",
+      "300 to 900",
+      "creditworthiness"
+    ],
+    "questions": [
+      "What is the difference between a credit score and a credit rating?",
+      "What are the 4 credit bureaus in India?",
+      "What is an excellent CIBIL score?",
+      "Who regulates credit information companies in India?"
+    ],
+    "content": "Understanding credit metrics and regulatory institutions under the Credit Information Companies (Regulation) Act 2005 (CICRA): (1) Credit Score: A 3-digit numerical summary (ranging from 300 to 900) evaluating an INDIVIDUAL's creditworthiness and historical repayment probability based on borrowing history. A score of 750+ is widely considered excellent. (2) Credit Rating: An alphabetical grading (e.g. AAA, AA, BBB) assigned by SEBI-registered rating agencies (CRISIL, ICRA, CARE) to CORPORATE debt instruments evaluating default risk. (3) Four Licensed CICs: RBI licenses 4 Credit Information Companies: TransUnion CIBIL, Experian, Equifax, and CRIF High Mark. Every bank and NBFC must report all borrowing and repayment data monthly to all 4 bureaus.",
+    "source": "Credit Information Companies (Regulation) Act 2005 & RBI Master Directions",
+    "source_url": "https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "cred-02",
+    "category": "Credit Scores and Credit Reports",
+    "subcategory": "Factors Influencing Score",
+    "title": "Key Factors That Influence Your Credit Score & How to Improve It",
+    "keywords": [
+      "credit score factors",
+      "payment history",
+      "credit utilization",
+      "credit mix",
+      "hard inquiry",
+      "improve CIBIL score",
+      "30 percent utilization"
+    ],
+    "questions": [
+      "What factors affect my CIBIL score the most?",
+      "How can I improve my credit score quickly?",
+      "What is the 30% credit utilization rule?",
+      "Does closing an old credit card hurt my credit score?"
+    ],
+    "content": "Components that determine an individual's credit score calculation: (1) Payment History (35% weight): Timely payment of EMIs and credit card bills without a single 30+ day delay. Most heavily weighted factor. (2) Credit Utilization Ratio (CUR) (30% weight): The percentage of total available credit card limits utilized monthly. Best practice is keeping CUR strictly below 30% across all active cards. (3) Credit History Length (15% weight): Age of oldest active credit accounts; closing your oldest credit card reduces average credit age and hurts scores. (4) Credit Mix (10% weight): Balanced blend of secured loans (home, auto) and unsecured credit (cards, personal loans). (5) Hard Inquiries (10% weight): Frequent loan applications trigger hard pulls, lowering scores.",
+    "source": "TransUnion CIBIL & Experian Consumer Education Handbooks",
+    "source_url": "https://www.cibil.com/credit-score",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "cred-03",
+    "category": "Credit Scores and Credit Reports",
+    "subcategory": "Credit Card Billing Cycles",
+    "title": "Credit Cards: Billing Cycles, Statement Dates & Interest-Free Grace Periods",
+    "keywords": [
+      "credit card billing cycle",
+      "statement date",
+      "due date",
+      "interest-free grace period",
+      "45 to 50 days free credit",
+      "billing cycle choice"
+    ],
+    "questions": [
+      "How does a credit card billing cycle work?",
+      "What is the interest-free grace period on a credit card?",
+      "Can I choose or change my credit card billing date?",
+      "What happens if I make a purchase on the statement date?"
+    ],
+    "content": "Mechanics of credit card billing and grace periods under RBI Master Directions: (1) Billing Cycle: A 30-day window during which all card transactions are logged. At cycle close, the 'Statement Date' records the Total Amount Due. (2) Due Date & Grace Period: Payment is typically due 15 to 20 days after the statement date, creating an 'interest-free grace period' of up to 45 to 50 days on purchases made early in the cycle. (3) Forfeiture of Grace Period: If the previous month's balance is not cleared in full by the due date, the interest-free grace period is completely forfeited on all existing and new purchases. (4) Customer Right: Under RBI directives, cardholders have the right to modify their billing cycle date at least once.",
+    "source": "RBI Master Direction - Credit Card and Debit Card Issuance and Conduct Directions",
+    "source_url": "https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "cred-04",
+    "category": "Credit Scores and Credit Reports",
+    "subcategory": "Minimum Amount Due Trap",
+    "title": "The Minimum Amount Due (MAD) Trap & High Revolving APR Charges",
+    "keywords": [
+      "minimum amount due",
+      "MAD trap",
+      "revolving credit",
+      "APR charges",
+      "36 to 45 percent interest",
+      "debt accumulation",
+      "interest calculation"
+    ],
+    "questions": [
+      "What is Minimum Amount Due (MAD) on a credit card?",
+      "What happens if I only pay the Minimum Amount Due?",
+      "What is the annual interest rate (APR) on credit card revolving debt?",
+      "Why does paying MAD take decades to clear debt?"
+    ],
+    "content": "The mathematical trap of revolving credit card balances: (1) Minimum Amount Due (MAD): Typically 5% of the total outstanding balance (plus taxes and fees). Paying only the MAD avoids late payment penalties and prevents reporting default to CIBIL, BUT interest continues compounding on the entire remaining 95% balance. (2) Exorbitant APR: Unpaid balances attract revolving finance charges ranging from 3.0% to 3.75% per month, equating to an Annual Percentage Rate (APR) of 36% to 45% + 18% GST on interest. (3) Immediate Loss of Interest-Free Days: Every fresh purchase incurs finance charges from the very day of transaction. Paying only MAD can take 10 to 20+ years to clear a modest debt.",
+    "source": "RBI Master Direction on Credit Card Conduct & Consumer Financial Literacy Material",
+    "source_url": "https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "cred-05",
+    "category": "Credit Scores and Credit Reports",
+    "subcategory": "Debit vs Credit & Zero Liability",
+    "title": "Debit Cards vs Credit Cards & Zero Liability in Fraudulent Transactions",
+    "keywords": [
+      "debit card vs credit card",
+      "zero liability",
+      "fraud protection",
+      "direct account debit",
+      "bank funds vs borrowed funds",
+      "CVV security"
+    ],
+    "questions": [
+      "Is a credit card safer than a debit card for online shopping?",
+      "What is the main difference between a debit card and a credit card?",
+      "What happens if my credit card is used fraudulently?",
+      "Who is liable for unauthorized credit card transactions?"
+    ],
+    "content": "Comparative risk profile and legal protections: (1) Fundamental Difference: Debit cards draw directly from your liquid bank account; unauthorized debits immediately wipe out personal cash reserves. Credit cards operate on the issuing bank's line of credit; disputed charges can be frozen during investigation without draining personal bank balances. (2) Statutory Fraud Protection: Under RBI Master Directions on Customer Protection, cardholders enjoy ZERO liability for unauthorized transactions reported within 3 working days. (3) Card Controls: RBI mandates that cardholders must have instant toggles in mobile banking apps to disable international transactions, set contactless (tap-to-pay) caps, and turn online transactions on or off.",
+    "source": "RBI Master Direction on Card Conduct & Security and Risk Mitigation for Card Transactions",
+    "source_url": "https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "cred-06",
+    "category": "Credit Scores and Credit Reports",
+    "subcategory": "Dispute Rules & Error Correction",
+    "title": "Credit Report Errors, Identity Theft & Statutory 30-Day Bureau Dispute Rules",
+    "keywords": [
+      "credit report error",
+      "CIBIL dispute",
+      "identity theft",
+      "30-day dispute resolution",
+      "CICRA",
+      "wrong loan in report",
+      "compensation for delay"
+    ],
+    "questions": [
+      "How do I remove wrong loan information from my CIBIL report?",
+      "How long does CIBIL take to resolve a dispute?",
+      "What should I do if a loan I never took appears on my credit report?",
+      "Can I get compensation if a credit bureau delays fixing an error?"
+    ],
+    "content": "Statutory legal rights governing errors in credit bureau reports under CICRA 2005: (1) Common Errors: Incorrect repayment status (marked overdue when paid), wrong personal details, or fraudulent loans taken by identity thieves using forged PAN/Aadhaar. (2) Mandatory 30-Day Resolution Timeline: Under RBI directives (2023), Credit Information Companies (CICs) and Credit Institutions (banks/NBFCs) must resolve credit report disputes within 30 calendar days of lodging the complaint. (3) Statutory Delay Compensation: If a CIC or bank fails to resolve the dispute within 30 days, they MUST pay the complainant compensation of ₹100 per calendar day of delay directly.",
+    "source": "Credit Information Companies (Regulation) Act 2005 & RBI Master Direction on CICs",
+    "source_url": "https://www.rbi.org.in/Scripts/NotificationUser.aspx",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "cred_four_licensed_bureaus_india",
+    "category": "Credit Scores and Credit Reports",
+    "subcategory": "The 4 Licensed Bureaus",
+    "title": "The Four RBI-Licensed Credit Bureaus: CIBIL, Experian, Equifax, and CRIF High Mark",
+    "keywords": [
+      "four credit bureaus",
+      "CIBIL",
+      "Experian",
+      "Equifax",
+      "CRIF High Mark",
+      "score variance",
+      "monthly reporting",
+      "CICRA 2005"
+    ],
+    "questions": [
+      "Why are my credit scores different on CIBIL and Experian?",
+      "Which credit bureau is most used by banks in India?",
+      "Do all banks report to all 4 credit bureaus?",
+      "What is CRIF High Mark?"
+    ],
+    "content": "Under Section 3 of the Credit Information Companies (Regulation) Act 2005, four institutions are officially licensed: (1) The Bureaus: (a) TransUnion CIBIL (oldest and most widely referenced by retail banks), (b) Experian India, (c) Equifax India, and (d) CRIF High Mark (pioneering microfinance and NBFC analytics). (2) Why Scores Vary: Each bureau employs proprietary scoring algorithms, weights variables differently, and may experience minor timing variations in receiving monthly batch uploads from lending institutions. (3) Regulatory Duty: All member banks and NBFCs must furnish uniform borrower credit data to all 4 bureaus on a monthly basis.",
+    "source": "Credit Information Companies (Regulation) Act 2005 & RBI Master Direction",
+    "source_url": "https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "cred_credit_utilization_ratio_cur",
+    "category": "Credit Scores and Credit Reports",
+    "subcategory": "Credit Utilization Ratio (CUR)",
+    "title": "Credit Utilization Ratio (CUR): 30% Benchmark Rule & Limit Enhancements",
+    "keywords": [
+      "CUR",
+      "credit utilization ratio",
+      "30 percent benchmark",
+      "credit limit increase",
+      "spending threshold",
+      "multiple credit cards CUR"
+    ],
+    "questions": [
+      "What is Credit Utilization Ratio (CUR)?",
+      "Why should I keep credit card utilization below 30%?",
+      "Does increasing my credit card limit improve my CIBIL score?",
+      "How is total credit utilization calculated across multiple cards?"
+    ],
+    "content": "Credit Utilization Ratio (CUR) is one of the highest weighted factors (approx 30%) in credit scoring: (1) Calculation: CUR = (Total Credit Card Balances Utilized) / (Total Combined Credit Limits Available) x 100. (2) The 30% Benchmark: Utilizing more than 30% of your credit limit flags 'credit-hungry' behaviour to underwriting algorithms, lowering scores even if bills are paid in full. (3) Limit Enhancement Strategy: Accepting pre-approved credit limit increases from your bank instantly expands total available credit, mathematically driving down your CUR and boosting your credit score, provided spending levels remain disciplined.",
+    "source": "RBI Consumer Credit Guidance & Bureau Scoring Analytical Whitepapers",
+    "source_url": "https://www.cibil.com/credit-score",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "cred_hard_inquiries_vs_soft_inquiries",
+    "category": "Credit Scores and Credit Reports",
+    "subcategory": "Hard vs Soft Inquiries",
+    "title": "Hard Inquiries vs Soft Inquiries: Credit Shopping Impact on CIBIL Score",
+    "keywords": [
+      "hard inquiry",
+      "soft inquiry",
+      "credit shopping",
+      "loan application pull",
+      "checking own score",
+      "inquiry impact on CIBIL"
+    ],
+    "questions": [
+      "Does checking my own credit score lower my CIBIL score?",
+      "What is the difference between a hard inquiry and a soft inquiry?",
+      "Why do multiple loan applications in a short time hurt credit scores?",
+      "How long do hard inquiries stay on a credit report?"
+    ],
+    "content": "Understanding the impact of bureau access requests: (1) Soft Inquiry: Triggered when a consumer checks their own credit score via net banking or bureau portals, or when existing lenders conduct periodic account reviews. Soft inquiries have ZERO negative impact on your credit score and are invisible to other lenders. (2) Hard Inquiry: Triggered when you formally submit a loan or credit card application and the prospective lender pulls your full credit report. Each hard inquiry deducts 5 to 10 points. (3) Credit Shopping Risk: Applying with multiple banks simultaneously indicates acute credit distress, resulting in rapid score degradation.",
+    "source": "Credit Information Companies Rules & Consumer Protection Guidelines",
+    "source_url": "https://www.cibil.com/credit-score",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "cred_loan_settlement_vs_closed",
+    "category": "Credit Scores and Credit Reports",
+    "subcategory": "Settled vs Closed Loan Status",
+    "title": "'Settled' vs 'Closed' Loan Status: Long-Term Consequences of Debt Haircuts",
+    "keywords": [
+      "loan settled",
+      "loan closed",
+      "debt haircut",
+      "one-time settlement",
+      "OTS",
+      "written off",
+      "CIBIL black mark",
+      "7 years record"
+    ],
+    "questions": [
+      "What is the difference between 'Settled' and 'Closed' status in CIBIL?",
+      "Does settling a loan ruin my credit score?",
+      "Can I get a new home loan if I have a 'Settled' status on an old credit card?",
+      "How do I convert a 'Settled' loan status to 'Closed'?"
+    ],
+    "content": "Differentiating how terminated loan accounts are recorded in credit reports: (1) 'Closed' Status: Indicates the borrower repaid the entire principal and interest in full as per the loan agreement. This is a positive reflection of creditworthiness. (2) 'Settled' / 'Written Off' Status: Occurs when a borrower defaults and the bank agrees to a One-Time Settlement (OTS) accepting a partial 'haircut'. The bureau marks the account as 'Settled', which severely damages credit scores and remains on record for 7 years, causing automated rejection of future retail loan applications. (3) Rehabilitation: Borrowers can contact the original lender, pay the waived balance, and obtain a No Objection Certificate (NOC) to convert status to 'Closed'.",
+    "source": "RBI Master Direction on Non-Performing Assets & CIBIL Reporting Norms",
+    "source_url": "https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "cred_free_annual_credit_report",
+    "category": "Credit Scores and Credit Reports",
+    "subcategory": "Statutory Free Annual Report",
+    "title": "Statutory Right to One Free Full Credit Report Annually per Bureau (RBI Mandate)",
+    "keywords": [
+      "free credit report",
+      "RBI mandate free CIBIL",
+      "one free report per year",
+      "full credit report",
+      "no subscription required",
+      "annual credit health check"
+    ],
+    "questions": [
+      "How do I get my free CIBIL report every year?",
+      "Are credit bureaus legally required to provide a free credit report in India?",
+      "Can I get 4 free credit reports every year?",
+      "What is included in the free full credit report?"
+    ],
+    "content": "Under binding RBI directives issued in 2016, all citizens possess the statutory right to access their credit data without cost: (1) The Mandate: Each of the 4 licensed Credit Information Companies (CIBIL, Experian, Equifax, CRIF High Mark) must provide one Full Credit Report (FCR) including credit score completely free of charge once every calendar year (January to December) to every individual who requests it. (2) Access Channels: Available directly on each bureau's official website without requiring credit card details or paid monthly subscriptions. (3) Complete Details: The report shows active loan accounts, credit card limits, payment history, and all past inquiries.",
+    "source": "RBI Circular on Provision of Free Full Credit Report by Credit Information Companies",
+    "source_url": "https://www.rbi.org.in/Scripts/NotificationUser.aspx",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "cred_cibil_defaulter_list_myth",
+    "category": "Credit Scores and Credit Reports",
+    "subcategory": "The Defaulter List Myth",
+    "title": "The Myth of CIBIL 'Defaulter List': Objective Record-Keeping vs Subjective Lending",
+    "keywords": [
+      "CIBIL defaulter list myth",
+      "blacklist myth",
+      "credit bureau role",
+      "objective database",
+      "bank underwriting discretion",
+      "no blacklist by CIBIL"
+    ],
+    "questions": [
+      "Is there an official CIBIL defaulter list in India?",
+      "Does CIBIL blacklist individuals from getting loans?",
+      "Who decides whether to reject a loan: CIBIL or the bank?",
+      "Can CIBIL delete my bad payment history for a fee?"
+    ],
+    "content": "Debunking common misconceptions regarding credit bureaus in India: (1) No Blacklist: CIBIL and other credit bureaus DO NOT maintain any 'Defaulter List' or 'Blacklist'. Bureaus are purely factual repositories that record factual transaction history reported by lenders. (2) Underwriting Discretion: Credit bureaus do not approve or reject loan applications; decisions are made exclusively by individual bank credit committees based on their internal risk tolerance and FOIR policies. (3) Deletion Scams: Beware of fraudulent agencies claiming they can 'clear bad CIBIL records' for a fee; factual payment history cannot be legally altered or expunged except by rectifying genuine verified reporting errors.",
+    "source": "TransUnion CIBIL Public Awareness Advisories & RBI Consumer Education",
+    "source_url": "https://www.cibil.com/consumer-faq",
+    "verification_date": "2026-03"
+  }
+]

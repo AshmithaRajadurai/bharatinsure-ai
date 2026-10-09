@@ -1,0 +1,307 @@
+[
+  {
+    "id": "fintech-03",
+    "category": "NEFT, RTGS, IMPS, and Other Payment Systems",
+    "subcategory": "Core Inter-Bank Transfer Rails",
+    "title": "IMPS, NEFT, and RTGS Fund Transfers Comparison",
+    "keywords": [
+      "IMPS",
+      "NEFT",
+      "RTGS",
+      "fund transfer",
+      "batch settlement",
+      "gross settlement",
+      "transaction limit",
+      "operating hours"
+    ],
+    "questions": [
+      "What is the difference between IMPS, NEFT, and RTGS?",
+      "Which is faster: NEFT or IMPS?",
+      "What is the minimum limit for RTGS transfer?",
+      "Are NEFT and RTGS available 24x7 in India?"
+    ],
+    "content": "India's three primary electronic fund transfer rails: (1) NEFT (National Electronic Funds Transfer): Operated by RBI. Settles in half-hourly batches 24x7x365. No minimum or maximum transaction limit for retail customers; online NEFT transactions are completely free of bank charges under RBI directives. (2) RTGS (Real Time Gross Settlement): Operated by RBI. Continuous real-time settlement on a gross (transaction-by-transaction) basis 24x7x365. Designed for large-value payments: Minimum transaction limit is ₹2,00,000; no upper limit. (3) IMPS (Immediate Payment Service): Operated by NPCI. Instant, round-the-clock fund transfer using mobile number + MMID or Account + IFSC. Capped at ₹5,00,000 per transaction.",
+    "source": "Reserve Bank of India (RBI) Payment and Settlement Systems Information Handbooks",
+    "source_url": "https://www.rbi.org.in/Scripts/FAQView.aspx?Id=60",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "neft_operating_timelines_24x7",
+    "category": "NEFT, RTGS, IMPS, and Other Payment Systems",
+    "subcategory": "NEFT System Operating Framework",
+    "title": "NEFT Operating Framework: 24x7 Half-Hourly Batches & Zero Charges Online",
+    "keywords": [
+      "NEFT",
+      "half-hourly batch",
+      "48 batches a day",
+      "24x7 NEFT",
+      "zero charges online",
+      "B2B transfers",
+      "deferred net settlement"
+    ],
+    "questions": [
+      "How many batches does NEFT settle in a day?",
+      "Are there any charges for NEFT transactions done through net banking?",
+      "How long does a NEFT transfer take to reach the beneficiary?",
+      "What happens if a NEFT transfer fails to credit?"
+    ],
+    "content": "Technical and operational specifications of the National Electronic Funds Transfer (NEFT) system: (1) 24x7 Batched Settlement: Operates 48 half-hourly settlement batches daily (from 00:30 hours to 00:00 hours) round the clock every single day, including Sundays and holidays. Transactions are processed via Deferred Net Settlement (DNS). (2) Statutory Turnaround: If an originating bank initiates NEFT, beneficiary bank branches must credit the customer's account or return the funds within 2 hours of settlement batch completion. (3) Zero Charges: RBI strictly prohibits commercial banks from levying any transaction charges for online NEFT transfers initiated via mobile or internet banking.",
+    "source": "RBI Master Direction on National Electronic Funds Transfer (NEFT) System",
+    "source_url": "https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "rtgs_large_value_transfer",
+    "category": "NEFT, RTGS, IMPS, and Other Payment Systems",
+    "subcategory": "RTGS Large-Value Mechanics",
+    "title": "RTGS (Real Time Gross Settlement): ₹2 Lakh Minimum Threshold & Instant Finality",
+    "keywords": [
+      "RTGS",
+      "real time gross settlement",
+      "2 lakh minimum",
+      "high value transfer",
+      "instant finality",
+      "zero revocability",
+      "property purchase transfer"
+    ],
+    "questions": [
+      "What is the minimum and maximum amount for RTGS in India?",
+      "Why is RTGS called gross settlement?",
+      "Can an RTGS transaction be cancelled once sent?",
+      "How fast does money get credited in RTGS?"
+    ],
+    "content": "RTGS is India's flagship high-value, systemic financial transfer architecture: (1) Real-Time & Gross: 'Real-time' means instructions are executed without deferred batching; 'Gross' means each payment is settled individually on central bank books without netting. Once settled, payments possess irrevocable finality. (2) Financial Thresholds: Strictly restricted to transactions of ₹2,00,000 and above. There is zero upper statutory limit on RTGS transfers. (3) Credit Timeline: Beneficiary banks must credit the receiver's account within 30 minutes of receiving the RTGS message. Common for property transactions, corporate vendor payments, and bulk investments.",
+    "source": "RBI System Rules on Real Time Gross Settlement (RTGS) System",
+    "source_url": "https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "imps_immediate_payment_service",
+    "category": "NEFT, RTGS, IMPS, and Other Payment Systems",
+    "subcategory": "IMPS Technical Operations",
+    "title": "IMPS (Immediate Payment Service): 24x7 Real-Time Transfers & ₹5 Lakh Cap",
+    "keywords": [
+      "IMPS",
+      "immediate payment service",
+      "5 lakh limit",
+      "MMID",
+      "instant credit",
+      "NPCI IMPS switch",
+      "retail instant transfer"
+    ],
+    "questions": [
+      "What is the limit for IMPS transfer?",
+      "What is MMID in IMPS?",
+      "How quickly is money credited in IMPS?",
+      "Can I do IMPS using just mobile number and bank name?"
+    ],
+    "content": "IMPS, pioneered by NPCI, provides instant electronic liquidity: (1) Core Operations: Delivers true sub-second fund transfers 24x7 across member banks, mobile money identifiers, and ATM switches. (2) Identification Methods: Can execute via Account Number + IFSC or through Mobile Number + MMID (Mobile Money Identifier, a 7-digit code issued by banks). (3) Limits & Tariffs: In 2021, RBI and NPCI increased the maximum per-transaction cap from ₹2 Lakh to ₹5 Lakh. Banks can levy small convenience charges for IMPS transactions (typically ₹2.50 to ₹15 + GST depending on the amount tier).",
+    "source": "NPCI IMPS Product Operating Guidelines & Regulatory Filings",
+    "source_url": "https://www.npci.org.in/what-we-do/imps/product-overview",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "nach_national_automated_clearing",
+    "category": "NEFT, RTGS, IMPS, and Other Payment Systems",
+    "subcategory": "NACH Bulk Clearing Rails",
+    "title": "NACH (National Automated Clearing House): Bulk Direct Credits & Debits",
+    "keywords": [
+      "NACH",
+      "bulk clearing",
+      "NACH Credit",
+      "NACH Debit",
+      "e-mandate",
+      "dividend direct credit",
+      "Aadhaar Payment Bridge",
+      "APBS"
+    ],
+    "questions": [
+      "What is NACH by NPCI?",
+      "What is the difference between NACH Credit and NACH Debit?",
+      "How are government subsidies credited through NACH APBS?",
+      "How long does it take for a NACH mandate to be registered?"
+    ],
+    "content": "Operated by NPCI, NACH is the national high-volume electronic clearing architecture replacing paper ECS: (1) NACH Credit: Used by corporations and governments for bulk, recurring 1-to-many payments—such as monthly employee salaries, shareholder dividends, pensions, and interest disbursements. Integrates with Aadhaar Payment Bridge System (APBS) for direct benefit transfers (DBT). (2) NACH Debit: Used for automated many-to-1 recurring collections—such as loan EMIs, mutual fund SIPs, insurance premiums, and utility payments. Authorised electronically via e-NACH (Aadhaar or net banking OTP).",
+    "source": "NPCI NACH Procedural Guidelines & Product Specifications",
+    "source_url": "https://www.npci.org.in/what-we-do/nach/product-overview",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "cts_cheque_truncation_system",
+    "category": "NEFT, RTGS, IMPS, and Other Payment Systems",
+    "subcategory": "Cheque Truncation & Positive Pay",
+    "title": "Cheque Truncation System (CTS) & Positive Pay System (PPS) Safeguards",
+    "keywords": [
+      "CTS",
+      "cheque truncation system",
+      "Positive Pay System",
+      "PPS",
+      "CTS-2010 standards",
+      "electronic cheque image",
+      "cheque fraud prevention"
+    ],
+    "questions": [
+      "What is Cheque Truncation System (CTS)?",
+      "What is Positive Pay System (PPS) for cheques above ₹50,000?",
+      "Why do banks ask for cheque details to be submitted online?",
+      "How long does a CTS cheque take to clear?"
+    ],
+    "content": "Digital modernization of paper cheque clearing: (1) CTS Clearing: Physical paper cheques are stopped ('truncated') at the presenting bank branch; high-resolution digital magnetic and optical images (CTS-2010 standards) are transmitted electronically to the drawee bank, drastically compressing clearing cycles to same-day or T+1. (2) Positive Pay System (PPS): Under RBI directives to prevent forged alterations, customers issuing cheques exceeding ₹50,000 (mandated for ₹5 Lakh and above by most banks) must reconfirm key cheque details (cheque number, date, payee name, amount) via mobile banking or SMS prior to clearing. Unconfirmed cheques face rejection.",
+    "source": "RBI Master Direction on Cheque Truncation System & Positive Pay System",
+    "source_url": "https://www.rbi.org.in/Scripts/NotificationUser.aspx",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "aeps_aadhaar_enabled_payments",
+    "category": "NEFT, RTGS, IMPS, and Other Payment Systems",
+    "subcategory": "AePS Micro-ATM Architecture",
+    "title": "AePS (Aadhaar Enabled Payment System): Micro-ATMs, Biometric Auth & Limits",
+    "keywords": [
+      "AePS",
+      "Aadhaar Enabled Payment System",
+      "Micro-ATM",
+      "biometric authentication",
+      "business correspondent",
+      "cash withdrawal AePS",
+      "financial inclusion"
+    ],
+    "questions": [
+      "What is AePS and how do rural citizens withdraw cash?",
+      "Do I need a debit card to withdraw money using AePS?",
+      "What services are available on an AePS micro-ATM?",
+      "What security measures prevent AePS biometric fraud?"
+    ],
+    "content": "AePS empowers interoperable banking at remote Business Correspondent (BC) outlets using Aadhaar authentication: (1) Core Operations: Bank customers access accounts at point-of-sale Micro-ATMs by providing their Aadhaar number, selecting their bank, and validating biometrics (fingerprint or iris scan) without needing physical cards, signatures, or PINs. (2) Permitted Services: Cash withdrawal, cash deposit, balance enquiry, mini-statement, and Aadhaar-to-Aadhaar fund transfers. (3) Fraud Safeguards: Under recent NPCI/RBI security upgrades, Micro-ATMs must enforce live finger detection (liveness check) and 2-factor authentication for operators to prevent cloned silicon fingerprint fraud.",
+    "source": "NPCI AePS Operating Standards & UIDAI Biometric Authentication Protocols",
+    "source_url": "https://www.npci.org.in/what-we-do/aeps/product-overview",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "bbps_bharat_bill_payment_system",
+    "category": "NEFT, RTGS, IMPS, and Other Payment Systems",
+    "subcategory": "BBPS Integrated Bill Payments",
+    "title": "BBPS (Bharat Bill Payment System): Unified Utility Bill Payments & Fetch APIs",
+    "keywords": [
+      "BBPS",
+      "Bharat Bill Payment System",
+      "utility bill payment",
+      "electricity bill",
+      "FASTag recharge",
+      "bill fetch API",
+      "interoperable billing"
+    ],
+    "questions": [
+      "What is Bharat Bill Payment System (BBPS)?",
+      "Why do utility bills show the BBPS logo?",
+      "How does BBPS fetch my latest electricity bill automatically?",
+      "Can I pay credit card bills through BBPS?"
+    ],
+    "content": "BBPS is an interoperable, unified ecosystem for recurrent bill collections conceptualized by RBI and operated by NPCI Bharat BillPay Limited (NBBL): (1) Architectural Scope: Connects billing companies (electricity boards, water utilities, gas pipes, DTH, broadband, mobile postpaid, municipal taxes, loan repayments, and school fees) to payment apps and internet banking platforms via standard APIs. (2) Fetch & Pay: Instantly queries the utility's core database in real time, pulling exact consumer dues, and guarantees instant digital payment receipts. (3) Dispute Redressal: BBPS operates a standardized end-to-end complaint resolution system for failed or miscredited utility bills.",
+    "source": "NPCI Bharat BillPay Limited (NBBL) Framework & RBI Directives",
+    "source_url": "https://www.bharatbillpay.com/",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "cbdc_digital_rupee_e_rupee",
+    "category": "NEFT, RTGS, IMPS, and Other Payment Systems",
+    "subcategory": "Digital Rupee (CBDC / e₹)",
+    "title": "Digital Rupee (e₹ / CBDC): Retail Central Bank Digital Currency Architecture",
+    "keywords": [
+      "CBDC",
+      "Digital Rupee",
+      "e-Rupee",
+      "eINR",
+      "central bank digital currency",
+      "sovereign legal tender",
+      "offline digital currency",
+      "programmable money"
+    ],
+    "questions": [
+      "What is RBI Digital Rupee (e₹)?",
+      "How is Digital Rupee different from money in a savings bank account?",
+      "Is Digital Rupee a cryptocurrency?",
+      "Can Digital Rupee be spent offline without internet?"
+    ],
+    "content": "The Digital Rupee (e₹) is sovereign legal tender issued by the Reserve Bank of India in digital token form: (1) Direct Central Bank Liability: Unlike commercial bank deposits (which represent claims on private banks), CBDC is a direct liability of the Reserve Bank of India, functioning as digital paper currency. (2) Token Denominations: Mirrors physical banknotes (₹2, ₹5, ₹10, ₹20, ₹50, ₹100, ₹200, ₹500) and coins, stored in digital token wallets provided by banks. (3) Features: E-Rupee does not earn interest, offers cash-like physical finality and privacy for small retail transactions, supports programmable corporate/government voucher disbursement, and enables offline peer-to-peer transfers.",
+    "source": "RBI Concept Note on Central Bank Digital Currency (CBDC)",
+    "source_url": "https://www.rbi.org.in/Scripts/PublicationReportDetails.aspx?UrlPage=&ID=1218",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "swift_international_wire_transfers",
+    "category": "NEFT, RTGS, IMPS, and Other Payment Systems",
+    "subcategory": "SWIFT Cross-Border Transfers",
+    "title": "SWIFT vs Local Systems: International Wire Transfers & Nostro/Vostro Accounts",
+    "keywords": [
+      "SWIFT",
+      "international wire transfer",
+      "SWIFT code",
+      "BIC",
+      "Nostro account",
+      "Vostro account",
+      "correspondent banking",
+      "FEMA"
+    ],
+    "questions": [
+      "What is a SWIFT code and why is it needed for foreign transfers?",
+      "How do banks transfer money internationally?",
+      "What is the difference between Nostro and Vostro accounts?",
+      "How long does an international bank wire take?"
+    ],
+    "content": "While NEFT/RTGS manage domestic funds, international cross-border transfers utilize SWIFT (Society for Worldwide Interbank Financial Telecommunication): (1) Message Rail: SWIFT does not hold funds; it transmits secure, standardized financial messaging (e.g. MT103 single customer credit transfer) between correspondent banks worldwide. (2) Nostro / Vostro Mechanics: Indian banks hold foreign currency accounts with foreign partner banks ('Nostro' - our money at your bank), while foreign banks maintain Rupee accounts with Indian banks ('Vostro' - your money at our bank) to clear book transfers. (3) Timelines: Typically settles within 1 to 3 international banking days, complying with RBI LRS reporting.",
+    "source": "RBI Master Direction on Reporting under Foreign Exchange Management Act (FEMA)",
+    "source_url": "https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "prepaid_payment_instruments_ppi",
+    "category": "NEFT, RTGS, IMPS, and Other Payment Systems",
+    "subcategory": "PPI Interoperability & Limits",
+    "title": "Prepaid Payment Instruments (PPI): Full-KYC Wallets, Interoperability & Limits",
+    "keywords": [
+      "PPI",
+      "prepaid wallet",
+      "full-KYC wallet",
+      "wallet interoperability",
+      "cash withdrawal from wallet",
+      "2 lakh limit",
+      "RBI master direction"
+    ],
+    "questions": [
+      "What is the maximum balance allowed in a digital wallet in India?",
+      "Can I transfer money from Paytm wallet to PhonePe or a bank account?",
+      "Can I withdraw cash from an ATM using a digital wallet?",
+      "What happens to small-KYC wallets?"
+    ],
+    "content": "RBI Master Directions govern digital wallets and gift cards: (1) Two Categories: (a) Small PPIs (Minimum KYC): Balance capped at ₹10,000; cash loading up to ₹10,000/month; cannot execute bank transfers. Must convert to full KYC within 24 months. (b) Full-KYC PPIs: Balance limit up to ₹2,00,000; can execute bank fund transfers and merchant payments freely. (2) Mandatory Interoperability: Under RBI mandates, all full-KYC wallets must be interoperable via UPI QR codes (enabling a user to spend wallet balances across ANY UPI QR code) and authorized card rails (RuPay/Visa). Full-KYC non-bank wallets can provide ATM cash withdrawals up to ₹2,000 per transaction.",
+    "source": "RBI Master Direction on Issuance and Operation of Prepaid Payment Instruments",
+    "source_url": "https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "netc_fastag_toll_payments",
+    "category": "NEFT, RTGS, IMPS, and Other Payment Systems",
+    "subcategory": "NETC FASTag Electronic Tolls",
+    "title": "NETC FASTag: RFID-Based Electronic Toll Collection & Blacklisting Rules",
+    "keywords": [
+      "FASTag",
+      "NETC",
+      "electronic toll collection",
+      "RFID tag",
+      "tag blacklisting",
+      "insufficient balance toll",
+      "NHAI rules",
+      "double toll penalty"
+    ],
+    "questions": [
+      "How does FASTag electronic toll collection work?",
+      "What causes a FASTag to get blacklisted at a toll plaza?",
+      "What is the penalty for entering a FASTag lane without a valid tag?",
+      "How fast does money deduct when passing a toll booth?"
+    ],
+    "content": "The National Electronic Toll Collection (NETC) programme operates under NPCI and NHAI governance: (1) RFID Mechanics: A passive Radio Frequency Identification (RFID) tag affixed to the vehicle windscreen is read by toll plaza sensors while in motion, automatically debiting the linked prepaid wallet or bank account in real-time. (2) Tag Blacklisting: If the linked wallet falls below the mandatory security threshold (typically ₹100 to ₹150) or KYC is incomplete, the FASTag is immediately added to the National Blacklist registry, causing toll gate boom barriers to stay closed. (3) Double Toll Penalty: Entering a FASTag toll lane with an invalid or blacklisted tag mandates paying twice the standard toll fee in cash.",
+    "source": "National Highways Authority of India (NHAI) & NPCI NETC Operating Guidelines",
+    "source_url": "https://www.npci.org.in/what-we-do/netc-fastag/product-overview",
+    "verification_date": "2026-03"
+  }
+]

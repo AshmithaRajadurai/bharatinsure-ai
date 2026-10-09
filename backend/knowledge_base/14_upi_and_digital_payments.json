@@ -1,0 +1,302 @@
+[
+  {
+    "id": "fintech-01",
+    "category": "UPI and Digital Payments",
+    "subcategory": "UPI Architecture",
+    "title": "Unified Payments Interface (UPI) Overview & How It Works",
+    "keywords": [
+      "UPI",
+      "NPCI",
+      "VPA",
+      "virtual payment address",
+      "instant payment",
+      "PSP",
+      "interoperability",
+      "QR code",
+      "24x7"
+    ],
+    "questions": [
+      "What is Unified Payments Interface (UPI)?",
+      "Who developed UPI in India?",
+      "What is a Virtual Payment Address (VPA)?",
+      "How does UPI enable bank-to-bank instant transfers?"
+    ],
+    "content": "Unified Payments Interface (UPI) is a real-time instant payment architecture developed by the National Payments Corporation of India (NPCI) and regulated by the Reserve Bank of India (RBI): (1) Architectural Core: Built on the Immediate Payment Service (IMPS) backbone, allowing instant 24x7 inter-bank funds transfers directly between bank accounts without exposing account numbers or IFSC codes. (2) Virtual Payment Address (VPA / UPI ID): A unique financial identifier (e.g. username@okhdfcbank or mobilenumber@upi) that maps to the underlying bank account via NPCI's centralized switch. (3) Interoperability: Facilitates seamless transactions across all participating apps (BHIM, PhonePe, Google Pay, Paytm) and payment service provider (PSP) banks via static or dynamic Bharat QR codes.",
+    "source": "National Payments Corporation of India (NPCI) UPI Product Specifications",
+    "source_url": "https://www.npci.org.in/what-we-do/upi/product-overview",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "fintech-02",
+    "category": "UPI and Digital Payments",
+    "subcategory": "UPI PIN Security",
+    "title": "UPI PIN Security & Golden Rules of Digital Payments",
+    "keywords": [
+      "UPI PIN",
+      "receive money scam",
+      "QR scan scam",
+      "golden rule",
+      "MPIN",
+      "fraud prevention",
+      "payment safety"
+    ],
+    "questions": [
+      "Do I need to enter UPI PIN to receive money?",
+      "What is the golden rule of UPI payments?",
+      "How is UPI PIN different from ATM PIN?",
+      "What should I do if a buyer asks me to scan a QR code to receive payment?"
+    ],
+    "content": "Critical security principles protecting UPI users from social engineering frauds: (1) Golden Rule of UPI: Entering a UPI PIN is required ONLY to SEND money or check account balances. You NEVER need to enter your UPI PIN, approve a collect request, or scan a QR code to RECEIVE money. If money is being credited to your account, funds deposit automatically without any user interaction. (2) QR Code Scanning: Scanning a QR code authorizes a DEBIT from your account; you cannot receive money by scanning a QR code. (3) UPI PIN Confidentiality: UPI PIN is a 4 or 6-digit secret stored only in your bank's secure cryptographic module; never share it with anyone, including bank staff or payment app customer service.",
+    "source": "NPCI Digital Payments Consumer Awareness Directives & RBI Sachet",
+    "source_url": "https://www.npci.org.in/what-we-do/upi/security-tips",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "fintech-04",
+    "category": "UPI and Digital Payments",
+    "subcategory": "Wallets & Payment Gateways",
+    "title": "Digital Wallets and Payment Gateways Explained",
+    "keywords": [
+      "digital wallet",
+      "PPI",
+      "payment gateway",
+      "prepaid payment instrument",
+      "PA",
+      "PG",
+      "escrow account",
+      "merchant payment"
+    ],
+    "questions": [
+      "What is the difference between a digital wallet and a bank account?",
+      "How do payment gateways process online transactions?",
+      "What are Prepaid Payment Instruments (PPI)?",
+      "Why do e-commerce sites use payment gateways?"
+    ],
+    "content": "Digital commerce relies on specialized intermediary infrastructures: (1) Digital Wallets (Prepaid Payment Instruments / PPI): Store monetary value pre-funded via bank transfer or card. Semi-closed PPIs (e.g. Amazon Pay wallet) allow merchant purchases; open PPIs enable fund transfers and cash withdrawals upon Full-KYC verification. PPI limits: Minimum KYC capped at ₹10,000; Full-KYC wallets capped at ₹2,00,000 under RBI Master Directions. (2) Payment Aggregators (PA) & Gateways (PG): Intermediary tech rails (Razorpay, BillDesk, Cashfree) that securely encrypt and route card, net banking, or UPI data between consumer, merchant, and acquiring banks, settling funds into regulated nodal/escrow accounts.",
+    "source": "RBI Master Direction on Prepaid Payment Instruments & Payment Aggregators",
+    "source_url": "https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "upi_transaction_limits_rbi_npci",
+    "category": "UPI and Digital Payments",
+    "subcategory": "UPI Limits & Ceilings",
+    "title": "UPI Transaction Limits: ₹1 Lakh Standard vs ₹5 Lakh for Hospitals and Education",
+    "keywords": [
+      "UPI transaction limit",
+      "1 lakh limit",
+      "5 lakh limit",
+      "hospital UPI limit",
+      "educational institution limit",
+      "NPCI circular",
+      "capital markets IPO"
+    ],
+    "questions": [
+      "What is the daily transaction limit for UPI?",
+      "Can I pay more than ₹1 Lakh via UPI for hospital bills or college fees?",
+      "What is the UPI limit for IPO applications?",
+      "How many UPI transactions can I make per day?"
+    ],
+    "content": "NPCI and RBI establish tiered transaction limits on UPI to balance convenience with fraud containment: (1) Standard Retail Limit: ₹1,00,000 per transaction and per 24-hour cycle for standard peer-to-peer (P2P) and peer-to-merchant (P2M) transfers. (2) Enhanced Category Limits: The per-transaction cap is elevated to ₹5,00,000 for verified specific categories: (a) Hospitals and verified healthcare institutions, (b) Verified educational institutions (colleges, universities, school fees), and (c) Sovereign Gold Bonds (SGB) and retail investment in government securities via RBI Retail Direct. (3) Capital Markets & IPOs: Up to ₹5,00,000 per application using UPI ASBA.",
+    "source": "NPCI Circular on Enhancing Transaction Limits for Specific Categories on UPI",
+    "source_url": "https://www.npci.org.in/what-we-do/upi/circulars",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "upi_lite_offline_small_value",
+    "category": "UPI and Digital Payments",
+    "subcategory": "UPI Lite Small-Value Wallets",
+    "title": "UPI Lite: On-Device Wallet for Sub-₹500 Transactions Without PIN",
+    "keywords": [
+      "UPI Lite",
+      "no PIN payment",
+      "500 rupee limit",
+      "2000 wallet limit",
+      "on-device wallet",
+      "small-value transaction",
+      "zero bank server clutter"
+    ],
+    "questions": [
+      "What is UPI Lite and how does it work?",
+      "Do I need to enter a PIN for UPI Lite payments?",
+      "What is the maximum limit for UPI Lite?",
+      "Does UPI Lite clutter my bank account statement?"
+    ],
+    "content": "UPI Lite is an on-device local wallet designed by NPCI for frictionless small-ticket transactions: (1) No PIN Requirement: Transactions execute near-instantly with a single tap without requiring a UPI PIN, drastically reducing transaction failure rates during peak network hours. (2) Financial Ceilings: Maximum per-transaction cap is ₹500; maximum wallet balance that can be stored on the device at any time is ₹2,000 (replenished from linked bank account via PIN). (3) Clutter-Free Passbook: Individual daily tea, grocery, and auto-rickshaw payments do not show up as separate entries in bank account statements; only wallet top-ups appear.",
+    "source": "NPCI Operating Guidelines for UPI Lite Small-Value Transactions",
+    "source_url": "https://www.npci.org.in/what-we-do/upi-lite/product-overview",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "upi_123pay_feature_phones",
+    "category": "UPI and Digital Payments",
+    "subcategory": "UPI 123PAY for Feature Phones",
+    "title": "UPI 123PAY: IVR, Soundwave & Missed Call Payments for Feature Phones",
+    "keywords": [
+      "UPI 123PAY",
+      "feature phone UPI",
+      "no internet payments",
+      "IVR payment",
+      "soundwave payment",
+      "missed call UPI",
+      "financial inclusion"
+    ],
+    "questions": [
+      "Can I use UPI on a basic keypad feature phone without internet?",
+      "What is UPI 123PAY by RBI?",
+      "How do you transfer money using IVR on feature phones?",
+      "What technology does UPI 123PAY use?"
+    ],
+    "content": "Launched by RBI to extend digital payments to 400+ million feature phone users without smartphones or internet: (1) Four Operating Modes: (a) Interactive Voice Response (IVR): Dials an authorized IVR number (e.g. 080 4516 3666), selects language, and enters recipient number and PIN via keypad audio prompts. (b) App-Based functionality on smart feature phones. (c) Proximity Soundwave-based contactless payments. (d) Missed-Call based payments at merchant checkouts. (2) Security: Every transaction requires entering the account's 4/6-digit UPI PIN over the encrypted telecom signaling channel.",
+    "source": "RBI Press Release & NPCI Product Guidelines on UPI 123PAY",
+    "source_url": "https://www.npci.org.in/what-we-do/upi-123pay/product-overview",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "upi_credit_lines_and_rupay_credit",
+    "category": "UPI and Digital Payments",
+    "subcategory": "UPI on Credit Cards & Pre-Sanctioned Lines",
+    "title": "UPI on RuPay Credit Cards & Pre-Sanctioned Credit Lines on UPI",
+    "keywords": [
+      "UPI on credit card",
+      "RuPay credit card UPI",
+      "pre-sanctioned credit line",
+      "credit on UPI",
+      "merchant QR swipe",
+      "interest free period"
+    ],
+    "questions": [
+      "Can I link my credit card to UPI?",
+      "Which credit cards work with UPI in India?",
+      "What are pre-sanctioned credit lines on UPI?",
+      "Can I make person-to-person (P2P) transfers using a credit card on UPI?"
+    ],
+    "content": "RBI expanded UPI from a pure deposit-debit rail into an active credit distribution network: (1) RuPay Credit Cards on UPI: Users can link issued RuPay credit cards to UPI apps. Enables scanning merchant QR codes to spend on credit, enjoying the card's standard 45-50 day interest-free period. (2) Restriction: RuPay credit cards on UPI can be used ONLY for merchant payments (P2M); peer-to-peer transfers (P2P to family/friends) or cash advances are blocked. (3) Pre-Sanctioned Credit Lines: Under RBI directives, banks can sanction pre-approved overdraft/credit lines directly linked to a customer's UPI ID for flexible instant credit.",
+    "source": "RBI Directives on Operation of Pre-Sanctioned Credit Lines at Banks through UPI",
+    "source_url": "https://www.rbi.org.in/Scripts/NotificationUser.aspx",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "upi_interchange_fees_ppi_merchants",
+    "category": "UPI and Digital Payments",
+    "subcategory": "UPI Merchant Interchange Fees",
+    "title": "UPI Merchant Interchange Fees: PPI Wallets vs Zero-Fee P2P/P2M Transfers",
+    "keywords": [
+      "UPI interchange fee",
+      "1.1 percent fee",
+      "PPI merchant fee",
+      "wallet interchange",
+      "zero fee for customers",
+      "P2P free",
+      "NPCI clarification"
+    ],
+    "questions": [
+      "Is there a charge for making UPI payments above ₹2,000?",
+      "Who pays the 1.1% UPI interchange fee?",
+      "Are UPI payments free for normal customers?",
+      "Do small shopkeepers have to pay interchange fees for UPI payments?"
+    ],
+    "content": "Clarifying the regulatory framework governing UPI transaction costs and interchange: (1) Zero Fee for Consumers: Peer-to-peer (P2P) transactions and normal peer-to-merchant (P2M) payments made from bank accounts via UPI are 100% free of charge for consumers. (2) PPI Wallet Merchant Interchange: NPCI introduced an interchange fee (up to 1.1%) payable exclusively by large merchants when a customer pays an amount exceeding ₹2,000 using a Prepaid Payment Instrument (wallet like Paytm or Amazon Pay) on a merchant QR. Normal bank account-to-bank account UPI transfers incur zero interchange.",
+    "source": "NPCI Circular on Interchange Fees on UPI Prepaid Payment Instruments (PPI)",
+    "source_url": "https://www.npci.org.in/what-we-do/upi/circulars",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "upi_autopay_recurring_limits",
+    "category": "UPI and Digital Payments",
+    "subcategory": "UPI AutoPay Recurring Mandates",
+    "title": "UPI AutoPay: Recurring Subscriptions, Pre-Debit Alerts & Cancellation Rights",
+    "keywords": [
+      "UPI AutoPay",
+      "recurring mandates",
+      "e-mandate",
+      "pre-debit notification 24 hours",
+      "subscription cancellation",
+      "1 lakh threshold"
+    ],
+    "questions": [
+      "How do I cancel an automatic subscription payment on UPI?",
+      "What is the pre-debit notification rule for UPI AutoPay?",
+      "What is the maximum limit for UPI AutoPay without entering PIN?",
+      "Can an OTT app charge my UPI without informing me?"
+    ],
+    "content": "UPI AutoPay manages recurring payments (OTT subscriptions, insurance premiums, SIPs, utility bills): (1) Pre-Debit Notification: Under RBI e-mandate directives, the payment app or bank must send a notification (SMS/email) at least 24 hours before any recurring debit, stating the exact amount and merchant name. (2) PIN Exemption Limits: Recurring payments up to ₹15,000 execute automatically without entering a PIN (limit increased to ₹1,00,000 for insurance premiums, mutual funds, and credit card bill payments). (3) User Control: Mandates can be paused, modified, or permanently revoked at any time directly within the UPI app.",
+    "source": "RBI Framework for Processing of e-mandates & NPCI UPI AutoPay Guidelines",
+    "source_url": "https://www.rbi.org.in/Scripts/NotificationUser.aspx",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "upi_international_nre_nro",
+    "category": "UPI and Digital Payments",
+    "subcategory": "UPI Global & International Onboarding",
+    "title": "UPI Global: International Acceptance & Non-Resident Indian (NRI) Onboarding",
+    "keywords": [
+      "UPI Global",
+      "UPI international",
+      "NRI UPI",
+      "international mobile number",
+      "NRE NRO UPI",
+      "NPCI International Payments",
+      "NIPL"
+    ],
+    "questions": [
+      "Can NRIs use UPI with foreign international mobile numbers?",
+      "Can I make UPI payments in Singapore, UAE, or France?",
+      "How do non-residents link NRE/NRO accounts to UPI?",
+      "What is NIPL (NPCI International Payments Limited)?"
+    ],
+    "content": "Cross-border expansion of UPI under NPCI International Payments Limited (NIPL): (1) NRI Onboarding with Foreign Numbers: Non-Resident Indians holding NRE/NRO accounts can link international mobile numbers (across countries including USA, UK, UAE, Singapore, Canada, Australia) directly to UPI apps. (2) International Merchant Acceptance: Indian travellers can scan local merchant QR codes in partner nations (Singapore via PayNow-UPI linkage, UAE via NEOPAY, France at Eiffel Tower, Nepal, Bhutan, Mauritius, and Sri Lanka) with real-time currency conversion debited directly from their Indian Rupee bank accounts.",
+    "source": "NPCI International Payments Limited (NIPL) Product Guidelines & RBI Circulars",
+    "source_url": "https://www.npci.org.in/who-we-are/group-companies/nipl",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "upi_mandate_single_block_multi_debit",
+    "category": "UPI and Digital Payments",
+    "subcategory": "Single-Block-Multi-Debit Mandates",
+    "title": "UPI Single-Block-Multi-Debit: Hotel Bookings, E-Commerce & Secondary Markets",
+    "keywords": [
+      "single block multi debit",
+      "UPI block funds",
+      "hotel pre-authorization",
+      "e-commerce delivery debit",
+      "ASBA secondary market",
+      "lien on balance"
+    ],
+    "questions": [
+      "What is UPI single-block-and-multiple-debit feature?",
+      "Can a hotel block money on my UPI without deducting it?",
+      "How does UPI fund blocking work for e-commerce deliveries?",
+      "Does blocked money continue earning bank interest?"
+    ],
+    "content": "Advanced functionality enhancing payment flexibility: (1) Concept: Enables customers to block/earmark a specified sum in their bank account for a specific merchant, allowing multiple partial debits against that blocked amount as goods or services are delivered. (2) Key Applications: Hotel room bookings, car rentals, and e-commerce (blocking funds at checkout and releasing debits only upon actual delivery). (3) Depositor Advantage: Funds remain inside the customer's savings bank account earning daily interest until the moment of actual debit, providing higher security against merchant cancellations.",
+    "source": "RBI Statement on Developmental and Regulatory Policies & NPCI Circular",
+    "source_url": "https://www.rbi.org.in/Scripts/NotificationUser.aspx",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "upi_circle_delegated_payments",
+    "category": "UPI and Digital Payments",
+    "subcategory": "UPI Circle Delegated Payments",
+    "title": "UPI Circle: Delegated Payments for Dependents with Secondary Limits",
+    "keywords": [
+      "UPI Circle",
+      "delegated payments",
+      "family UPI",
+      "primary user",
+      "secondary user",
+      "spending limit",
+      "parental control"
+    ],
+    "questions": [
+      "What is UPI Circle launched by NPCI?",
+      "Can I let my child or elderly parent use my UPI account safely?",
+      "How do delegated payments work on UPI Circle?",
+      "Can a primary account holder set daily spending caps on secondary users?"
+    ],
+    "content": "UPI Circle introduces delegated payment capabilities, enabling a primary account holder to authorize trusted dependents (children, elderly parents) to make UPI transactions from the primary account: (1) Operating Delegation Modes: (a) Full Delegation: The primary user sets a monthly spending limit (up to ₹15,000); the secondary user makes transactions within that limit without requiring primary user approval. (b) Partial Delegation: The secondary user initiates transactions, but each payment requires the primary user to approve the payment by entering their UPI PIN. (2) Security: Primary users can monitor all spending in real time and revoke delegation instantly.",
+    "source": "NPCI Circular on Implementation of UPI Circle - Delegated Payments",
+    "source_url": "https://www.npci.org.in/what-we-do/upi/circulars",
+    "verification_date": "2026-03"
+  }
+]

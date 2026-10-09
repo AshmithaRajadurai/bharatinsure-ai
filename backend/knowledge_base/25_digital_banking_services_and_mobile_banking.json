@@ -1,0 +1,297 @@
+[
+  {
+    "id": "insfin-02",
+    "category": "Digital Banking Services and Mobile Banking",
+    "subcategory": "Electronic Insurance Accounts (eIA)",
+    "title": "Electronic Insurance Account (eIA) & Approved Insurance Repositories",
+    "keywords": [
+      "eIA",
+      "electronic insurance account",
+      "insurance repository",
+      "NDML",
+      "CDSL Insurance",
+      "CAMSRep",
+      "KARVY",
+      "demat insurance"
+    ],
+    "questions": [
+      "What is an electronic Insurance Account (eIA)?",
+      "What are the 4 licensed insurance repositories in India?",
+      "How do I hold all my insurance policies in one electronic account?",
+      "What are the benefits of opening an eIA?"
+    ],
+    "content": "An electronic Insurance Account (eIA) enables citizens to store, manage, and service all their life, health, motor, and general insurance policies in a single digital portfolio: (1) Four Licensed Repositories: Under IRDAI regulations, eIA accounts are managed by four authorized insurance repositories: NSDL Database Management Limited (NDML), CDSL Insurance Repository Limited, CAMSRep, and Karvy Insurance Repository. (2) Zero Cost: Opening and maintaining an eIA is completely free of cost for policyholders (costs are borne by insurers). (3) Key Benefits: Single KYC for all insurers, instant download of electronic policy schedules, automated address and nomination updates across all policies simultaneously.",
+    "source": "IRDAI Guidelines on Insurance Repositories and Electronic Issuance of Insurance Policies",
+    "source_url": "https://irdai.gov.in/regulations",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "digibk_internet_banking_features_security",
+    "category": "Digital Banking Services and Mobile Banking",
+    "subcategory": "Internet Banking Security Framework",
+    "title": "Internet Banking Architecture: 2FA, Session Timeouts & Cool-Off Limits",
+    "keywords": [
+      "internet banking",
+      "session timeout",
+      "beneficiary cool-off",
+      "2FA net banking",
+      "virtual keyboard",
+      "RBI cyber security"
+    ],
+    "questions": [
+      "How do banks secure internet banking logins?",
+      "What is the beneficiary cool-off period in internet banking?",
+      "Why do banks use virtual keyboards for password entry?",
+      "What is the mandatory session timeout for online banking in India?"
+    ],
+    "content": "Regulatory and technical safeguards governing retail internet banking under RBI Cyber Security Framework: (1) Mandatory Two-Factor Authentication (2FA): Logins and all financial disbursements require dual-factor validation (password/biometrics + dynamic SMS/hardware OTP). (2) Beneficiary Addition Cool-Off: When adding a new transfer beneficiary, banks enforce a mandatory cool-off period (typically 30 minutes to 4 hours) during which transfer limits are capped (e.g. max ₹25,000 to ₹50,000) to defeat account-takeover drain. (3) Session Timeout: Inactive banking web sessions must terminate automatically within 5 minutes. Virtual on-screen keyboards scramble key positions to defeat keylogger malware.",
+    "source": "RBI Master Direction on Cyber Security Framework in Banks",
+    "source_url": "https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "digibk_mobile_banking_sim_binding",
+    "category": "Digital Banking Services and Mobile Banking",
+    "subcategory": "Mobile Banking SIM Binding",
+    "title": "Mobile Banking App Security: SIM Binding & Device Binding Mandates",
+    "keywords": [
+      "SIM binding",
+      "device binding",
+      "mobile banking security",
+      "app registration",
+      "silent SMS verification",
+      "malware protection"
+    ],
+    "questions": [
+      "What is SIM binding in Indian mobile banking apps?",
+      "Why does a banking app send an SMS during registration?",
+      "Can I use mobile banking on a phone without the registered SIM card inside?",
+      "How does device binding prevent cyber fraud?"
+    ],
+    "content": "Security architecture enforced across all Indian mobile banking and UPI applications: (1) Hardware SIM Binding Mandate: Under RBI and NPCI security directives, mobile banking apps must be cryptographically bound to the physical SIM card registered with the bank. During setup, the app sends an encrypted silent background SMS from that exact SIM to authenticate hardware identity. (2) Anti-Fraud Mechanism: If the registered SIM is removed from the handset or used in another phone, the banking app instantly de-registers and locks operations, preventing remote fraudsters from operating your account even if they possess your username and password.",
+    "source": "RBI Master Direction on Digital Payment Security Controls",
+    "source_url": "https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "digibk_card_tokenization_rbi_coft",
+    "category": "Digital Banking Services and Mobile Banking",
+    "subcategory": "Card-on-File Tokenization (CoFT)",
+    "title": "RBI Card-on-File Tokenization (CoFT): Device & Merchant Tokens to Stop Breaches",
+    "keywords": [
+      "tokenization",
+      "CoFT",
+      "card-on-file tokenization",
+      "16 digit card number",
+      "e-commerce data breach",
+      "cryptographic token",
+      "CVV safety"
+    ],
+    "questions": [
+      "What is card tokenization in India?",
+      "Why do shopping websites ask to 'Secure your card as per RBI guidelines'?",
+      "Are my real 16-digit debit/credit card numbers stored by Amazon or Swiggy?",
+      "How does tokenization protect against merchant database hacks?"
+    ],
+    "content": "Landmark data privacy mandate enacted by RBI prohibiting merchants from storing actual credit/debit card numbers: (1) Core Principle: No e-commerce merchant, payment gateway, or aggregator is permitted to store a customer's actual 16-digit card number, CVV, or expiry date on their servers. (2) How Tokenization Works: The card details are replaced with an encrypted mathematical surrogate string called a 'Token', unique to that specific merchant, device, and card combination. (3) Data Breach Immunity: Even if a merchant database suffers a catastrophic hack, attackers obtain only merchant-locked tokens that are completely unusable on any other platform.",
+    "source": "RBI Directives on Tokenisation - Card Transactions & Card-on-File Tokenisation (CoFT)",
+    "source_url": "https://www.rbi.org.in/Scripts/NotificationUser.aspx",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "digibk_contactless_tap_and_pay_nfc",
+    "category": "Digital Banking Services and Mobile Banking",
+    "subcategory": "Contactless Tap-and-Pay (NFC)",
+    "title": "Contactless Tap-and-Pay (NFC): ₹5,000 PIN Exemption & Dynamic Limits",
+    "keywords": [
+      "contactless payment",
+      "tap and pay",
+      "NFC",
+      "5000 limit without PIN",
+      "RFID protection",
+      "card management toggles"
+    ],
+    "questions": [
+      "What is the limit for tap-and-pay transactions without entering a PIN in India?",
+      "How safe is a contactless NFC credit or debit card?",
+      "Can someone steal money from my pocket using a portable card machine?",
+      "Can I disable contactless tap-and-pay on my debit card?"
+    ],
+    "content": "Near Field Communication (NFC) protocols for retail card payments: (1) The ₹5,000 Threshold: Under RBI regulations, contactless tap-and-pay transactions at merchant POS terminals execute without entering a 4-digit PIN for amounts up to ₹5,000 per transaction. Transactions exceeding ₹5,000 compulsorily mandate entering the PIN. (2) Mandatory Customer Controls: Under RBI directives, cardholders must be given instant toggles in their mobile banking app to: (a) Turn contactless payments ON or OFF completely, (b) Set custom daily spending limits (e.g. cap at ₹1,000), and (c) Disable international usage.",
+    "source": "RBI Circular on Enhancing Security of Card Transactions - Contactless Limits",
+    "source_url": "https://www.rbi.org.in/Scripts/NotificationUser.aspx",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "digibk_account_aggregator_framework",
+    "category": "Digital Banking Services and Mobile Banking",
+    "subcategory": "Account Aggregator (AA) Framework",
+    "title": "Account Aggregator (AA) Ecosystem: RBI-Regulated Consensual Financial Data Sharing",
+    "keywords": [
+      "Account Aggregator",
+      "AA ecosystem",
+      "consent manager",
+      "FIP",
+      "FIU",
+      "consensual data sharing",
+      "paperless loan underwriting"
+    ],
+    "questions": [
+      "What is an Account Aggregator (AA) in India?",
+      "How does Account Aggregator eliminate submitting physical bank statements for loans?",
+      "Is my financial data safe on the Account Aggregator network?",
+      "Who regulates Account Aggregators in India?"
+    ],
+    "content": "The RBI-regulated Account Aggregator (AA) architecture transforms financial data mobility: (1) What is an AA: A licensed Non-Banking Financial Company (NBFC-AA) that acts as a secure, neutral data-pipeline consent manager. AAs DO NOT store, view, or monetize customer data; they purely encrypt and transport it. (2) The Workflow: Connects Financial Information Providers (FIPs: banks, mutual funds, tax portals) to Financial Information Users (FIUs: lending banks, wealth managers). (3) Granular Explicit Consent: Users decide what data is shared, for what specific purpose, and for what exact duration, revokable at will.",
+    "source": "RBI Master Direction - Non-Banking Financial Company - Account Aggregator Directions",
+    "source_url": "https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "digibk_e_nach_mandate_management",
+    "category": "Digital Banking Services and Mobile Banking",
+    "subcategory": "e-NACH Mandate Portals",
+    "title": "e-NACH & e-Mandate Portals: Modifying and Cancelling Digital Standing Instructions",
+    "keywords": [
+      "e-NACH",
+      "e-mandate cancellation",
+      "cancel auto-debit",
+      "NPCI mandate portal",
+      "net banking mandate management",
+      "stop recurring payment"
+    ],
+    "questions": [
+      "How do I cancel an e-NACH auto-debit mandate online?",
+      "Can a bank refuse to cancel my recurring loan or insurance mandate?",
+      "Where can I view all active auto-debit mandates on my bank account?",
+      "What is the difference between e-NACH and standing instructions?"
+    ],
+    "content": "Empowering banking consumers to maintain total control over automated recurring debits: (1) Mandatory Self-Service Dashboard: Under RBI directives, every bank must provide an online portal (in internet and mobile banking) where customers can view all active e-mandates and e-NACH instructions linked to their accounts. (2) Statutory Right to Revoke: A customer holds the absolute legal right to pause, modify, or permanently cancel any recurring mandate directly through the bank's portal without having to seek permission from the merchant. (3) 24-Hour Notice Mandate: Banks must transmit pre-debit SMS alerts at least 24 hours prior to debit.",
+    "source": "RBI Framework for Processing of e-mandates on Cards / Prepaid Payment Instruments / UPI",
+    "source_url": "https://www.rbi.org.in/Scripts/NotificationUser.aspx",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "digibk_digital_lending_open_banking",
+    "category": "Digital Banking Services and Mobile Banking",
+    "subcategory": "Open Banking & Lending Service Providers (LSPs)",
+    "title": "Open Banking & Financial Information Providers (FIPs) vs Users (FIUs)",
+    "keywords": [
+      "open banking",
+      "FIP",
+      "FIU",
+      "LSP",
+      "lending service provider",
+      "digital underwriting",
+      "cash flow based lending"
+    ],
+    "questions": [
+      "What is Open Banking in India?",
+      "What is the difference between an FIP and an FIU?",
+      "How does open banking enable cash-flow based lending for MSMEs?",
+      "What role do Lending Service Providers (LSPs) play in digital loans?"
+    ],
+    "content": "The structural framework powering modern digital fintech integration: (1) FIPs vs FIUs: Financial Information Providers (FIPs: banks, depository depositories, pension trusts) hold authentic financial data; Financial Information Users (FIUs: prospective lenders, brokers) consume verified data via digital rails. (2) Shift to Cash-Flow Lending: Enables MSMEs and self-employed individuals without physical property collateral to obtain loans based on verified real-time GST and bank transaction cash-flow analytics. (3) LSP Oversight: Regulated entities remain 100% accountable for all third-party tech integrations.",
+    "source": "RBI Guidelines on Digital Lending & Account Aggregator Ecosystem Rules",
+    "source_url": "https://www.rbi.org.in/Scripts/NotificationUser.aspx",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "digibk_banking_api_security_sandboxes",
+    "category": "Digital Banking Services and Mobile Banking",
+    "subcategory": "Regulatory Sandboxes & Open APIs",
+    "title": "Regulatory Sandboxes & Open Banking APIs in Retail Financial Innovations",
+    "keywords": [
+      "regulatory sandbox",
+      "RBI sandbox",
+      "open banking API",
+      "fintech innovation",
+      "cohorts",
+      "test environment",
+      "cross border payments"
+    ],
+    "questions": [
+      "What is the RBI Regulatory Sandbox?",
+      "How do fintech startups test new financial products with RBI?",
+      "What cohorts are operated in the regulatory sandbox?",
+      "How do open banking APIs protect consumer data?"
+    ],
+    "content": "Controlled live regulatory testing environments created by the central bank: (1) What is a Regulatory Sandbox: A formal framework enabling live, small-scale testing of innovative financial products and technologies with real consumers under specific regulatory relaxations. (2) Thematic Cohorts: Operates focused cohorts targeting Retail Payments, Cross-Border Remittances, MSME Lending, Financial Fraud Mitigation, and Thematic Open Banking. (3) Security Standard: All open APIs must enforce OAuth 2.0 standards, end-to-end payload encryption, and comply with the Digital Personal Data Protection (DPDP) Act.",
+    "source": "RBI Enabling Framework for Regulatory Sandbox & Innovation Hub Directives",
+    "source_url": "https://www.rbi.org.in/Scripts/PublicationReportDetails.aspx?UrlPage=&ID=938",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "digibk_virtual_debit_cards_disposable",
+    "category": "Digital Banking Services and Mobile Banking",
+    "subcategory": "Virtual & Disposable Debit Cards",
+    "title": "Virtual Debit Cards: Instant Generation, Spending Limits & Disposable Numbers",
+    "keywords": [
+      "virtual debit card",
+      "disposable card",
+      "instant card generation",
+      "online shopping security",
+      "zero physical loss",
+      "SBI virtual card"
+    ],
+    "questions": [
+      "What is a virtual debit card and how does it work?",
+      "How do virtual cards protect against online shopping fraud?",
+      "Can I generate a single-use disposable card for online purchases?",
+      "Are virtual debit cards free of cost?"
+    ],
+    "content": "Digital-only payment instruments issued instantly via mobile banking applications: (1) Characteristics: A digital debit card generated within seconds with its own unique 16-digit number, CVV, and expiry date visible strictly within the authenticated mobile banking app (zero physical plastic card). (2) Custom Security Parameters: Customers can set custom spending limits (e.g. exactly ₹1,500 for a single purchase), lock international access, or generate single-use disposable cards that self-destruct after one transaction. (3) Safety: Immune to physical wallet theft, skimming, or ATM loss.",
+    "source": "RBI Master Direction on Card Issuance and Conduct",
+    "source_url": "https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "digibk_pos_soundbox_merchant_tech",
+    "category": "Digital Banking Services and Mobile Banking",
+    "subcategory": "Merchant POS Soundboxes & Dynamic QR",
+    "title": "Merchant POS Soundboxes & Dynamic QR Displays in Retail Digital Acceptance",
+    "keywords": [
+      "soundbox",
+      "Paytm soundbox",
+      "PhonePe soundbox",
+      "voice confirmation",
+      "dynamic QR",
+      "merchant settlement",
+      "retail payment acceptance"
+    ],
+    "questions": [
+      "How do merchant soundboxes work in Indian retail shops?",
+      "Why do small shopkeepers prefer voice soundboxes over SMS?",
+      "What is a dynamic QR code display at billing counters?",
+      "How does an audio confirmation prevent fake payment scams?"
+    ],
+    "content": "Pioneering Indian fintech hardware expanding merchant trust and acceptance: (1) Soundbox Technology: Battery-operated IoT audio hardware equipped with an embedded 4G SIM card connected to the payment aggregator switch. Instantly announces transaction confirmation aloud in the merchant's chosen regional language (e.g. 'Paytm par pachas rupaye prapt hue'). (2) Fraud Barrier: Eliminates reliance on customer phone screens and overcomes busy peak-hour SMS delivery delays. (3) Dynamic POS QR Displays: Generate unique QR codes embedding the exact bill value, eliminating customer typing errors.",
+    "source": "NPCI Merchant Payments Product Manual & Fintech Innovation Whitepapers",
+    "source_url": "https://www.npci.org.in/",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "digibk_biometric_banking_atm_iris",
+    "category": "Digital Banking Services and Mobile Banking",
+    "subcategory": "Biometric ATMs & Iris Authentication",
+    "title": "Biometric ATMs & Iris Scanning: Frictionless Authentication for Low-Literacy Users",
+    "keywords": [
+      "biometric ATM",
+      "iris scan banking",
+      "fingerprint ATM",
+      "cardless ATM withdrawal",
+      "financial inclusion tech",
+      "elderly banking"
+    ],
+    "questions": [
+      "Can I withdraw cash from an ATM using fingerprint or iris scan?",
+      "What are biometric ATMs?",
+      "How do biometric ATMs help rural and elderly citizens?",
+      "What security measures prevent biometric ATM replication?"
+    ],
+    "content": "Expanding digital banking accessibility to citizens regardless of literacy or technology familiarity: (1) Biometric ATMs: Automated teller machines integrated directly with UIDAI central databases. Instead of inserting plastic debit cards or remembering 4-digit PINs, users verify identity through fingerprint or contactless iris scanners. (2) Ideal Demographics: Crucial for rural pensioners, manual labourers whose fingerprints may be worn, and elderly citizens prone to forgetting PINs. (3) Live Detection: Hardware employs optical infrared liveness detection to defeat prosthetic silicone moulds.",
+    "source": "RBI Guidelines on Automated Teller Machines (ATMs) & UIDAI Authentication Standards",
+    "source_url": "https://www.rbi.org.in/Scripts/BS_ViewMasCirculardetails.aspx",
+    "verification_date": "2026-03"
+  }
+]

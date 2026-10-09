@@ -1,0 +1,305 @@
+[
+  {
+    "id": "motor-01",
+    "category": "Motor Insurance",
+    "subcategory": "Third-Party vs Comprehensive",
+    "title": "Third-Party Liability vs Comprehensive Motor Insurance",
+    "keywords": [
+      "motor insurance",
+      "third party",
+      "comprehensive",
+      "own damage",
+      "TP",
+      "OD",
+      "Motor Vehicles Act",
+      "legal requirement"
+    ],
+    "questions": [
+      "What is third-party motor insurance?",
+      "Is comprehensive motor insurance mandatory in India?",
+      "What does own damage (OD) insurance cover?",
+      "What is the penalty for driving without insurance in India?"
+    ],
+    "content": "Under Section 146 of the Motor Vehicles Act 1988, motor insurance is mandatory for all vehicles operating in public spaces: (1) Third-Party (TP) Insurance: Legally mandatory. Covers legal liability for third-party accidental death, bodily injury (unlimited liability determined by MACT court), and third-party property damage (capped at ₹7.5 Lakh). Does not cover damage to the insured's own vehicle. (2) Comprehensive Motor Insurance: Bundles mandatory Third-Party cover with Own Damage (OD) cover. Protects against vehicular damage caused by accidents, fire, theft, flood, vandalism, and transit. (3) Driving Without Insurance Penalty: Section 196 of the Motor Vehicles Act imposes a fine of ₹2,000 and/or imprisonment up to 3 months for first offense (₹4,000 for subsequent offenses).",
+    "source": "Motor Vehicles Act 1988 & IRDAI Motor Insurance Regulations",
+    "source_url": "https://irdai.gov.in/regulations",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "motor-02",
+    "category": "Motor Insurance",
+    "subcategory": "Zero Depreciation & Add-ons",
+    "title": "Zero Depreciation Cover & Essential Motor Add-ons",
+    "keywords": [
+      "zero depreciation",
+      "nil depreciation",
+      "bumper to bumper",
+      "engine protect",
+      "consumables",
+      "roadside assistance",
+      "RSA",
+      "return to invoice"
+    ],
+    "questions": [
+      "What is Zero Depreciation cover in car insurance?",
+      "Does Zero Dep pay 100% of car repair bills?",
+      "What is consumables cover in car insurance?",
+      "What does roadside assistance cover?"
+    ],
+    "content": "Standard motor policies apply age-based depreciation on replacement parts during claim settlement (50% on plastic, rubber, nylon; 30% on fibreglass; up to 50% on metal parts). Zero Depreciation (Nil Dep / Bumper-to-Bumper) add-on waives this deduction, paying the complete replacement cost of damaged parts (policyholder pays only mandatory compulsory deductible). Other vital motor add-ons: (1) Consumables Cover: Reimburses nuts, bolts, engine oil, coolant, lubricants, and washers used during repairs. (2) Engine Protection Cover: Covers hydrostatic lock and oil starvation damage caused by driving in waterlogged areas. (3) 24x7 Roadside Assistance (RSA): Provides emergency towing, flat tyre repair, emergency fuel delivery, and jump-start support.",
+    "source": "IRDAI Guidelines on Motor Add-on Products & GIC Protocols",
+    "source_url": "https://irdai.gov.in/guidelines",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "motor-03",
+    "category": "Motor Insurance",
+    "subcategory": "Insured Declared Value (IDV)",
+    "title": "Insured Declared Value (IDV) and Total Loss Calculation",
+    "keywords": [
+      "IDV",
+      "insured declared value",
+      "total loss",
+      "constructive total loss",
+      "theft claim",
+      "depreciation slab",
+      "ex-showroom price"
+    ],
+    "questions": [
+      "What is IDV in motor insurance?",
+      "How is car IDV calculated?",
+      "What is Constructive Total Loss (CTL) in car insurance?",
+      "How much will insurance pay if my car is stolen?"
+    ],
+    "content": "Insured Declared Value (IDV) is the maximum sum assured payable by the insurer in case of total loss (unrepairable accident) or total theft of the motor vehicle. (1) Calculation Formula: IDV = (Manufacturer's listed selling price - Depreciation based on vehicle age) + (Value of accessories not included in list price - Depreciation). (2) Standard IRDAI Depreciation Slabs: Up to 6 months: 5%; 6 months to 1 year: 15%; 1 to 2 years: 20%; 2 to 3 years: 30%; 3 to 4 years: 40%; 4 to 5 years: 50%. For vehicles exceeding 5 years, IDV is negotiated mutually based on surveyor assessment. (3) Constructive Total Loss (CTL): Declared when aggregate repair cost exceeds 75% of the vehicle's IDV.",
+    "source": "IRDAI Indian Motor Tariff General Regulations & Schedules",
+    "source_url": "https://irdai.gov.in/tariff",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "motor-04",
+    "category": "Motor Insurance",
+    "subcategory": "No Claim Bonus & Cashless Garages",
+    "title": "No Claim Bonus (NCB) Transfer and Cashless Garages",
+    "keywords": [
+      "NCB",
+      "no claim bonus",
+      "NCB transfer",
+      "NCB retaining letter",
+      "cashless garage",
+      "network garage",
+      "surveyor inspection"
+    ],
+    "questions": [
+      "How much discount is No Claim Bonus in car insurance?",
+      "Can I transfer my NCB when selling my old car to buy a new car?",
+      "Does NCB belong to the car or the car owner?",
+      "How does cashless car repair work at a network garage?"
+    ],
+    "content": "No Claim Bonus (NCB) is a reward discount on the Own Damage (OD) premium for every claim-free year: (1) NCB Discount Slabs: 1 claim-free year: 20%; 2 consecutive years: 25%; 3 years: 35%; 4 years: 45%; 5 consecutive years: 50% (maximum cap). (2) NCB Belongs to the Owner: NCB stays with the vehicle owner, not the vehicle. When selling a vehicle, obtain an 'NCB Retention Certificate' from the insurer to transfer your 20-50% discount to your newly purchased vehicle. (3) Cashless Garages: The insurer empanels network garages where an insurance surveyor approves repair estimates digitally, and the insurer settles repair invoices directly with the workshop, leaving the owner to pay only the policy deductible and non-covered parts.",
+    "source": "IRDAI Indian Motor Tariff & General Insurance Council Rules",
+    "source_url": "https://irdai.gov.in/tariff",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "motor_return_to_invoice",
+    "category": "Motor Insurance",
+    "subcategory": "Return to Invoice Cover",
+    "title": "Return to Invoice (RTI) Add-On Cover: Full Replacement Value",
+    "keywords": [
+      "return to invoice",
+      "RTI",
+      "invoice price",
+      "road tax",
+      "registration charges",
+      "total loss theft",
+      "gap insurance"
+    ],
+    "questions": [
+      "What is Return to Invoice (RTI) in car insurance?",
+      "When is RTI cover useful?",
+      "Does RTI pay road tax and registration charges?",
+      "What is the difference between IDV and RTI payout?"
+    ],
+    "content": "Return to Invoice (RTI) is a motor insurance add-on cover that bridges the financial gap between the vehicle's depreciated Insured Declared Value (IDV) and its original on-road purchase price in the event of theft or constructive total loss (damage exceeding 75% of IDV). (1) Payout Scope: If a car is stolen or damaged beyond repair, a standard policy pays only the depreciated IDV. RTI pays the original purchase invoice value, including mandatory road tax, registration fees, and municipal road taxes paid at purchase. (2) Eligibility: Typically available only for brand new vehicles or cars up to 3 to 5 years old. (3) Premium: Adds a modest 10% to 15% to the Own Damage premium, protecting car buyers against instant depreciation.",
+    "source": "IRDAI Guidelines on Product Filing of General Insurance Add-on Covers",
+    "source_url": "https://irdai.gov.in/guidelines",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "motor_engine_protection_cover",
+    "category": "Motor Insurance",
+    "subcategory": "Engine & Gearbox Protection",
+    "title": "Engine & Gearbox Protection Cover: Water Ingress & Hydrostatic Lock",
+    "keywords": [
+      "engine protection",
+      "hydrostatic lock",
+      "gearbox cover",
+      "waterlogging",
+      "monsoon damage",
+      "oil leakage",
+      "crankcase damage"
+    ],
+    "questions": [
+      "Is engine damage from rainwater covered under normal car insurance?",
+      "What is hydrostatic lock in car engines?",
+      "Why was my car insurance claim rejected after driving in water?",
+      "Does comprehensive car insurance cover engine seizure?"
+    ],
+    "content": "Standard comprehensive car insurance excludes consequential engine damage caused by water ingress or lubricating oil leakage. (1) Hydrostatic Lock: When a driver cranks or continues running an engine submerged in floodwater, water enters the combustion chamber, causing hydrostatic lock (piston rod bending and engine block destruction). Insurers classify this as owner negligence/consequential loss and reject standard claims. (2) Engine Protection Rider: Specifically covers repair and replacement costs of engine internal parts, gearbox casing, differentials, and transmission systems damaged due to waterlogging or accidental puncture of the oil sump. Essential for luxury cars and flood-prone monsoon zones.",
+    "source": "IRDAI Motor Product Tariff Clarifications & GIC Advisory",
+    "source_url": "https://irdai.gov.in/tariff",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "motor_cpa_mandatory_cover",
+    "category": "Motor Insurance",
+    "subcategory": "Compulsory Personal Accident (CPA)",
+    "title": "Compulsory Personal Accident (CPA) Cover: ₹15 Lakh Mandate",
+    "keywords": [
+      "CPA",
+      "compulsory personal accident",
+      "15 lakh cover",
+      "owner-driver",
+      "valid driving license",
+      "standalone CPA",
+      "Section 146"
+    ],
+    "questions": [
+      "Is personal accident cover mandatory with vehicle insurance?",
+      "What is CPA cover in motor insurance?",
+      "Can I waive the ₹15 Lakh CPA cover if I already have life or personal accident insurance?",
+      "How much does CPA cover pay on accidental death?"
+    ],
+    "content": "Under IRDAI directives and the Motor Vehicles Act, Compulsory Personal Accident (CPA) cover of ₹15 Lakh is mandatory for individual registered vehicle owner-drivers holding an active driving licence. (1) Benefits: Pays ₹15 Lakh (100% of sum insured) on accidental death or permanent loss of two limbs/both eyes; 50% for loss of one limb/one eye. (2) Annual Premium: Fixed statutory premium of ₹275 per annum + GST. (3) Exemption Conditions: A vehicle owner can waive purchasing CPA cover with a vehicle policy if: (a) They already hold an active Standalone Personal Accident (CPA) policy with capital sum insured of at least ₹15 Lakh, or (b) They own multiple vehicles and have already bought CPA cover with another registered vehicle.",
+    "source": "IRDAI Circular on Unbundling of Compulsory Personal Accident Cover for Owner-Drivers",
+    "source_url": "https://irdai.gov.in/circulars",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "motor_commercial_vs_private",
+    "category": "Motor Insurance",
+    "subcategory": "Private vs Commercial Vehicles",
+    "title": "Private Car vs Commercial Vehicle Policies: Usage & Licensing Rules",
+    "keywords": [
+      "commercial vehicle",
+      "private car",
+      "yellow plate",
+      "white plate",
+      "taxi insurance",
+      "goods carrying",
+      "permit",
+      "fitness certificate"
+    ],
+    "questions": [
+      "Can I use my private car as a commercial taxi under private car insurance?",
+      "What happens to insurance if a private car is used for commercial rides?",
+      "What documents are required for commercial vehicle insurance claims?",
+      "Why are commercial vehicle premiums higher?"
+    ],
+    "content": "Motor insurance policies are strictly divided based on vehicle registration and usage categories: (1) Private Car Policy: Applies exclusively to vehicles registered for personal, domestic, and social purposes (white number plate). Using a private vehicle for commercial passenger transport (e.g. unregistered taxi/ride-sharing) or carriage of commercial goods constitutes a material breach of policy terms, resulting in total repudiation of own damage and liability claims. (2) Commercial Vehicle Policy: Applies to yellow-plate passenger-carrying (cabs, buses) and goods-carrying vehicles (trucks, tempos). Requires valid commercial permits, fitness certificates, and driver badges. Premiums are significantly higher due to higher mileage exposure and passenger liability.",
+    "source": "Indian Motor Tariff Commercial Vehicles Schedule & Motor Vehicles Act 1988",
+    "source_url": "https://irdai.gov.in/tariff",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "motor_total_loss_constructive",
+    "category": "Motor Insurance",
+    "subcategory": "Total Loss & Salvage",
+    "title": "Total Loss, Constructive Total Loss (CTL) and Salvage Disposal",
+    "keywords": [
+      "total loss",
+      "CTL",
+      "constructive total loss",
+      "75 percent IDV",
+      "salvage",
+      "RC cancellation",
+      "RTO de-registration"
+    ],
+    "questions": [
+      "When is a car declared a total loss by insurance?",
+      "What is the salvage value of a damaged car?",
+      "Is RC cancellation mandatory for total loss motor insurance claims?",
+      "How is total loss claim money distributed if the car has a loan?"
+    ],
+    "content": "A motor insurance claim is categorized as Total Loss under specific conditions: (1) Constructive Total Loss (CTL): When the aggregate cost of retrieval and repair of the vehicle (as estimated by an IRDAI-licensed independent surveyor) exceeds 75% of the Insured Declared Value (IDV). (2) Settlement: The insurer pays the full IDV minus compulsory policy deductibles. (3) RC Cancellation: Under Section 55 of the Motor Vehicles Act, the Registration Certificate (RC) of a totally destroyed or scrapped vehicle must be surrendered to the registering RTO for permanent cancellation to prevent stolen identity re-use. (4) Hypothecation: If the vehicle is financed by a bank, the claim settlement proceeds are first offered to the lending institution to clear outstanding loan balances.",
+    "source": "IRDAI Guidelines on Motor Claim Settlement & Motor Vehicles Act Section 55",
+    "source_url": "https://irdai.gov.in/guidelines",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "motor_third_party_tariff_rules",
+    "category": "Motor Insurance",
+    "subcategory": "Third-Party Premium Tariffs",
+    "title": "IRDAI Third-Party Liability Tariffs: Engine CC Slabs & Multi-Year Rules",
+    "keywords": [
+      "third party tariff",
+      "engine cubic capacity",
+      "cc slabs",
+      "long-term motor insurance",
+      "3 year policy",
+      "5 year policy",
+      "Ministry of Road Transport"
+    ],
+    "questions": [
+      "How is third-party car insurance premium decided?",
+      "Why does third party insurance increase every year?",
+      "What is mandatory long-term motor insurance for new vehicles?",
+      "What are the CC slabs for motor insurance pricing?"
+    ],
+    "content": "Third-party (TP) motor insurance premiums are strictly statutory and fixed annually by the Ministry of Road Transport and Highways (MoRTH) in consultation with IRDAI: (1) Engine Cubic Capacity (CC) Slabs: For private cars: <1000cc (low slab), 1000cc-1500cc (medium slab), and >1500cc (high luxury slab). For two-wheelers: <75cc, 75cc-150cc, 150cc-350cc, and >350cc. (2) Mandatory Long-Term Policies: Following Supreme Court directives, all brand-new private cars must be sold with a mandatory 3-year Third-Party policy, and all brand-new two-wheelers must be sold with a mandatory 5-year Third-Party policy. Own Damage (OD) component can be renewed annually.",
+    "source": "MoRTH Motor Third-Party Premium Notifications & IRDAI Directives",
+    "source_url": "https://irdai.gov.in/notifications",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "motor_hit_and_run_solatium",
+    "category": "Motor Insurance",
+    "subcategory": "Hit and Run Solatium Scheme",
+    "title": "Hit-and-Run Motor Accidents: Solatium Scheme & Compensation Norms",
+    "keywords": [
+      "hit and run",
+      "solatium fund",
+      "compensation",
+      "unidentified vehicle",
+      "2 lakh death benefit",
+      "50000 grievous hurt",
+      "General Insurance Council"
+    ],
+    "questions": [
+      "Can you get insurance compensation if the vehicle that hit you fled the scene?",
+      "What is the compensation for hit and run accident victims in India?",
+      "Who pays compensation in hit-and-run accidents?",
+      "How do you claim under the Solatium Scheme?"
+    ],
+    "content": "When a victim suffers injury or death in a road accident where the offending motor vehicle cannot be identified despite police investigation, the Central Government operates the 'Compensation to Victims of Hit and Run Motor Accidents Scheme': (1) Revised Statutory Compensation: In the event of death: fixed compensation of ₹2,00,000 (increased from earlier ₹25,000); in the event of grievous hurt: fixed compensation of ₹50,000 (increased from ₹12,500). (2) Funding: Disbursed from the Motor Vehicles Accident Fund managed by the General Insurance Council and funded by contributions from general insurers. (3) Claim Procedure: Claim application must be submitted to the Claims Enquiry Officer (Sub-Divisional Magistrate / Tehsildar) along with police FIR within 6 months.",
+    "source": "Ministry of Road Transport and Highways (MoRTH) Compensation Scheme for Hit and Run",
+    "source_url": "https://morth.nic.in/schemes",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "motor_ev_battery_cover",
+    "category": "Motor Insurance",
+    "subcategory": "Electric Vehicle Insurance",
+    "title": "Electric Vehicle (EV) Motor Insurance: Battery Cover & Charging Kits",
+    "keywords": [
+      "EV insurance",
+      "electric vehicle",
+      "battery pack cover",
+      "charging kit",
+      "power surge",
+      "thermal runaway",
+      "green vehicle discount"
+    ],
+    "questions": [
+      "Does car insurance cover electric car battery damage?",
+      "What add-on covers are needed for electric vehicles (EVs)?",
+      "Is EV car insurance cheaper or more expensive?",
+      "Are EV home charging stations covered by insurance?"
+    ],
+    "content": "Electric Vehicles (EVs) have distinct insurance requirements due to high component valuation (the traction battery pack represents 40% to 50% of the entire vehicle value): (1) Battery Protection Add-on: Standard policies cover external collision damage to batteries but exclude consequential loss, internal short circuits, or water seepage during charging. EV battery add-ons cover battery replacement against accidental water ingress, power surges during rapid charging, and thermal runaway. (2) Charging Equipment Cover: Protects home wall-box chargers, cords, and connectors against vandalism, power surges, and accidental damage. (3) IRDAI Concession: IRDAI mandates a 15% discount on Third-Party premium tariffs for electric vehicles compared to equivalent internal combustion engine vehicles.",
+    "source": "IRDAI Guidelines on Electric Vehicle Insurance Products & Tariffs",
+    "source_url": "https://irdai.gov.in/guidelines",
+    "verification_date": "2026-03"
+  }
+]

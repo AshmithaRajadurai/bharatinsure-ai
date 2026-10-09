@@ -1,0 +1,294 @@
+[
+  {
+    "id": "fraud_fake_telecallers_spurious_offers",
+    "category": "Insurance Fraud, Consumer Protection, and Regulatory Guidance",
+    "subcategory": "Spurious Calls & Fake Officials",
+    "title": "Spurious Phone Calls, Fake IRDAI Officials & Bonus Lure Frauds",
+    "keywords": [
+      "spurious calls",
+      "fake IRDAI official",
+      "bonus lure",
+      "unclaimed bonus fraud",
+      "fake callers",
+      "IRDAI warning notice",
+      "155255"
+    ],
+    "questions": [
+      "Does IRDAI call customers to distribute insurance bonuses?",
+      "How do scammers use IRDAI's name to cheat policyholders?",
+      "What should I do if someone calls offering a huge bonus on my lapsed policy?",
+      "Why do scammers tell me to surrender my existing policy?"
+    ],
+    "content": "Spurious calls impersonating insurance regulators represent a rampant financial cyber fraud: (1) IRDAI Public Warning: IRDAI does not sell insurance policies, announce bonuses, invest policy premiums, or settle individual claims over phone calls. Any caller claiming to represent 'IRDAI Office' offering bonuses, lottery winnings, or refund of lapsed policies is a criminal imposter. (2) The Modus Operandi: Scammers urge victims to pay 'processing fees', transfer funds to personal UPI handles, or surrender active policies to buy expensive new policies. (3) Reporting: Victims should never share OTPs or bank details, report callers immediately to cybercrime.gov.in / Helpline 1930, and notify complaints@irdai.gov.in.",
+    "source": "IRDAI Public Notice on Spurious Calls and Fictitious Offers",
+    "source_url": "https://irdai.gov.in/public-notices",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "fraud_fake_policy_bonds_verification",
+    "category": "Insurance Fraud, Consumer Protection, and Regulatory Guidance",
+    "subcategory": "Fake Policies & QR Verification",
+    "title": "Fake Insurance Policies & How to Verify QR Codes on Official Portals",
+    "keywords": [
+      "fake insurance policy",
+      "QR code verification",
+      "counterfeit motor insurance",
+      "verify policy online",
+      "IRDAI portal check",
+      "fraudulent agents"
+    ],
+    "questions": [
+      "How do I verify if my insurance policy is genuine or fake?",
+      "What is the QR code on my motor insurance policy?",
+      "How do rogue agents sell fake vehicle insurance?",
+      "Can an insurance company deny a claim if an agent gave a fake policy?"
+    ],
+    "content": "Counterfeit insurance documents, particularly in commercial vehicle and motor segments, leave victims exposed: (1) The Danger: Rogue agents issue forged policy certificates with fictitious policy numbers and pocket the premium. When an accident occurs, the victim discovers no coverage exists. (2) Mandatory QR Code: Under IRDAI directives, all motor and health insurance schedules must embed a dynamic, cryptographically verifiable QR Code. Scanning the QR code with any smartphone must redirect to the insurer's secure domain displaying policyholder name, vehicle number, sum insured, and active validity dates. (3) Verification: Policyholders can verify policy authenticity directly on the insurer's customer portal.",
+    "source": "IRDAI Circular on Implementation of QR Codes on Insurance Policies",
+    "source_url": "https://irdai.gov.in/circulars",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "fraud_misselling_by_bank_agents",
+    "category": "Insurance Fraud, Consumer Protection, and Regulatory Guidance",
+    "subcategory": "Bancassurance Mis-Selling",
+    "title": "Bancassurance Mis-Selling: Bundling Life Policies with Home Loans",
+    "keywords": [
+      "bancassurance",
+      "mis-selling",
+      "loan bundling",
+      "mandatory insurance tie-up",
+      "single premium scam",
+      "bank manager pressure"
+    ],
+    "questions": [
+      "Can a bank force me to buy life insurance to get a home loan?",
+      "Is insurance compulsory for bank loan approval?",
+      "What is bancassurance mis-selling?",
+      "What should I do if a bank manager deducts insurance premium without my consent?"
+    ],
+    "content": "Mis-selling by commercial bank staff acting as corporate insurance agents (Bancassurance) is subject to strict regulatory censure: (1) Prohibition of Forced Bundling: RBI and IRDAI explicitly prohibit banks from making the purchase of a life or general insurance policy a mandatory condition for sanctioning or disbursing home, auto, or personal loans. (2) Misrepresentation of Products: Bank staff frequently misrepresent high-cost regular-pay ULIPs or endowment plans as 'high-yield fixed deposits'. (3) Cancellation & Remedy: Borrowers pressured into purchasing policies can cancel within the 30-day Free-Look Period for a full refund and report the branch to the RBI Integrated Ombudsman for unfair practices.",
+    "source": "RBI Guidelines on Para-Banking Activities & IRDAI Corporate Agency Regulations",
+    "source_url": "https://www.rbi.org.in/",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "fraud_hospital_billing_malpractices",
+    "category": "Insurance Fraud, Consumer Protection, and Regulatory Guidance",
+    "subcategory": "Hospital Billing Malpractices",
+    "title": "Hospital Billing Scams: Inflated Bills, Phantom Patients & IRDAI Alerts",
+    "keywords": [
+      "hospital fraud",
+      "inflated bills",
+      "phantom patient",
+      "package pricing abuse",
+      "forensic audit",
+      "GIC blacklisting",
+      "unwarranted ICU stay"
+    ],
+    "questions": [
+      "How do hospitals commit health insurance fraud?",
+      "What is phantom patient billing in health insurance?",
+      "Why do insurance companies audit hospital records?",
+      "What happens if a hospital inflates treatment bills?"
+    ],
+    "content": "Health insurance fraud increases premium costs for all policyholders: (1) Common Hospital Malpractices: Inflating surgical consumable bills, billing for diagnostic tests that were never performed, extending ICU admissions unnecessarily, and charging differential pricing (higher rack rates for insured patients compared to cash patients). (2) Forensic Investigation: Insurers deploy specialized medical audit teams to examine nursing charts, indoor case papers (ICP), and operation theatre logbooks. (3) Hospital Delisting: Under GIC protocols, hospitals found committing systemic fraud are blacklisted, empanelment cancelled, and referred to state medical councils and law enforcement for criminal fraud under BNS/IPC.",
+    "source": "General Insurance Council (GIC) Fraud Detection Manual & IRDAI Guidelines",
+    "source_url": "https://irdai.gov.in/guidelines",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "fraud_agent_rebating_prohibition",
+    "category": "Insurance Fraud, Consumer Protection, and Regulatory Guidance",
+    "subcategory": "Rebating Prohibition Section 41",
+    "title": "Section 41 Insurance Act Prohibition of Rebates and Agent Commission Fraud",
+    "keywords": [
+      "Section 41",
+      "rebating prohibition",
+      "cashback from agent",
+      "illegal discount",
+      "fine up to 10 lakh",
+      "Insurance Act 1938"
+    ],
+    "questions": [
+      "Can an insurance agent offer me a cash discount or part of their commission?",
+      "What is rebating in insurance?",
+      "What is the penalty for rebating under Section 41 of the Insurance Act?",
+      "Is asking an agent for a discount illegal in India?"
+    ],
+    "content": "Section 41 of the Insurance Act 1938 imposes a strict statutory ban on the practice of 'rebating': (1) The Prohibition: No person or insurance intermediary shall offer, allow, or pay any rebate of the whole or part of the commission payable or any rebate of the premium shown in the policy schedule as an inducement to any person to take out or renew insurance. (2) Mutual Liability: Both the agent offering the rebate and the customer accepting the illegal discount or kickback are legally culpable. (3) Penal Sanctions: Any person making default in complying with Section 41 is punishable with a fine which may extend up to ₹10,00,000 (Rupees Ten Lakh).",
+    "source": "Insurance Act 1938 Section 41 & IRDAI Intermediaries Code of Conduct",
+    "source_url": "https://irdai.gov.in/acts",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "fraud_ghost_broker_motor_fraud",
+    "category": "Insurance Fraud, Consumer Protection, and Regulatory Guidance",
+    "subcategory": "Ghost Brokers & Third-Party Fraud",
+    "title": "Ghost Brokers & Counterfeit Third-Party Motor Insurance Certificates",
+    "keywords": [
+      "ghost broker",
+      "counterfeit motor insurance",
+      "fake third party policy",
+      "RTO verification",
+      "Vahan portal check",
+      "driver liability"
+    ],
+    "questions": [
+      "What is a ghost broker in motor insurance?",
+      "How do I check if my vehicle insurance is updated on Vahan?",
+      "What happens if I cause an accident with a fake insurance certificate?",
+      "Why are cheap third-party insurance policies often fake?"
+    ],
+    "content": "Unlicensed intermediaries known as 'Ghost Brokers' prey on commercial drivers and two-wheeler owners: (1) Operation: They create fictitious websites or operate around regional transport offices (RTOs), issuing fabricated policy PDFs for nominal cash payments. (2) Severe Consequences: If a vehicle with a forged policy causes fatal injuries, the vehicle owner is personally liable for millions in MACT compensation; additionally, vehicle impoundment and criminal prosecution under Section 196 of the Motor Vehicles Act apply. (3) Instant Verification via Vahan: Vehicle owners must verify that their policy is updated on the Ministry of Road Transport's Vahan database (vahan.parivahan.gov.in) within 48 hours of purchase.",
+    "source": "MoRTH Vahan Portal Guidelines & IRDAI Consumer Alerts",
+    "source_url": "https://vahan.parivahan.gov.in/",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "fraud_section45_fraud_standards",
+    "category": "Insurance Fraud, Consumer Protection, and Regulatory Guidance",
+    "subcategory": "Section 45 Fraud Standards",
+    "title": "Section 45 Insurance Act: Burden of Proof in Fraudulent Non-Disclosure",
+    "keywords": [
+      "Section 45",
+      "fraud burden of proof",
+      "wilful suppression",
+      "scienter",
+      "death claim investigation",
+      "material misrepresentation"
+    ],
+    "questions": [
+      "How does an insurance company prove fraud in life insurance?",
+      "What is the difference between innocent non-disclosure and wilful fraud?",
+      "Can an insurer reject a death claim if the policyholder forgot to mention an old surgery?",
+      "What evidence must the insurer provide under Section 45?"
+    ],
+    "content": "Section 45 of the Insurance Act 1938 balances policyholder protection with fraud deterrence: (1) Strict Evidentiary Standard: To repudiate a claim within the statutory 3-year contestability period, the insurer must conclusively establish: (a) That the statement was made on a material matter, (b) That the proposer suppressed or misrepresented it knowingly and fraudulently, and (c) That the proposer knew at the time of making it that the statement was false. (2) Innocent Oversights Protected: Minor memory lapses, spelling mistakes, or unintentional omissions of trivial colds or non-chronic consultations cannot be weaponized as fraud.",
+    "source": "Insurance Act 1938 Section 45 & Supreme Court Rulings on Insurance Contracts",
+    "source_url": "https://irdai.gov.in/acts",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "fraud_claims_investigation_ethics",
+    "category": "Insurance Fraud, Consumer Protection, and Regulatory Guidance",
+    "subcategory": "Investigator Code of Conduct",
+    "title": "Code of Conduct for Forensic Investigators & Policyholder Harassment Protection",
+    "keywords": [
+      "investigator code of conduct",
+      "forensic claim investigation",
+      "harassment protection",
+      "privacy rights",
+      "unannounced home visits",
+      "written consent"
+    ],
+    "questions": [
+      "Can insurance claim investigators harass my family or neighbors?",
+      "What are the rules for insurance investigators in India?",
+      "Do I have to sign blank papers for an insurance investigator?",
+      "Can an investigator visit my home late at night?"
+    ],
+    "content": "IRDAI Policyholder Protection guidelines establish strict ethics for third-party insurance investigators: (1) Mandatory Identification: Investigators must display formal photo ID badges and written authorization letters issued by the insurance company. (2) Respect for Privacy & Timings: Enquiries must occur during reasonable daytime hours (9 AM to 6 PM); intimidating family members, trespassing, or coercive questioning of grieving nominees is strictly prohibited. (3) Prohibition of Blank Vouchers: Investigators cannot coerce claimants into executing blank papers, blank discharge vouchers, or unsigned statements. Any intimidation should be escalated immediately to the insurer's GRO and local police.",
+    "source": "IRDAI Code of Conduct for Claims Investigators & Ombudsman Directives",
+    "source_url": "https://irdai.gov.in/guidelines",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "fraud_irdai_bima_vistaar_scheme",
+    "category": "Insurance Fraud, Consumer Protection, and Regulatory Guidance",
+    "subcategory": "IRDAI Bima Vistaar",
+    "title": "IRDAI Bima Vistaar: Affordable All-in-One Microinsurance Coverage",
+    "keywords": [
+      "Bima Vistaar",
+      "IRDAI inclusive insurance",
+      "all-in-one policy",
+      "composite policy",
+      "affordable premium",
+      "rural financial protection",
+      "Bima Trinity"
+    ],
+    "questions": [
+      "What is Bima Vistaar by IRDAI?",
+      "What risks are covered under the Bima Vistaar all-in-one policy?",
+      "How much will Bima Vistaar cost?",
+      "Who is eligible for Bima Vistaar microinsurance?"
+    ],
+    "content": "Bima Vistaar forms part of IRDAI's 'Bima Trinity' (Bima Sugam, Bima Vahak, and Bima Vistaar) designed to achieve 'Insurance for All by 2047': (1) Composite Architecture: A bundled, simplified microinsurance product that provides comprehensive family protection across four critical perils: life cover, accidental death and disability cover, health hospitalization cash benefit, and property/dwelling damage (fire, flood) in a single policy bond. (2) Standard Terms: Features zero medical underwriting, fixed parametric claim payouts, simple claim checklists, and highly affordable annual premiums targeted at rural and low-income households.",
+    "source": "IRDAI Regulatory Framework for Bima Vistaar Product Guidelines",
+    "source_url": "https://irdai.gov.in/regulations",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "fraud_irdai_bima_vahak_women",
+    "category": "Insurance Fraud, Consumer Protection, and Regulatory Guidance",
+    "subcategory": "IRDAI Bima Vahak",
+    "title": "IRDAI Bima Vahak: Gram Panchayat Women-Led Insurance Distribution",
+    "keywords": [
+      "Bima Vahak",
+      "Gram Panchayat insurance",
+      "women insurance distribution",
+      "rural insurance penetration",
+      "handheld electronic devices",
+      "microinsurance servicing"
+    ],
+    "questions": [
+      "Who is a Bima Vahak in Indian insurance?",
+      "How do Bima Vahaks help rural families get insurance?",
+      "Can Bima Vahaks collect premium and process claims?",
+      "What is the role of women in the Bima Vahak scheme?"
+    ],
+    "content": "Bima Vahak is a dedicated, village-level distribution architecture established by IRDAI to empower women and expand financial protection into rural India: (1) Composition: Deploys trained women agents ('Vahaks') in every Gram Panchayat across the country who act as trusted community insurance counsellors. (2) Technology-Enabled: Equipped with handheld biometric POS devices for instant paperless onboarding, KYC verification, electronic premium collection, and fast-track claim document uploads. (3) Service Scope: Focuses on distributing standardized microinsurance products like Bima Vistaar, ensuring fraud-free last-mile servicing.",
+    "source": "IRDAI Guidelines on Bima Vahak (Gram Panchayat Distribution Force)",
+    "source_url": "https://irdai.gov.in/guidelines",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "fraud_centralized_fraud_registry",
+    "category": "Insurance Fraud, Consumer Protection, and Regulatory Guidance",
+    "subcategory": "Central Fraud Registry (CFR)",
+    "title": "General Insurance Council (GIC) Central Fraud Registry (CFR)",
+    "keywords": [
+      "Central Fraud Registry",
+      "CFR",
+      "insurance fraud database",
+      "GIC fraud detection",
+      "shared blacklists",
+      "fraudulent claimants",
+      "underwriting analytics"
+    ],
+    "questions": [
+      "How do insurance companies share information about fraudulent claims?",
+      "What is the Central Fraud Registry (CFR) in India?",
+      "Can an insurance company deny a policy because of a past fraudulent claim?",
+      "What data is stored in the insurance fraud registry?"
+    ],
+    "content": "To prevent syndicates and serial fraudsters from exploiting multiple insurers, the General Insurance Council (GIC) operates the Central Fraud Registry (CFR): (1) Shared Intelligence: A secure, centralized repository that collates verified forensic fraud data across member insurers—including fraudulent hospital networks, de-registered medical practitioners, rogue agents, staged accident cartels, and repeat fraudulent claimants. (2) Automated Underwriting Alerts: Insurers screen incoming proposal applications and high-value claim requests against the CFR to detect red-flagged phone numbers, PANs, or hospital registrations before issuing approvals.",
+    "source": "General Insurance Council (GIC) Central Fraud Registry Directives",
+    "source_url": "https://irdai.gov.in/guidelines",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "fraud_statutory_whistleblower_protections",
+    "category": "Insurance Fraud, Consumer Protection, and Regulatory Guidance",
+    "subcategory": "Whistleblower & Public Warnings",
+    "title": "Reporting Unlicensed Insurance Operators & Public Warning Notices",
+    "keywords": [
+      "whistleblower protection",
+      "unlicensed insurance company",
+      "illegal insurance schemes",
+      "public notice",
+      "IRDAI enforcement",
+      "Section 102 fine"
+    ],
+    "questions": [
+      "How do I report an illegal insurance company in India?",
+      "What happens if an unauthorized company sells insurance?",
+      "Where can I check if an insurance company is licensed by IRDAI?",
+      "What penalties does IRDAI impose on fraudulent insurers?"
+    ],
+    "content": "Operating an insurance business without a valid certificate of registration from IRDAI is a serious statutory offence under the Insurance Act 1938: (1) Public Registry of Licensed Insurers: Citizens must verify that an insurer is listed on the official IRDAI portal (irdai.gov.in) before buying any policy. Unregistered multi-level marketing (MLM) schemes and chit funds claiming to provide 'insurance guarantees' are illegal. (2) Regulatory Enforcement: IRDAI issues statutory cease-and-desist public warnings, freezes accounts, and initiates criminal proceedings under Section 102/103 of the Insurance Act with penalties reaching crores of rupees.",
+    "source": "Insurance Act 1938 Section 102 & IRDAI Enforcement Guidelines",
+    "source_url": "https://irdai.gov.in/acts",
+    "verification_date": "2026-03"
+  }
+]

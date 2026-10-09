@@ -1,0 +1,296 @@
+[
+  {
+    "id": "health-02",
+    "category": "Waiting Periods, Exclusions, Co-payments, and Sub-limits",
+    "subcategory": "Waiting Periods & PED",
+    "title": "Waiting Periods in Health Insurance & Pre-Existing Diseases (PED)",
+    "keywords": [
+      "waiting period",
+      "pre-existing disease",
+      "PED",
+      "initial waiting period",
+      "specific illness waiting period",
+      "30 days",
+      "moratorium"
+    ],
+    "questions": [
+      "What is a pre-existing disease (PED)?",
+      "How long is the waiting period for pre-existing illnesses?",
+      "Does health insurance cover medical claims immediately after buying?",
+      "What diseases have a 2-year waiting period?"
+    ],
+    "content": "A waiting period is the time during which specific or all medical claims are not payable by the insurer: (1) Initial Waiting Period (30 days): Claims arising during the first 30 days of the policy are excluded, except for emergency hospitalisation due to accidental injuries. (2) Pre-Existing Disease (PED) Waiting Period: A PED is any medical condition, injury, or ailment diagnosed or treated within 36 to 48 months before purchasing the policy. Under revised IRDAI guidelines, the maximum PED waiting period is capped at 36 months (reduced from 48 months). (3) Specific Ailment Waiting Period (1 to 2 years): Slow-developing illnesses like cataract, hernia, kidney stones, piles, and joint replacement have mandatory waiting periods of 12 to 24 months regardless of pre-existence.",
+    "source": "IRDAI Health Insurance Regulations & Master Circulars",
+    "source_url": "https://irdai.gov.in/master-circulars",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "health-03",
+    "category": "Waiting Periods, Exclusions, Co-payments, and Sub-limits",
+    "subcategory": "Room Rent & ICU Limits",
+    "title": "Room Rent Limits & ICU Capping",
+    "keywords": [
+      "room rent limit",
+      "ICU capping",
+      "proportionate deduction",
+      "single private room",
+      "sub-limit",
+      "hospitalization expenses"
+    ],
+    "questions": [
+      "What is room rent limit in health insurance?",
+      "What happens if I exceed my room rent limit?",
+      "What is proportionate deduction?",
+      "How does ICU capping affect claim settlement?"
+    ],
+    "content": "Room rent capping is a limit set by the insurer on the per-day room cost eligible for full reimbursement: (1) Typical Limits: Often capped at 1% of the Sum Insured per day for a normal room (e.g. ₹5,000/day on a ₹5 Lakh policy) and 2% per day for ICU charges. (2) Proportionate Deduction Rule: If you choose a room exceeding your eligible limit (e.g. paying ₹8,000 when your limit is ₹5,000), the insurer proportionately reduces payment across ALL associated medical charges (doctor consultation fees, surgeon fees, operation theatre fees). Formula: Claim Paid = Associated Charges x (Eligible Room Rent / Actual Room Rent). (3) Recommendation: Choose policies with 'no room rent capping' or purchase a room rent waiver add-on to eliminate out-of-pocket penalties.",
+    "source": "IRDAI Guidelines on Standardization of Health Insurance",
+    "source_url": "https://irdai.gov.in/guidelines",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "health-04",
+    "category": "Waiting Periods, Exclusions, Co-payments, and Sub-limits",
+    "subcategory": "Co-payment & Deductibles",
+    "title": "Co-payment and Deductibles in Health Insurance",
+    "keywords": [
+      "co-payment",
+      "copay",
+      "deductible",
+      "cost-sharing",
+      "out of pocket",
+      "senior citizen copay",
+      "zone copay"
+    ],
+    "questions": [
+      "What is co-payment in health insurance?",
+      "What is the difference between co-payment and deductible?",
+      "Does higher copay reduce premium?",
+      "What is voluntary co-payment?"
+    ],
+    "content": "Co-payments and deductibles are cost-sharing clauses designed to lower annual premiums: (1) Co-payment: A fixed percentage (e.g. 10%, 20%) of the admissible claim amount that the policyholder must pay out-of-pocket for every claim, with the insurer settling the balance. Common in senior citizen policies and zone-based tiering (e.g. getting treated in a metro hospital with a tier-2 policy). (2) Deductible: A fixed monetary threshold (e.g. ₹50,000) that the insured must bear in full before the insurer starts paying anything. (3) Key Difference: A deductible applies first as an absolute financial hurdle; a co-payment is a fractional share applied on the total bill after deductibles are satisfied.",
+    "source": "IRDAI Product Filing Norms & Consumer Education Circulars",
+    "source_url": "https://irdai.gov.in/consumer-education",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "wait_initial_30day_exclusion",
+    "category": "Waiting Periods, Exclusions, Co-payments, and Sub-limits",
+    "subcategory": "Initial 30-Day Waiting Period",
+    "title": "Initial 30-Day Waiting Period: Accident Exception & Coverage Rules",
+    "keywords": [
+      "initial waiting period",
+      "30 days waiting",
+      "accident exception",
+      "policy inception",
+      "illness exclusion",
+      "instant accidental cover"
+    ],
+    "questions": [
+      "Can I claim health insurance in the first 30 days?",
+      "Why does health insurance have a 30-day waiting period?",
+      "Are accidental emergency injuries covered during the 30-day waiting period?",
+      "Does the 30-day waiting period apply to policy renewal?"
+    ],
+    "content": "The initial 30-day waiting period is a standard regulatory feature designed to prevent immediate post-purchase moral hazard: (1) General Rule: Any hospitalisation or medical treatment required due to an illness, infection, or medical condition contracted within 30 days from the policy inception date is strictly excluded from coverage. (2) The Accidental Emergency Exception: Accidental injuries requiring emergency hospitalisation are 100% exempt from the 30-day waiting period and are covered from Day 1, Minute 1 of policy issuance. (3) No Application on Renewal: The 30-day waiting period applies only to brand-new policies; it never applies to continuous annual policy renewals or ported policies.",
+    "source": "IRDAI Master Circular on Health Insurance Standardization",
+    "source_url": "https://irdai.gov.in/master-circulars",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "wait_specific_disease_2year",
+    "category": "Waiting Periods, Exclusions, Co-payments, and Sub-limits",
+    "subcategory": "Specific Ailment Waiting Periods",
+    "title": "2-Year Specific Named Ailment Waiting Period: Cataract, Hernia, Joint Replacement",
+    "keywords": [
+      "specific ailment waiting period",
+      "2-year waiting",
+      "cataract",
+      "hernia",
+      "piles",
+      "kidney stones",
+      "knee replacement",
+      "benign tumours"
+    ],
+    "questions": [
+      "Which illnesses have a 2-year waiting period in health insurance?",
+      "Why does cataract have a waiting period?",
+      "Is joint replacement covered in the first year of insurance?",
+      "Can specific disease waiting periods be waived?"
+    ],
+    "content": "Health insurance policies contain a standard 'Specific Named Ailment Waiting Period' (typically 24 months): (1) Rationale: These conditions are slow-developing, degenerative ailments that could exist asymptomatically before policy purchase. (2) Standard List of 24-Month Exclusions: Cataract, Hernia of all types, Hydrocele, Piles (haemorrhoids), Fissures, Fistula-in-ano, Kidney and Gallbladder stones (calculi), Benign prostatic hypertrophy (BPH), Gynaecological disorders (fibroids, cysts), Osteoarthritis and joint replacements (unless caused by accident), and Sinusitis or ENT surgeries. (3) Waiver Add-on: Some modern insurers offer paid riders to reduce or eliminate the 2-year waiting period.",
+    "source": "IRDAI Guidelines on Standardization of Health Insurance - Specific Waiting Periods",
+    "source_url": "https://irdai.gov.in/guidelines",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "wait_ped_moratorium_period",
+    "category": "Waiting Periods, Exclusions, Co-payments, and Sub-limits",
+    "subcategory": "Moratorium Period Safeguards",
+    "title": "5-Year Moratorium Period in Health Insurance: No Rejection Rule",
+    "keywords": [
+      "moratorium period",
+      "5 years moratorium",
+      "claim contestability",
+      "non-disclosure",
+      "IRDAI Master Circular 2024",
+      "unquestioned claim"
+    ],
+    "questions": [
+      "What is the moratorium period in health insurance in India?",
+      "Can an insurance company reject a health claim after 5 years?",
+      "What changed in the IRDAI 2024 health moratorium rules?",
+      "Does the moratorium period protect against non-disclosure?"
+    ],
+    "content": "Under the revised IRDAI Master Circular on Health Insurance, the statutory 'Moratorium Period' was reduced from 8 continuous years to 5 continuous years: (1) The Rule: After 5 years of continuous coverage (including renewals and ported policies), no health insurance claim can be contested or repudiated by the insurer on grounds of non-disclosure, misrepresentation of facts, or pre-existing diseases, except in cases of proven wilful fraud. (2) Retrospective Scrutiny Bar: The insurer cannot cancel the policy or decline renewal after 5 years, providing long-term policyholders absolute peace of mind against technical claim repudiations.",
+    "source": "IRDAI Master Circular on Health Insurance Products & Policy Servicing",
+    "source_url": "https://irdai.gov.in/master-circulars",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "wait_permanent_exclusions_standard",
+    "category": "Waiting Periods, Exclusions, Co-payments, and Sub-limits",
+    "subcategory": "Permanent Exclusions",
+    "title": "IRDAI Standard List of Permanent Exclusions: Cosmetic, Obesity, Addictions",
+    "keywords": [
+      "permanent exclusions",
+      "cosmetic surgery",
+      "obesity surgery",
+      "substance abuse",
+      "hazardous activities",
+      "self-inflicted injury",
+      "gender reassignment"
+    ],
+    "questions": [
+      "What medical treatments are permanently excluded from health insurance?",
+      "Is plastic surgery covered in health insurance?",
+      "Does health insurance cover weight loss bariatric surgery?",
+      "Are addiction treatments covered by health insurance?"
+    ],
+    "content": "IRDAI standardized permanent exclusions across Indian health insurance to prevent arbitrary rejections: (1) Permanent Exclusions: Treatments that policies can never cover: Cosmetic or aesthetic treatments, plastic surgery (unless reconstructive surgery following accidental burn/trauma), self-inflicted injuries, intentional suicide attempts, treatments resulting from alcoholism or narcotic drug abuse, experimental or unproven therapies, and participation as a professional in hazardous sports. (2) Conditional Exclusions: Obesity / Bariatric surgery is covered only if medically certified for morbid obesity with BMI ≥ 40 or BMI ≥ 35 with severe co-morbidities like cardiomyopathy or uncontrolled diabetes, subject to a 24-36 month waiting period.",
+    "source": "IRDAI Guidelines on Standardization of Exclusions in Health Insurance",
+    "source_url": "https://irdai.gov.in/guidelines",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "wait_sublimits_cataract_joint",
+    "category": "Waiting Periods, Exclusions, Co-payments, and Sub-limits",
+    "subcategory": "Procedure-Specific Sub-limits",
+    "title": "Specific Ailment Sub-Limits: Cataract Caps, Angioplasty & Joint Limits",
+    "keywords": [
+      "sub-limit",
+      "cataract sub-limit",
+      "procedure cap",
+      "joint replacement limit",
+      "out of pocket cap",
+      "sum insured capping"
+    ],
+    "questions": [
+      "What is a sub-limit in health insurance?",
+      "How much does insurance pay for cataract surgery?",
+      "Can I avoid sub-limits in my health insurance policy?",
+      "Does a ₹10 Lakh sum insured pay ₹10 Lakh for any single surgery?"
+    ],
+    "content": "A sub-limit is a pre-defined monetary ceiling on the maximum amount the insurer will reimburse for a specific procedure, regardless of how large the total Sum Insured is: (1) Common Cataract Sub-Limits: Typically capped at ₹25,000 to ₹40,000 per eye. Even with a ₹20 Lakh Sum Insured, if an advanced multifocal lens surgery costs ₹75,000, the insurer reimburses only the sub-limit of ₹35,000, leaving ₹40,000 out-of-pocket. (2) Other Frequent Sub-limits: Knee joint replacement (capped at ₹2 Lakh to ₹3 Lakh per knee), kidney stone lithotripsy (capped at ₹40,000), and modern treatments. Premium policies without sub-limits cost slightly more but prevent massive personal expenses.",
+    "source": "IRDAI Health Insurance Product Filing & Standardization Handbooks",
+    "source_url": "https://irdai.gov.in/regulations",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "wait_zone_based_copayment",
+    "category": "Waiting Periods, Exclusions, Co-payments, and Sub-limits",
+    "subcategory": "Zone-Based Pricing & Co-pays",
+    "title": "Zone-Based Pricing and Geo-Location Co-Payments",
+    "keywords": [
+      "zone-based pricing",
+      "Zone 1",
+      "Zone 2",
+      "Zone 3",
+      "metro hospital copay",
+      "tier 2 city discount",
+      "geographic copayment"
+    ],
+    "questions": [
+      "What is zone-based health insurance?",
+      "What happens if I have a Tier 2 health policy and get hospitalized in Mumbai or Delhi?",
+      "What is Zone 1 vs Zone 2 in insurance?",
+      "How much copay applies for treatment outside my city?"
+    ],
+    "content": "Medical treatment costs differ drastically between metropolitan cities and smaller towns: (1) Zone Classification: Insurers classify India into zones (e.g. Zone 1: Delhi NCR, Mumbai; Zone 2: Bengaluru, Hyderabad, Chennai, Kolkata, Pune; Zone 3: Rest of India). Premiums are lowest in Zone 3 and highest in Zone 1. (2) Geo Co-payment Penalty: If an insured buys a cheaper Zone 3 or Zone 2 policy but gets hospitalised in a Zone 1 hospital, a mandatory co-payment (typically 10% to 20%) is deducted from the claim payout. (3) Zone Upgrade: Policyholders moving to metro cities can pay the premium difference at renewal to upgrade to Zone 1 and remove the penalty.",
+    "source": "IRDAI Product Regulations on Health Pricing & Geographic Tiering",
+    "source_url": "https://irdai.gov.in/regulations",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "wait_copay_voluntary_vs_mandatory",
+    "category": "Waiting Periods, Exclusions, Co-payments, and Sub-limits",
+    "subcategory": "Voluntary vs Mandatory Co-pays",
+    "title": "Voluntary Co-Payment vs Mandatory Co-Payment: Strategic Trade-Offs",
+    "keywords": [
+      "voluntary copay",
+      "mandatory copay",
+      "premium discount",
+      "senior citizen mandatory copay",
+      "cost sharing strategy"
+    ],
+    "questions": [
+      "Should I choose voluntary co-payment to reduce health insurance premium?",
+      "What is mandatory copay for senior citizens?",
+      "How much discount do you get for 20% voluntary copay?",
+      "Can voluntary copay be removed at renewal?"
+    ],
+    "content": "Understanding the distinction between voluntary and mandatory cost-sharing: (1) Mandatory Co-payment: Imposed compulsorily by the insurer due to heightened underwriting risk, almost universally in Senior Citizen health plans (typically 10% to 20%) or applicants with adverse medical histories. It cannot be opted out of. (2) Voluntary Co-payment: A deliberate choice made by the policyholder to share e.g. 10%, 20%, or 30% of each claim in exchange for an immediate upfront discount (15% to 35%) on their annual premium. (3) Trade-Off: Ideal for wealthy individuals using insurance strictly for catastrophic emergencies, but inadvisable for those without liquid cash reserves.",
+    "source": "IRDAI Health Product Underwriting Standards",
+    "source_url": "https://irdai.gov.in/guidelines",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "wait_cumulative_bonus_super_bonus",
+    "category": "Waiting Periods, Exclusions, Co-payments, and Sub-limits",
+    "subcategory": "Cumulative Bonus Mechanics",
+    "title": "Cumulative Bonus (NCB) vs Super Bonus: Accumulation & Reduction Norms",
+    "keywords": [
+      "cumulative bonus",
+      "super bonus",
+      "NCB health insurance",
+      "claim free year",
+      "bonus reduction",
+      "sum insured doubling"
+    ],
+    "questions": [
+      "How does Cumulative Bonus work in health insurance?",
+      "Does No Claim Bonus decrease if I make a claim in health insurance?",
+      "What is Super Bonus or Multiplier in health insurance?",
+      "Can cumulative bonus exceed 100% of sum insured?"
+    ],
+    "content": "Cumulative Bonus (CB) rewards policyholders for claim-free policy years: (1) Standard Cumulative Bonus: The insurer increases the Sum Insured by 5% to 10% for every claim-free year, up to a maximum cap of 50% or 100% of the base Sum Insured, without any increase in premium. (2) Super Bonus / Multiplier Add-on: Some modern insurers offer 50% or 100% bonus per year, doubling or tripling base cover within 1 to 2 years. (3) Reduction on Claims: Under IRDAI standardization, if a claim is made in a subsequent year, the accumulated bonus is reduced at the same rate it was earned (not wiped out to zero instantly), and the base Sum Insured can never be diminished.",
+    "source": "IRDAI Standardization Guidelines on Health Cumulative Bonus",
+    "source_url": "https://irdai.gov.in/guidelines",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "wait_genetic_disorders_inclusion",
+    "category": "Waiting Periods, Exclusions, Co-payments, and Sub-limits",
+    "subcategory": "Mental Illness & Genetic Conditions",
+    "title": "Mental Illness, Neurodiversity and Genetic Disorder Coverage Mandates",
+    "keywords": [
+      "mental illness coverage",
+      "Mental Healthcare Act 2017",
+      "genetic disorders",
+      "neurodiversity",
+      "depression",
+      "psychiatric hospitalisation",
+      "Delhi High Court ruling"
+    ],
+    "questions": [
+      "Does health insurance cover mental health and depression in India?",
+      "Are genetic diseases excluded from health insurance?",
+      "What is the Mental Healthcare Act mandate for health insurers?",
+      "Is psychiatric hospitalisation eligible for cashless claim?"
+    ],
+    "content": "Landmark regulatory and judicial reforms ended discrimination against mental illness and genetic traits: (1) Mental Healthcare Act 2017 (Section 21(4)): Insurers must treat mental illnesses (schizophrenia, bipolar disorder, severe clinical depression) on equal terms with physical illnesses. In-patient psychiatric hospitalisation must be covered without arbitrary exclusion clauses. (2) Genetic Disorders: Following landmark Delhi High Court rulings, IRDAI barred insurers from excluding claims solely on the basis of genetic disorders, congenital internal anomalies, or family genetic history. Pre-existing disease waiting periods apply normally, but blanket permanent denial is illegal.",
+    "source": "Mental Healthcare Act 2017 & IRDAI Guidelines on Mental Illness & Genetic Coverage",
+    "source_url": "https://irdai.gov.in/guidelines",
+    "verification_date": "2026-03"
+  }
+]

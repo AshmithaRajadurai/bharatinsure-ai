@@ -1,0 +1,298 @@
+[
+  {
+    "id": "terms_apr_vs_apy_interest_rates",
+    "category": "Financial Terminology and Frequently Asked Questions",
+    "subcategory": "APR vs APY",
+    "title": "APR (Annual Percentage Rate) vs APY (Annual Percentage Yield) Explained",
+    "keywords": [
+      "APR",
+      "APY",
+      "annual percentage rate",
+      "annual percentage yield",
+      "compounding effect",
+      "borrowing vs investing",
+      "interest comparison"
+    ],
+    "questions": [
+      "What is the difference between APR and APY?",
+      "Why is APY higher than APR for the same interest rate?",
+      "Is APR used for loans and APY for deposits?",
+      "How does compounding frequency change APY?"
+    ],
+    "content": "Clarifying how interest is communicated in banking and borrowing: (1) Annual Percentage Rate (APR): Represents the simple annual cost of borrowing without accounting for intra-year compounding, though it bundles nominal interest and mandatory fees. Used primarily for loans, mortgages, and credit cards. (2) Annual Percentage Yield (APY / Effective Annual Rate): Reflects the true annual rate earned on an investment or deposit taking compounding into account. Formula: APY = (1 + r/n)^n - 1, where r is nominal rate and n is compounding periods. E.g. A 7.0% nominal rate compounded quarterly yields an APY of 7.19%.",
+    "source": "RBI Financial Literacy Handbook on Interest Computations",
+    "source_url": "https://www.rbi.org.in/financialeducation/",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "terms_repo_rate_reverse_repo_msf",
+    "category": "Financial Terminology and Frequently Asked Questions",
+    "subcategory": "Monetary Policy Key Rates",
+    "title": "Monetary Policy Rates: Repo Rate, Reverse Repo Rate, SDF & Marginal Standing Facility",
+    "keywords": [
+      "repo rate",
+      "reverse repo rate",
+      "SDF",
+      "standing deposit facility",
+      "MSF",
+      "marginal standing facility",
+      "monetary policy committee",
+      "MPC"
+    ],
+    "questions": [
+      "What is the RBI Repo Rate and how does it affect my loan EMI?",
+      "What is the difference between Repo Rate and Reverse Repo Rate?",
+      "What is the Standing Deposit Facility (SDF)?",
+      "What is Marginal Standing Facility (MSF)?"
+    ],
+    "content": "The central bank's core monetary policy levers: (1) Repo Rate: The benchmark interest rate at which the RBI lends short-term liquidity to commercial banks against government securities. When the RBI hikes the repo rate to tame inflation, borrowing costs rise and bank loan EMIs increase. (2) Standing Deposit Facility (SDF): The uncollateralized rate at which RBI absorbs surplus overnight liquidity from banks. (3) Marginal Standing Facility (MSF): An emergency borrowing window for scheduled banks to borrow overnight funds against approved government securities at an interest rate set above the repo rate.",
+    "source": "RBI Monetary Policy Framework & Operating Procedures",
+    "source_url": "https://www.rbi.org.in/Scripts/MonetaryPolicyFramework.aspx",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "terms_crr_and_slr_bank_reserves",
+    "category": "Financial Terminology and Frequently Asked Questions",
+    "subcategory": "CRR & SLR Reserve Ratios",
+    "title": "Cash Reserve Ratio (CRR) and Statutory Liquidity Ratio (SLR) Banking Safeguards",
+    "keywords": [
+      "CRR",
+      "cash reserve ratio",
+      "SLR",
+      "statutory liquidity ratio",
+      "bank solvency",
+      "liquid reserves",
+      "Section 42 RBI Act"
+    ],
+    "questions": [
+      "What is Cash Reserve Ratio (CRR)?",
+      "What is Statutory Liquidity Ratio (SLR)?",
+      "Why do banks maintain CRR and SLR?",
+      "How do reserve ratios protect depositor money?"
+    ],
+    "content": "Statutory reserve requirements ensuring liquidity and solvency across the banking system: (1) Cash Reserve Ratio (CRR): The specified percentage of a bank's Net Demand and Time Liabilities (NDTL) that must be maintained as liquid cash reserves parked with the RBI under Section 42 of the RBI Act. Earns zero interest. (2) Statutory Liquidity Ratio (SLR): The percentage of NDTL that banks must maintain in safe, liquid domestic assets (predominantly Central and State Government securities, gold, or approved bonds) under Section 24 of the Banking Regulation Act. Protects depositors from sudden bank runs.",
+    "source": "Reserve Bank of India Act 1934 Section 42 & Banking Regulation Act Section 24",
+    "source_url": "https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "terms_bull_vs_bear_market_cycles",
+    "category": "Financial Terminology and Frequently Asked Questions",
+    "subcategory": "Market Cycles & Terminology",
+    "title": "Bull Markets vs Bear Markets, Corrections, and Market Cycles Explained",
+    "keywords": [
+      "bull market",
+      "bear market",
+      "market correction",
+      "crash",
+      "20 percent decline",
+      "market cycle",
+      "investor sentiment"
+    ],
+    "questions": [
+      "What is the difference between a bull market and a bear market?",
+      "What is a market correction in stock exchanges?",
+      "How much must an index fall to be officially called a bear market?",
+      "How long do market cycles typically last?"
+    ],
+    "content": "Classifying financial market sentiment and macro price trends: (1) Bull Market: A prolonged phase characterized by rising share prices, economic growth, low unemployment, and high investor optimism. (2) Market Correction: A short-term decline of 10% to 20% from recent peak levels, widely considered a healthy re-pricing of overextended valuations. (3) Bear Market: A sustained drop of 20% or more from recent all-time highs across major benchmark indices (Nifty 50, Sensex), accompanied by economic slowdown and widespread pessimism. Cycles are natural: long-term markets have historically trended upward.",
+    "source": "SEBI Investor Education Material on Market Behavior",
+    "source_url": "https://investor.sebi.gov.in/",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "terms_liquidity_vs_solvency",
+    "category": "Financial Terminology and Frequently Asked Questions",
+    "subcategory": "Liquidity vs Solvency",
+    "title": "Liquidity vs Solvency: Fundamental Distinctions in Personal & Corporate Finance",
+    "keywords": [
+      "liquidity",
+      "solvency",
+      "insolvency",
+      "cash flow crisis",
+      "asset rich cash poor",
+      "bankruptcy",
+      "personal financial health"
+    ],
+    "questions": [
+      "What is the difference between liquidity and solvency?",
+      "Can someone be asset-rich but face a liquidity crisis?",
+      "What is insolvency?",
+      "Why is liquidity more critical during short-term emergencies?"
+    ],
+    "content": "Differentiating immediate cash capacity from long-term financial survival: (1) Liquidity: The speed and ease with which an asset can be converted into ready cash at fair market value to satisfy immediate financial dues (e.g. cash, savings bank balances, liquid funds). Being 'illiquid' means owning substantial valuable real estate or gold but possessing zero cash to pay hospital bills or rent today. (2) Solvency: The overall financial capacity of an individual or firm to meet total long-term liabilities with total assets. (3) Insolvency: When total liabilities exceed total assets; failure of solvency leads to bankruptcy.",
+    "source": "Insolvency and Bankruptcy Board of India (IBBI) Educational Handbooks",
+    "source_url": "https://ibbi.gov.in/",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "terms_fiscal_deficit_vs_cad",
+    "category": "Financial Terminology and Frequently Asked Questions",
+    "subcategory": "Fiscal Deficit & CAD",
+    "title": "Fiscal Deficit vs Current Account Deficit (CAD): Macroeconomic Indicators",
+    "keywords": [
+      "fiscal deficit",
+      "current account deficit",
+      "CAD",
+      "twin deficit",
+      "GDP percentage",
+      "government borrowing",
+      "import export balance"
+    ],
+    "questions": [
+      "What is the difference between Fiscal Deficit and Current Account Deficit (CAD)?",
+      "How does a high fiscal deficit affect interest rates and inflation?",
+      "What causes Current Account Deficit in India?",
+      "What is the 'Twin Deficit' problem?"
+    ],
+    "content": "Macroeconomic benchmarks tracking sovereign financial stability: (1) Fiscal Deficit: The shortfall between the government's total expenditure and its total non-debt revenues. Represents the total borrowings the Government must raise in a year to fund its budget. Expressed as a % of GDP. (2) Current Account Deficit (CAD): The difference between total incoming and outgoing foreign exchange from trade in goods, services, and transfers. A high CAD reflects that a country is importing more than it exports (driven in India by crude oil, electronics, and gold imports), exerting downward pressure on the Rupee.",
+    "source": "Ministry of Finance Economic Survey & RBI Macroeconomic Reports",
+    "source_url": "https://www.rbi.org.in/Scripts/AnnualPublications.aspx",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "terms_credit_spread_and_yield_curve",
+    "category": "Financial Terminology and Frequently Asked Questions",
+    "subcategory": "Yield Curves & Spreads",
+    "title": "Yield Curves (Inverted vs Normal) and Credit Spreads in Debt Markets",
+    "keywords": [
+      "yield curve",
+      "inverted yield curve",
+      "normal yield curve",
+      "recession predictor",
+      "bond yield",
+      "credit spread",
+      "debt markets"
+    ],
+    "questions": [
+      "What is a yield curve in bond markets?",
+      "What does an inverted yield curve signify?",
+      "Why is an inverted yield curve considered a predictor of recession?",
+      "What is a normal upward sloping yield curve?"
+    ],
+    "content": "Visual representations of interest rates across different maturities for debt securities: (1) Normal Yield Curve: Upward sloping curve where longer-tenure bonds offer higher yields than short-tenure papers to compensate investors for taking longer interest-rate and inflation risk; reflects healthy economic growth. (2) Inverted Yield Curve: Rare phenomenon where short-term yields exceed long-term yields. Historically acts as an accurate macroeconomic leading indicator of an impending recession. (3) Flat Yield Curve: Transition phase indicating market uncertainty.",
+    "source": "RBI Financial Markets Operations Manual & Debt Market Handbooks",
+    "source_url": "https://www.rbi.org.in/",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "terms_cagr_vs_xirr_investment_returns",
+    "category": "Financial Terminology and Frequently Asked Questions",
+    "subcategory": "CAGR vs XIRR",
+    "title": "CAGR vs XIRR: When to Use Which Metric for SIP and Irregular Cash Flows",
+    "keywords": [
+      "CAGR",
+      "XIRR",
+      "compounded annual growth rate",
+      "extended internal rate of return",
+      "SIP returns calculation",
+      "lump sum return metric"
+    ],
+    "questions": [
+      "What is the difference between CAGR and XIRR?",
+      "Why can't I use CAGR to calculate returns on my mutual fund SIP?",
+      "What is XIRR in mutual funds?",
+      "How do you calculate annualized returns on multiple cash flows?"
+    ],
+    "content": "Evaluating real investment performance accurately across different cash-flow structures: (1) CAGR (Compound Annual Growth Rate): Formula: CAGR = (End Value / Begin Value)^(1/n) - 1. Measures the annual return of a single lump-sum investment held across n years. Meaningless for ongoing SIPs because each monthly instalment is invested for a different duration. (2) XIRR (Extended Internal Rate of Return): Calculates the annualized return of multiple irregular cash inflows and outflows across different dates. XIRR is the standard, mathematically accurate metric to measure returns for mutual fund SIPs, SWPs, and stock transactions.",
+    "source": "AMFI Investor Guide to Performance Metrics & Financial Math Standards",
+    "source_url": "https://www.amfiindia.com/",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "terms_faq_insurance_deductibles_copay",
+    "category": "Financial Terminology and Frequently Asked Questions",
+    "subcategory": "Insurance Cost Sharing FAQs",
+    "title": "Frequently Asked Questions: Health Insurance Out-of-Pocket Cost Terminology",
+    "keywords": [
+      "insurance FAQ",
+      "copay FAQ",
+      "deductible FAQ",
+      "room rent FAQ",
+      "cashless FAQ",
+      "common insurance questions"
+    ],
+    "questions": [
+      "If my bill is ₹2 Lakh and I have a 20% copay, how much do I pay?",
+      "Does deductible apply before or after copay?",
+      "Will insurance reimburse expenses if I took treatment in an Ayurvedic hospital?",
+      "Can I claim insurance if I was discharged in less than 24 hours?"
+    ],
+    "content": "Answers to frequent consumer dilemmas regarding health policy cost structures: (1) Co-payment Example: On an admissible bill of ₹2,00,000 with a 20% co-pay, the policyholder pays ₹40,000 out-of-pocket and the insurer settles ₹1,60,000. (2) Co-pay vs Deductible Order: Deductibles are satisfied FIRST. E.g. with a ₹50,000 deductible and 10% copay on a ₹2,00,000 bill: Customer pays ₹50,000 deductible first. On remaining ₹1,50,000, 10% copay (₹15,000) applies. Total customer payment = ₹65,000; insurer pays ₹1,35,000. (3) 24-Hour Exemption: Day-care surgeries (cataract, dialysis) require NO overnight stay.",
+    "source": "IRDAI Policyholder Education FAQs & Consumer Handbook",
+    "source_url": "https://irdai.gov.in/consumer-education",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "terms_faq_banking_bounces_and_penalties",
+    "category": "Financial Terminology and Frequently Asked Questions",
+    "subcategory": "Cheque Bounce & Section 138 FAQs",
+    "title": "Frequently Asked Questions: Cheque Bounces (Section 138 NI Act) & Legal Notices",
+    "keywords": [
+      "cheque bounce",
+      "Section 138",
+      "Negotiable Instruments Act",
+      "cheque return memo",
+      "15 days legal notice",
+      "bailable criminal offence",
+      "NACH bounce"
+    ],
+    "questions": [
+      "Is a cheque bounce a criminal offence in India?",
+      "What happens if a cheque bounces due to insufficient funds?",
+      "How much time do I have to pay after receiving a Section 138 legal notice?",
+      "Can you go to jail for a bounced cheque?"
+    ],
+    "content": "Legal realities governing dishonoured negotiable instruments: (1) Criminal Offence: Under Section 138 of the Negotiable Instruments Act 1881, dishonour of a cheque due to insufficiency of funds is a criminal offence punishable with imprisonment up to 2 years and/or a fine up to twice the cheque amount. (2) Mandatory Statutory Procedure: (a) Cheque presented within 3 months of validity, (b) Bank issues 'Cheque Return Memo', (c) Payee must send a formal legal demand notice within 30 days of receiving the memo, (d) Drawer has 15 days from notice receipt to pay in full. If unpaid after 15 days, a criminal complaint is filed in court within 30 days.",
+    "source": "Negotiable Instruments Act 1881 Section 138 & Supreme Court Guidelines",
+    "source_url": "https://legislative.gov.in/sites/default/files/A1881-26.pdf",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "terms_faq_upi_safety_and_pin_rules",
+    "category": "Financial Terminology and Frequently Asked Questions",
+    "subcategory": "UPI Safety FAQs",
+    "title": "Frequently Asked Questions: Everyday UPI Payment Queries & Common Fallacies",
+    "keywords": [
+      "UPI FAQ",
+      "UPI PIN myth",
+      "money debited FAQ",
+      "change UPI PIN",
+      "NPCI FAQ",
+      "common payment doubts"
+    ],
+    "questions": [
+      "Do I ever need to enter my UPI PIN to get a refund or cashback?",
+      "Can someone hack my bank account simply by knowing my phone number or UPI ID?",
+      "What should I do if a shopkeeper says payment was not received but my money was deducted?",
+      "How do I change my UPI PIN if I forgot it?"
+    ],
+    "content": "Addressing widespread misconceptions surrounding UPI transactions: (1) The PIN Truth: Entering your UPI PIN is exclusively for DEBITING funds from your account. You NEVER need to enter a PIN to receive cashbacks, refunds, lottery winnings, or payments from buyers. (2) UPI ID Privacy: Knowing your UPI ID or phone number poses zero risk of hacking; unauthorized debit is impossible without your physical handset, SIM binding, and 4/6-digit secret PIN. (3) Disputed Shop Payments: Show the merchant the 12-digit UPI Reference / UTR number in your app history; the merchant's bank reconciles it.",
+    "source": "NPCI UPI Consumer Awareness FAQs & RBI Sachet",
+    "source_url": "https://www.npci.org.in/what-we-do/upi/faqs",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "terms_faq_credit_bureau_score_repairs",
+    "category": "Financial Terminology and Frequently Asked Questions",
+    "subcategory": "Credit Score FAQs",
+    "title": "Frequently Asked Questions: Credit Bureau Scores, Erasures, and Legal Truths",
+    "keywords": [
+      "CIBIL FAQ",
+      "credit repair agency scam",
+      "score improvement FAQ",
+      "how long to improve CIBIL",
+      "credit inquiries FAQ"
+    ],
+    "questions": [
+      "Can a credit repair agency erase default records from CIBIL for money?",
+      "How long does it take to rebuild a low CIBIL score from 600 to 750?",
+      "Does closing an unused credit card improve my score?",
+      "Do debit card transactions build a credit score?"
+    ],
+    "content": "Separating legal facts from predatory credit repair marketing: (1) No Artificial Erasures: Legally, NO third party, agency, or broker can remove legitimate overdue or settled records from credit bureaus. Factual records stay on credit bureau files for 7 years. (2) Rebuilding Timelines: Rebuilding a score from 600 to 750+ typically requires 12 to 24 months of flawless on-time payments on existing loans or a secured credit card backed by a fixed deposit. (3) Debit Cards: Debit card transactions use your own liquid money and have ZERO impact on credit scores; credit scores track borrowed credit only.",
+    "source": "TransUnion CIBIL Public Consumer Awareness & RBI Master Direction",
+    "source_url": "https://www.cibil.com/consumer-faq",
+    "verification_date": "2026-03"
+  }
+]

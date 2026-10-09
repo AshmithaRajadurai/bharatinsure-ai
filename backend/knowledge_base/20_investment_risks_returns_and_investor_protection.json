@@ -1,0 +1,297 @@
+[
+  {
+    "id": "inv-05",
+    "category": "Investment Risks, Returns, and Investor Protection",
+    "subcategory": "Riskometer & Asset Allocation",
+    "title": "Riskometer, Volatility, Liquidity & Asset Allocation Principles",
+    "keywords": [
+      "riskometer",
+      "volatility",
+      "liquidity",
+      "asset allocation",
+      "standard deviation",
+      "Sharpe ratio",
+      "SEBI product labeling"
+    ],
+    "questions": [
+      "What is a mutual fund Riskometer?",
+      "What are the 6 levels on the SEBI Riskometer?",
+      "Why is asset allocation important in investing?",
+      "What is volatility and liquidity risk?"
+    ],
+    "content": "Risk evaluation frameworks standardized by SEBI for investor awareness: (1) SEBI Riskometer: A visual gauge mandatory across all mutual fund fact sheets and advertisements depicting 6 granular risk levels: Low, Low to Moderate, Moderate, Moderately High, High, and Very High. Evaluated dynamically based on underlying portfolio credit quality, interest rate sensitivity, and market capitalization volatility. (2) Core Investment Risks: Volatility risk (price swings over time), Liquidity risk (inability to sell an asset quickly at fair value), and Credit risk (default by bond issuers). (3) Asset Allocation: Spreading capital across uncorrelated asset classes (equity, debt, gold, cash) to optimize risk-adjusted returns.",
+    "source": "SEBI Circular on Product Labeling in Mutual Fund Schemes - Risk-o-meter",
+    "source_url": "https://www.sebi.gov.in/legal/circulars/oct-2020/circular-on-product-labeling-in-mutual-fund-schemes-risk-o-meter_47796.html",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "inv-06",
+    "category": "Investment Risks, Returns, and Investor Protection",
+    "subcategory": "Inflation, Compounding & Real Returns",
+    "title": "Inflation, Nominal vs Real Returns & The Power of Compounding",
+    "keywords": [
+      "inflation",
+      "nominal return",
+      "real return",
+      "power of compounding",
+      "CAGR",
+      "purchasing power",
+      "time value of money"
+    ],
+    "questions": [
+      "What is the difference between nominal return and real return?",
+      "How does inflation erode bank savings over time?",
+      "How does the power of compounding build wealth?",
+      "What is Compound Annual Growth Rate (CAGR)?"
+    ],
+    "content": "Foundational mathematical principles of wealth preservation: (1) Inflation & Purchasing Power: Inflation represents the rate at which general price levels rise, eroding money's purchasing power. If a fixed deposit yields 6.5% interest but inflation is 5.5%, your real return is merely 1.0% before taxes. (2) Real Return Formula: Real Return ≈ Nominal Return - Inflation Rate - Taxes. Investments that do not outpace inflation guarantee long-term wealth destruction. (3) Power of Compounding: Reinvesting returns so that future earnings generate their own returns. Described as the mathematical foundation of wealth: over 20-30 years, compounded earnings far outstrip total principal invested.",
+    "source": "RBI Financial Literacy Guides & Investor Education Material",
+    "source_url": "https://www.rbi.org.in/financialeducation/",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "inv-07",
+    "category": "Investment Risks, Returns, and Investor Protection",
+    "subcategory": "Investment Scams & BUDS Act",
+    "title": "Investment Scams, Ponzi Schemes & Banning of Unregulated Deposit Schemes (BUDS Act)",
+    "keywords": [
+      "investment scams",
+      "Ponzi scheme",
+      "BUDS Act 2019",
+      "unregulated deposit",
+      "chit fund fraud",
+      "guaranteed returns scam",
+      "pyramid scheme"
+    ],
+    "questions": [
+      "How do Ponzi schemes and investment frauds operate?",
+      "What is the Banning of Unregulated Deposit Schemes (BUDS) Act 2019?",
+      "Are schemes promising 20% guaranteed monthly returns legal in India?",
+      "How can I check if an investment company is registered with SEBI or RBI?"
+    ],
+    "content": "Statutory prohibitions combating illicit investment schemes in India: (1) Red Flags of Investment Fraud: Any scheme promising guaranteed or abnormally high returns (e.g. 2% daily, 15% monthly), pressure to recruit friends, or absence of SEBI/RBI registration is a fraudulent Ponzi or multi-level marketing pyramid scheme. Early investors are paid using money collected from newer recruits until collapse. (2) BUDS Act 2019: The Banning of Unregulated Deposit Schemes Act makes soliciting, promoting, or accepting unregulated deposits a cognizable, non-bailable criminal offence punishable with imprisonment up to 10 years and asset confiscation. (3) Verification: Verify entities on sebi.gov.in or sachet.rbi.org.in.",
+    "source": "Banning of Unregulated Deposit Schemes (BUDS) Act 2019 & SEBI Investor Alerts",
+    "source_url": "https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doAlert=yes",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "investor_scores_portal_dispute",
+    "category": "Investment Risks, Returns, and Investor Protection",
+    "subcategory": "SEBI SCORES 2.0 Grievance Redressal",
+    "title": "SEBI SCORES 2.0 Dispute Resolution Portal & 21-Day Redressal Mandate",
+    "keywords": [
+      "SCORES 2.0",
+      "SEBI complaint portal",
+      "21-day timeline",
+      "two-tier review",
+      "automated escalation",
+      "securities grievance"
+    ],
+    "questions": [
+      "How do I file a complaint against a stockbroker or mutual fund on SEBI SCORES?",
+      "What is the SEBI SCORES 2.0 portal?",
+      "How fast must a listed company or broker resolve a complaint on SCORES?",
+      "What happens if a broker ignores a SEBI SCORES complaint?"
+    ],
+    "content": "SEBI's centralized online grievance redressal architecture (scores.sebi.gov.in): (1) Mandatory 21-Day Redressal Timeline: Under the upgraded SCORES 2.0 framework, market intermediaries (brokers, AMCs, listed companies, depository participants) must resolve investor grievances within a strict maximum of 21 calendar days. (2) Two-Tier Automated Review: If an investor is dissatisfied with the entity's resolution, the complaint automatically escalates to a Designated Body (Stock Exchange or Association). If still unsatisfied, it routes directly to SEBI officers. (3) Enforcement: Failure to resolve within TAT leads to non-compliance fines and trading terminal freezes.",
+    "source": "SEBI Master Circular on Redressal of Investor Grievances through SCORES Platform",
+    "source_url": "https://scores.sebi.gov.in/",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "investor_smart_odr_arbitration",
+    "category": "Investment Risks, Returns, and Investor Protection",
+    "subcategory": "SEBI SMART ODR Portal",
+    "title": "SEBI SMART ODR Portal: Online Conciliation & Binding Securities Arbitration",
+    "keywords": [
+      "SMART ODR",
+      "online dispute resolution",
+      "conciliation",
+      "securities arbitration",
+      "smartodr.in",
+      "binding award",
+      "zero lawyer required"
+    ],
+    "questions": [
+      "What is SMART ODR portal by SEBI?",
+      "How does online arbitration work for stock market disputes?",
+      "How do I resolve a dispute with my broker if SCORES failed?",
+      "Is a SMART ODR arbitration award legally binding on a stockbroker?"
+    ],
+    "content": "The Securities Market Approach to Resolution Through Online Dispute Resolution (SMART ODR portal: smartodr.in): (1) End-to-End Online Legal Redressal: Established by SEBI to resolve financial disputes between investors and listed companies/intermediaries without civil court delays. (2) Conciliation Stage: An independent conciliator conducts digital video hearings within 21 days to reach an amicable settlement. (3) Independent Arbitration: If conciliation fails, the dispute escalates to an independent sole arbitrator or panel who passes a legally binding arbitral award enforceable under the Arbitration and Conciliation Act 1996.",
+    "source": "SEBI Master Circular on Online Resolution of Disputes in the Indian Securities Market",
+    "source_url": "https://smartodr.in/",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "investor_protection_fund_ipf",
+    "category": "Investment Risks, Returns, and Investor Protection",
+    "subcategory": "Investor Protection Fund (IPF)",
+    "title": "Investor Protection Fund (IPF) at NSE/BSE: Defaults by Trading Members",
+    "keywords": [
+      "Investor Protection Fund",
+      "IPF",
+      "broker default",
+      "defaulter trading member",
+      "compensation limit",
+      "NSE IPF",
+      "BSE IPF"
+    ],
+    "questions": [
+      "What happens to my shares and money if my stockbroker goes bankrupt or defaults?",
+      "What is the Investor Protection Fund (IPF) at NSE?",
+      "How much compensation can an investor get from the IPF if a broker defaults?",
+      "How do I file a claim against a defaulted stockbroker?"
+    ],
+    "content": "Statutory safety nets administered by stock exchanges to safeguard investors when a broker defaults: (1) IPF Mandate: Maintained by NSE and BSE under SEBI directives. When a trading member is officially declared a 'Defaulter' or expelled, the IPF settles verified retail investor claims for money or securities misappropriated by the broker. (2) Compensation Ceilings: Covers up to ₹25 Lakh per investor at NSE and ₹15 Lakh at BSE. (3) Claim Filing: Investors must submit formal claim documents, contract notes, and bank statements to the Defaulters' Committee of the exchange within specified public notification windows (typically within 3 years).",
+    "source": "SEBI Comprehensive Guidelines on Investor Protection Fund (IPF) at Stock Exchanges",
+    "source_url": "https://www.sebi.gov.in/legal/master-circulars/may-2023/master-circular-for-stock-exchanges-and-clearing-corporations_71698.html",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "investor_charter_sebi_rights",
+    "category": "Investment Risks, Returns, and Investor Protection",
+    "subcategory": "SEBI Investor Charter",
+    "title": "SEBI Investor Charter: Rights, Responsibilities, and Code for Market Participants",
+    "keywords": [
+      "Investor Charter",
+      "SEBI rights",
+      "investor responsibilities",
+      "do's and don'ts of investing",
+      "transparent charges",
+      "fair treatment"
+    ],
+    "questions": [
+      "What is the SEBI Investor Charter?",
+      "What are my legal rights as a retail stock investor in India?",
+      "What responsibilities do investors have under SEBI guidelines?",
+      "Where can I find the Investor Charter for stockbrokers?"
+    ],
+    "content": "Published by SEBI to formalize the rights and responsibilities of citizens participating in capital markets: (1) Core Investor Rights: Right to fair and equitable treatment, right to receive all corporate benefits (dividends, bonus shares, rights entitlements) on time, right to transparent disclosure of all brokerage fees and transaction taxes prior to order placement, and right to free grievance redressal via SCORES and SMART ODR. (2) Investor Responsibilities: Deal exclusively with SEBI-registered intermediaries, never share trading passwords or OTPs, avoid taking loans to trade speculative F&O, and verify transaction SMS alerts received directly from NSE/BSE/CDSL.",
+    "source": "SEBI Investor Charter for Securities Markets & Stock Brokers",
+    "source_url": "https://investor.sebi.gov.in/investor-charter.html",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "investor_unregistered_finfluencers",
+    "category": "Investment Risks, Returns, and Investor Protection",
+    "subcategory": "Unregistered Finfluencers & Tipping Scams",
+    "title": "SEBI Guidelines on Unregistered Financial Influencers & Telegram Tipping Scams",
+    "keywords": [
+      "finfluencers",
+      "unregistered investment advisors",
+      "Telegram stock tips",
+      "SEBI finfluencer circular",
+      "prohibition of association",
+      "F&O scams"
+    ],
+    "questions": [
+      "Can social media influencers give stock market tips in India?",
+      "What are SEBI rules for financial influencers (finfluencers)?",
+      "Are Telegram channels offering 100% accurate option trading calls legal?",
+      "How do I check if a financial advisor is SEBI registered?"
+    ],
+    "content": "Regulatory crackdowns on illegal stock advisory rackets across YouTube, Instagram, and Telegram: (1) Mandatory Registration: Under SEBI (Investment Advisers) Regulations, no person can offer stock recommendations, portfolio management advice, or financial planning without passing NISM exams and obtaining a SEBI Registered Investment Adviser (RIA) or Research Analyst (RA) license. (2) Prohibition on Regulated Entities: SEBI circulars strictly bar all regulated brokers, mutual funds, and platforms from associating with, paying referral fees to, or sharing revenue with unregistered 'finfluencers'. (3) Penal Sanctions: SEBI issues impounding orders confiscating illegal subscription fees.",
+    "source": "SEBI Board Decision & Circular on Association with Unregistered Entities (Finfluencers)",
+    "source_url": "https://www.sebi.gov.in/legal/press-releases/aug-2024/sebi-board-meeting_86043.html",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "investor_dabba_trading_illegal",
+    "category": "Investment Risks, Returns, and Investor Protection",
+    "subcategory": "Dabba Trading (Bucketing)",
+    "title": "Dabba Trading / Illegal Off-Market Contracts: Criminal Penalties under SCRA",
+    "keywords": [
+      "dabba trading",
+      "bucketing",
+      "illegal stock trading",
+      "off-market contracts",
+      "Section 23 SCRA",
+      "cash settlement illegal",
+      "police raids"
+    ],
+    "questions": [
+      "What is Dabba trading in India?",
+      "Why is Dabba trading illegal?",
+      "What are the risks of trading with an unauthorized off-market broker?",
+      "What is the punishment for operating Dabba trading under the SCRA Act?"
+    ],
+    "content": "Dabba trading (also called bucketing) is an illegal, parallel off-the-books market where speculative bets on stock prices are settled in unaccounted cash without routing trades through recognized exchanges (NSE/BSE): (1) Severe Legal Offence: Under Section 23 of the Securities Contracts (Regulation) Act 1956 (SCRA), operating or participating in Dabba trading is a non-bailable criminal offence punishable with imprisonment up to 10 years and fines up to ₹25 Crore. (2) Total Absence of Investor Protection: Transactions enjoy ZERO regulatory oversight, pay no STT/taxes, have no clearing corporation guarantee, and have zero recourse to SEBI SCORES or IPF if the operator vanishes.",
+    "source": "Securities Contracts (Regulation) Act 1956 Section 23 & SEBI Public Warnings",
+    "source_url": "https://www.sebi.gov.in/acts/scra.html",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "investor_systematic_vs_unsystematic_risk",
+    "category": "Investment Risks, Returns, and Investor Protection",
+    "subcategory": "Systematic vs Unsystematic Risk",
+    "title": "Systematic Risk (Market Beta) vs Unsystematic Risk (Diversifiable Risk)",
+    "keywords": [
+      "systematic risk",
+      "unsystematic risk",
+      "market beta",
+      "diversifiable risk",
+      "macroeconomic risk",
+      "diversification principle",
+      "portfolio theory"
+    ],
+    "questions": [
+      "What is the difference between systematic and unsystematic risk?",
+      "Can all investment risks be eliminated through diversification?",
+      "What is market beta in stock investing?",
+      "Why does a macroeconomic recession affect all stocks?"
+    ],
+    "content": "Modern Portfolio Theory classifies investment risks into two core categories: (1) Unsystematic Risk (Specific / Diversifiable Risk): Unique to a specific company or industry (e.g. CEO resignation, factory fire, product recall, sector regulation). Can be almost completely diversified away by building a balanced portfolio of 25 to 30 uncorrelated companies across different economic sectors. (2) Systematic Risk (Market / Non-Diversifiable Risk): Macroeconomic shocks that affect the entire financial system simultaneously (e.g. war, soaring interest rates, global pandemic, systemic currency devaluations). Measured by Beta (β); cannot be eliminated by diversification alone.",
+    "source": "SEBI Investor Education Material & Financial Theory Handbooks",
+    "source_url": "https://investor.sebi.gov.in/",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "investor_rupee_depreciation_currency_risk",
+    "category": "Investment Risks, Returns, and Investor Protection",
+    "subcategory": "Currency & FX Risk",
+    "title": "Currency Risk & Rupee Depreciation Impact on Foreign Investments",
+    "keywords": [
+      "currency risk",
+      "rupee depreciation",
+      "USD INR exchange rate",
+      "overseas investments",
+      "LRS scheme",
+      "foreign portfolio impact"
+    ],
+    "questions": [
+      "How does Rupee depreciation affect investments in US stocks?",
+      "What is currency risk in international investing?",
+      "Does a falling rupee help or hurt Indian mutual funds investing abroad?",
+      "What is RBI Liberalised Remittance Scheme (LRS)?"
+    ],
+    "content": "Understanding the cross-border dynamics of foreign exchange movements on retail portfolios: (1) Currency Risk Dynamics: When investing overseas (e.g. buying US tech stocks via RBI's LRS scheme or investing in global fund-of-funds), returns depend on both asset performance AND currency exchange rates. (2) Positive Cushion: If the Indian Rupee depreciates against the US Dollar (e.g. moves from ₹80 to ₹85 per USD), the value of foreign assets in Rupee terms increases, boosting domestic returns even if the underlying asset stays flat. (3) Negative Drag: If the Rupee strengthens, it drags down foreign investment gains when converted back to INR.",
+    "source": "RBI Master Direction on Liberalised Remittance Scheme (LRS)",
+    "source_url": "https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "investor_buds_act_unregulated_deposits",
+    "category": "Investment Risks, Returns, and Investor Protection",
+    "subcategory": "BUDS Act Enforcement Framework",
+    "title": "Banning of Unregulated Deposit Schemes (BUDS) Act 2019 Enforcement",
+    "keywords": [
+      "BUDS Act 2019",
+      "unregulated deposit schemes",
+      "chit fund scams",
+      "asset attachment",
+      "competent authority",
+      "whistleblower reporting"
+    ],
+    "questions": [
+      "What schemes are banned under the BUDS Act 2019?",
+      "Can unregistered companies take deposits from the public in India?",
+      "Who enforces the BUDS Act in Indian states?",
+      "What happens to assets seized under the BUDS Act?"
+    ],
+    "content": "The Banning of Unregulated Deposit Schemes Act 2019 provides a comprehensive legal framework to shut down illegal deposit-taking schemes: (1) Scope of Prohibition: Blanket ban on any entity or individual soliciting or accepting deposits from the public unless explicitly regulated by a designated statutory body (RBI, SEBI, IRDAI, PFRDA, MCA, or State Governments). (2) Designation of Competent Authority: State governments appoint special officers (typically District Magistrates / Revenue Secretaries) empowered to pass immediate attachment orders on properties and bank accounts of offenders. (3) Priority Equitable Payouts: Monies recovered from liquidation are disbursed to cheated depositors with priority over government taxes.",
+    "source": "Banning of Unregulated Deposit Schemes Act 2019 & Ministry of Finance Rules",
+    "source_url": "https://www.sebi.gov.in/acts/budsact2019.html",
+    "verification_date": "2026-03"
+  }
+]

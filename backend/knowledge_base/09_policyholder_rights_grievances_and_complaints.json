@@ -1,0 +1,293 @@
+[
+  {
+    "id": "claim-04",
+    "category": "Policyholder Rights, Grievances, and Complaints",
+    "subcategory": "Grievance Hierarchy & Ombudsman",
+    "title": "Grievance Escalation Hierarchy & Insurance Ombudsman Scheme",
+    "keywords": [
+      "insurance ombudsman",
+      "grievance redressal",
+      "GRO",
+      "IRDAI Bima Bharosa",
+      "complaint escalation",
+      "50 lakh limit",
+      "consumer forum"
+    ],
+    "questions": [
+      "How do I file a complaint against an insurance company?",
+      "What is the role of the Insurance Ombudsman?",
+      "What is the maximum claim value handled by the Insurance Ombudsman?",
+      "How long does the Insurance Ombudsman take to pass an award?"
+    ],
+    "content": "Policyholders have a structured 4-tier grievance redressal framework in India: (1) Level 1: Grievance Redressal Officer (GRO) of the Insurance Company. Insurers must resolve grievances within 14 days of receipt. (2) Level 2: IRDAI Bima Bharosa Portal (formerly IGMS). If unresolved or unsatisfied, escalate to IRDAI directly online or via toll-free number 155255 / 1800-4254-732. (3) Level 3: Insurance Ombudsman. Independent quasi-judicial authority established under Ombudsman Rules 2017. Can hear disputes up to ₹50 Lakh. Free of charge, no lawyer needed. Award passed within 3 months, legally binding on the insurer (insurer must comply within 30 days). (4) Level 4: Consumer Disputes Redressal Commission (NCDRC/State/District Forums) or civil courts.",
+    "source": "Insurance Ombudsman Rules 2017 & IRDAI Policyholder Protection Guidelines",
+    "source_url": "https://irdai.gov.in/ombudsman",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "insfin-04",
+    "category": "Policyholder Rights, Grievances, and Complaints",
+    "subcategory": "Digital Grievance Tracking",
+    "title": "Digital Claims Tracking, TPA Apps & IRDAI Bima Bharosa Grievance Escalation",
+    "keywords": [
+      "Bima Bharosa",
+      "IGMS",
+      "TPA apps",
+      "digital grievance",
+      "token tracking",
+      "escalation timeline",
+      "real-time claim status"
+    ],
+    "questions": [
+      "How do I track my insurance grievance on Bima Bharosa?",
+      "What is IRDAI Bima Bharosa portal?",
+      "How do I check claim status on a TPA mobile app?",
+      "What can I do if my insurance company ignores my complaint?"
+    ],
+    "content": "Digital mechanisms for policy servicing and grievance tracking: (1) IRDAI Bima Bharosa (bimabharosa.irdai.gov.in): Centralized complaint monitoring portal that mirrors insurer grievance databases. Generates an automated Complaint Token Number; requires insurers to log resolution status within statutory turnaround times (14 days). (2) TPA Mobile Apps: Third Party Administrators provide real-time cashless claim tracking, cashless e-card generation, hospital network locators, and automated query submission. (3) Automated Regulatory Escalation: If a complaint remains unresolved on Bima Bharosa past the deadline, it automatically flags regulatory compliance officers at IRDAI for institutional intervention.",
+    "source": "IRDAI Bima Bharosa Portal & Consumer Protection Guidelines",
+    "source_url": "https://bimabharosa.irdai.gov.in/",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "rights_gro_internal_complaints",
+    "category": "Policyholder Rights, Grievances, and Complaints",
+    "subcategory": "Grievance Redressal Officer (GRO)",
+    "title": "Grievance Redressal Officer (GRO): 14-Day Mandatory Resolution Timeline",
+    "keywords": [
+      "GRO",
+      "Grievance Redressal Officer",
+      "14 days timeline",
+      "internal grievance",
+      "complaint acknowledgement",
+      "3 working days"
+    ],
+    "questions": [
+      "Who is the Grievance Redressal Officer (GRO) in an insurance company?",
+      "How fast must an insurance company reply to a complaint?",
+      "What happens if the insurance company doesn't respond in 14 days?",
+      "Where can I find my insurer's GRO contact details?"
+    ],
+    "content": "Every insurance company operating in India is mandated by IRDAI Policyholder Protection Regulations to appoint designated Grievance Redressal Officers (GRO) at each branch and head office: (1) Acknowledgement Mandate: The insurer must acknowledge receipt of any written or digital grievance within 3 working days, generating an official Grievance Reference Number. (2) 14-Day Resolution Window: The GRO must resolve the complaint or provide a reasoned written reply within a maximum of 14 calendar days. (3) Escalation Trigger: If the company fails to respond within 14 days or rejects the complaint unfairly, the policyholder acquires the immediate legal standing to approach the Insurance Ombudsman.",
+    "source": "IRDAI (Protection of Policyholders' Interests) Regulations",
+    "source_url": "https://irdai.gov.in/regulations",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "rights_insurance_ombudsman_jurisdiction",
+    "category": "Policyholder Rights, Grievances, and Complaints",
+    "subcategory": "Insurance Ombudsman Operations",
+    "title": "Insurance Ombudsman: Jurisdiction, ₹50 Lakh Limit & 30-Day Award Rule",
+    "keywords": [
+      "Insurance Ombudsman",
+      "50 lakh limit",
+      "30-day compliance",
+      "Ombudsman Rules 2017",
+      "quasi-judicial",
+      "cost-free redressal"
+    ],
+    "questions": [
+      "Can the Insurance Ombudsman handle claims above ₹50 Lakh?",
+      "How long does an insurance company have to pay an Ombudsman award?",
+      "Do I need a lawyer for Insurance Ombudsman hearings?",
+      "Can an insurance company appeal against an Ombudsman award?"
+    ],
+    "content": "The Insurance Ombudsman is an autonomous quasi-judicial dispute resolution mechanism established by the Government of India under the Insurance Ombudsman Rules 2017: (1) Pecuniary Jurisdiction: Can entertain disputes where the total claim value (including expenses) is up to ₹50 Lakh. (2) Cost-Free & Lawyer-Free: No filing fees or stamp duty; policyholders represent themselves directly or via informal family representation (advocates are barred from appearing). (3) Binding on Insurers: An Ombudsman award is completely binding on the insurance company. The insurer must implement the award and pay the money within 30 days of receiving the complainant's acceptance letter.",
+    "source": "Insurance Ombudsman Rules 2017 & Council for Insurance Ombudsmen (CIO)",
+    "source_url": "https://www.cioins.co.in/",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "rights_ombudsman_binding_awards",
+    "category": "Policyholder Rights, Grievances, and Complaints",
+    "subcategory": "Ombudsman Awards & Insurer Appeals",
+    "title": "Ombudsman Awards: Insurer Appeal Prohibitions & Policyholder Options",
+    "keywords": [
+      "Ombudsman award",
+      "insurer compliance",
+      "binding award",
+      "no appeal by insurer",
+      "policyholder rights",
+      "Consumer Forum alternative"
+    ],
+    "questions": [
+      "Can an insurance company challenge an Ombudsman award in High Court?",
+      "Is an Ombudsman award binding on the customer?",
+      "What happens if a policyholder is unhappy with an Ombudsman award?",
+      "What penalty applies if an insurer delays paying an Ombudsman award?"
+    ],
+    "content": "Special features of Insurance Ombudsman awards protect vulnerable citizens: (1) Asymmetrical Binding: An award passed by the Ombudsman is 100% binding on the insurance company, but NOT binding on the policyholder. If the policyholder is unsatisfied with the award, they retain full legal liberty to reject it and file a fresh consumer case in the Consumer Commission or civil court. (2) Prohibited Appeals: Insurers cannot appeal Ombudsman awards to higher administrative boards; they are mandated to comply. (3) Delay Penalty: If an insurer fails to pay the awarded sum within 30 days, penal interest at Bank Rate + 2% is levied automatically.",
+    "source": "Council for Insurance Ombudsmen (CIO) Handbook & Ministry of Finance Rules",
+    "source_url": "https://www.cioins.co.in/",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "rights_consumer_commission_e_daakhil",
+    "category": "Policyholder Rights, Grievances, and Complaints",
+    "subcategory": "Consumer Protection Act & E-Daakhil",
+    "title": "Consumer Disputes Redressal Commissions & E-Daakhil Online Portal",
+    "keywords": [
+      "Consumer Protection Act 2019",
+      "E-Daakhil",
+      "District Commission",
+      "State Commission",
+      "NCDRC",
+      "pecuniary jurisdiction",
+      "unfair trade practice"
+    ],
+    "questions": [
+      "How do I file a consumer court case against an insurance company online?",
+      "What is E-Daakhil portal?",
+      "What are the financial limits of District, State, and National Consumer Commissions?",
+      "Can consumer courts award compensation for mental agony?"
+    ],
+    "content": "The Consumer Protection Act 2019 provides statutory legal recourse against unfair trade practices and deficiency of service: (1) E-Daakhil Portal (edaakhil.nic.in): Enables consumers to file complaints, upload documents, pay nominal fees, and track court dates completely online from home. (2) Three-Tier Pecuniary Jurisdiction: District Commission: Claims up to ₹50 Lakh; State Commission: Claims between ₹50 Lakh and ₹2 Crore; National Commission (NCDRC): Claims exceeding ₹2 Crore. (3) Compensation Powers: Consumer commissions possess full judicial power to order claim settlement, grant commercial interest (typically 9% to 12%), and award separate financial compensation for harassment and mental agony.",
+    "source": "Consumer Protection Act 2019 & E-Daakhil National Consumer Forum Portal",
+    "source_url": "https://edaakhil.nic.in/",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "rights_right_to_policy_documents",
+    "category": "Policyholder Rights, Grievances, and Complaints",
+    "subcategory": "Policy Document Delivery Rights",
+    "title": "Policyholder Right to Physical and Electronic Policy Contracts",
+    "keywords": [
+      "right to policy document",
+      "electronic policy",
+      "physical policy bond",
+      "CIS",
+      "Customer Information Sheet",
+      "free physical copy"
+    ],
+    "questions": [
+      "Does an insurance company have to give me a physical policy document?",
+      "What is the Customer Information Sheet (CIS) in health insurance?",
+      "How soon must an insurance company issue the policy document?",
+      "Can an insurer charge extra for a physical policy copy?"
+    ],
+    "content": "Under IRDAI Policyholder Protection Regulations: (1) Free Delivery: Insurers must issue and deliver the complete policy document within 30 days of accepting the proposal. Even if issued electronically, the policyholder retains the statutory right to request a physical copy free of charge at any time. (2) Customer Information Sheet (CIS): All health and general policies must incorporate a standardized, simplified CIS on Page 1 explaining in simple non-technical language: sum insured, room rent limits, co-payments, waiting periods, key exclusions, and grievance officer phone numbers. (3) Incomplete Terms Void: Insurers cannot enforce fine-print clauses that were omitted from delivered documents.",
+    "source": "IRDAI Master Circular on Customer Information Sheet (CIS) & Policy Delivery",
+    "source_url": "https://irdai.gov.in/master-circulars",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "rights_right_to_reasons_for_repudiation",
+    "category": "Policyholder Rights, Grievances, and Complaints",
+    "subcategory": "Reasoned Repudiation Rights",
+    "title": "Right to Reasoned Repudiation Letters & Claim Summary Sheets",
+    "keywords": [
+      "reasoned repudiation",
+      "claim rejection letter",
+      "evidence disclosure",
+      "summary sheet",
+      "arbitrary rejection ban",
+      "IRDAI mandate"
+    ],
+    "questions": [
+      "Can an insurance company reject a claim without giving a clear reason?",
+      "What must be included in an insurance claim repudiation letter?",
+      "Can an insurer invent new reasons for rejection later?",
+      "What is a claim summary sheet?"
+    ],
+    "content": "IRDAI strictly bars insurers from issuing vague, boilerplate, or unreasoned claim rejections: (1) Mandatory Written Citing: Every claim repudiation letter must clearly specify the exact policy clause, medical diagnostic report, or investigation finding on which the repudiation is grounded. (2) Prohibition on Post-Facto Grounds: Under established Supreme Court precedents, an insurer cannot invent fresh reasons to justify a rejection at a later stage if those grounds were not stated in the original formal repudiation letter. (3) Summary Sheet: The insurer must provide an itemized claim deduction statement showing each disallowed billing head and statutory justifications.",
+    "source": "IRDAI Directives on Claim Repudiation Letters & Supreme Court Judgments",
+    "source_url": "https://irdai.gov.in/directives",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "rights_turnaround_times_policyholder",
+    "category": "Policyholder Rights, Grievances, and Complaints",
+    "subcategory": "Statutory Service Turnaround Times (TAT)",
+    "title": "IRDAI Statutory Turnaround Times (TATs) for Policy Servicing",
+    "keywords": [
+      "turnaround time",
+      "TAT",
+      "service standards",
+      "policy servicing",
+      "address change TAT",
+      "surrender TAT",
+      "IRDAI regulations"
+    ],
+    "questions": [
+      "How long can an insurance company take to process address change or nomination?",
+      "What is the TAT for processing policy surrender?",
+      "How fast must an insurer issue a policy after receiving payment?",
+      "What are IRDAI service benchmarks?"
+    ],
+    "content": "IRDAI Policyholder Protection Regulations prescribe legally binding Turnaround Times (TAT) across all customer servicing touchpoints: (1) Policy Issuance: Maximum 15 days from acceptance of proposal. (2) Nomination Registration & Status Change: Maximum 7 days. (3) Endorsements / Address Updates: Maximum 10 days. (4) Surrender / Paid-Up Value Quotation and Payment: Maximum 7 days from request. (5) Grievance Acknowledgement: Maximum 3 working days; final disposal within 14 days. (6) Regulatory Sanctions: Repeated breaches of statutory TAT benchmarks trigger regulatory inspections and compliance fines against the insurer.",
+    "source": "IRDAI (Protection of Policyholders' Interests) Regulations - Schedule I TATs",
+    "source_url": "https://irdai.gov.in/regulations",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "rights_nominee_appointee_legal_safeguards",
+    "category": "Policyholder Rights, Grievances, and Complaints",
+    "subcategory": "Nominee & Appointee Safeguards",
+    "title": "Rights of Beneficial Nominees, Minors, and Appointees During Dispute",
+    "keywords": [
+      "beneficial nominee rights",
+      "appointee rights",
+      "minor beneficiary",
+      "succession certificate",
+      "legal heir dispute",
+      "Section 39"
+    ],
+    "questions": [
+      "Can a bank withhold life insurance claim from a beneficial nominee?",
+      "What role does an appointee play when the nominee is a minor?",
+      "Does a beneficial nominee need a court succession certificate?",
+      "How are disputes between nominees and legal heirs resolved?"
+    ],
+    "content": "Safeguards protecting policy beneficiaries during claims and succession conflicts: (1) Exemption from Succession Certificate: Beneficial Nominees (parents, spouse, children) are legally recognized as absolute owners under amended Section 39; insurers cannot demand costly court succession certificates or probate of will to disburse legitimate claims. (2) Role of Appointees: An appointee named for a minor nominee signs discharge receipts on behalf of the minor until they turn 18, after which the minor claims proceeds directly. (3) Insurer Neutrality: If a dispute arises between non-beneficial nominees and legal heirs, the insurer deposits proceeds into court or awaits civil court succession decrees.",
+    "source": "Insurance Act 1938 Section 39 & Civil Law Succession Handbooks",
+    "source_url": "https://irdai.gov.in/acts",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "rights_claim_settlement_without_middlemen",
+    "category": "Policyholder Rights, Grievances, and Complaints",
+    "subcategory": "Direct Settlement Rights",
+    "title": "Policyholder Direct Claim Settlement Rights: Bypassing Unlicensed Agents",
+    "keywords": [
+      "direct claim settlement",
+      "unlicensed agents",
+      "claim settlement middleman",
+      "direct NEFT credit",
+      "bima bharosa",
+      "zero agent commission on claims"
+    ],
+    "questions": [
+      "Can an insurance agent charge a fee for helping with a claim?",
+      "Can I file an insurance claim directly without my agent?",
+      "Is it legal for third parties to take a percentage of insurance claims?",
+      "How does the insurer pay the claim money to the customer?"
+    ],
+    "content": "Consumer protection guidelines govern claim interactions and payments: (1) Direct Account Transfer (NEFT): All claim payments must be credited directly into the verified bank account of the policyholder or beneficial nominee via secure electronic NEFT/RTGS; cheques made out to agents or intermediaries are strictly illegal. (2) Agent Commission Prohibition on Claims: Insurance agents receive regulatory commissions exclusively on premium generation; charging policyholders a percentage fee or commission for assisting in claim settlement is an illegal malpractice punishable under the Insurance Act. (3) Direct Access: Policyholders have the absolute right to interact directly with company claim desks.",
+    "source": "IRDAI Code of Conduct for Insurance Intermediaries & Master Circulars",
+    "source_url": "https://irdai.gov.in/guidelines",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "rights_bima_bharosa_eprotect",
+    "category": "Policyholder Rights, Grievances, and Complaints",
+    "subcategory": "Bima Bharosa System Architecture",
+    "title": "Bima Bharosa System Architecture: Escalation Pathways & Oversight",
+    "keywords": [
+      "Bima Bharosa architecture",
+      "IRDAI grievance portal",
+      "155255 helpline",
+      "escalation pathway",
+      "systemic complaint monitoring"
+    ],
+    "questions": [
+      "How do I lodge a complaint on IRDAI Bima Bharosa online?",
+      "What is the IRDAI grievance toll-free helpline number?",
+      "What happens after registering a complaint on Bima Bharosa?",
+      "Can IRDAI penalize insurers based on Bima Bharosa complaint data?"
+    ],
+    "content": "Bima Bharosa operates as the apex oversight mechanism for policyholder protection: (1) Access Channels: Policyholders register complaints online at bimabharosa.irdai.gov.in or via the IRDAI Grievance Call Centre toll-free numbers 155255 / 1800 4254 732 (open Monday to Saturday, 8 AM to 8 PM). (2) Real-Time Data Mirroring: When lodged, the grievance is automatically pushed into the executive CRM of the insurance company with a 14-day compliance countdown. (3) Supervisory Audits: IRDAI tracks systemic patterns of claim repudiations and delays across insurers via Bima Bharosa data, using metrics to impose compliance directives and public disclosure penalties.",
+    "source": "IRDAI Consumer Affairs Department Annual Report & Bima Bharosa Framework",
+    "source_url": "https://bimabharosa.irdai.gov.in/",
+    "verification_date": "2026-03"
+  }
+]

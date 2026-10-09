@@ -1,0 +1,306 @@
+[
+  {
+    "id": "inv-04",
+    "category": "Stocks, Bonds, and Securities Markets",
+    "subcategory": "Government Securities & SGBs",
+    "title": "Government Securities (G-Sec), Treasury Bills & Sovereign Gold Bonds (SGB)",
+    "keywords": [
+      "G-Sec",
+      "treasury bills",
+      "T-bills",
+      "sovereign gold bonds",
+      "SGB",
+      "RBI retail direct",
+      "sovereign guarantee",
+      "risk-free"
+    ],
+    "questions": [
+      "How can an individual retail investor buy Government Securities?",
+      "What are Treasury Bills (T-Bills)?",
+      "What are Sovereign Gold Bonds (SGB)?",
+      "What is RBI Retail Direct portal?"
+    ],
+    "content": "Sovereign fixed-income and commodity securities backed by the Government of India with zero credit default risk: (1) Treasury Bills (T-Bills): Short-term debt instruments issued at a discount and redeemed at face value, with tenures of 91, 182, and 364 days. (2) Government Securities (G-Secs): Long-term bonds (tenures up to 40 years) that pay semi-annual coupon interest. (3) Sovereign Gold Bonds (SGB): Issued by RBI on behalf of the Government. Denominated in grams of gold; pays 2.50% annual interest; capital gains at 8-year maturity are 100% exempt from income tax. (4) RBI Retail Direct: A zero-commission portal (rbiretaildirect.org.in) allowing retail investors to open Gilt accounts directly with the RBI to buy government papers without brokers.",
+    "source": "RBI Master Direction on Government Securities & SGB Operational Scheme",
+    "source_url": "https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "stocks_primary_vs_secondary_market",
+    "category": "Stocks, Bonds, and Securities Markets",
+    "subcategory": "Primary vs Secondary Markets",
+    "title": "Primary Market (IPO) vs Secondary Market (NSE/BSE) Mechanics",
+    "keywords": [
+      "primary market",
+      "secondary market",
+      "IPO",
+      "initial public offering",
+      "NSE",
+      "BSE",
+      "stock exchange",
+      "price discovery"
+    ],
+    "questions": [
+      "What is the difference between primary and secondary share market?",
+      "How does an Initial Public Offering (IPO) work in India?",
+      "What role do the National Stock Exchange (NSE) and Bombay Stock Exchange (BSE) play?",
+      "What is price discovery in stock markets?"
+    ],
+    "content": "Capital markets function through two distinct operational arenas: (1) Primary Market: Where companies raise fresh capital directly from the public for the first time by issuing new shares or debt through Initial Public Offerings (IPOs) or Follow-on Public Offerings (FPOs). Money invested flows directly to the issuing company. (2) Secondary Market: The stock exchanges (National Stock Exchange / NSE and Bombay Stock Exchange / BSE) where already issued shares trade among investors. Transactions execute between buyers and sellers, and no money flows to the company. Secondary markets provide instant liquidity and continuous price discovery governed by supply and demand.",
+    "source": "SEBI Investor Education Handbook on Securities Markets",
+    "source_url": "https://investor.sebi.gov.in/",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "stocks_demat_trading_bank_accounts",
+    "category": "Stocks, Bonds, and Securities Markets",
+    "subcategory": "Demat, Trading & Bank Accounts",
+    "title": "3-in-1 Accounts: Demat, Trading, and Savings Bank Account Linkages",
+    "keywords": [
+      "demat account",
+      "trading account",
+      "3-in-1 account",
+      "beneficiary owner",
+      "BO ID",
+      "depository participant",
+      "DP charges"
+    ],
+    "questions": [
+      "What is the difference between a Demat account and a Trading account?",
+      "How do Demat, Trading, and Bank accounts work together?",
+      "What is a Depository Participant (DP)?",
+      "What are DP charges when selling shares?"
+    ],
+    "content": "To trade in Indian equity markets, three interlinked accounts are required: (1) Bank Account: Holds your liquid cash. Funds are transferred into the trading account to buy securities, and sales proceeds are credited back here. (2) Trading Account: Maintained with a SEBI-registered broker (Zerodha, Groww, ICICI Direct); serves as the platform to place buy and sell orders on NSE/BSE. (3) Demat (Dematerialized) Account: An electronic locker maintained with central depositories (NSDL/CDSL) holding actual shares, bonds, and mutual fund units in dematerialized digital format. (4) DP Charges: When selling shares from your Demat account, the depository levies a nominal fee (approx ₹13 to ₹20 per scrip per day).",
+    "source": "SEBI Master Circular for Stock Brokers & Depositories",
+    "source_url": "https://www.sebi.gov.in/legal/master-circulars/may-2023/master-circular-for-stock-brokers_71542.html",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "stocks_settlement_t_plus_1_cycle",
+    "category": "Stocks, Bonds, and Securities Markets",
+    "subcategory": "Settlement Cycles (T+1 & T+0)",
+    "title": "T+1 Settlement Cycle & T+0 / Instant Settlement Reforms in India",
+    "keywords": [
+      "T+1 settlement",
+      "T+0 settlement",
+      "instant settlement",
+      "trade settlement",
+      "rolling settlement",
+      "clearing corporation",
+      "SEBI market reform"
+    ],
+    "questions": [
+      "How long does it take for stock trades to settle in India?",
+      "What is T+1 settlement in Indian stock markets?",
+      "How does optional T+0 same-day settlement work?",
+      "When can I withdraw money after selling shares?"
+    ],
+    "content": "India became the first major global financial market to transition from T+2 to T+1 rolling settlement for all listed equities: (1) T+1 Settlement: When shares are bought or sold on Monday ('Trade Date' / T), full financial and share settlement executes by Tuesday ('T+1'). The buyer receives shares in their Demat account, and the seller receives withdrawable funds the very next business day. (2) T+0 Optional Beta: In 2024, SEBI introduced a phased beta version of same-day 'T+0' settlement (settling trades by 4:30 PM on the trade day itself), with eventual roadmaps toward continuous instant settlement, mitigating counterparty liquidity risk for retail traders.",
+    "source": "SEBI Circular on Implementation of T+1 and T+0 Settlement Frameworks",
+    "source_url": "https://www.sebi.gov.in/legal/circulars/mar-2024/introduction-of-optional-t-0-settlement-cycle_82457.html",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "stocks_asba_ipo_application",
+    "category": "Stocks, Bonds, and Securities Markets",
+    "subcategory": "ASBA IPO Mechanics",
+    "title": "Application Supported by Blocked Amount (ASBA) for Retail IPOs",
+    "keywords": [
+      "ASBA",
+      "IPO application",
+      "blocked amount",
+      "UPI ASBA",
+      "lien on bank balance",
+      "instant unfreeze",
+      "retail investor quota"
+    ],
+    "questions": [
+      "What is ASBA in an IPO?",
+      "How does UPI ASBA work when applying for shares?",
+      "Does money leave my bank account when I apply for an IPO?",
+      "What happens to blocked IPO money if shares are not allotted?"
+    ],
+    "content": "Application Supported by Blocked Amount (ASBA) is the mandatory payment mechanism for primary market public offerings under SEBI regulations: (1) Zero Cash Outflow at Application: Money does not leave the applicant's bank account when applying for an IPO. Instead, the application amount is temporarily blocked (lien marked) in the customer's savings bank account, continuing to earn interest. (2) Debit on Allotment: If shares are allotted, only the exact allotment value is debited by the clearing corporation; if no shares are allotted, the lien is automatically released/unblocked. (3) UPI ASBA: Retail investors apply directly through trading apps and approve a block mandate in their UPI app.",
+    "source": "SEBI Master Circular on Issue of Capital and Disclosure Requirements (ICDR) - ASBA",
+    "source_url": "https://www.sebi.gov.in/legal/master-circulars/feb-2023/master-circular-for-issue-of-capital-and-disclosure-requirements_68224.html",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "stocks_corporate_bonds_yield_spreads",
+    "category": "Stocks, Bonds, and Securities Markets",
+    "subcategory": "Corporate Bonds & Yields",
+    "title": "Corporate Bonds vs Government Securities: Yield to Maturity & Default Risk",
+    "keywords": [
+      "corporate bonds",
+      "debentures",
+      "yield to maturity",
+      "YTM",
+      "credit spread",
+      "CRISIL rating",
+      "coupon rate",
+      "senior secured"
+    ],
+    "questions": [
+      "What is the difference between a corporate bond and a government bond?",
+      "What is Yield to Maturity (YTM) of a bond?",
+      "Why do AAA-rated corporate bonds pay lower interest than BBB bonds?",
+      "What is a credit spread in bond markets?"
+    ],
+    "content": "Fixed-income debt securities issued by private or public corporations: (1) Corporate Bonds vs G-Secs: Government bonds carry zero sovereign default risk; corporate bonds carry credit default risk based on the financial health of the issuing company. (2) Credit Spread: To compensate investors for taking default risk, corporate bonds pay a yield premium over the benchmark risk-free G-Sec rate (the 'credit spread'). A corporate bond with an 'AAA' rating has negligible spread (0.5% to 1.0%), while lower-rated 'BBB' bonds offer higher coupon yields (3.0% to 5.0% higher) to reflect elevated default probability. (3) Seniority: Senior secured bonds hold priority claims on company assets during liquidation.",
+    "source": "SEBI (Issue and Listing of Non-Convertible Securities) Regulations",
+    "source_url": "https://www.sebi.gov.in/legal/regulations/aug-2021/securities-and-exchange-board-of-india-issue-and-listing-of-non-convertible-securities-regulations-2021_51775.html",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "stocks_reits_and_invits_infrastructure",
+    "category": "Stocks, Bonds, and Securities Markets",
+    "subcategory": "REITs and InvITs",
+    "title": "Real Estate Investment Trusts (REITs) and Infrastructure Trusts (InvITs)",
+    "keywords": [
+      "REIT",
+      "InvIT",
+      "real estate investment trust",
+      "infrastructure trust",
+      "rental yields",
+      "90 percent cash flow distribution",
+      "fractional commercial property"
+    ],
+    "questions": [
+      "What is a REIT in India and how does it work?",
+      "How much regular dividend income do REITs pay?",
+      "What is the minimum investment for REITs on stock exchanges?",
+      "What is the difference between a REIT and an InvIT?"
+    ],
+    "content": "Investment trusts enabling retail investors to participate in large-scale income-generating commercial real estate and infrastructure: (1) REITs: Own and operate rent-generating Grade-A commercial properties (tech parks, corporate office complexes). Traded like equity shares on NSE/BSE (single unit purchase permitted, ₹300 to ₹400). (2) InvITs: Own operational infrastructure assets (toll roads, power transmission grids, gas pipelines, telecom towers). (3) Mandatory Distribution Mandate: Under SEBI regulations, REITs and InvITs must distribute at least 90% of their Net Distributable Cash Flows (NDCF) to unitholders semi-annually as dividends, interest, or capital repayments.",
+    "source": "SEBI (Real Estate Investment Trusts) Regulations 2014 & InvIT Regulations",
+    "source_url": "https://www.sebi.gov.in/legal/regulations/sep-2014/securities-and-exchange-board-of-india-real-estate-investment-trusts-regulations-2014_28148.html",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "stocks_sebi_scra_regulations",
+    "category": "Stocks, Bonds, and Securities Markets",
+    "subcategory": "Securities Regulations & Market Integrity",
+    "title": "Securities Contracts (Regulation) Act & SEBI Market Manipulation Prohibitions",
+    "keywords": [
+      "SCRA",
+      "SEBI Act 1992",
+      "market manipulation",
+      "pump and dump",
+      "circular trading",
+      "front running",
+      "surveillance systems"
+    ],
+    "questions": [
+      "How does SEBI protect stock markets from price rigging?",
+      "What is pump and dump stock fraud?",
+      "What is circular trading in stock markets?",
+      "What powers does SEBI have under the SEBI Act?"
+    ],
+    "content": "Statutory frameworks ensuring fair, transparent, and orderly securities trading: (1) The Statutes: Regulated by the Securities Contracts (Regulation) Act 1956 (SCRA) and the SEBI Act 1992. (2) Prohibited Practices: Under SEBI (Prohibition of Fraudulent and Unfair Trade Practices) Regulations: (a) Circular Trading / Wash Sales: Collusive trading between entities without genuine change in beneficial ownership to artificially inflate volumes. (b) Pump and Dump: Artificially driving up microcap stock prices through fake news or social media hype before dumping shares on unsuspecting retail buyers. (c) Front Running: Intermediaries buying shares prior to executing large client bulk orders.",
+    "source": "SEBI (Prohibition of Fraudulent and Unfair Trade Practices relating to Securities Market) Regulations",
+    "source_url": "https://www.sebi.gov.in/legal/regulations/jul-2003/securities-and-exchange-board-of-india-prohibition-of-fraudulent-and-unfair-trade-practices-relating-to-securities-market-regulations-2003_4486.html",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "stocks_depository_nsdl_cdsl",
+    "category": "Stocks, Bonds, and Securities Markets",
+    "subcategory": "Depositories (NSDL & CDSL)",
+    "title": "NSDL and CDSL Depositories: Holding Securities in Electronic Fungible Form",
+    "keywords": [
+      "NSDL",
+      "CDSL",
+      "depositories",
+      "dematerialization",
+      "fungible securities",
+      "CAS",
+      "Consolidated Account Statement",
+      "e-voting"
+    ],
+    "questions": [
+      "What is the difference between NSDL and CDSL in India?",
+      "Where are my shares actually stored if my broker goes bankrupt?",
+      "What is a Consolidated Account Statement (CAS)?",
+      "How do depositories ensure shareholder security?"
+    ],
+    "content": "Central depositories are statutory institutions that hold securities in fungible electronic custody under the Depositories Act 1996: (1) The Two Depositories: National Securities Depository Limited (NSDL, promoted by NSE and IDBI) and Central Depository Services (India) Limited (CDSL, promoted by BSE and leading banks). (2) Broker Bankruptcy Immunity: Stockbrokers are merely Depository Participants (DPs); your shares are held directly in NSDL/CDSL accounts. If your broker collapses or shuts down, your shareholdings remain 100% safe and can be transferred smoothly to another broker. (3) Consolidated Account Statement (CAS): Dispatches a unified monthly statement tracking all your shares, bonds, and mutual funds across all folios.",
+    "source": "Depositories Act 1996 & SEBI Regulations on Depositories and Participants",
+    "source_url": "https://www.sebi.gov.in/acts/depoact.html",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "stocks_circuit_breakers_price_bands",
+    "category": "Stocks, Bonds, and Securities Markets",
+    "subcategory": "Circuit Breakers & Price Bands",
+    "title": "Stock Exchange Circuit Breakers & Price Bands: Volatility Halts",
+    "keywords": [
+      "circuit breaker",
+      "upper circuit",
+      "lower circuit",
+      "market-wide circuit",
+      "trading halt",
+      "cooling period",
+      "price band 5 percent 20 percent"
+    ],
+    "questions": [
+      "What happens when the Indian stock market hits a circuit breaker?",
+      "What are upper and lower circuits in individual stocks?",
+      "What are the market-wide circuit breaker levels (10%, 15%, 20%)?",
+      "Why do stock exchanges halt trading during extreme crashes?"
+    ],
+    "content": "Risk management mechanisms designed to halt market panic and excessive speculative volatility: (1) Market-Wide Circuit Breakers: Applied to the Sensex and Nifty indices across 3 stages based on percentage movement from the previous close: 10%, 15%, and 20%. Depending on the trigger time, a 10% or 15% move triggers a mandatory trading halt across all stock exchanges for 45 minutes to 2 hours followed by a pre-open auction call. A 20% move halts trading for the remainder of the day. (2) Stock-Specific Price Bands: Individual scrips have daily circuit filters (e.g. 2%, 5%, 10%, or 20%) preventing order matching outside the boundary.",
+    "source": "SEBI Master Circular on Stock Exchanges - Circuit Breakers and Price Bands",
+    "source_url": "https://www.sebi.gov.in/legal/master-circulars/may-2023/master-circular-for-stock-exchanges-and-clearing-corporations_71698.html",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "stocks_insider_trading_prohibition",
+    "category": "Stocks, Bonds, and Securities Markets",
+    "subcategory": "Insider Trading Regulations",
+    "title": "SEBI Prohibition of Insider Trading (PIT) Regulations & UPSI Norms",
+    "keywords": [
+      "insider trading",
+      "PIT regulations",
+      "UPSI",
+      "unpublished price sensitive information",
+      "trading window closure",
+      "compliance officer",
+      "structured digital database"
+    ],
+    "questions": [
+      "What is insider trading in stock markets?",
+      "What is Unpublished Price Sensitive Information (UPSI)?",
+      "Why is the trading window closed for company executives before financial results?",
+      "What penalties does SEBI impose for insider trading?"
+    ],
+    "content": "SEBI (Prohibition of Insider Trading) Regulations 2015 protect public investors from information asymmetry: (1) Definition: Trading in listed securities while in possession of Unpublished Price Sensitive Information (UPSI)—such as financial quarterly results, mergers, dividend decisions, or major contract wins before public disclosure—is a criminal market offence. (2) Structured Digital Database (SDD): Companies must maintain internal tamper-proof digital audit trails recording the PANs and timestamps of everyone who handled UPSI. (3) Trading Window Closure: Insiders, directors, and designated employees are legally barred from trading during trading window closures. Punishable by heavy fines and market debarment.",
+    "source": "SEBI (Prohibition of Insider Trading) Regulations 2015",
+    "source_url": "https://www.sebi.gov.in/legal/regulations/jan-2015/securities-and-exchange-board-of-india-prohibition-of-insider-trading-regulations-2015_28884.html",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "stocks_sovereign_gold_bonds_tax_free",
+    "category": "Stocks, Bonds, and Securities Markets",
+    "subcategory": "Sovereign Gold Bonds (SGB)",
+    "title": "Sovereign Gold Bonds (SGB): 2.50% Coupon, RBI Issuance & Tax-Free Capital Gains",
+    "keywords": [
+      "SGB",
+      "sovereign gold bond",
+      "2.5 percent coupon",
+      "8 year maturity",
+      "tax-free capital gains",
+      "physical gold alternative",
+      "RBI tranche"
+    ],
+    "questions": [
+      "Why are Sovereign Gold Bonds better than buying physical gold or digital gold?",
+      "What is the interest rate on Sovereign Gold Bonds?",
+      "Are capital gains on Sovereign Gold Bonds tax-free at maturity?",
+      "How do I exit a Sovereign Gold Bond before 8 years?"
+    ],
+    "content": "Government securities denominated in grams of gold issued by the RBI: (1) Superiority over Physical Gold: Zero making charges, zero storage fees, zero GST on purchase, and zero purity risk. (2) Regular Income: Pays an annual cash interest coupon of 2.50% on the initial investment value, credited semi-annually into the investor's bank account. (3) 100% Tax-Free Capital Gains: Under Section 47(viic) of the Income Tax Act, capital gains arising on redemption of SGBs at maturity (8 years) by an individual are completely exempt from income tax. (4) Premature Exit: Early redemption window is available with RBI from the 5th year onwards on coupon payment dates, or traded on secondary stock exchanges.",
+    "source": "Reserve Bank of India (RBI) Operational Guidelines on Sovereign Gold Bonds",
+    "source_url": "https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx",
+    "verification_date": "2026-03"
+  }
+]

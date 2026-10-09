@@ -1,0 +1,304 @@
+[
+  {
+    "id": "life-01",
+    "category": "Life Insurance",
+    "subcategory": "Term vs Whole Life vs Endowment",
+    "title": "Term Life Insurance vs Whole Life vs Endowment Plans",
+    "keywords": [
+      "life insurance",
+      "term plan",
+      "whole life",
+      "endowment",
+      "pure protection",
+      "maturity benefit",
+      "death benefit",
+      "sum assured"
+    ],
+    "questions": [
+      "What is the difference between term insurance and endowment plans?",
+      "What happens if I survive a term insurance policy?",
+      "What is whole life insurance?",
+      "Which life insurance gives the highest cover for lowest premium?"
+    ],
+    "content": "Life insurance plans are categorized by structure and purpose: (1) Pure Term Insurance: Pure protection plan where the nominee receives the Sum Assured only upon the death of the policyholder during the policy term. No maturity benefit is paid if the policyholder survives (unless Return of Premium / TROP rider is chosen). Offers the highest coverage for the lowest premium. (2) Endowment Plans: Traditional savings-cum-protection plans where Sum Assured plus accrued bonuses are paid on either death during the policy term or survival at maturity. Returns are typically modest (4% to 6%). (3) Whole Life Insurance: Provides guaranteed death benefit coverage up to age 99 or 100, paying out whenever death occurs, provided premiums are duly paid.",
+    "source": "IRDAI Life Insurance Regulations & Consumer Education Material",
+    "source_url": "https://irdai.gov.in/consumer-education",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "life-02",
+    "category": "Life Insurance",
+    "subcategory": "Nomination Rules & Section 39",
+    "title": "Nominee Rules, Beneficial Nominee & Section 39 of Insurance Act",
+    "keywords": [
+      "nomination",
+      "nominee",
+      "Section 39",
+      "beneficial nominee",
+      "Insurance Act",
+      "legal heir",
+      "succession",
+      "minor nominee"
+    ],
+    "questions": [
+      "Who is a beneficial nominee under Section 39?",
+      "Can legal heirs claim insurance money if a beneficial nominee is appointed?",
+      "How do I change nominee in life insurance?",
+      "What happens if the nominee dies before the policyholder?"
+    ],
+    "content": "Under Section 39 of the Insurance Act 1938 (amended in 2015), nomination rules establish clear beneficial rights: (1) Beneficial Nominee: If parents, spouse, or children are appointed as nominees, they are legally classified as 'Beneficial Nominees'. The claim payout belongs exclusively to them, overriding claims of other legal heirs or creditors. (2) Non-Family Nominee: If a third party (friend, sibling, distant relative) is nominated, they act merely as a 'Trustee/Receiver' holding money for rightful legal heirs under personal succession law. (3) Minor Nominee: If a minor is nominated, an Appointee of legal age must be named to receive funds until the minor turns 18. (4) Dynamic Updating: Nominations can be updated free of charge at any time during policy currency by submitting a change form.",
+    "source": "Insurance Act 1938 Section 39 & IRDAI Policyholder Protection Regulations",
+    "source_url": "https://irdai.gov.in/acts",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "life-03",
+    "category": "Life Insurance",
+    "subcategory": "Riders & Add-ons",
+    "title": "Life Insurance Riders: Accidental Death & Critical Illness",
+    "keywords": [
+      "riders",
+      "accidental death benefit",
+      "critical illness rider",
+      "waiver of premium",
+      "permanent disability",
+      "add-on cover"
+    ],
+    "questions": [
+      "What riders should I add to a term insurance plan?",
+      "What is waiver of premium rider?",
+      "Does accidental death benefit pay double the sum assured?",
+      "Can I add riders after purchasing the policy?"
+    ],
+    "content": "Riders are optional add-on benefits attached to a base life insurance policy to enhance protection at a fraction of standalone policy cost: (1) Accidental Death Benefit Rider (ADB): Pays an additional sum assured (often doubling total payout) if demise results directly from an accident within 180 days of occurrence. (2) Accidental Total & Permanent Disability Rider (ATPD): Pays lump-sum or staggered income if an accident results in permanent loss of limbs or eyesight, rendering the insured unable to earn. (3) Waiver of Premium Rider (WOP): Waives all future policy premiums while keeping life cover active if the insured develops a critical illness or suffers permanent disability. (4) IRDAI Cap: Total premium paid for all health/life riders combined cannot exceed 30% of the base product premium.",
+    "source": "IRDAI Regulations on Life Insurance Product Filings & Riders",
+    "source_url": "https://irdai.gov.in/regulations",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "life-04",
+    "category": "Life Insurance",
+    "subcategory": "Claim Settlement Ratio & Section 45",
+    "title": "Claim Settlement Ratio (CSR) & Section 45 Incontestability Clause",
+    "keywords": [
+      "CSR",
+      "claim settlement ratio",
+      "Section 45",
+      "incontestability",
+      "repudiation",
+      "fraud",
+      "3 years rule",
+      "non-disclosure"
+    ],
+    "questions": [
+      "What is Section 45 3-year rule in life insurance?",
+      "Can an insurance company reject a life insurance claim after 3 years?",
+      "What is Claim Settlement Ratio (CSR)?",
+      "What is repudiation ratio in life insurance?"
+    ],
+    "content": "Section 45 of the Insurance Act 1938 provides the landmark 'Incontestability Clause': (1) Three-Year Rule: No life insurance policy can be called in question by an insurer on any ground whatsoever (including misstatement, non-disclosure, or fraud) after the expiry of 3 continuous years from policy issuance, commencement of risk, or reinstatement. After 3 years, the insurer is legally bound to pay the death claim. (2) Within First 3 Years: If death occurs within 3 years of policy inception, the insurer can investigate the claim for deliberate non-disclosure of material medical history or age. (3) Claim Settlement Ratio (CSR): Measures the percentage of claims paid out of total claims received in a financial year (published annually in IRDAI Annual Report; top life insurers maintain CSR above 98%).",
+    "source": "Insurance Act 1938 Section 45 & IRDAI Annual Report Handbook",
+    "source_url": "https://irdai.gov.in/annual-reports",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "life_ulip_structure",
+    "category": "Life Insurance",
+    "subcategory": "Unit Linked Insurance Plans (ULIP)",
+    "title": "ULIP Structure, Charges, Lock-in & NAV Mechanics",
+    "keywords": [
+      "ULIP",
+      "unit linked insurance plan",
+      "5 year lock-in",
+      "fund switching",
+      "premium allocation charge",
+      "mortality charge",
+      "NAV"
+    ],
+    "questions": [
+      "How do ULIPs work in India?",
+      "What is the mandatory lock-in period for ULIPs?",
+      "What charges are deducted in a ULIP?",
+      "Can I switch funds inside a ULIP without paying tax?"
+    ],
+    "content": "Unit Linked Insurance Plans (ULIPs) combine life insurance protection with market-linked investments (equity, debt, or balanced funds). (1) Regulatory Lock-in: Under IRDAI regulations, ULIPs have a mandatory 5-year lock-in period. No partial or total withdrawals are permitted before completing 5 policy years. (2) Charge Structure: Premium allocation charge, policy administration charge, fund management charge (capped at 1.35% p.a. by IRDAI), and mortality charges (deducted monthly by cancelling units for life cover). (3) Fund Switching: Policyholders can switch between equity and debt funds dynamically, typically with several free switches per financial year. (4) Tax Note: Tax exemption under Section 10(10D) is available only if aggregate annual ULIP premiums are ₹2.5 Lakh or less (Finance Act 2021).",
+    "source": "IRDAI Unit Linked Insurance Products Regulations & Master Circular",
+    "source_url": "https://irdai.gov.in/regulations",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "life_mwpa_section6",
+    "category": "Life Insurance",
+    "subcategory": "Married Women's Property Act",
+    "title": "Married Women's Property Act (MWPA) Section 6 Endorsement",
+    "keywords": [
+      "MWPA",
+      "Married Women's Property Act",
+      "Section 6",
+      "creditor protection",
+      "insolvency",
+      "bankruptcy",
+      "trustees",
+      "wife and children"
+    ],
+    "questions": [
+      "What is MWPA endorsement in life insurance?",
+      "How does MWPA protect term insurance from creditors and business debts?",
+      "Can MWPA endorsement be removed after policy purchase?",
+      "Who can be appointed as trustee under MWP Act?"
+    ],
+    "content": "Section 6 of the Married Women's Property Act 1874 allows a married man to take a life insurance policy explicitly for the benefit of his wife and/or children, creating an irrevocable trust. (1) Complete Creditor Immunity: The policy proceeds, loan surrender values, and death payouts cannot be attached by courts, creditors, banks, income-tax authorities, or recovery tribunals, even in the event of personal bankruptcy or business insolvency. (2) Irrevocable Status: Once issued under the MWP Act, the policyholder loses the right to surrender the policy, take loans against it, or change beneficiaries without the express consent of the appointed trustees. (3) Beneficiary Restriction: Only the legally wedded wife, natural/adopted children, or both can be named as beneficiaries.",
+    "source": "Married Women's Property Act 1874 Section 6 & IRDAI Policyholder Guidelines",
+    "source_url": "https://irdai.gov.in/guidelines",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "life_suicide_clause_rules",
+    "category": "Life Insurance",
+    "subcategory": "Suicide Exclusion Clause",
+    "title": "Suicide Clause in Life Insurance: 12-Month Exclusion Rules",
+    "keywords": [
+      "suicide clause",
+      "12 months",
+      "policy inception",
+      "revival",
+      "claim admissibility",
+      "80 percent premium refund",
+      "Section 45"
+    ],
+    "questions": [
+      "Does life insurance cover suicide in India?",
+      "What is the waiting period for suicide claim in life insurance?",
+      "How much claim is paid if the policyholder commits suicide within 1 year?",
+      "Does suicide clause reset upon policy revival?"
+    ],
+    "content": "Under standard IRDAI life insurance product guidelines: (1) First 12 Months: If the insured commits suicide within 12 months from the date of risk commencement or policy issuance, the full death benefit (Sum Assured) is not payable. Instead, the insurer pays at least 80% of the total premiums paid excluding taxes, or the acquired surrender value (whichever is higher). (2) After 12 Months: If demise by suicide occurs after 12 continuous months of an active policy, the claim is treated like any other death claim and 100% of the Sum Assured is paid to the nominee. (3) Policy Revival: If a lapsed policy is revived, a new 12-month suicide exclusion clock begins from the revival date, during which only 80% of premiums paid till date of death or surrender value is returned.",
+    "source": "IRDAI Standardization of Life Insurance General Provisions",
+    "source_url": "https://irdai.gov.in/regulations",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "life_keyman_insurance",
+    "category": "Life Insurance",
+    "subcategory": "Corporate & Keyman Insurance",
+    "title": "Keyman Insurance for Businesses and Corporate Executives",
+    "keywords": [
+      "keyman insurance",
+      "business protection",
+      "corporate term plan",
+      "director",
+      "partnership",
+      "tax deduction Section 37",
+      "business continuity"
+    ],
+    "questions": [
+      "What is Keyman Insurance in India?",
+      "Who can be insured under Keyman insurance?",
+      "Are Keyman insurance premiums tax-deductible for a company?",
+      "What happens to Keyman insurance if the employee resigns?"
+    ],
+    "content": "Keyman insurance is a pure term life insurance policy taken out by a business entity on the life of an indispensable executive, founder, or specialist whose untimely death would inflict severe financial loss on the company. (1) Ownership: The employer pays all premiums and is the designated policyholder and beneficiary. (2) Tax Treatment: Under Section 37(1) of the Income Tax Act, premiums paid by the company are treated as fully deductible business expenses. However, any death claim proceeds received by the company are treated as taxable business profits under Section 28(vi). (3) Exit or Resignation: If the key executive departs, the policy can be assigned to the employee as per employer agreement, transferred to another keyman, or surrendered.",
+    "source": "IRDAI Corporate Insurance Guidelines & CBDT Circulars",
+    "source_url": "https://irdai.gov.in/guidelines",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "life_surrender_value_norms",
+    "category": "Life Insurance",
+    "subcategory": "Surrender Value & Paid-Up Rules",
+    "title": "Surrender Value Calculation: Guaranteed vs Special Surrender Value",
+    "keywords": [
+      "surrender value",
+      "guaranteed surrender value",
+      "GSV",
+      "SSV",
+      "special surrender value",
+      "paid-up policy",
+      "premature exit"
+    ],
+    "questions": [
+      "How is surrender value calculated for traditional life insurance policies?",
+      "What is Guaranteed Surrender Value (GSV)?",
+      "When does a life insurance policy acquire surrender value?",
+      "What happens if I stop paying life insurance premiums after 2 years?"
+    ],
+    "content": "When a policyholder terminates an endowment or traditional life insurance policy before maturity: (1) Minimum Eligibility: Under IRDAI regulations, policies acquire a guaranteed surrender value after continuous payment of premiums for at least 2 full policy years. (2) Guaranteed Surrender Value (GSV): Defined by statutory percentage scales based on elapsed policy duration (typically 30% of total premiums paid excluding first-year premium and rider costs for 2-3 years, scaling up to 90% in later years). (3) Special Surrender Value (SSV): Calculated using an actuarial formula: SSV = (Paid-up Sum Assured + Accrued Bonuses) x SSV Factor (discounting factor determined by insurer based on prevailing yields). Insurers must pay whichever is higher between GSV and SSV.",
+    "source": "IRDAI Master Circular on Life Insurance Product Surrender Value Regulations",
+    "source_url": "https://irdai.gov.in/master-circulars",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "life_annuity_pension_plans",
+    "category": "Life Insurance",
+    "subcategory": "Annuity & Pension Plans",
+    "title": "Annuity & Pension Plans: Immediate vs Deferred Annuity",
+    "keywords": [
+      "annuity",
+      "pension plan",
+      "immediate annuity",
+      "deferred annuity",
+      "retirement income",
+      "return of purchase price",
+      "guaranteed lifetime income"
+    ],
+    "questions": [
+      "What is an annuity plan in life insurance?",
+      "What is the difference between immediate annuity and deferred annuity?",
+      "Does an annuity plan return the invested purchase price to the nominee?",
+      "Are annuity pensions taxable in India?"
+    ],
+    "content": "Annuity plans convert a lump-sum corpus into guaranteed regular income (monthly, quarterly, or annual) for life: (1) Immediate Annuity: Pension payouts begin immediately in the next frequency cycle (e.g. 1 month after investing). Ideal for retirees who already possess a retirement corpus. (2) Deferred Annuity: Allows investors to accumulate funds over an accumulation phase of several years; annuity payouts start at a future vesting age. (3) Common Annuity Options: Annuity for life without return of purchase price (highest monthly payout), Annuity for life with Return of Purchase Price (ROPP) to nominees on death, and Joint-life annuity (continues for spouse's lifetime). Payouts received as annuity are treated as taxable income under the pensioner's applicable tax slab.",
+    "source": "IRDAI Life Insurance Product Regulations - Pension & Annuity Products",
+    "source_url": "https://irdai.gov.in/regulations",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "life_paid_up_policy_value",
+    "category": "Life Insurance",
+    "subcategory": "Paid-Up Policy Provisions",
+    "title": "Paid-Up Life Policy: Formula, Reduced Cover and Benefits",
+    "keywords": [
+      "paid-up policy",
+      "reduced sum assured",
+      "stop premium",
+      "endowment conversion",
+      "paid-up formula"
+    ],
+    "questions": [
+      "What is a paid-up policy in life insurance?",
+      "How is reduced paid-up sum assured calculated?",
+      "Do paid-up policies earn future bonuses?",
+      "Can a paid-up policy be revived?"
+    ],
+    "content": "If a policyholder ceases paying premiums after the policy has acquired surrender value (usually after 2 or 3 years), the policy does not lapse completely; instead, it converts automatically into a 'Paid-Up' policy. (1) Paid-Up Sum Assured Formula: Paid-Up Sum Assured = (Number of Premiums Paid / Total Number of Premiums Payable) x Original Sum Assured. (2) Benefit Settlement: On death of the insured or upon policy maturity, the insurer pays the Reduced Paid-Up Sum Assured plus any bonuses accrued prior to the date the policy became paid-up. (3) Bonus Cessation: A paid-up policy ceases to participate in future annual bonus declarations. The insured retains reduced coverage without needing to pay any further premiums.",
+    "source": "IRDAI Regulations on Life Insurance Product Terms & Standardization",
+    "source_url": "https://irdai.gov.in/regulations",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "life_underwriting_morals",
+    "category": "Life Insurance",
+    "subcategory": "Medical & Financial Underwriting",
+    "title": "Life Insurance Underwriting: Financial Eligibility & Medical Loading",
+    "keywords": [
+      "underwriting",
+      "financial underwriting",
+      "medical underwriting",
+      "human life value",
+      "HLV",
+      "ITR multiplier",
+      "medical loading",
+      "counter offer"
+    ],
+    "questions": [
+      "How do life insurance companies calculate how much cover I can buy?",
+      "What is Human Life Value (HLV)?",
+      "What is premium loading for pre-existing medical conditions?",
+      "Why do life insurers ask for 3 years of ITR?"
+    ],
+    "content": "Life insurance underwriting evaluates mortality risk before issuing coverage: (1) Financial Underwriting & HLV: Insurers limit maximum term insurance to prevent speculative over-insurance using Human Life Value (HLV) multipliers based on age and verified income (ITR / Form 16): Age 18-35: up to 25-30x annual income; Age 36-45: up to 20x annual income; Age 46-55: up to 10-15x annual income. (2) Medical Underwriting: Based on tele-medical checks or clinical tests (blood profile, ECG, liver panel). High-risk factors (smokers, obesity, hypertension, diabetes) result in 'Premium Loading' (percentage surcharge on base rates) or policy exclusions. (3) Counter-Offer: If risk is elevated, the insurer issues a counter-offer with revised pricing, which the proposer must formally accept before risk starts.",
+    "source": "IRDAI Master Circular on Life Underwriting Standards",
+    "source_url": "https://irdai.gov.in/master-circulars",
+    "verification_date": "2026-03"
+  }
+]

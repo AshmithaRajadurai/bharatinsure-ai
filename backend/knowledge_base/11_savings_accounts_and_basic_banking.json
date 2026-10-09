@@ -1,0 +1,297 @@
+[
+  {
+    "id": "bank-01",
+    "category": "Savings Accounts and Basic Banking",
+    "subcategory": "Savings vs Current Accounts",
+    "title": "Savings Accounts vs Current Accounts & Account Statements",
+    "keywords": [
+      "savings account",
+      "current account",
+      "interest rate",
+      "overdraft",
+      "account statement",
+      "MAB",
+      "minimum balance",
+      "daily balance"
+    ],
+    "questions": [
+      "What is the difference between a savings account and a current account?",
+      "How is interest calculated on savings accounts in India?",
+      "Can businesses use savings accounts?",
+      "What is Monthly Average Balance (MAB)?"
+    ],
+    "content": "Banks offer distinct deposit accounts tailored for individuals vs commercial entities: (1) Savings Account: Designed for individuals to park savings and earn modest interest (typically 2.7% to 4.0% p.a.). Interest is calculated on a daily product basis and credited quarterly or monthly under RBI rules. Subject to transaction limits and Minimum Average Balance (MAB) requirements. (2) Current Account: Designed for businesses, traders, and enterprises with unlimited daily transactions, overdraft facilities, and zero interest payout under RBI directives. (3) Account Statements: Official records documenting all credits, debits, and balance trajectories, accepted as valid proof of address and income.",
+    "source": "RBI Master Direction - Interest Rate on Deposits & Customer Service in Banks",
+    "source_url": "https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "bank-03",
+    "category": "Savings Accounts and Basic Banking",
+    "subcategory": "Minimum Balance & BSBDA",
+    "title": "Minimum Balance Rules, Non-Maintenance Charges & BSBDA Zero-Balance Accounts",
+    "keywords": [
+      "minimum balance",
+      "MAB penalty",
+      "BSBDA",
+      "zero balance account",
+      "Jan Dhan",
+      "non-maintenance charges",
+      "negative balance prohibition"
+    ],
+    "questions": [
+      "Can a bank turn my savings account balance negative for non-maintenance?",
+      "What is a BSBDA zero-balance account?",
+      "What are the rules for minimum balance penalties in India?",
+      "How can I avoid bank non-maintenance charges?"
+    ],
+    "content": "RBI customer protection guidelines regulate account maintenance charges: (1) Minimum Average Balance (MAB) Rules: Banks can levy penal charges for failure to maintain MAB, but the penalty must be proportionate to the actual shortfall. Crucially, under RBI Master Directions, banks are strictly prohibited from turning an account balance negative under the pretext of levying non-maintenance charges. (2) BSBDA (Basic Savings Bank Deposit Account): Free zero-balance account available to all citizens. No minimum balance requirement, free ATM/debit card, and no charges for deposits. Mandates at least 4 free cash withdrawals per month.",
+    "source": "RBI Master Circular - Customer Service in Banks & BSBDA Guidelines",
+    "source_url": "https://www.rbi.org.in/Scripts/BS_ViewMasCirculardetails.aspx",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "bank-04",
+    "category": "Savings Accounts and Basic Banking",
+    "subcategory": "Nomination & Death Settlement",
+    "title": "Bank Account Nomination Rules & Settlement on Depositor Death",
+    "keywords": [
+      "bank nomination",
+      "survivor clause",
+      "either or survivor",
+      "death claim settlement",
+      "Form DA1",
+      "15 days settlement",
+      "nominee as trustee"
+    ],
+    "questions": [
+      "How do I add a nominee to my bank account?",
+      "What happens to bank account funds when the account holder dies?",
+      "Does the nominee own the bank money or hold it for legal heirs?",
+      "What is the timeline for banks to settle deceased depositor claims?"
+    ],
+    "content": "Rules governing bank account succession and survivor rights under Section 45ZA of the Banking Regulation Act: (1) Nomination (Form DA-1): Enables a depositor to appoint an individual to receive funds upon death. Unlike insurance where certain family members are beneficial owners, in banking law a nominee acts as a Trustee/Receiver holding funds for the rightful legal heirs under personal succession laws. (2) 'Either or Survivor' / 'Former or Survivor': In joint accounts, operational survivor mandates allow the surviving account holder to access and withdraw all funds smoothly. (3) 15-Day Settlement Mandate: Under RBI guidelines, banks must settle deceased depositor claims with valid nominations within 15 calendar days of receiving the death certificate and KYC.",
+    "source": "Banking Regulation Act 1949 & RBI Master Circular on Deceased Depositors",
+    "source_url": "https://www.rbi.org.in/Scripts/BS_ViewMasCirculardetails.aspx",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "bank_bsbda_zero_balance_limits",
+    "category": "Savings Accounts and Basic Banking",
+    "subcategory": "BSBDA Full Specifications",
+    "title": "Basic Savings Bank Deposit Account (BSBDA): Free Services & Withdrawal Limits",
+    "keywords": [
+      "BSBDA",
+      "basic savings account",
+      "zero balance",
+      "4 free withdrawals",
+      "Rupay debit card",
+      "no annual fee",
+      "cheque book"
+    ],
+    "questions": [
+      "What free services are offered in a BSBDA bank account?",
+      "Is there a limit on deposits in a zero balance BSBDA account?",
+      "What happens if I make more than 4 withdrawals in a BSBDA account?",
+      "Can I hold another savings account if I have a BSBDA?"
+    ],
+    "content": "Basic Savings Bank Deposit Accounts (BSBDA) ensure universal financial inclusion under RBI directives: (1) Zero Minimum Balance: No requirement to maintain any minimum or average balance; banks cannot levy non-maintenance charges. (2) Free Facilities: Free ATM-cum-debit card (RuPay card) without annual maintenance fees, unlimited free cash deposits at branch counters or cash deposit machines (CDMs). (3) Withdrawal Cap: Policyholders receive a minimum of 4 free cash withdrawals per month (including branch and ATM withdrawals); beyond 4 withdrawals, banks can levy reasonable fees or convert the account to a regular savings account. (4) Exclusivity: An individual cannot hold any other regular savings account in the same bank while operating a BSBDA.",
+    "source": "RBI Guidelines on Basic Savings Bank Deposit Account (BSBDA)",
+    "source_url": "https://www.rbi.org.in/Scripts/NotificationUser.aspx",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "bank_savings_interest_calculation",
+    "category": "Savings Accounts and Basic Banking",
+    "subcategory": "Interest Calculation Mechanics",
+    "title": "Savings Account Daily Balance Interest Calculation & Quarterly Credit Rules",
+    "keywords": [
+      "daily balance interest",
+      "savings interest calculation",
+      "quarterly interest credit",
+      "RBI deregulation",
+      "interest formula",
+      "Section 80TTA"
+    ],
+    "questions": [
+      "How do Indian banks calculate interest on savings accounts?",
+      "What is the formula for savings account interest?",
+      "How often is savings account interest credited to my account?",
+      "Is savings account interest tax-free under Section 80TTA?"
+    ],
+    "content": "Savings account interest calculation is governed by RBI Master Directions: (1) Daily Product Basis: Under RBI mandates, banks must calculate interest on the daily end-of-day closing balance, not on minimum monthly balances. Formula: Daily Interest = (Daily End-of-Day Balance x Annual Interest Rate) / 36500. (2) Payout Frequency: Calculated interest must be credited to the account at quarterly or monthly intervals. (3) Rate Deregulation: Commercial banks are free to determine interest rate tiers (e.g. 3.0% for balances up to ₹1 Lakh, 4.0% to 7.0% for higher balances). (4) Tax Deduction: Section 80TTA exempts savings account interest from income tax up to ₹10,000 per financial year for individuals under 60 (Section 80TTB provides ₹50,000 for senior citizens).",
+    "source": "RBI Master Direction - Interest Rate on Deposits & Income Tax Act Section 80TTA",
+    "source_url": "https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "bank_inoperative_dormant_accounts",
+    "category": "Savings Accounts and Basic Banking",
+    "subcategory": "Inoperative & Dormant Accounts",
+    "title": "Inoperative and Dormant Bank Accounts: RBI Reactivation Guidelines",
+    "keywords": [
+      "inoperative account",
+      "dormant account",
+      "2 years no transaction",
+      "reactivation process",
+      "zero charge reactivation",
+      "RBI revised norms"
+    ],
+    "questions": [
+      "When does a bank account become dormant in India?",
+      "What is the difference between an inoperative and dormant bank account?",
+      "Can a bank charge a fee to reactivate a dormant account?",
+      "Does interest continue to accumulate on a dormant account?"
+    ],
+    "content": "RBI regulates inoperative and dormant deposit accounts to protect depositor balances: (1) 2-Year Rule: A savings or current account is classified as inoperative / dormant if there are no customer-induced transactions (financial or non-financial) for a continuous period of over 2 years. Automatic system credits (interest credit, dividend direct credits) do not count as customer-induced activity. (2) Continued Interest Accrual: Banks must continue crediting regular savings interest into inoperative accounts on schedule. (3) Free Reactivation: Under RBI directives, banks are strictly prohibited from levying any fees or charges for reactivating an inoperative account upon submission of fresh KYC documents.",
+    "source": "RBI Master Direction on Inoperative Accounts / Unclaimed Deposits",
+    "source_url": "https://www.rbi.org.in/Scripts/NotificationUser.aspx",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "bank_dea_fund_unclaimed_deposits",
+    "category": "Savings Accounts and Basic Banking",
+    "subcategory": "Unclaimed Deposits & UDGAM Portal",
+    "title": "RBI Depositor Education and Awareness (DEA) Fund & UDGAM Portal",
+    "keywords": [
+      "DEA Fund",
+      "unclaimed deposits",
+      "UDGAM portal",
+      "10 years unclaimed",
+      "RBI portal search",
+      "reclaim old deposit",
+      "interest on unclaimed"
+    ],
+    "questions": [
+      "What is UDGAM portal by RBI?",
+      "What happens to bank money unclaimed for 10 years?",
+      "What is the Depositor Education and Awareness (DEA) Fund?",
+      "How do I find and reclaim old unclaimed deposits of deceased parents?"
+    ],
+    "content": "Balances left unclaimed for extended periods are safeguarded by the central bank: (1) 10-Year Transfer: Under Section 26A of the Banking Regulation Act, balances in any deposit account that remain completely untouched and inoperative for 10 years are transferred to the RBI's Depositor Education and Awareness (DEA) Fund. (2) UDGAM Portal (udgam.rbi.org.in): A centralized portal launched by RBI enabling citizens to search across multiple banks for unclaimed deposits using name, PAN, mobile number, or address. (3) Full Reclaim Rights: Depositors or legal heirs can reclaim their principal deposit along with accumulated interest at any time from the respective bank, which claims a refund from the DEA Fund.",
+    "source": "Banking Regulation Act Section 26A & RBI UDGAM Portal Documentation",
+    "source_url": "https://udgam.rbi.org.in/",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "bank_account_portability_schemes",
+    "category": "Savings Accounts and Basic Banking",
+    "subcategory": "Branch Portability & Transfer",
+    "title": "Bank Account Portability & Clean Transfer between Branches",
+    "keywords": [
+      "account transfer",
+      "branch portability",
+      "change home branch",
+      "same account number",
+      "net banking transfer",
+      "RBI ease of banking"
+    ],
+    "questions": [
+      "Can I transfer my bank account to another branch without changing my account number?",
+      "How do I change my home branch online?",
+      "Do I need new cheque books and ATM cards when transferring bank branches?",
+      "Can a bank refuse to transfer an account?"
+    ],
+    "content": "To enhance customer mobility, RBI directives mandate seamless intra-bank branch transfers: (1) Account Number Preservation: When transferring an account between branches of the same bank, the primary Bank Account Number, customer ID (CIF), and active debit cards remain identical; only the branch IFSC code changes. (2) Paperless Digital Portability: Modern core banking systems (CBS) allow account holders to initiate home branch transfer requests directly via internet banking or mobile apps without visiting either branch physically. (3) No Re-KYC Friction: Transfer cannot be delayed on grounds of KYC re-verification if KYC is already validated in the bank's central repository.",
+    "source": "RBI Master Circular - Customer Service in Banks & Branch Operations",
+    "source_url": "https://www.rbi.org.in/Scripts/BS_ViewMasCirculardetails.aspx",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "bank_senior_citizen_doorstep_banking",
+    "category": "Savings Accounts and Basic Banking",
+    "subcategory": "Doorstep Banking (DSB)",
+    "title": "Doorstep Banking Services for Senior Citizens and Divyangjan",
+    "keywords": [
+      "doorstep banking",
+      "senior citizens",
+      "divyangjan",
+      "visually impaired",
+      "life certificate submission",
+      "cash delivery at home",
+      "RBI mandate"
+    ],
+    "questions": [
+      "What is Doorstep Banking (DSB) for senior citizens?",
+      "Can senior citizens get cash delivered to their home by the bank?",
+      "What services are provided under Doorstep Banking?",
+      "Are doorstep banking services available for persons with disabilities?"
+    ],
+    "content": "RBI mandates that all scheduled commercial banks must provide dedicated Doorstep Banking (DSB) services: (1) Eligible Beneficiaries: Senior citizens aged 70 years and above, differently-abled persons, and visually impaired individuals. (2) Scope of Services: Pick-up of cash against cheques, cash delivery against withdrawal slips (up to daily limits, e.g. ₹10,000 to ₹25,000), pick-up of cheques and Form 15G/15H, delivery of demand drafts, and submission of annual Digital Life Certificates (Jeevan Pramaan). (3) Nominal Fees: Banks must offer these services at reasonable, regulated charges without discrimination.",
+    "source": "RBI Master Circular on Banking Facility for Senior Citizens and Divyangjan",
+    "source_url": "https://www.rbi.org.in/Scripts/NotificationUser.aspx",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "bank_joint_accounts_either_or_survivor",
+    "category": "Savings Accounts and Basic Banking",
+    "subcategory": "Joint Account Operating Mandates",
+    "title": "Joint Bank Accounts: 'Either or Survivor' vs 'Former or Survivor' Rules",
+    "keywords": [
+      "joint account",
+      "either or survivor",
+      "former or survivor",
+      "anyone or survivor",
+      "jointly operated",
+      "death of joint holder"
+    ],
+    "questions": [
+      "What is the difference between 'Either or Survivor' and 'Former or Survivor'?",
+      "Can one person close a joint bank account without the other's signature?",
+      "What happens to a joint account if one account holder dies?",
+      "Who can withdraw money from a joint account?"
+    ],
+    "content": "Operational mandates govern how joint bank accounts function during life and after demise: (1) 'Either or Survivor': Any of the joint holders can operate the account, sign cheques, make withdrawals, and use debit cards independently. Upon death of one holder, the entire balance passes smoothly to the survivor. (2) 'Former or Survivor': Only the primary ('Former') account holder can operate the account during their lifetime. The second holder ('Survivor') can operate the account only after the formal demise of the primary holder. (3) 'Jointly': All transactions require signatures of all account holders together. (4) Account Closure Rule: Irrespective of the operating mandate, closing the account or stopping a cheque requires the joint consent of all holders.",
+    "source": "RBI Guidelines on Operational Mandates in Joint Accounts & Indian Contract Act",
+    "source_url": "https://www.rbi.org.in/Scripts/NotificationUser.aspx",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "bank_minor_savings_account_rules",
+    "category": "Savings Accounts and Basic Banking",
+    "subcategory": "Minor Savings Accounts",
+    "title": "Minor Savings Accounts: Self-Operated (10+ Years) vs Guardian-Operated",
+    "keywords": [
+      "minor savings account",
+      "child bank account",
+      "10 years old self operated",
+      "natural guardian",
+      "turning 18 major",
+      "debit card for minors"
+    ],
+    "questions": [
+      "Can a 10-year-old child open and operate an independent bank account?",
+      "What are the rules for minor bank accounts under RBI guidelines?",
+      "What happens to a minor's bank account when they turn 18?",
+      "Can a mother be the sole guardian of a minor's bank account?"
+    ],
+    "content": "RBI financial literacy directives establish clear regulations for bank accounts opened for minors: (1) Age 10 and Above (Self-Operated): Minors aged 10 years and above are permitted to open and operate independent savings accounts in their own name, complete with cheque books and personalized debit cards with daily spending limits. (2) Below Age 10 (Guardian-Operated): Must be operated jointly or solely by the natural or legal guardian (mother or father). (3) Attaining Majority (Age 18): On turning 18, operations are frozen until the minor submits fresh KYC documents and signature cards, converting the account into an adult account.",
+    "source": "RBI Circular on Opening of Bank Accounts in the Names of Minors",
+    "source_url": "https://www.rbi.org.in/Scripts/NotificationUser.aspx",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "bank_service_charges_rbi_fair_practices",
+    "category": "Savings Accounts and Basic Banking",
+    "subcategory": "Fair Practices & Service Charges",
+    "title": "RBI Fair Practices Code on Bank Service Charges & Prior Notice",
+    "keywords": [
+      "service charges",
+      "RBI Fair Practices Code",
+      "30 days prior notice",
+      "SMS alert charges",
+      "ATM charges",
+      "unreasonable bank fees"
+    ],
+    "questions": [
+      "Can a bank increase service charges without informing customers?",
+      "How much advance notice must a bank give before changing service charges?",
+      "Are banks allowed to charge high fees for SMS alerts?",
+      "Where can I find the schedule of bank service charges?"
+    ],
+    "content": "The RBI Fair Practices Code protects banking customers from arbitrary fee levies: (1) Mandatory 30-Day Prior Notice: Banks cannot introduce new service charges or hike existing fees (e.g. locker fees, ATM transaction costs, debit card charges) without providing at least 30 days of advance notice to customers via SMS, email, and prominent branch displays. (2) SMS Alert Charges: Banks must ensure SMS alert charges are levied on an actual-usage basis rather than unreasonable arbitrary flat rates. (3) Schedule of Charges: Every bank must publish a transparent 'Schedule of Service Charges' accessible on its official website.",
+    "source": "RBI Master Circular on Customer Service in Banks - Service Charges",
+    "source_url": "https://www.rbi.org.in/Scripts/BS_ViewMasCirculardetails.aspx",
+    "verification_date": "2026-03"
+  }
+]

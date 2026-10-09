@@ -1,0 +1,302 @@
+[
+  {
+    "id": "inv-01",
+    "category": "Mutual Funds and Systematic Investment Plans",
+    "subcategory": "Mutual Funds Overview & TER",
+    "title": "Mutual Funds Overview, Net Asset Value (NAV) & Total Expense Ratio (TER)",
+    "keywords": [
+      "mutual funds",
+      "NAV",
+      "net asset value",
+      "TER",
+      "total expense ratio",
+      "SEBI",
+      "AMC",
+      "asset management company",
+      "direct vs regular"
+    ],
+    "questions": [
+      "What is a mutual fund?",
+      "What is Net Asset Value (NAV)?",
+      "What is Total Expense Ratio (TER)?",
+      "What is the difference between direct and regular mutual fund plans?"
+    ],
+    "content": "Mutual funds pool money from investors to purchase a diversified portfolio of stocks, bonds, or money-market securities managed by an Asset Management Company (AMC) under SEBI regulations: (1) Net Asset Value (NAV): The per-unit market value of a mutual fund scheme, calculated daily at market close. NAV = (Total Market Value of Assets - Liabilities & Expenses) / Total Outstanding Units. (2) Total Expense Ratio (TER): The annual percentage fee charged by the AMC to manage the fund (fund manager fees, administration, marketing), capped by SEBI based on AUM tiers. (3) Direct vs Regular Plans: Direct plans carry zero distributor commission, resulting in a lower TER (0.5% to 1.5% lower) and delivering significantly higher compounded returns over long horizons.",
+    "source": "SEBI (Mutual Funds) Regulations 1996 & AMFI Investor Education Handbooks",
+    "source_url": "https://www.sebi.gov.in/legal/regulations/sep-2023/securities-and-exchange-board-of-india-mutual-funds-regulations-1996_76915.html",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "inv-02",
+    "category": "Mutual Funds and Systematic Investment Plans",
+    "subcategory": "SIP, Rupee Cost Averaging & SWP",
+    "title": "Systematic Investment Plan (SIP), Rupee Cost Averaging & SWP Explained",
+    "keywords": [
+      "SIP",
+      "systematic investment plan",
+      "rupee cost averaging",
+      "SWP",
+      "systematic withdrawal plan",
+      "power of compounding",
+      "timing the market"
+    ],
+    "questions": [
+      "What is a Systematic Investment Plan (SIP)?",
+      "How does rupee cost averaging work in SIP?",
+      "What is a Systematic Withdrawal Plan (SWP)?",
+      "Is SIP better than lump-sum investment?"
+    ],
+    "content": "Structured investment approaches that eliminate the need to time financial markets: (1) Systematic Investment Plan (SIP): An automated facility allowing investors to invest a fixed sum (e.g. ₹500, ₹5,000) at regular intervals (monthly/quarterly) into a mutual fund scheme. (2) Rupee Cost Averaging: In falling markets, your fixed instalment automatically purchases more fund units at lower NAVs; in rising markets, it buys fewer units at higher NAVs, reducing the average cost per unit over time without stress. (3) Systematic Withdrawal Plan (SWP): The inverse of SIP; allows investors (such as retirees) to redeem a fixed sum monthly from their mutual fund corpus while the remaining capital continues compounding.",
+    "source": "Association of Mutual Funds in India (AMFI) Investor Guidelines",
+    "source_url": "https://www.amfiindia.com/investor-corner/knowledge-center/what-is-sip.html",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "inv-03",
+    "category": "Mutual Funds and Systematic Investment Plans",
+    "subcategory": "SEBI Scheme Categorization",
+    "title": "Equity, Debt, Hybrid & Index Mutual Funds (SEBI Scheme Categorization)",
+    "keywords": [
+      "equity funds",
+      "debt funds",
+      "hybrid funds",
+      "index funds",
+      "SEBI scheme categorization",
+      "large cap",
+      "mid cap",
+      "small cap",
+      "ELSS"
+    ],
+    "questions": [
+      "What are the main categories of mutual funds in India?",
+      "What is the difference between large cap, mid cap, and small cap funds?",
+      "What is an index fund?",
+      "How are hybrid mutual funds structured?"
+    ],
+    "content": "Under SEBI's Scheme Categorization Circular, mutual funds follow strict asset allocation mandates: (1) Equity Schemes: Invest primarily in equities. Categories include Large-Cap (top 100 companies by market cap, minimum 80% equity), Mid-Cap (101st to 250th companies, min 65%), Small-Cap (251st onwards, min 65%), Flexi-Cap (dynamic allocation across market caps), and ELSS (tax-saving equity with 3-year lock-in). (2) Debt Schemes: Invest in fixed-income securities (G-Secs, corporate bonds, commercial paper) categorized by duration (Liquid, Overnight, Short Duration, Corporate Bond). (3) Hybrid Schemes: Blend equity and debt (e.g. Aggressive Hybrid: 65-80% equity, 20-35% debt). (4) Index Funds: Passively replicate market indices (Nifty 50, Sensex) with low expense ratios.",
+    "source": "SEBI Master Circular on Categorization and Rationalization of Mutual Fund Schemes",
+    "source_url": "https://www.sebi.gov.in/legal/master-circulars/may-2023/master-circular-for-mutual-funds_71697.html",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "mf_direct_vs_regular_plans",
+    "category": "Mutual Funds and Systematic Investment Plans",
+    "subcategory": "Direct vs Regular Plans",
+    "title": "Direct Plans vs Regular Plans: Compounding Effect of Lower Total Expense Ratios",
+    "keywords": [
+      "direct plan",
+      "regular plan",
+      "broker commission",
+      "TER difference",
+      "compounding effect",
+      "wealth difference over 20 years",
+      "MF distributor"
+    ],
+    "questions": [
+      "What is the difference between direct and regular mutual fund plans?",
+      "How much extra returns do direct mutual funds give?",
+      "Do direct mutual funds have the same portfolio as regular plans?",
+      "Why does the NAV of a direct plan stay higher than a regular plan?"
+    ],
+    "content": "Since January 2013, SEBI mandated that every mutual fund scheme must offer two distinct purchase routes: (1) Regular Plan: Purchased through mutual fund distributors, brokers, or banks. The AMC pays an ongoing trail commission (typically 0.50% to 1.50% per year) to the distributor out of the fund's assets, increasing the Total Expense Ratio (TER). (2) Direct Plan: Purchased directly from the AMC or direct investment platforms without an intermediary. Has zero distributor commissions, resulting in a substantially lower TER. (3) Compounding Impact: Over a 20-year horizon, saving 1% annually in TER can result in a 20% to 30% larger final retirement corpus.",
+    "source": "SEBI Directives on Introduction of Direct Plans in Mutual Funds",
+    "source_url": "https://www.sebi.gov.in/legal/regulations/sep-2023/securities-and-exchange-board-of-india-mutual-funds-regulations-1996_76915.html",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "mf_elss_tax_saving_mutual_funds",
+    "category": "Mutual Funds and Systematic Investment Plans",
+    "subcategory": "ELSS Tax Saving Schemes",
+    "title": "Equity Linked Savings Schemes (ELSS): 3-Year Lock-In & Section 80C Benefits",
+    "keywords": [
+      "ELSS",
+      "tax saving mutual fund",
+      "Section 80C",
+      "3-year lock-in",
+      "equity tax saving",
+      "lowest lock-in among 80C",
+      "wealth creation"
+    ],
+    "questions": [
+      "What is ELSS in mutual funds?",
+      "How long is the lock-in period for ELSS mutual funds?",
+      "How does an ELSS SIP lock-in work?",
+      "Is ELSS better than PPF and tax-saver FD?"
+    ],
+    "content": "Equity Linked Savings Schemes (ELSS) are diversified equity mutual funds notified by the Central Government: (1) Tax Deduction: Investments up to ₹1,50,000 per financial year qualify for tax deduction under Section 80C (Old Tax Regime). (2) Shortest Lock-In: Features a mandatory 3-year lock-in period—the shortest among all Section 80C tax-saving instruments (compared to 5 years for Tax-Saver FDs, 15 years for PPF). (3) SIP Lock-in Mechanics: When investing in ELSS via monthly SIP, each monthly instalment has its own independent 3-year lock-in clock from the date of that specific purchase. (4) Returns: Long-term capital gains above ₹1.25 Lakh are taxed at 12.5%.",
+    "source": "Equity Linked Savings Scheme 2005 Guidelines & Income Tax Act Section 80C",
+    "source_url": "https://www.incometax.gov.in/",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "mf_capital_gains_taxation_equity_debt",
+    "category": "Mutual Funds and Systematic Investment Plans",
+    "subcategory": "Mutual Fund Taxation (Post-2024 Budget)",
+    "title": "Mutual Fund Capital Gains Tax: 2024 LTCG (12.5%) and STCG (20%) Rules",
+    "keywords": [
+      "mutual fund taxation",
+      "LTCG 12.5 percent",
+      "STCG 20 percent",
+      "1.25 lakh exemption",
+      "debt mutual fund slab tax",
+      "holding period",
+      "Finance Act 2024"
+    ],
+    "questions": [
+      "What is the capital gains tax on equity mutual funds in India?",
+      "How much long term capital gains is tax free in equity mutual funds?",
+      "How are debt mutual funds taxed after April 2023?",
+      "What is the holding period for long term capital gains in mutual funds?"
+    ],
+    "content": "Taxation of mutual funds under the revised Finance (No. 2) Act 2024: (1) Equity Mutual Funds (≥65% equity allocation): (a) Short-Term Capital Gains (STCG, held ≤ 12 months): Taxed at 20% (increased from 15%). (b) Long-Term Capital Gains (LTCG, held > 12 months): Taxed at 12.5% (increased from 10%) on gains exceeding an annual tax-free threshold of ₹1,25,000 (increased from ₹1 Lakh). (2) Debt Mutual Funds (<35% equity): Specified debt funds acquired on or after April 1, 2023 have zero indexation benefits; all gains are treated as short-term and taxed at the investor's applicable marginal income-tax slab rates.",
+    "source": "Finance (No. 2) Act 2024 & CBDT Notifications on Capital Gains Taxation",
+    "source_url": "https://www.incometax.gov.in/",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "mf_stp_systematic_transfer_plan",
+    "category": "Mutual Funds and Systematic Investment Plans",
+    "subcategory": "STP & SWP Mechanics",
+    "title": "Systematic Transfer Plan (STP) & Systematic Withdrawal Plan (SWP) Mechanics",
+    "keywords": [
+      "STP",
+      "systematic transfer plan",
+      "SWP",
+      "liquid fund to equity",
+      "lump sum staggering",
+      "regular cash flow",
+      "tax on transfer"
+    ],
+    "questions": [
+      "What is a Systematic Transfer Plan (STP) in mutual funds?",
+      "How does STP prevent investing a lump-sum at market peaks?",
+      "How does SWP work as a monthly pension for retirees?",
+      "Does an STP transfer trigger capital gains tax?"
+    ],
+    "content": "Automated asset allocation mechanisms across mutual fund schemes: (1) Systematic Transfer Plan (STP): Allows an investor holding a lump-sum corpus to park the money in a low-risk Liquid or Ultra-Short Duration debt fund, while automatically transferring a fixed sum weekly or monthly into an equity fund. Staggers market entry to mitigate market-peak risk. (2) Tax Implication: Each STP transfer is legally treated as a redemption from the source fund, triggering capital gains calculation. (3) Systematic Withdrawal Plan (SWP): Generates tax-efficient regular monthly cash flows for retirees by redeeming units, where tax applies only on the gain component of each redeemed unit.",
+    "source": "AMFI Best Practice Guidelines on Systematic Investment & Transfer Facilities",
+    "source_url": "https://www.amfiindia.com/",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "mf_exit_load_and_stamp_duty",
+    "category": "Mutual Funds and Systematic Investment Plans",
+    "subcategory": "Exit Loads & Stamp Duty",
+    "title": "Exit Load Charges, Holding Horizons and Mutual Fund Stamp Duty (0.005%)",
+    "keywords": [
+      "exit load",
+      "holding horizon",
+      "stamp duty 0.005 percent",
+      "redemption charge",
+      "overnight funds zero exit load",
+      "liquid fund exit load"
+    ],
+    "questions": [
+      "What is an exit load in mutual funds?",
+      "How much exit load is charged if I redeem equity funds before 1 year?",
+      "Why was a 0.005% stamp duty introduced on mutual fund purchases?",
+      "Do liquid funds have an exit load?"
+    ],
+    "content": "Transaction levies and holding penalties governing mutual fund redemptions: (1) Exit Load: A fractional percentage deduction (typically 1.0%) levied by AMCs if units are redeemed before completing a pre-defined minimum holding period (e.g. 1 year for equity funds, 30-90 days for hybrid funds). The exit load is credited back into the scheme's assets to protect remaining long-term unit holders. (2) Liquid Funds Graded Exit Load: Under SEBI norms, liquid funds impose a graded exit load on redemptions made within 7 days of investment (0.0070% on Day 1 scaling to 0% by Day 8). (3) Stamp Duty: A mandatory federal stamp duty of 0.005% is deducted upfront on all purchases and SIPs.",
+    "source": "SEBI Circular on Graded Exit Load in Liquid Funds & Indian Stamp Act Amendments",
+    "source_url": "https://www.sebi.gov.in/legal/circulars/sep-2019/graded-exit-load-in-liquid-funds_44374.html",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "mf_amfi_code_of_conduct_distributors",
+    "category": "Mutual Funds and Systematic Investment Plans",
+    "subcategory": "AMFI Distributor Code of Conduct",
+    "title": "AMFI Code of Conduct for Mutual Fund Distributors & Risk Profiling",
+    "keywords": [
+      "AMFI code of conduct",
+      "ARN holder",
+      "mutual fund distributor",
+      "churning prohibition",
+      "risk profiling",
+      "suitability assessment"
+    ],
+    "questions": [
+      "What is an ARN number in mutual funds?",
+      "Can a mutual fund distributor guarantee returns?",
+      "What is portfolio churning by brokers?",
+      "What are the ethical rules for mutual fund agents in India?"
+    ],
+    "content": "Regulatory ethics governing AMFI-registered mutual fund distributors (MFDs / ARN holders): (1) Mandatory Licensing: Distributors must pass NISM certification and hold a valid AMFI Registration Number (ARN). (2) Prohibition of Guarantees: Under SEBI regulations, distributors are strictly prohibited from promising, advertising, or guaranteeing fixed or assured returns on any mutual fund product. (3) Ban on Churning: Inducing clients to redeem existing profitable funds merely to invest in new fund offerings (NFOs) to generate fresh commissions ('churning') is a severe code violation. (4) Suitability Mandate: Must conduct mandatory investor risk profiling.",
+    "source": "AMFI Code of Ethics and Guidelines for Intermediaries & SEBI Regulations",
+    "source_url": "https://www.amfiindia.com/investor-corner/intermediaries",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "mf_passive_etfs_vs_active_funds",
+    "category": "Mutual Funds and Systematic Investment Plans",
+    "subcategory": "ETFs vs Active Mutual Funds",
+    "title": "Exchange Traded Funds (ETFs) vs Active Mutual Funds: Tracking Errors & Liquidity",
+    "keywords": [
+      "ETF",
+      "exchange traded funds",
+      "active vs passive",
+      "tracking error",
+      "real time trading",
+      "demat account required",
+      "index fund vs ETF"
+    ],
+    "questions": [
+      "What is the difference between an ETF and an index mutual fund?",
+      "Do I need a Demat account to buy ETFs in India?",
+      "What is tracking error in exchange traded funds?",
+      "Why do ETFs have lower expense ratios than active funds?"
+    ],
+    "content": "Comparing passive index replication methods with actively managed portfolios: (1) Operational Structure: Active funds employ fund managers attempting to outperform benchmark indices through stock picking; ETFs passively track an underlying index (e.g. Nifty 50, Gold, Bank Nifty). (2) Trading Mechanics: Unlike mutual funds where transactions execute at end-of-day NAV, ETFs trade continuously on stock exchanges (NSE/BSE) during market hours at real-time market prices; requires a Demat and trading account. (3) Tracking Error & Difference: The standard deviation of the difference in returns between the ETF and its underlying benchmark. ETFs carry the lowest TERs in the market (0.05% to 0.20%).",
+    "source": "SEBI Circular on Development of Passive Funds Framework & ETFs",
+    "source_url": "https://www.sebi.gov.in/legal/circulars/may-2022/circular-on-development-of-passive-funds_59234.html",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "mf_arbitrage_and_liquid_funds",
+    "category": "Mutual Funds and Systematic Investment Plans",
+    "subcategory": "Liquid & Arbitrage Funds",
+    "title": "Liquid Funds, Overnight Funds & Arbitrage Funds for Ultra-Short Surpluses",
+    "keywords": [
+      "liquid fund",
+      "arbitrage fund",
+      "overnight fund",
+      "parking surplus cash",
+      "equity taxation arbitrage",
+      "T+1 liquidity",
+      "zero credit risk"
+    ],
+    "questions": [
+      "Where should I park surplus money for 1 to 3 months?",
+      "What is an arbitrage fund and how is it taxed as equity?",
+      "How safe are overnight mutual funds?",
+      "How fast can I withdraw money from a liquid fund?"
+    ],
+    "content": "Optimizing short-term cash management with high liquidity and low volatility: (1) Overnight Funds: Invest in securities with a maturity of 1 single day (CBLO/TREPS), carrying practically zero interest rate and credit default risk. (2) Liquid Funds: Invest in commercial paper and treasury bills with residual maturities up to 91 days. Offer instant redemption facilities (up to ₹50,000 or 90% of folio value credited within minutes 24x7). (3) Arbitrage Funds: Exploit price differentials between the cash (spot) market and futures market. Because they maintain ≥65% gross equity exposure, they enjoy equity taxation (12.5% LTCG, 20% STCG) while behaving with debt-like stability.",
+    "source": "SEBI Scheme Categorization Circular & Product Descriptions",
+    "source_url": "https://www.sebi.gov.in/legal/master-circulars/may-2023/master-circular-for-mutual-funds_71697.html",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "mf_sebi_scheme_categorization_mandates",
+    "category": "Mutual Funds and Systematic Investment Plans",
+    "subcategory": "Categorization Mandates & Overlap",
+    "title": "SEBI Scheme Categorization: Strict Asset Allocation Ratios & Overlap Limits",
+    "keywords": [
+      "SEBI categorization",
+      "one scheme per category",
+      "fund overlap",
+      "market capitalization definition",
+      "portfolio standardization"
+    ],
+    "questions": [
+      "Why did SEBI standardize mutual fund categories?",
+      "Can a mutual fund company have two large-cap equity funds?",
+      "How does SEBI define large-cap, mid-cap, and small-cap stocks?",
+      "What is portfolio overlap in mutual funds?"
+    ],
+    "content": "In 2017, SEBI enacted historic reforms to eradicate misleading fund nomenclature and reduce consumer confusion: (1) One Scheme Per Category Rule: An AMC can launch only one scheme per defined category (with exceptions for Index Funds/ETFs, Sectoral/Thematic funds, and Fund of Funds), stopping the practice of launching duplicate schemes. (2) Statutory Market Cap Lists: AMFI publishes official lists semi-annually categorizing all listed companies: Large Cap (1st to 100th), Mid Cap (101st to 250th), and Small Cap (251st onwards). Mutual funds must rebalance portfolios within statutory timelines to maintain compliant ratios.",
+    "source": "SEBI Master Circular on Categorization and Rationalization of Mutual Fund Schemes",
+    "source_url": "https://www.sebi.gov.in/legal/master-circulars/may-2023/master-circular-for-mutual-funds_71697.html",
+    "verification_date": "2026-03"
+  }
+]

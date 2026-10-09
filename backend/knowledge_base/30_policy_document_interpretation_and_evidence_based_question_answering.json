@@ -1,0 +1,292 @@
+[
+  {
+    "id": "docqa_anatomy_of_policy_schedule",
+    "category": "Policy Document Interpretation and Evidence-Based Question Answering",
+    "subcategory": "Anatomy of Policy Schedules",
+    "title": "Anatomy of an Insurance Policy Schedule: Header, Endorsement, and Premium Breakdown",
+    "keywords": [
+      "policy schedule",
+      "policy document anatomy",
+      "policy number",
+      "period of insurance",
+      "sum insured breakdown",
+      "premium schedule",
+      "operative clause"
+    ],
+    "questions": [
+      "How do I read an insurance policy schedule?",
+      "What is the difference between a policy schedule and policy wordings?",
+      "What key details are found on Page 1 of an insurance policy?",
+      "What is the operative clause in an insurance contract?"
+    ],
+    "content": "How to dissect and navigate a standard insurance contract: (1) Policy Schedule: The individualized, binding summary document containing specific contract facts: Policy Number, Insured Member Names, Date of Birth, Policy Inception and Expiry Dates, Sum Insured, Geographical Limits, Deductibles, and Net Premium Breakdown (Base Premium + Add-on Premiums + GST). (2) Operative Clause: The legal sentence defining the core promise: 'The insurer agrees to indemnify the insured against listed perils subject to terms and exclusions.' (3) General Wordings: The standardized terms booklet explaining legal definitions and exclusions.",
+    "source": "General Insurance Council (GIC) Standard Policy Structure Guide & IRDAI Guidelines",
+    "source_url": "https://irdai.gov.in/guidelines",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "docqa_interpreting_fine_print_provisos",
+    "category": "Policy Document Interpretation and Evidence-Based Question Answering",
+    "subcategory": "Fine-Print Provisos & Qualifiers",
+    "title": "Interpreting Fine-Print Provisos: 'Provided Always That' & Operative Clauses",
+    "keywords": [
+      "fine print",
+      "provisos",
+      "provided always that",
+      "subject to",
+      "operative clause",
+      "qualifiers",
+      "policy interpretation legal rules"
+    ],
+    "questions": [
+      "What does 'Provided always that' mean in an insurance policy?",
+      "How do insurance companies qualify or limit coverage in fine print?",
+      "What is the legal effect of a proviso in a contract?",
+      "How do I spot hidden conditions in an insurance policy?"
+    ],
+    "content": "Legal mechanics of conditional phrasing in insurance policies: (1) The Role of Provisos: Broad coverage granted in an opening operative clause is frequently narrowed by legal qualifying phrases such as 'Subject to...', 'Notwithstanding anything to the contrary...', and 'Provided always that...'. (2) Legal Effect: A proviso creates a mandatory precondition that the insured must satisfy for the benefit to be payable (e.g. 'Coverage is granted provided always that the vehicle was not driven by an unlicensed driver'). (3) Scrutiny Rule: Never read a benefit clause in isolation; always trace cross-referenced provisos.",
+    "source": "IRDAI Policyholder Protection Regulations & Contract Law Interpretation Principles",
+    "source_url": "https://irdai.gov.in/regulations",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "docqa_reading_endorsement_schedules",
+    "category": "Policy Document Interpretation and Evidence-Based Question Answering",
+    "subcategory": "Endorsements vs Standard Terms",
+    "title": "Endorsement Schedules vs Standard Policy Words: Legal Hierarchy & Overrides",
+    "keywords": [
+      "endorsement schedule",
+      "legal hierarchy",
+      "special condition",
+      "typewritten override",
+      "policy wording precedence",
+      "warranty"
+    ],
+    "questions": [
+      "What takes precedence if an endorsement contradicts the policy wordings?",
+      "What is the legal hierarchy of clauses in an insurance document?",
+      "What is an insurance warranty?",
+      "How does an add-on rider schedule modify standard exclusions?"
+    ],
+    "content": "Established legal hierarchy governing conflicting clauses in insurance contracts: (1) Hierarchy of Precedence: (a) Specific Handwritten or Typewritten Endorsements attached to the policy override everything, (b) The Individualized Policy Schedule overrides standard terms, (c) Standard Pre-Printed Policy Wordings apply where not specifically modified. (2) Add-on Rider Schedules: A purchased rider (e.g. Zero Depreciation, Consumables Cover, Maternity Rider) explicitly overrides and nullifies the corresponding exclusions found in the base policy wordings for that specific peril.",
+    "source": "Supreme Court of India Precedents on Insurance Interpretation & IRDAI Directives",
+    "source_url": "https://irdai.gov.in/acts",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "docqa_analyzing_exclusion_clauses",
+    "category": "Policy Document Interpretation and Evidence-Based Question Answering",
+    "subcategory": "Analyzing Exclusions & Causation",
+    "title": "Analyzing Inclusions vs Exclusions: Specific Ailment Exclusions & Causation Tests",
+    "keywords": [
+      "exclusion analysis",
+      "causation test",
+      "proximate cause",
+      "specific ailment list",
+      "general exclusions",
+      "concurrent causes"
+    ],
+    "questions": [
+      "How do I know if a specific surgery is excluded from my policy?",
+      "What is the test of causation in an insurance claim?",
+      "What happens if a loss is caused by both an included and an excluded peril?",
+      "How are exclusion clauses construed by courts in India?"
+    ],
+    "content": "Systematic methodology for verifying claim admissibility against policy text: (1) Step 1 - Peril Identification: Determine the primary medical diagnosis or immediate cause of property damage. (2) Step 2 - The Causation Test: Determine whether the proximate cause is an insured peril or falls under Section A (Standard Exclusions) or Section B (Specific Waiting Periods). (3) Strict Construction Doctrine: Under Indian jurisprudence, exclusion clauses must be construed strictly against the insurer; if an exclusion is ambiguous, courts interpret it in favour of the insured. Insurers cannot expand exclusions beyond their literal text.",
+    "source": "IRDAI Guidelines on Standardization of Exclusions in Health Insurance",
+    "source_url": "https://irdai.gov.in/guidelines",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "docqa_evidence_based_answering_protocol",
+    "category": "Policy Document Interpretation and Evidence-Based Question Answering",
+    "subcategory": "Evidence-Based Grounding Protocol",
+    "title": "Strict Evidence-Based Answer Formulation: Document Grounding vs Assumption",
+    "keywords": [
+      "evidence-based QA",
+      "document grounding",
+      "zero assumption rule",
+      "clause citation",
+      "factual verification",
+      "AI hallucination prevention"
+    ],
+    "questions": [
+      "How should an AI answer questions based on an uploaded insurance policy document?",
+      "Why must insurance answers cite exact clause numbers and pages?",
+      "What is the risk of making assumptions in policy interpretation?",
+      "How do you verify whether a policy covers a specific treatment?"
+    ],
+    "content": "The foundational protocol for trustworthy policy document analysis: (1) Absolute Grounding: Every answer must be derived strictly and exclusively from verified facts stated in the document text. Never assume standard industry terms apply if the specific uploaded policy schedule states otherwise. (2) Mandatory Citation: Always cite the exact Section, Clause, Sub-clause, or Page Number where the rule appears. (3) Preservation of Conditions: Never state that a procedure is covered without immediately stating its associated waiting period, co-pay percentage, or room rent sub-limit.",
+    "source": "IRDAI Consumer Information Guidelines & Evidence-Based Technical Standards",
+    "source_url": "https://irdai.gov.in/",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "docqa_principled_abstention_missing_facts",
+    "category": "Policy Document Interpretation and Evidence-Based Question Answering",
+    "subcategory": "Principled Abstention Protocol",
+    "title": "Principled Abstention Protocols: When to Say 'Information is Missing from Document'",
+    "keywords": [
+      "principled abstention",
+      "abstention protocol",
+      "missing information",
+      "refusal to invent",
+      "document silence",
+      "responsible financial AI"
+    ],
+    "questions": [
+      "What should an AI do when an uploaded policy document does not mention maternity cover?",
+      "Why is saying 'The document does not state this' better than guessing?",
+      "When must a financial assistant abstain from answering?",
+      "How to handle missing clauses in uploaded contracts?"
+    ],
+    "content": "The ethical duty of responsible financial question-answering systems: (1) Silence Is Not Denial: If an uploaded document or schedule is silent on a specific topic (e.g. does not mention whether robotic surgery is covered, or omits dental clauses), the system must explicitly state: 'The provided document does not contain information regarding [Topic]. Please check the complete policy wordings or contact your insurer.' (2) Prohibition of Invention: Fabricating limits, inferring unstated coverage, or guessing waiting periods is strictly prohibited; principled abstention preserves policyholder financial safety.",
+    "source": "National Strategy on Artificial Intelligence (NITI Aayog) & Financial Ethics Guidelines",
+    "source_url": "https://www.niti.gov.in/",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "docqa_calculating_claim_deductions_case",
+    "category": "Policy Document Interpretation and Evidence-Based Question Answering",
+    "subcategory": "Multi-Bill Claim Deduction Mathematics",
+    "title": "Real-World Claim Calculation: Applying Room Rent Capping, Co-pay & Deductibles",
+    "keywords": [
+      "claim calculation example",
+      "step-by-step claim math",
+      "room rent proportionate calculation",
+      "co-pay math",
+      "deductibles deduction",
+      "out of pocket estimation"
+    ],
+    "questions": [
+      "How do I calculate my exact health insurance claim payout step-by-step?",
+      "How are room rent capping and co-pay applied together on a hospital bill?",
+      "What is the mathematical order of insurance claim deductions?",
+      "Can you show an example of a claim settlement calculation?"
+    ],
+    "content": "Step-by-step mathematical algorithm for claim settlement verification: (1) Step 1 - Disallow Non-Payables: Deduct List I non-medical consumables (e.g. ₹15,000 gloves, PPE from a ₹3,00,000 bill = ₹2,85,000). (2) Step 2 - Room Rent Proportionate Reduction: If room rent cap was ₹5,000/day but actual charged was ₹10,000/day, apply 50% factor (5000/10000) to associated surgeon and doctor charges. (3) Step 3 - Apply Base Deductible: Subtract policy deductible if any. (4) Step 4 - Apply Co-payment: Deduct mandatory co-pay % on the remaining eligible sum. (5) Step 5 - Sum Insured Check: Payout is capped at the available Sum Insured + Cumulative Bonus.",
+    "source": "General Insurance Council (GIC) Claim Adjudication Manual",
+    "source_url": "https://irdai.gov.in/master-circulars",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "docqa_identifying_sub_limit_caps",
+    "category": "Policy Document Interpretation and Evidence-Based Question Answering",
+    "subcategory": "Detecting Hidden Sub-Limits",
+    "title": "Identifying Hidden Procedure Sub-limits: Cataract, Stents, and Knee Implants",
+    "keywords": [
+      "sub-limit detection",
+      "hidden caps",
+      "cataract cap",
+      "joint replacement sub-limit",
+      "internal implant capping",
+      "policy schedule review"
+    ],
+    "questions": [
+      "Where are procedure sub-limits written in a health insurance policy?",
+      "How do I check if my policy caps cataract surgery at ₹30,000?",
+      "Does sum insured of ₹1 Crore have sub-limits?",
+      "What are common implant capping clauses?"
+    ],
+    "content": "Document audit technique for spotting procedure caps: (1) Schedule Inspection: Sub-limits are typically listed in a separate table under 'Special Conditions' or 'Limits of Indemnity' on Page 2 or 3 of the policy schedule. (2) Common Capped Heads: Cataract surgery (per eye cap), Joint Replacement (per knee cap), Modern treatments (capped at 50% of sum insured), Robotic surgery (flat ₹1 Lakh cap), and Psychiatric hospitalisation. (3) High Sum Insured Fallacy: Having a ₹1 Crore policy does not mean every surgery is paid in full; procedure sub-limits legally cap maximum payouts regardless of total sum insured.",
+    "source": "IRDAI Product Regulations on Health Insurance Disclosures",
+    "source_url": "https://irdai.gov.in/regulations",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "docqa_distinguishing_riders_from_base",
+    "category": "Policy Document Interpretation and Evidence-Based Question Answering",
+    "subcategory": "Riders vs Base Benefits",
+    "title": "Dissecting Policy Add-ons: Distinguishing Riders from Core Policy Benefits",
+    "keywords": [
+      "riders vs base policy",
+      "add-on schedule",
+      "critical illness rider",
+      "zero dep rider",
+      "rider premium line",
+      "independent coverage"
+    ],
+    "questions": [
+      "How do I know if an add-on rider was actually purchased on my policy?",
+      "Where are purchased riders listed on an insurance schedule?",
+      "Does an add-on have its own separate sum insured?",
+      "What happens to riders when the base policy is renewed?"
+    ],
+    "content": "How to verify whether an optional rider is active on an issued contract: (1) Premium Schedule Verification: Check the premium calculation table on the policy schedule. Every active rider must have a distinct named line-item displaying its specific add-on premium charged and specific rider Sum Insured. (2) Rider Endorsement Number: Active riders are accompanied by a specific endorsement clause number (e.g. Endorsement Add-on #12: Nil Depreciation). (3) Non-Listed Riders Inactive: If a feature is described in the general policy brochure but is omitted from the schedule premium table, it is NOT active on that policy.",
+    "source": "IRDAI Regulations on Product Filing & Schedule Standardization",
+    "source_url": "https://irdai.gov.in/regulations",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "docqa_detecting_ambiguous_clauses_contra_proferentem",
+    "category": "Policy Document Interpretation and Evidence-Based Question Answering",
+    "subcategory": "Contra Proferentem Rule",
+    "title": "Resolving Ambiguity: Doctrine of Contra Proferentem Favoring Policyholders",
+    "keywords": [
+      "contra proferentem",
+      "ambiguous clause",
+      "rule of interpretation",
+      "Supreme Court ruling",
+      "benefit of doubt to policyholder",
+      "drafting party disadvantage"
+    ],
+    "questions": [
+      "What happens if an insurance policy clause is vague or has two meanings?",
+      "What is the Doctrine of Contra Proferentem in insurance law?",
+      "How does the Supreme Court interpret ambiguous insurance contracts?",
+      "Can an insurer interpret unclear fine print against the customer?"
+    ],
+    "content": "Landmark legal doctrine protecting consumers against deceptive or poorly drafted insurance contracts: (1) The Rule: Under the Doctrine of Contra Proferentem (established by the Supreme Court of India in landmark insurance rulings), if a word, clause, or condition in an insurance contract is ambiguous and reasonably capable of two different interpretations, courts MUST adopt the interpretation that FAVOURS the policyholder. (2) Drafting Responsibility: Because insurance policies are standardized adhesion contracts drafted entirely by the insurer, the drafting party must bear the legal disadvantage of ambiguity.",
+    "source": "Supreme Court of India Precedents (United India Insurance v. Pushpalaya Printers) & Contract Law",
+    "source_url": "https://irdai.gov.in/acts",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "docqa_interpreting_motor_depreciation_clauses",
+    "category": "Policy Document Interpretation and Evidence-Based Question Answering",
+    "subcategory": "Motor Depreciation Clauses",
+    "title": "Reading Motor Repair Bills: Rubber, Plastic, Glass, and Metal Depreciation Clauses",
+    "keywords": [
+      "motor depreciation schedule",
+      "rubber plastic 50 percent",
+      "glass zero depreciation",
+      "metal parts age slab",
+      "repair bill audit",
+      "motor claim deductions"
+    ],
+    "questions": [
+      "How do insurance surveyors calculate depreciation on damaged car parts?",
+      "What is the depreciation percentage on plastic and rubber car parts?",
+      "Is there depreciation on car glass during an accident claim?",
+      "How much depreciation applies to metal parts of a 3-year-old car?"
+    ],
+    "content": "Auditing a motor insurance claim assessment sheet against statutory tariff scales: (1) Fixed Material Depreciation Slabs: (a) Rubber, nylon, plastic parts, tyres, tubes, batteries, and airbags: Flat 50% depreciation deduction. (b) Fibreglass components: Flat 30% depreciation. (c) All glass parts: ZERO depreciation (100% payable). (2) Metal Parts Slabs based on vehicle age: Up to 6 months: Nil; 6m to 1 year: 5%; 1-2 years: 10%; 2-3 years: 15%; 3-4 years: 25%; 4-5 years: 35%; 5-10 years: 40%; >10 years: 50%. (3) Zero Dep Waiver: A verified Zero Depreciation rider waives all these deductions in full.",
+    "source": "Indian Motor Tariff General Regulations Section 3 & GIC Guidelines",
+    "source_url": "https://irdai.gov.in/tariff",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "docqa_hallucination_prevention_regulatory_qa",
+    "category": "Policy Document Interpretation and Evidence-Based Question Answering",
+    "subcategory": "Hallucination Prevention Guardrails",
+    "title": "Strict Grounding Rules for AI Financial Assistants: Preventing Regulatory Invention",
+    "keywords": [
+      "hallucination prevention",
+      "strict grounding",
+      "regulatory accuracy",
+      "traceable citations",
+      "responsible AI finance",
+      "verification date"
+    ],
+    "questions": [
+      "How does BharatInsure AI ensure it never hallucinates insurance rules?",
+      "Why are statutory citations and verification dates required in financial AI?",
+      "What guardrails prevent AI from inventing non-existent tax laws?",
+      "How does the hybrid RAG system verify answers against official sources?"
+    ],
+    "content": "Architectural guidelines ensuring zero hallucination in financial and regulatory intelligence systems: (1) Regulatory Grounding: Every legal claim, limit, fee, waiting period, and turnaround time must trace directly to an official regulatory document published by IRDAI, RBI, SEBI, NPCI, or the Income Tax Department. (2) Metadata Rigour: Every knowledge chunk embeds unique IDs, official URLs, and explicit verification dates. (3) Evidence Cross-Checking: When evidence is incomplete or ambiguous, the AI must explicitly acknowledge limits rather than inventing extrapolations.",
+    "source": "Reserve Bank of India & MeitY Framework for Responsible and Trustworthy AI in Financial Services",
+    "source_url": "https://www.rbi.org.in/",
+    "verification_date": "2026-03"
+  }
+]

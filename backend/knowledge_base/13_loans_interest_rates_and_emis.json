@@ -1,0 +1,306 @@
+[
+  {
+    "id": "loan-01",
+    "category": "Loans, Interest Rates, and EMIs",
+    "subcategory": "Secured vs Unsecured Loans",
+    "title": "Secured vs Unsecured Loans & Loan Eligibility Criteria",
+    "keywords": [
+      "loans",
+      "secured loan",
+      "unsecured loan",
+      "collateral",
+      "home loan",
+      "personal loan",
+      "loan eligibility",
+      "FOIR"
+    ],
+    "questions": [
+      "What is the difference between a secured and unsecured loan?",
+      "What collateral is needed for a secured loan?",
+      "How do banks determine my loan eligibility?",
+      "What is Fixed Obligation to Income Ratio (FOIR)?"
+    ],
+    "content": "Loans are structured based on collateral requirements and credit risk: (1) Secured Loans: Backed by an asset pledged as collateral (e.g. Home Loans secured against property, Auto Loans against vehicles, Gold Loans against jewellery). Offer lower interest rates, higher loan amounts, and longer repayment tenures because default risk is mitigated by asset repossession rights. (2) Unsecured Loans: Issued without collateral (e.g. Personal Loans, Credit Cards, Instant App Loans). Granted based purely on credit score, employer stability, and verifiable income; carry significantly higher interest rates (11% to 28% p.a.). (3) Eligibility Criteria: Key parameters include net monthly take-home salary, age (21-60), credit score (typically 750+), and FOIR.",
+    "source": "RBI Master Direction on Regulatory Framework for Lending & Consumer Protection",
+    "source_url": "https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "loan-02",
+    "category": "Loans, Interest Rates, and EMIs",
+    "subcategory": "EMI & Amortisation Mechanics",
+    "title": "Equated Monthly Instalment (EMI), Principal, Interest & Amortisation",
+    "keywords": [
+      "EMI",
+      "equated monthly instalment",
+      "principal",
+      "interest",
+      "amortisation schedule",
+      "reducing balance",
+      "flat interest rate"
+    ],
+    "questions": [
+      "How is an EMI calculated?",
+      "Why is my loan EMI mostly interest in the first few years?",
+      "What is an amortisation schedule?",
+      "What is the difference between reducing balance and flat interest rate?"
+    ],
+    "content": "An Equated Monthly Instalment (EMI) is a fixed monthly payment made by a borrower to clear an outstanding loan over a specified tenure: (1) Formula: EMI = [P x R x (1+R)^N] / [(1+R)^N - 1], where P is Principal, R is monthly interest rate, and N is number of monthly instalments. (2) Amortisation Mechanics: In the initial years, the majority of the monthly EMI pays off accrued interest, while a tiny portion reduces principal. As the principal diminishes over time, the interest component decreases and the principal reduction accelerates. (3) Reducing vs Flat Rate: Always insist on a 'reducing balance rate'; a 'flat rate' charges interest on the original loan amount throughout the tenure, concealing a true effective interest rate nearly double the stated flat rate.",
+    "source": "Reserve Bank of India (RBI) Financial Education Handbooks on Borrowing",
+    "source_url": "https://www.rbi.org.in/financialeducation/",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "loan-03",
+    "category": "Loans, Interest Rates, and EMIs",
+    "subcategory": "Major Retail Loan Products",
+    "title": "Home Loans, Education Loans & Vehicle Loans Overview",
+    "keywords": [
+      "home loan",
+      "education loan",
+      "car loan",
+      "moratorium",
+      "LTV ratio",
+      "tax benefit 24b",
+      "Section 80E"
+    ],
+    "questions": [
+      "What is Loan-to-Value (LTV) ratio in a home loan?",
+      "What tax benefits are available on home loans?",
+      "How does an education loan moratorium work?",
+      "Can a bank finance 100% of a car's on-road price?"
+    ],
+    "content": "Overview of prominent retail loan categories: (1) Home Loans: Lowest interest rates (linked to External Benchmark Lending Rate / EBLR). RBI caps the Loan-to-Value (LTV) ratio: up to 90% for loans ≤ ₹30 Lakh, 80% for ₹30-75 Lakh, and 75% for loans > ₹75 Lakh (borrower must fund remainder as down payment). Income tax benefits include Section 24(b) (up to ₹2 Lakh deduction on interest) and Section 80C (up to ₹1.5 Lakh on principal). (2) Education Loans: Cover tuition, books, and living expenses. Feature a mandatory repayment 'moratorium' (course duration + 6 to 12 months grace period). Interest paid is fully deductible without ceiling under Section 80E for up to 8 continuous years. (3) Vehicle Loans: Hypothecated against vehicle registration.",
+    "source": "RBI Guidelines on Loan to Value Ratios & Income Tax Act Provisions",
+    "source_url": "https://www.rbi.org.in/Scripts/NotificationUser.aspx",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "loan-04",
+    "category": "Loans, Interest Rates, and EMIs",
+    "subcategory": "Prepayment & Foreclosure Rules",
+    "title": "Loan Prepayment, Foreclosure & RBI Zero Penalty Regulations",
+    "keywords": [
+      "loan prepayment",
+      "foreclosure penalty",
+      "zero penalty",
+      "floating rate loan",
+      "part-payment",
+      "principal reduction",
+      "RBI mandate"
+    ],
+    "questions": [
+      "Can a bank charge a penalty for prepaying a home loan?",
+      "What is the difference between prepayment and foreclosure?",
+      "Does the zero prepayment penalty apply to fixed rate loans?",
+      "How much interest do I save by making part-payments?"
+    ],
+    "content": "Under binding RBI consumer protection regulations: (1) Zero Foreclosure / Prepayment Penalty: Banks, Non-Banking Financial Companies (NBFCs), and Housing Finance Companies (HFCs) are strictly prohibited from charging any foreclosure fees or prepayment penalties on all floating-rate term loans granted to individual borrowers (irrespective of the loan amount or tenure). (2) Fixed Rate Exception: Prepayment penalties (typically 2% to 3% + GST) may be charged if the loan is on a fixed interest rate or borrowed by a commercial entity/corporate firm. (3) Savings Strategy: Making regular part-prepayments directly reduces the outstanding principal, slashing total interest burdens and loan tenure drastically.",
+    "source": "RBI Master Direction on Fair Practices Code - Prepayment Charges on Floating Rate Loans",
+    "source_url": "https://www.rbi.org.in/Scripts/NotificationUser.aspx",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "loan-05",
+    "category": "Loans, Interest Rates, and EMIs",
+    "subcategory": "Penal Charges vs Penal Interest",
+    "title": "Late Payment Fees, Penal Charges & Loan Default Consequences",
+    "keywords": [
+      "penal charges",
+      "late payment fee",
+      "penal interest",
+      "RBI fair lending practices",
+      "default consequences",
+      "SMA",
+      "NPA",
+      "SARFAESI"
+    ],
+    "questions": [
+      "Can banks charge compounding interest on late loan payments?",
+      "What is the difference between penal charges and penal interest under new RBI rules?",
+      "When does a delayed loan become an NPA?",
+      "What powers do banks have under the SARFAESI Act?"
+    ],
+    "content": "Regulatory boundaries governing delayed payments under RBI's Fair Lending Practices Guidelines (2024): (1) Prohibition of Capitalised Penal Interest: Banks cannot capitalise or charge compounding 'penal interest' on delayed loan instalments. Any penalty for default or late payment must be levied strictly as transparent, separate 'Penal Charges' without altering the underlying interest rate or being added to principal to compute further interest. (2) Loan Classification: 1-30 days overdue = Special Mention Account 0 (SMA-0); 31-60 days = SMA-1; 61-90 days = SMA-2; >90 days overdue = Non-Performing Asset (NPA). (3) SARFAESI Act 2002: Allows secured lenders to issue 60-day demand notices and seize pledged property without court intervention upon NPA classification.",
+    "source": "RBI Guidelines on Fair Lending Practice - Penal Charges in Loan Accounts",
+    "source_url": "https://www.rbi.org.in/Scripts/NotificationUser.aspx",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "loan-06",
+    "category": "Loans, Interest Rates, and EMIs",
+    "subcategory": "Predatory Digital Lending & DLGs",
+    "title": "Debt Traps, Predatory Instant Loan Apps & Responsible Borrowing",
+    "keywords": [
+      "instant loan app",
+      "predatory lending",
+      "digital lending guidelines",
+      "DLG",
+      "harassment",
+      "Key Fact Statement",
+      "KFS",
+      "cooling-off period"
+    ],
+    "questions": [
+      "How do predatory loan apps trap borrowers?",
+      "What are the RBI Digital Lending Guidelines?",
+      "What is a Key Fact Statement (KFS)?",
+      "Can loan recovery agents contact my phone contacts?"
+    ],
+    "content": "To eradicate illegal digital lending scams, the RBI issued Digital Lending Guidelines (DLG): (1) Mandatory Regulated Entity (RE): Instant loan apps (Lending Service Providers / LSPs) must partner transparently with an RBI-regulated bank or NBFC; standalone unregulated apps are illegal. (2) Direct Disbursement: Loan disbursals and repayments must execute directly between the borrower's bank account and the regulated lender, without passing through pool accounts. (3) Key Fact Statement (KFS): Lenders must provide a standardized KFS detailing the all-inclusive Annual Percentage Rate (APR), total fees, recovery mechanisms, and a mandatory cooling-off/look-up period (minimum 1 to 3 days to exit without penalty). (4) Privacy Protection: Apps are strictly prohibited from accessing smartphone contacts, gallery, or call logs.",
+    "source": "RBI Guidelines on Digital Lending & Framework for Financial Consumer Protection",
+    "source_url": "https://www.rbi.org.in/Scripts/NotificationUser.aspx",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "loan_ebr_mclr_repo_linked_rates",
+    "category": "Loans, Interest Rates, and EMIs",
+    "subcategory": "EBLR vs MCLR vs Base Rate",
+    "title": "External Benchmark Lending Rate (EBLR) vs MCLR vs Base Rate Systems",
+    "keywords": [
+      "EBLR",
+      "MCLR",
+      "base rate",
+      "repo linked loan",
+      "RLLR",
+      "interest rate transmission",
+      "quarterly reset",
+      "spread"
+    ],
+    "questions": [
+      "What is External Benchmark Lending Rate (EBLR)?",
+      "What is the difference between MCLR and Repo Linked Lending Rate (RLLR)?",
+      "How quickly does an RBI repo rate cut lower my home loan EMI?",
+      "Can an existing MCLR borrower switch to an EBLR loan?"
+    ],
+    "content": "Evolution of interest rate benchmarks in Indian retail lending under RBI directives: (1) EBLR Mandate: Since October 2019, RBI mandated that all new floating-rate personal, home, and retail loans must be tied to an External Benchmark (predominantly the RBI Repo Rate). When the RBI alters the repo rate, the change must be transmitted to borrowers immediately on pre-agreed reset dates (at least once every 3 months). (2) MCLR (Marginal Cost of Funds based Lending Rate): Introduced in 2016; reflects internal cost of bank funds and suffered from sluggish transmission during rate cuts. (3) Switching Option: Existing borrowers under MCLR or Base Rate have the statutory right to switch to EBLR by paying a nominal administrative fee.",
+    "source": "RBI Master Direction on External Benchmark Based Lending",
+    "source_url": "https://www.rbi.org.in/Scripts/NotificationUser.aspx",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "loan_foir_dti_ratio_calculation",
+    "category": "Loans, Interest Rates, and EMIs",
+    "subcategory": "FOIR & Debt-to-Income Limits",
+    "title": "Fixed Obligation to Income Ratio (FOIR) and Debt-to-Income (DTI) Limits",
+    "keywords": [
+      "FOIR",
+      "fixed obligation to income ratio",
+      "DTI",
+      "debt to income",
+      "loan affordability",
+      "40 to 50 percent rule",
+      "net disposable income"
+    ],
+    "questions": [
+      "How do banks calculate Fixed Obligation to Income Ratio (FOIR)?",
+      "What is the maximum FOIR allowed for home loans?",
+      "Why did the bank reject my loan despite a good credit score?",
+      "How does existing credit card debt affect loan eligibility?"
+    ],
+    "content": "Underwriting metrics determining maximum borrowing capacity: (1) FOIR Definition: Fixed Obligation to Income Ratio represents the percentage of an applicant's net monthly take-home income already committed towards existing EMIs and mandatory obligations, including the proposed new EMI. Formula: FOIR = (Total Existing Monthly EMIs + Proposed EMI) / (Net Monthly Disposable Income) x 100. (2) Acceptable Limits: Indian lenders restrict FOIR to 40% - 50% for middle-income earners and up to 60% - 65% for high-net-worth individuals, ensuring sufficient liquidity remains for living expenses. (3) Credit Cards: Minimum Amount Due on credit cards is factored into monthly obligations.",
+    "source": "Indian Banks' Association (IBA) Retail Underwriting Guidelines & RBI Norms",
+    "source_url": "https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "loan_co_borrower_guarantor_liability",
+    "category": "Loans, Interest Rates, and EMIs",
+    "subcategory": "Co-Borrowers & Guarantors",
+    "title": "Co-Borrowers vs Guarantors: Legal Liability & Default Exposure",
+    "keywords": [
+      "co-borrower",
+      "guarantor",
+      "joint liability",
+      "surety",
+      "credit score impact",
+      "Section 128 Contract Act",
+      "primary liability"
+    ],
+    "questions": [
+      "What is the difference between a co-borrower and a loan guarantor?",
+      "Can a bank recover loan money from a guarantor if the borrower defaults?",
+      "Does being a guarantor affect my credit score and loan eligibility?",
+      "How can a guarantor get their name removed from a loan?"
+    ],
+    "content": "Legal responsibilities under Section 128 of the Indian Contract Act: (1) Co-Borrower: Joint owner and debtor on the loan contract with joint and several liability from Day 1. Both parties are equally responsible for monthly EMIs, and default damages both credit scores equally. Co-borrowing with a earning spouse allows clubbing incomes to increase loan eligibility. (2) Loan Guarantor / Surety: Steps forward to provide an independent financial guarantee that the debt will be paid. Under Section 128, the liability of the surety is co-extensive with that of the principal debtor; if the borrower defaults, the bank has the legal right to pursue and attach the guarantor's assets and report the default to credit bureaus.",
+    "source": "Indian Contract Act 1872 Section 128 & RBI Fair Practices Code for Lenders",
+    "source_url": "https://www.rbi.org.in/Scripts/NotificationUser.aspx",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "loan_kfs_key_fact_statement",
+    "category": "Loans, Interest Rates, and EMIs",
+    "subcategory": "Key Fact Statement (KFS) Mandate",
+    "title": "RBI Key Fact Statement (KFS) & Annual Percentage Rate (APR) Transparency Mandate",
+    "keywords": [
+      "Key Fact Statement",
+      "KFS",
+      "APR",
+      "annual percentage rate",
+      "hidden charges",
+      "RBI transparency circular",
+      "all-inclusive cost"
+    ],
+    "questions": [
+      "What is a Key Fact Statement (KFS) for loans in India?",
+      "Why did RBI make KFS mandatory for all retail loans?",
+      "What is Annual Percentage Rate (APR) in a loan?",
+      "How does KFS help compare loans between different banks?"
+    ],
+    "content": "To eradicate deceptive loan advertising and hidden administrative fees, the RBI mandated the issuance of a standardized Key Fact Statement (KFS) for ALL retail and MSME loans: (1) Standardized Document: Lenders must provide an uncomplicated 1-page summary sheet to the borrower prior to executing the loan agreement. (2) Annual Percentage Rate (APR): Must declare the true all-inclusive annual cost of credit, compounding the nominal interest rate alongside processing fees, documentation charges, verification fees, and insurance costs into a single transparent percentage figure. (3) Prohibition: Lenders cannot levy any fees, charges, or penalties that were not explicitly listed in the KFS.",
+    "source": "RBI Master Direction on Key Facts Statement (KFS) for Loans & Advances",
+    "source_url": "https://www.rbi.org.in/Scripts/NotificationUser.aspx",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "loan_recovery_agents_fair_practices",
+    "category": "Loans, Interest Rates, and EMIs",
+    "subcategory": "Recovery Practices & Anti-Harassment",
+    "title": "RBI Fair Practices Code for Loan Recovery: Call Timings & Harassment Protections",
+    "keywords": [
+      "recovery agents",
+      "fair practices code",
+      "harassment protection",
+      "8am to 7pm calling",
+      "no public humiliation",
+      "police complaints",
+      "agent identification"
+    ],
+    "questions": [
+      "What are the RBI rules for loan recovery agents?",
+      "Can recovery agents call me late at night or early morning?",
+      "Can a bank recovery agent visit my office or harass my family?",
+      "What can I do if a recovery agent threatens me?"
+    ],
+    "content": "RBI's Fair Practices Code provides strict safeguards against aggressive loan recovery conduct: (1) Restricted Timings: Recovery agents and collection teams can contact borrowers only between 8:00 AM and 7:00 PM; calls before 8 AM or after 7 PM are strictly illegal. (2) Dignity and Civility: Intimidation, verbal abuse, public humiliation, threatening calls to family members, or unannounced visits to the borrower's workplace without consent are severe regulatory violations. (3) Due Identification: Agents must carry formal bank authorization letters, identity cards, and maintain audio recordings of all customer interactions. Violations must be reported to the bank GRO, RBI Ombudsman, and local police.",
+    "source": "RBI Circular on Guidelines on Recovery Agents Engaged by Banks",
+    "source_url": "https://www.rbi.org.in/Scripts/NotificationUser.aspx",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "loan_top_up_balance_transfer",
+    "category": "Loans, Interest Rates, and EMIs",
+    "subcategory": "Balance Transfer & Top-up Loans",
+    "title": "Home Loan Balance Transfer (Refinancing) & Top-up Loans: Cost-Benefit Analysis",
+    "keywords": [
+      "balance transfer",
+      "loan refinancing",
+      "top-up loan",
+      "MODT charges",
+      "processing fee",
+      "break-even calculation",
+      "home equity"
+    ],
+    "questions": [
+      "How does a home loan balance transfer work?",
+      "Is it worth transferring my home loan to another bank for lower interest?",
+      "What is a top-up loan on an existing home loan?",
+      "What costs are involved in transferring a home loan?"
+    ],
+    "content": "Refinancing an existing housing loan to capture lower interest rates: (1) Balance Transfer Mechanics: The new lender repays the outstanding principal to the existing lender, acquiring the original title deeds and hypothecation rights. (2) Cost-Benefit Scrutiny: Borrowers must account for switching expenses—including new processing fees, legal verification charges, valuation fees, and state stamp duty on Memorandum of Deposit of Title Deeds (MODTD, typically 0.1% to 0.5%). Refinancing is financially sensible only if the interest rate differential (e.g. 0.50% or more) recovers switching costs within 12 to 18 months. (3) Top-up Loan: An additional loan granted by the lender on the appreciated equity value of the property at home-loan interest rates.",
+    "source": "RBI Guidelines on Mortgage Lending & Property Valuation Standards",
+    "source_url": "https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx",
+    "verification_date": "2026-03"
+  }
+]

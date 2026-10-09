@@ -1,0 +1,305 @@
+[
+  {
+    "id": "health-01",
+    "category": "Health Insurance",
+    "subcategory": "Overview & Types",
+    "title": "Health Insurance Overview & Types",
+    "keywords": [
+      "health",
+      "medical",
+      "mediclaim",
+      "individual",
+      "family floater",
+      "critical illness",
+      "hospitalization",
+      "senior citizen"
+    ],
+    "questions": [
+      "What is health insurance?",
+      "What are the types of health insurance in India?",
+      "What is the difference between individual and family floater policy?",
+      "What is critical illness insurance?",
+      "What health insurance is best for senior citizens?"
+    ],
+    "content": "Health insurance provides financial protection for medical expenses resulting from illnesses, accidents, or treatments. In India, common types include: (1) Individual Health Insurance (covers a single individual up to a specified sum insured), (2) Family Floater Policy (a single sum insured covers the entire family: self, spouse, dependent children, and parents), (3) Critical Illness Cover (lump-sum payout upon diagnosis of listed critical conditions like cancer, heart attack, or stroke), and (4) Senior Citizen Health Insurance (specialized for people above 60, often with co-payment clauses and health check-ups). Standard policies cover in-patient hospitalization, pre-hospitalization (30-60 days), and post-hospitalization (60-180 days).",
+    "source": "IRDAI Health Insurance Guidelines & Regulations",
+    "source_url": "https://irdai.gov.in/regulations",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "health_modern_treatments",
+    "category": "Health Insurance",
+    "subcategory": "Modern Treatments",
+    "title": "Modern Treatments, Robotic Surgery & Day Care Procedures",
+    "keywords": [
+      "modern treatments",
+      "robotic surgery",
+      "stem cell",
+      "balloon sinuplasty",
+      "day care",
+      "24 hours hospitalization",
+      "oral chemotherapy"
+    ],
+    "questions": [
+      "Are robotic surgeries covered by health insurance in India?",
+      "What modern treatments must health insurance cover under IRDAI guidelines?",
+      "What is a day care procedure in health insurance?",
+      "Does health insurance require 24 hours of hospital stay for all surgeries?"
+    ],
+    "content": "IRDAI mandated that all health insurance products must cover 12 modern treatment methods without arbitrary exclusions: (1) Uterine Artery Embolization and HIFU, (2) Balloon Sinuplasty, (3) Deep Brain Stimulation, (4) Oral Chemotherapy, (5) Immunotherapy (monoclonal antibodies), (6) Intravitreal injections, (7) Robotic Surgeries, (8) Stereotactic Radio Surgeries, (9) Bronchial Thermoplasty, (10) Vaporisation of the Prostrate (Green laser treatment), (11) IONM (Intra Operative Neuro Monitoring), and (12) Stem cell therapy. Day care procedures are medical treatments, surgeries, or interventions conducted under general or local anaesthesia in a hospital/day care centre that require less than 24 hours of hospitalisation due to advanced medical technology (e.g. cataract surgery, dialysis, chemotherapy, appendectomy).",
+    "source": "IRDAI Guidelines on Standardization of Health Insurance - Modern Treatment Methods",
+    "source_url": "https://irdai.gov.in/guidelines",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "health_super_topup",
+    "category": "Health Insurance",
+    "subcategory": "Super Top-up vs Top-up",
+    "title": "Super Top-up vs Top-up Health Insurance Policies",
+    "keywords": [
+      "super top-up",
+      "top-up",
+      "deductible",
+      "aggregate threshold",
+      "threshold claim",
+      "cost-effective cover",
+      "high sum insured"
+    ],
+    "questions": [
+      "What is the difference between a top-up and super top-up health insurance policy?",
+      "How does a deductible work in a super top-up policy?",
+      "Can I buy a super top-up policy without a base health policy?",
+      "Which is better top-up or super top-up?"
+    ],
+    "content": "Top-up and Super Top-up policies provide additional high sum insured at low premiums above a threshold called the 'deductible'. (1) Top-up Policy: Evaluates the deductible on a per-single-claim basis. If the deductible is ₹5 Lakh and a claim is ₹4 Lakh, top-up pays ₹0. If a second claim in the same year is ₹4 Lakh, top-up still pays ₹0 because each individual claim was below ₹5 Lakh. (2) Super Top-up Policy: Evaluates the deductible on an aggregate basis across all claims during the entire policy year. If Claim 1 is ₹4 Lakh and Claim 2 is ₹3 Lakh (total ₹7 Lakh), the super top-up pays ₹2 Lakh (₹7L - ₹5L deductible). A base health policy is not strictly required to purchase a super top-up, but having a base policy covering up to the deductible is recommended to prevent out-of-pocket expenses.",
+    "source": "IRDAI Master Circular on Health Insurance Products",
+    "source_url": "https://irdai.gov.in/master-circulars",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "health_restoration_benefit",
+    "category": "Health Insurance",
+    "subcategory": "Restoration Benefits",
+    "title": "Restoration & Rebound Benefit in Health Insurance",
+    "keywords": [
+      "restoration benefit",
+      "refill benefit",
+      "rebound benefit",
+      "exhausted sum insured",
+      "same illness",
+      "related illness",
+      "automatic restore"
+    ],
+    "questions": [
+      "What is restoration benefit in health insurance?",
+      "Does restore benefit apply to the same illness or only unrelated illness?",
+      "How many times can sum insured be restored in a year?",
+      "Does restoration apply to family floaters?"
+    ],
+    "content": "The restoration (or recharge/refill) benefit automatically reinstates the basic Sum Insured once or multiple times during a policy year when the original Sum Insured (and cumulative bonus) is partially or completely exhausted by previous claims. Rules governing restoration: (1) Unrelated vs Same Illness: Basic policies restore the Sum Insured only for unrelated illnesses. Modern comprehensive policies offer restoration for both related and unrelated illnesses after a mandatory 45-day gap between hospitalisations. (2) Non-accumulation: Restored Sum Insured cannot be carried forward to the following policy year; it lapses at renewal. (3) Single Claim Restriction: The restored sum cannot be used on the single claim that triggered the exhaustion. It is available only for subsequent hospitalisations within the same policy year.",
+    "source": "IRDAI Health Insurance Regulations & Product Filings",
+    "source_url": "https://irdai.gov.in/regulations",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "health_ayush_coverage",
+    "category": "Health Insurance",
+    "subcategory": "AYUSH Treatments",
+    "title": "AYUSH Hospitalisation Coverage under IRDAI Norms",
+    "keywords": [
+      "AYUSH",
+      "ayurveda",
+      "yoga",
+      "unani",
+      "siddha",
+      "homeopathy",
+      "government hospital",
+      "NABH accredited",
+      "non-allopathic"
+    ],
+    "questions": [
+      "Does health insurance cover Ayurvedic and Homeopathic treatments in India?",
+      "What are the conditions for AYUSH claim reimbursement?",
+      "Are OPD Ayurvedic consultations covered?",
+      "Which hospitals qualify for AYUSH treatment cover?"
+    ],
+    "content": "Under IRDAI circulars on non-allopathic treatments, health insurance policies can cover in-patient hospitalisation expenses incurred under AYUSH (Ayurveda, Yoga and Naturopathy, Unani, Siddha, and Homeopathy) treatment up to the full Sum Insured or specified sub-limits. Mandatory conditions: (1) Treatment must be taken in a government AYUSH hospital or a recognised institution accredited by the Quality Council of India (QCI) / National Accreditation Board for Hospitals & Healthcare Providers (NABH). (2) Minimum Hospital Criteria: The AYUSH hospital must maintain at least 5 in-patient beds (in rural/semi-urban areas) or 10 beds (in metro areas), have qualified registered medical practitioners on duty 24/7, and maintain daily medical records. (3) Outpatient wellness therapies, spa visits, and rejuvenation massages without hospitalisation are permanently excluded.",
+    "source": "IRDAI Master Circular on AYUSH Treatment Coverage in Health Insurance",
+    "source_url": "https://irdai.gov.in/master-circulars",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "health_domiciliary_care",
+    "category": "Health Insurance",
+    "subcategory": "Domiciliary Hospitalisation",
+    "title": "Domiciliary Hospitalisation: Rules and Coverage Conditions",
+    "keywords": [
+      "domiciliary hospitalization",
+      "home healthcare",
+      "treatment at home",
+      "bed unavailability",
+      "patient condition",
+      "minimum 3 days"
+    ],
+    "questions": [
+      "What is domiciliary hospitalisation in health insurance?",
+      "When can I claim insurance for medical treatment taken at home?",
+      "What is the minimum duration for domiciliary hospitalisation?",
+      "Which diseases are excluded from domiciliary hospitalisation?"
+    ],
+    "content": "Domiciliary hospitalisation refers to medical treatment for an illness or injury which in the normal course would require care and treatment at a hospital, but is taken while confined at home under one of two strict conditions: (1) The condition of the patient is such that they cannot be moved to a hospital, or (2) The patient could not be accommodated in any local hospital due to non-availability of hospital beds. Regulatory conditions: The treatment must exceed a continuous period of at least 3 full days (72 hours) under the supervision of a registered medical practitioner. Common permanent exclusions from domiciliary cover: Asthma, Bronchitis, Chronic nephritis, Diarrhoea and general dysentery, Diabetes mellitus and Insipidus, Epilepsy, Hypertension, and Influenza or colds.",
+    "source": "General Insurance Council (GIC) Standardization Guidelines & IRDAI Master Circular",
+    "source_url": "https://irdai.gov.in/guidelines",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "health_pre_post_hospitalization",
+    "category": "Health Insurance",
+    "subcategory": "Pre and Post Hospitalisation",
+    "title": "Pre-Hospitalisation and Post-Hospitalisation Medical Expenses",
+    "keywords": [
+      "pre-hospitalization",
+      "post-hospitalization",
+      "diagnostic tests",
+      "medicine bills",
+      "discharge follow-up",
+      "30 days",
+      "60 days",
+      "180 days"
+    ],
+    "questions": [
+      "What is the difference between pre and post hospitalisation expenses?",
+      "How many days of medical expenses are covered before and after hospital admission?",
+      "What documents are required to claim post-hospitalisation bills?",
+      "Are doctor consultation fees after discharge reimbursable?"
+    ],
+    "content": "Health insurance covers medical costs incurred immediately before admission and following discharge, provided they relate directly to the condition for which hospitalisation occurred. (1) Pre-Hospitalisation Expenses: Diagnostic tests (blood tests, X-rays, MRI), specialist consultations, and medications prescribed within 30 to 60 days prior to hospital admission. (2) Post-Hospitalisation Expenses: Follow-up doctor consultations, diagnostic check-ups, and medicines prescribed for a standard period of 60 to 180 days after discharge. (3) Claim Procedure: Even if the main hospitalisation was settled cashlessly, pre- and post-hospitalisation expenses are typically claimed through reimbursement by submitting original pharmacy bills, doctor prescription slips, and diagnostic reports within 30 days of the completion of the post-hospitalisation window.",
+    "source": "IRDAI Health Insurance Standardization Guidelines",
+    "source_url": "https://irdai.gov.in/guidelines",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "health_critical_illness_rider",
+    "category": "Health Insurance",
+    "subcategory": "Critical Illness",
+    "title": "Critical Illness Insurance: Benefit-Based Coverage vs Indemnity",
+    "keywords": [
+      "critical illness",
+      "lump sum payout",
+      "survival period",
+      "indemnity vs benefit",
+      "cancer",
+      "stroke",
+      "organ transplant",
+      "heart attack"
+    ],
+    "questions": [
+      "How does a critical illness policy differ from regular mediclaim?",
+      "What is the survival period in a critical illness policy?",
+      "Can I claim critical illness cover without hospital bills?",
+      "What illnesses are covered under critical illness insurance?"
+    ],
+    "content": "Critical Illness policies are 'benefit-based' products, whereas standard mediclaim policies are 'indemnity-based'. (1) Fixed Lump-Sum Payout: Upon the first certified diagnosis of a covered major illness (such as stage-3/4 Cancer, Major Organ Transplant, Stroke resulting in permanent neurological symptoms, or First Heart Attack), the insurer pays the entire Sum Insured as a lump-sum, irrespective of actual hospital bills or treatment costs incurred. (2) Survival Period: Most policies require the insured to survive a mandatory period of 14 to 30 days post-diagnosis before the claim becomes payable. (3) 90-Day Initial Waiting Period: A strict 90-day waiting period from policy inception applies during which diagnosis of a critical illness renders the claim inadmissible. The lump-sum payout can be used for international treatment, home modifications, or debt replacement.",
+    "source": "IRDAI Product Regulations on Health Insurance Riders & Benefit Policies",
+    "source_url": "https://irdai.gov.in/regulations",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "health_senior_citizen_features",
+    "category": "Health Insurance",
+    "subcategory": "Senior Citizen Plans",
+    "title": "Senior Citizen Health Insurance Rules and Safeguards",
+    "keywords": [
+      "senior citizen",
+      "above 60",
+      "co-payment",
+      "pre-medical screening",
+      "age limit",
+      "no age cap",
+      "guaranteed renewal"
+    ],
+    "questions": [
+      "What are the rules for health insurance for people above 60 in India?",
+      "Can an insurance company reject a policy renewal due to old age?",
+      "What is the maximum entry age for health insurance under IRDAI rules?",
+      "What co-payment applies to senior citizen health plans?"
+    ],
+    "content": "IRDAI regulations establish safeguards for senior citizens (aged 60 and above): (1) Removal of Maximum Entry Age: Insurers cannot refuse to offer a health insurance proposal solely on the ground that the individual has reached 65 years; products must be available across all age brackets. (2) Lifetime Guaranteed Renewability: Once accepted, the policy cannot be denied renewal solely due to age or previous claims filed, provided premiums are paid on time. (3) Co-payment Clauses: Insurers frequently incorporate a mandatory 10% to 20% co-payment for senior citizen policies to moderate premium costs. (4) Dedicated Grievance Queue: Insurers must establish separate, prioritized customer servicing and grievance desks for senior citizens with expedited claim handling.",
+    "source": "IRDAI Health Insurance Regulations for Senior Citizens & Master Circular",
+    "source_url": "https://irdai.gov.in/master-circulars",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "health-06",
+    "category": "Health Insurance",
+    "subcategory": "Maternity & Newborn Cover",
+    "title": "Maternity Benefits, Cesarean Delivery & Newborn Baby Cover",
+    "keywords": [
+      "maternity cover",
+      "normal delivery",
+      "cesarean section",
+      "newborn baby cover",
+      "day 1 vaccination",
+      "sub-limit",
+      "waiting period"
+    ],
+    "questions": [
+      "How much maternity coverage is provided in health insurance?",
+      "Is newborn baby hospitalisation covered from Day 1?",
+      "What waiting period applies to maternity insurance?",
+      "Are prenatal and postnatal expenses covered?"
+    ],
+    "content": "Maternity coverage in retail health policies is usually provided as an optional rider or feature with specific parameters: (1) Waiting Periods: Strict waiting periods ranging from 9 months to 36 months (commonly 24 months) of continuous coverage apply before maternity claims are admissible. (2) Sub-limits: Coverage is typically capped at sub-limits such as ₹25,000 to ₹50,000 for normal delivery and ₹50,000 to ₹1,00,000 for Cesarean (C-section) delivery. (3) Newborn Baby Cover: Standard policies cover the newborn baby from birth up to 90 days within the maternity sub-limit, including congenital disease treatment and mandatory initial vaccinations. At the subsequent annual renewal, the infant can be added to the base floater policy as an independent insured member.",
+    "source": "IRDAI Guidelines on Product Filing & Health Insurance Riders",
+    "source_url": "https://irdai.gov.in/guidelines",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "health_cashless_everywhere_initiative",
+    "category": "Health Insurance",
+    "subcategory": "Cashless Everywhere",
+    "title": "IRDAI 'Cashless Everywhere' System & Non-Network Hospitals",
+    "keywords": [
+      "cashless everywhere",
+      "non-network hospital",
+      "48 hours intimation",
+      "emergency hospitalisation",
+      "General Insurance Council",
+      "GIC"
+    ],
+    "questions": [
+      "Can I get cashless hospitalisation in a hospital not in my insurer's network?",
+      "How does the Cashless Everywhere initiative work in India?",
+      "What is the intimation deadline for non-network cashless claims?",
+      "What should I do if a hospital refuses cashless treatment?"
+    ],
+    "content": "Launched by the General Insurance Council (GIC) with IRDAI support, the 'Cashless Everywhere' initiative enables policyholders to obtain cashless treatment at any licensed hospital across India, including hospitals outside the insurer's empanelled network. Key operating rules: (1) Elective Hospitalisation: The policyholder must notify their insurer or TPA at least 48 hours prior to admission. (2) Emergency Hospitalisation: Intimation must be sent to the insurer within 48 hours of admission. (3) Hospital Consent: The hospital must agree to standard GIC discharge protocols and pricing. (4) Minimum Hospital Standards: The non-network facility must be registered with local healthcare authorities under the Clinical Establishments Act and possess at least 15 beds (in small towns) or 25 beds with a dedicated operation theatre and ICU.",
+    "source": "General Insurance Council (GIC) 'Cashless Everywhere' Protocol & IRDAI Directives",
+    "source_url": "https://irdai.gov.in/directives",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "health_proportionate_deductions_rule",
+    "category": "Health Insurance",
+    "subcategory": "Room Rent & Proportionate Deductions",
+    "title": "Room Rent Sub-Limits and Proportionate Deduction Penalties",
+    "keywords": [
+      "room rent",
+      "proportionate deduction",
+      "ICU sub-limit",
+      "twin sharing",
+      "single private room",
+      "doctor fees reduction"
+    ],
+    "questions": [
+      "What happens if I choose a room higher than my room rent limit?",
+      "How is proportionate deduction calculated in health insurance?",
+      "Does proportionate deduction apply to medicine costs?",
+      "Can I avoid proportionate deductions with a room rent waiver rider?"
+    ],
+    "content": "When a health insurance policy has a Room Rent Sub-limit (e.g. 1% of Sum Insured per day for normal room and 2% for ICU) and the insured chooses a hospital room with a higher rent, insurers apply 'Proportionate Deductions' across associated medical expenses. Formula: Proportionate Factor = (Eligible Room Rent Limit) / (Actual Room Rent Charged). All associated variable charges—including surgeon fees, doctor visit fees, nursing charges, and operation theatre fees—are paid only in this proportion, leaving the rest to be paid out-of-pocket. Non-associated medical expenses like fixed costs of medicines, implants (stents, pacemakers), and diagnostic consumables are exempt from proportionate deduction under IRDAI standardization norms.",
+    "source": "IRDAI Master Circular on Health Insurance Standardization & Product Norms",
+    "source_url": "https://irdai.gov.in/master-circulars",
+    "verification_date": "2026-03"
+  }
+]

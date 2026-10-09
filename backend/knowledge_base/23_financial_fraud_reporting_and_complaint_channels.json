@@ -1,0 +1,294 @@
+[
+  {
+    "id": "sec-06",
+    "category": "Financial Fraud Reporting and Complaint Channels",
+    "subcategory": "Helpline 1930 & Cybercrime Portal",
+    "title": "Immediate Actions After Financial Fraud: Helpline 1930 & Cybercrime Portal",
+    "keywords": [
+      "1930",
+      "cybercrime portal",
+      "golden hour",
+      "freeze account",
+      "financial fraud",
+      "National Cyber Crime Reporting Portal",
+      "MHA"
+    ],
+    "questions": [
+      "What should I do immediately if I lose money in an online financial fraud?",
+      "What is the national cybercrime helpline number?",
+      "How does the 1930 helpline freeze stolen money in real time?",
+      "Where do I report digital payment fraud online?"
+    ],
+    "content": "Step-by-step emergency protocol to freeze stolen funds within the critical 'Golden Hour' (first 2 to 3 hours): (1) Step 1: Immediately dial 1930 (National Cyber Financial Fraud Reporting Helpline operated by the Ministry of Home Affairs / I4C). Provide transaction IDs, sender bank, debit timestamp, and suspect beneficiary account/UPI details. (2) Automated Inter-Bank Freeze: The 1930 system logs the incident onto the Citizen Financial Cyber Fraud Reporting and Management System (CFCFRMS), firing automated API alerts to the beneficiary bank and wallet providers to freeze the stolen funds along the entire laundering trail. (3) Step 2: Register a formal detailed complaint on cybercrime.gov.in within 24 hours to obtain an official acknowledgement number.",
+    "source": "Ministry of Home Affairs (MHA) - Indian Cyber Crime Coordination Centre (I4C)",
+    "source_url": "https://cybercrime.gov.in/",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "bank-06",
+    "category": "Financial Fraud Reporting and Complaint Channels",
+    "subcategory": "RBI Integrated Ombudsman Scheme",
+    "title": "Bank Customer Grievance Hierarchy & RBI Integrated Ombudsman Scheme",
+    "keywords": [
+      "bank grievance",
+      "RBI Ombudsman",
+      "RB-IOS",
+      "Internal Ombudsman",
+      "banking complaint",
+      "30 days resolution",
+      "cms.rbi.org.in"
+    ],
+    "questions": [
+      "How do I file a complaint against my bank?",
+      "When can I approach the RBI Ombudsman?",
+      "What is the website to lodge an RBI banking complaint?",
+      "What compensation can the RBI Ombudsman award?"
+    ],
+    "content": "Structured escalation framework for unresolved disputes with commercial banks, RRBs, and payment operators: (1) Level 1: Branch Manager / Bank Customer Care (obtain written ticket ID). (2) Level 2: Bank Principal Nodal Officer (PNO) / Internal Ombudsman (bank has 30 days to resolve). (3) Level 3: Reserve Bank - Integrated Ombudsman Scheme (RB-IOS 2021). If the bank rejects the complaint, provides an unsatisfactory response, or fails to reply within 30 calendar days, escalate online at cms.rbi.org.in (toll-free: 14448). (4) Powers: Free of charge; passes awards binding on the bank, ordering refunds plus interest, and awarding up to ₹1 Lakh compensation for mental distress.",
+    "source": "Reserve Bank - Integrated Ombudsman Scheme (RB-IOS 2021)",
+    "source_url": "https://cms.rbi.org.in/",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "fraudrep_national_cybercrime_portal_1930",
+    "category": "Financial Fraud Reporting and Complaint Channels",
+    "subcategory": "cybercrime.gov.in Registration",
+    "title": "National Cybercrime Reporting Portal (cybercrime.gov.in) & Toll-Free 1930",
+    "keywords": [
+      "cybercrime.gov.in",
+      "1930 helpline",
+      "citizen cyber portal",
+      "formal complaint filing",
+      "acknowledgement number",
+      "I4C MHA"
+    ],
+    "questions": [
+      "How do I register a complaint on cybercrime.gov.in?",
+      "What documents are required to file a cyber financial fraud complaint online?",
+      "What is the difference between calling 1930 and lodging on cybercrime.gov.in?",
+      "Can I track my cybercrime complaint status online?"
+    ],
+    "content": "The central portal for reporting cyber financial offences across India: (1) Integrated Workflow: Calling 1930 triggers the immediate financial freeze; the caller receives an SMS with a temporary ticket ID and must complete formal registration on cybercrime.gov.in within 24 hours. (2) Mandatory Supporting Evidence: Bank account statement highlighting the fraudulent debit, transaction SMS screenshots, screenshots of fraudulent chats, phone numbers of callers, and suspect UPI IDs. (3) State Cyber Cell Routing: The portal automatically routes the complaint to the victim's local police station and state cyber crime cell for FIR registration.",
+    "source": "Ministry of Home Affairs (MHA) - National Cyber Crime Reporting Portal",
+    "source_url": "https://cybercrime.gov.in/",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "fraudrep_golden_hour_bank_freeze",
+    "category": "Financial Fraud Reporting and Complaint Channels",
+    "subcategory": "The Golden Hour & Layered Freezing",
+    "title": "The 'Golden Hour' in Cyber Financial Fraud: Automated Inter-Bank Fund Freezing",
+    "keywords": [
+      "golden hour",
+      "fund freezing",
+      "money laundering trail",
+      "layered accounts",
+      "mule accounts",
+      "CFRMS real time",
+      "recovery of stolen money"
+    ],
+    "questions": [
+      "What is the 'Golden Hour' in online banking fraud?",
+      "How do police freeze money before scammers withdraw it at an ATM?",
+      "What happens to stolen money when it moves across 5 different bank accounts?",
+      "Why must fraud be reported within 2 hours?"
+    ],
+    "content": "Why immediate reporting determines whether stolen money can ever be recovered: (1) The Laundering Chain: Professional cyber cartels use automated scripts to transfer stolen money across 4 to 8 intermediary 'mule accounts' within 60 to 90 minutes before withdrawing cash at ATMs or buying cryptocurrency. (2) The Golden Hour (0 to 3 Hours): If reported to 1930 during this window, the automated CFRMS system places holds ('liens') on the funds at Layer 1, Layer 2, and Layer 3 banks simultaneously before cash withdrawal can occur. (3) Delayed Reporting: Reporting after 24 hours rarely results in recovery because cash is already drained.",
+    "source": "Indian Cyber Crime Coordination Centre (I4C) Whitepaper on Financial Cyber Crime",
+    "source_url": "https://cybercrime.gov.in/",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "fraudrep_i4c_citizen_financial_cfrmms",
+    "category": "Financial Fraud Reporting and Complaint Channels",
+    "subcategory": "CFRMS Architecture",
+    "title": "Indian Cyber Crime Coordination Centre (I4C) & CFRMS Real-Time System",
+    "keywords": [
+      "I4C",
+      "CFRMS",
+      "Citizen Financial Cyber Fraud Management",
+      "inter-bank API switch",
+      "automated hold",
+      "MHA tech platform"
+    ],
+    "questions": [
+      "What is I4C under the Ministry of Home Affairs?",
+      "What is the CFRMS platform used by banks to freeze fraudulent money?",
+      "How many banks and payment apps are connected to 1930?",
+      "What happens after a bank receives an alert from CFRMS?"
+    ],
+    "content": "The technological architecture powering India's anti-cyber fraud machinery: (1) Operational Role of I4C: Established under the Ministry of Home Affairs to coordinate responses between law enforcement, banks, and telecom regulators. (2) CFRMS System: Connects over 250+ commercial banks, payment aggregators, digital wallets, and e-commerce platforms via real-time automated APIs. (3) Immediate Protocol: When an incident is verified on 1930, CFRMS fires an automated digital lien instruction to all recipient institutions, locking the funds instantly pending magistrate disposal orders.",
+    "source": "Ministry of Home Affairs (MHA) I4C Annual Operating Report",
+    "source_url": "https://cybercrime.gov.in/",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "fraudrep_rbi_sachet_portal_complaints",
+    "category": "Financial Fraud Reporting and Complaint Channels",
+    "subcategory": "RBI Sachet Portal",
+    "title": "RBI Sachet Portal (sachet.rbi.org.in): Reporting Illegal Deposit Schemes",
+    "keywords": [
+      "RBI Sachet",
+      "sachet.rbi.org.in",
+      "unauthorized deposit taking",
+      "Ponzi scheme reporting",
+      "State Level Coordination Committee",
+      "SLCC"
+    ],
+    "questions": [
+      "What is RBI Sachet portal?",
+      "How do I report an illegal chit fund or Ponzi scheme to RBI?",
+      "What is the State Level Coordination Committee (SLCC)?",
+      "Where can I check if a non-banking finance company (NBFC) is authorized by RBI?"
+    ],
+    "content": "The Reserve Bank of India's flagship portal for monitoring unauthorized deposit collection and Ponzi schemes: (1) Dual Functions: (a) Enables citizens to check whether an entity is registered with RBI, SEBI, IRDAI, or NHB before depositing money, and (b) Provides a single window to report unregistered entities soliciting public deposits. (2) State Level Coordination Committee (SLCC): Complaints logged on Sachet are shared directly with SLCCs (comprising RBI, SEBI, state police economic offences wings, and registrars of companies) for coordinated enforcement and property attachment.",
+    "source": "RBI Sachet Portal Framework & SLCC Operating Guidelines",
+    "source_url": "https://sachet.rbi.org.in/",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "fraudrep_chakshu_sanchar_saathi_mule",
+    "category": "Financial Fraud Reporting and Complaint Channels",
+    "subcategory": "DoT Chakshu Portal",
+    "title": "DoT Chakshu Portal (sancharsaathi.gov.in): Reporting Fraudulent Numbers & Mules",
+    "keywords": [
+      "Chakshu portal",
+      "Sanchar Saathi",
+      "DoT fraud reporting",
+      "suspected spam numbers",
+      "IMEI blocking",
+      "telecom disconnection of fraudsters"
+    ],
+    "questions": [
+      "What is Chakshu facility on Sanchar Saathi portal?",
+      "How do I report a fraudulent phone number or scam WhatsApp account?",
+      "Can the Department of Telecom block the handset of a cyber criminal?",
+      "How do I check how many SIM cards are issued in my name?"
+    ],
+    "content": "Citizen-centric tools launched by the Department of Telecommunications (DoT): (1) Chakshu Portal: Allows citizens to report suspected fraudulent calls, SMS, and WhatsApp messages (lottery scams, fake loan offers, digital arrest threats, electricity disconnection messages). (2) Enforcement Actions: DoT verifies reported numbers, re-verifies KYC, and permanently disconnects offending mobile numbers and blacklists their device IMEI numbers across all Indian telecom networks. (3) TAFCOP on Sanchar Saathi: Allows citizens to check all active mobile connections registered against their Aadhaar.",
+    "source": "Department of Telecommunications (DoT) Sanchar Saathi & Chakshu Guidelines",
+    "source_url": "https://sancharsaathi.gov.in/",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "fraudrep_police_zero_fir_jurisdiction",
+    "category": "Financial Fraud Reporting and Complaint Channels",
+    "subcategory": "Zero FIR in Cybercrime",
+    "title": "Zero FIR Filing Protocols for Cybercrime across Police Jurisdictions",
+    "keywords": [
+      "Zero FIR",
+      "police jurisdiction",
+      "refusal to register FIR",
+      "cybercrime FIR",
+      "Section 173 BNSS",
+      "police station refusal ban"
+    ],
+    "questions": [
+      "Can a police station refuse to register a cybercrime FIR citing jurisdiction?",
+      "What is a Zero FIR in India?",
+      "Under what law must police register a cyber fraud FIR immediately?",
+      "What should I do if a local police station refuses my cyber complaint?"
+    ],
+    "content": "Legal mandates governing First Information Reports (FIRs) for cybercrime: (1) Concept of Zero FIR: In cyberspace, criminal acts have no physical territorial boundaries. A 'Zero FIR' can be registered at ANY police station in India, irrespective of where the crime occurred or where the victim resides. The police station registers the FIR, numbers it '0', initiates preliminary steps, and transfers it to the jurisdictional police station. (2) Mandatory Duty: Under statutory police reforms and Supreme Court directives, no police officer can refuse to register an FIR on jurisdictional grounds. Refusal attracts criminal prosecution.",
+    "source": "Ministry of Home Affairs Advisory on Registration of Zero FIR & Criminal Procedure Norms",
+    "source_url": "https://cybercrime.gov.in/",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "fraudrep_mule_account_penal_liabilities",
+    "category": "Financial Fraud Reporting and Complaint Channels",
+    "subcategory": "Mule Accounts & Criminal Liability",
+    "title": "Mule Accounts in Cyber Laundering: Criminal Liability under PMLA and BNS",
+    "keywords": [
+      "mule account",
+      "money mule",
+      "renting bank account",
+      "PMLA liability",
+      "criminal conspiracy",
+      "freezing mule accounts",
+      "cyber syndicate"
+    ],
+    "questions": [
+      "What is a money mule account in cyber banking fraud?",
+      "What happens to people who rent their bank accounts for a commission?",
+      "Can I go to jail if my bank account was used to receive stolen cyber money?",
+      "Why are college students targeted to open mule bank accounts?"
+    ],
+    "content": "Legal and penal consequences for individuals who facilitate financial cyber crimes: (1) What is a Mule Account: A bank account used by criminal syndicates to receive, transfer, or launder proceeds of cyber fraud, often opened by college students or unemployed individuals in exchange for small cash commissions. (2) Severe Criminal Liability: Renting or sharing bank accounts or ATM cards makes the account holder a co-accused in criminal conspiracy under the Bharatiya Nyaya Sanhita (BNS) and the Prevention of Money Laundering Act (PMLA). (3) Consequences: Immediate arrest, bank accounts permanently frozen, and blacklisting from the banking system.",
+    "source": "RBI Advisory on Mule Accounts & Indian Cyber Crime Coordination Centre Directives",
+    "source_url": "https://www.rbi.org.in/Scripts/NotificationUser.aspx",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "fraudrep_consumer_helpline_ncrh",
+    "category": "Financial Fraud Reporting and Complaint Channels",
+    "subcategory": "National Consumer Helpline (NCH)",
+    "title": "National Consumer Helpline (NCH - 1915): Escalating E-Commerce Merchant Frauds",
+    "keywords": [
+      "National Consumer Helpline",
+      "NCH 1915",
+      "consumerapp",
+      "e-commerce fraud",
+      "merchant refund dispute",
+      "Department of Consumer Affairs"
+    ],
+    "questions": [
+      "How do I report e-commerce shopping fraud or fake products?",
+      "What is the toll-free number for National Consumer Helpline (NCH)?",
+      "How does NCH 1915 help get refunds from shopping apps?",
+      "What is the difference between cybercrime portal and consumer helpline?"
+    ],
+    "content": "Redressal mechanism operated by the Department of Consumer Affairs for commercial and shopping disputes: (1) Dedicated Helpline 1915: Available Monday to Saturday (8 AM to 8 PM) or via WhatsApp and the NCH mobile app (consumerhelpline.gov.in). (2) Scope: Handles commercial fraud, fake e-commerce deliveries, refusal of refunds by aggregators/airlines/hotels, defective goods, and misleading advertisements. (3) Corporate Convergence: Directly connected with over 1,000+ top e-commerce and retail companies; 85%+ of complaints result in pre-litigation mediated refunds without filing court cases.",
+    "source": "Department of Consumer Affairs - National Consumer Helpline (NCH) Portal",
+    "source_url": "https://consumerhelpline.gov.in/",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "fraudrep_telecom_commercial_dnd_trai",
+    "category": "Financial Fraud Reporting and Complaint Channels",
+    "subcategory": "TRAI DND & Spam Reporting",
+    "title": "TRAI Do Not Disturb (DND) Registry & UCC Reporting against Spam Calls",
+    "keywords": [
+      "TRAI DND",
+      "Do Not Disturb",
+      "UCC reporting",
+      "unsolicited commercial communication",
+      "1909 spam reporting",
+      "telemarketer penalty"
+    ],
+    "questions": [
+      "How do I activate Do Not Disturb (DND) on my mobile number?",
+      "How do I report a spam loan or insurance call to TRAI?",
+      "What is Unsolicited Commercial Communication (UCC)?",
+      "What action does TRAI take against telemarketers making illegal calls?"
+    ],
+    "content": "Regulatory framework operated by the Telecom Regulatory Authority of India (TRAI): (1) DND Registration: Activate full DND by sending an SMS with the text 'START 0' to 1909, or using the TRAI DND 3.0 app. (2) Reporting Spam Calls (UCC): If unsolicited calls or messages persist, report the incident within 3 days by sending an SMS to 1909: 'COMP TEL NO, dd/mm/yy, Brief Description'. (3) Penalties: Telemarketers violating UCC rules face financial disincentives, capping of outgoing calls, and permanent disconnection of all telecom resources.",
+    "source": "Telecom Regulatory Authority of India (TRAI) Telecom Commercial Communications Regulations",
+    "source_url": "https://www.trai.gov.in/",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "fraudrep_court_defreeze_petitions",
+    "category": "Financial Fraud Reporting and Complaint Channels",
+    "subcategory": "Defreezing Bank Accounts",
+    "title": "Defreezing Bank Accounts Frozen during Cyber Fraud Investigations (Section 457)",
+    "keywords": [
+      "defreeze bank account",
+      "frozen account petition",
+      "Section 457 CrPC",
+      "Section 503 BNSS",
+      "cyber cell lien",
+      "innocent account holder"
+    ],
+    "questions": [
+      "What should I do if my bank account was frozen by a cyber cell in another state?",
+      "Why did the cyber police freeze my entire account for a small disputed amount?",
+      "How do I get my bank account defrozen by a court?",
+      "What is an application under Section 457 for frozen accounts?"
+    ],
+    "content": "Legal remedy when an innocent account holder's bank balance is frozen due to a cyber fraud investigation: (1) Why Freezes Occur: If a tiny fraction of laundered funds (even ₹5,000) touched your account (e.g. from P2P crypto trading or secondary merchant payments), cyber police order the bank to freeze the entire account. (2) Step 1: Obtain the Police Notice / Ack Number and Investigating Officer (IO) details from your bank branch. (3) Step 2: Contact the IO and furnish verified transaction invoices. (4) Court Remedy: If police fail to release the freeze, file a formal petition under Section 457 of CrPC (Section 503 BNSS) before the jurisdictional Judicial Magistrate requesting defreezing of undisputed funds.",
+    "source": "Code of Criminal Procedure Section 457 & High Court Directives on Cyber Freezes",
+    "source_url": "https://cybercrime.gov.in/",
+    "verification_date": "2026-03"
+  }
+]

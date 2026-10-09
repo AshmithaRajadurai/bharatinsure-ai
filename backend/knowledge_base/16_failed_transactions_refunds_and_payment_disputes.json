@@ -1,0 +1,297 @@
+[
+  {
+    "id": "fintech-05",
+    "category": "Failed Transactions, Refunds, and Payment Disputes",
+    "subcategory": "Failed Payments & RBI Auto-Reversal",
+    "title": "Failed Transactions, Pending Payments & RBI Auto-Reversal TAT",
+    "keywords": [
+      "failed transaction",
+      "pending payment",
+      "auto-reversal",
+      "TAT",
+      "turnaround time",
+      "T+1",
+      "T+5",
+      "100 per day penalty",
+      "money debited but not credited"
+    ],
+    "questions": [
+      "What should I do if money is debited from my account but the transaction failed?",
+      "How long does an auto-reversal take for a failed UPI payment?",
+      "What is RBI's compensation rule for delayed auto-reversals?",
+      "How do I claim ₹100 per day penalty for a failed transaction?"
+    ],
+    "content": "Regulatory turnaround times under RBI's Harmonisation of Turn Around Time (TAT) Framework: (1) Failed UPI / IMPS Transactions: If money is debited but beneficiary is not credited, the auto-reversal must complete within T+1 day (Transaction date + 1 business day). (2) ATM Cash Dispensation Failure: If ATM debits account but fails to dispense cash, auto-reversal must occur within T+5 days. (3) Card-to-Card & POS/E-commerce: Reversals must execute within T+1 to T+5 days. (4) ₹100 Per Day Delay Compensation: If the bank fails to reverse funds within the prescribed TAT, the bank MUST automatically pay the customer compensation of ₹100 per calendar day of delay directly into the account without requiring a formal request.",
+    "source": "RBI Master Circular on Harmonisation of Turn Around Time (TAT) and Customer Compensation",
+    "source_url": "https://www.rbi.org.in/Scripts/NotificationUser.aspx",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "fintech-06",
+    "category": "Failed Transactions, Refunds, and Payment Disputes",
+    "subcategory": "Disputes & Escalation Hierarchy",
+    "title": "Duplicate Debits, Refunds, Chargebacks & Escalation Hierarchy",
+    "keywords": [
+      "duplicate debit",
+      "chargeback",
+      "merchant refund",
+      "dispute escalation",
+      "RBI ombudsman",
+      "payment aggregator",
+      "customer liability"
+    ],
+    "questions": [
+      "How do I fix a duplicate debit on my card or UPI?",
+      "What is a chargeback and when can I request it?",
+      "What is the escalation hierarchy for payment disputes?",
+      "How do I file a complaint with the RBI Ombudsman?"
+    ],
+    "content": "Dispute resolution protocols for incorrect or contested digital transactions: (1) Duplicate Debits & Failed Merchant Settlements: File an instant dispute on the payment app or bank portal. The merchant acquiring bank and issuer reconcile within 24-48 hours. If unresolved, request a formal 'Chargeback' through your card issuer or NPCI's UPI dispute engine. (2) Escalation Hierarchy: Level 1: Payment app / bank customer service (T+1 to T+3); Level 2: Bank Principal Nodal Officer (PNO) / Grievance Redressal Officer (resolution within 30 days); Level 3: RBI Integrated Ombudsman Scheme (complaint at cms.rbi.org.in). (3) Zero Customer Liability: Under RBI norms, zero liability applies if unauthorized transactions are reported within 3 working days.",
+    "source": "RBI Master Direction on Customer Protection & Limiting Liability in Electronic Banking",
+    "source_url": "https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "dispute_rbi_harmonisation_tat_t_plus_1",
+    "category": "Failed Transactions, Refunds, and Payment Disputes",
+    "subcategory": "RBI Harmonisation TAT Framework",
+    "title": "RBI Harmonisation Framework: T+1 to T+5 Auto-Reversal Turnaround Times",
+    "keywords": [
+      "Harmonisation framework",
+      "turn around time",
+      "T+1",
+      "T+5",
+      "auto-reversal",
+      "RBI circular",
+      "harmonized TAT table"
+    ],
+    "questions": [
+      "What are the exact RBI TAT timelines for failed digital payments?",
+      "What is T+1 in banking?",
+      "How long can an e-commerce refund take under RBI rules?",
+      "What happens if a bank misses the harmonized TAT deadline?"
+    ],
+    "content": "The landmark RBI Harmonisation Framework (DPSS.CO.PD No.629/02.01.014/2019-20) standardizes auto-reversals across all payment methods: (1) Definition of 'T': 'T' is the transaction date; business days do not include bank holidays. (2) Binding Timelines: (a) UPI transfers (account debited, beneficiary not credited): T+1 day to reverse. (b) IMPS transfers: T+1 day. (c) Point of Sale (POS) and E-commerce payments (account debited, merchant confirmation failed): T+5 days. (d) ATM cash withdrawal failures: T+5 days. (e) Card-to-card transfers: T+1 day. (3) Duty of Banks: Systems must execute automated reconciliation daily without awaiting customer complaints.",
+    "source": "RBI Circular on Harmonisation of Turn Around Time (TAT) and Customer Compensation",
+    "source_url": "https://www.rbi.org.in/Scripts/NotificationUser.aspx",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "dispute_compensation_100_per_day",
+    "category": "Failed Transactions, Refunds, and Payment Disputes",
+    "subcategory": "₹100 Per Day Compensation Rule",
+    "title": "Statutory Auto-Reversal Compensation: ₹100 Per Day of Delay Beyond TAT",
+    "keywords": [
+      "100 per day compensation",
+      "penal compensation",
+      "delayed reversal penalty",
+      "automatic credit",
+      "RBI mandate",
+      "compensation without asking"
+    ],
+    "questions": [
+      "How do I claim ₹100 per day compensation for a failed transaction?",
+      "Does the bank have to credit the ₹100 per day delay penalty automatically?",
+      "Can a bank refuse to pay the failed payment penalty?",
+      "Where can I complain if the bank did not credit delay compensation?"
+    ],
+    "content": "Enforcement mechanisms of the ₹100-per-day statutory compensation penalty: (1) Mandatory Direct Credit: Under RBI regulations, compensation must be calculated automatically from the expiry of the prescribed TAT (e.g. Day T+2 for UPI, Day T+6 for ATMs) until the actual date of funds reversal, and credited directly to the customer's bank account. (2) No Application Required: The policyholder does not need to submit any formal claim form or make phone calls; omitting this penalty is an audit non-compliance for the bank. (3) Ombudsman Recourse: If a delayed credit is made without the statutory ₹100/day penalty, lodge an instant complaint on the RBI CMS portal (cms.rbi.org.in).",
+    "source": "RBI Master Direction on Customer Compensation for Failed Transactions",
+    "source_url": "https://www.rbi.org.in/Scripts/NotificationUser.aspx",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "dispute_atm_cash_dispensation_failure",
+    "category": "Failed Transactions, Refunds, and Payment Disputes",
+    "subcategory": "ATM Cash Dispensation Failures",
+    "title": "ATM Cash Dispensation Failure: T+5 Reversal Rule & Chargeback Process",
+    "keywords": [
+      "ATM cash failed",
+      "money not dispensed",
+      "T+5 ATM reversal",
+      "ATM camera log",
+      "ATM journal audit",
+      "white label ATM dispute"
+    ],
+    "questions": [
+      "What should I do if an ATM deducted money but did not dispense cash?",
+      "How do banks verify ATM cash withdrawal failure claims?",
+      "What is an ATM journal log audit?",
+      "How long does a bank take to refund failed ATM withdrawals?"
+    ],
+    "content": "Protocols for failed automated teller machine (ATM) transactions: (1) Immediate Action: Keep the printed transaction slip or transaction SMS showing the failure code; note the exact ATM machine ID, location, and timestamp. (2) The 5-Day Reversal Clock: Under RBI rules, the card-issuing bank has T+5 business days to verify the discrepancy and reverse the debit. (3) Verification Mechanism: The bank performs a physical balance reconciliation of the ATM cash cassette, audits the electronic switch log (Electronic Journal / EJ), and checks security CCTV cameras. (4) Compensation: If unresolved by Day T+6, ₹100 per day is automatically credited.",
+    "source": "RBI Master Circular - Operations of ATMs and Failed Transactions Redressal",
+    "source_url": "https://www.rbi.org.in/Scripts/BS_ViewMasCirculardetails.aspx",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "dispute_pos_card_swipe_declines",
+    "category": "Failed Transactions, Refunds, and Payment Disputes",
+    "subcategory": "POS & E-Commerce Swipe Declines",
+    "title": "Point of Sale (POS) & E-Commerce Card Swipe Declines: Auto-Reversal Timelines",
+    "keywords": [
+      "POS card decline",
+      "e-commerce failed payment",
+      "swiped twice",
+      "double deduction POS",
+      "merchant charge slip",
+      "gateway reconciliation"
+    ],
+    "questions": [
+      "Why was my account debited when the merchant card machine printed 'Transaction Declined'?",
+      "What happens if a POS machine swipes my card twice for one bill?",
+      "How long does an e-commerce refund take after payment failure?",
+      "Who is responsible for refund: bank or merchant?"
+    ],
+    "content": "Resolving payment mismatches at merchant counters and shopping gateways: (1) Technical Cause: Communication drops between merchant acquiring terminals and issuing banks cause the customer's bank to approve the debit while the merchant terminal registers a timeout, generating a 'Declined / Void' charge-slip. (2) Proof of Decline: Retain the merchant's printed 'Decline Slip'—it legally establishes that the merchant did not receive settlement. (3) T+5 Resolution: The acquiring bank's end-of-day batch settlement reconciles unsettled funds, initiating an automated reversal to the cardholder within T+5 days under RBI directives.",
+    "source": "RBI Guidelines on Harmonisation of TAT for Point of Sale (POS) and E-Commerce",
+    "source_url": "https://www.rbi.org.in/Scripts/NotificationUser.aspx",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "dispute_upi_dispute_redressal_odr",
+    "category": "Failed Transactions, Refunds, and Payment Disputes",
+    "subcategory": "UPI Online Dispute Resolution (ODR)",
+    "title": "UPI Online Dispute Resolution (ODR) System & NPCI UDIR Architecture",
+    "keywords": [
+      "ODR",
+      "Online Dispute Resolution",
+      "UDIR",
+      "Unified Dispute and Issue Resolution",
+      "real-time dispute",
+      "automated refund",
+      "NPCI guidelines"
+    ],
+    "questions": [
+      "What is UDIR system in UPI?",
+      "How does real-time dispute resolution work inside UPI apps?",
+      "Can a UPI app resolve my payment failure automatically?",
+      "What is an Online Dispute Resolution (ODR) system?"
+    ],
+    "content": "To replace manual customer support tickets, NPCI implemented the Unified Dispute and Issue Resolution (UDIR) automated ODR engine: (1) Embedded Capability: Every certified UPI app must integrate UDIR APIs directly into its transaction history screen. (2) Real-Time Querying: When a customer clicks 'Raise Dispute' on a failed or pending payment, the UDIR switch connects to both the remitter and beneficiary banks in real time, checking transaction status and auto-initiating instant refunds if the beneficiary bank confirmed non-credit. (3) Near-Zero Human Friction: Reduces resolution times from days to minutes for 85%+ of failed transfers.",
+    "source": "NPCI Circular on Implementation of Online Dispute Resolution (ODR) System for UPI",
+    "source_url": "https://www.npci.org.in/what-we-do/upi/circulars",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "dispute_wrong_account_transfer_recovery",
+    "category": "Failed Transactions, Refunds, and Payment Disputes",
+    "subcategory": "Accidental Wrong-Account Transfers",
+    "title": "Accidental Fund Transfer to Wrong Account: Recovery Protocols & Branch Coordination",
+    "keywords": [
+      "wrong account transfer",
+      "wrong IFSC transfer",
+      "accidental transfer recovery",
+      "beneficiary consent",
+      "reversing wrong IMPS",
+      "bank branch assistance"
+    ],
+    "questions": [
+      "What should I do if I accidentally transferred money to the wrong bank account?",
+      "Can my bank reverse an accidental transfer without the receiver's permission?",
+      "What are the legal steps to recover money sent to the wrong UPI ID?",
+      "How long does wrong account recovery take?"
+    ],
+    "content": "Accidental entry of incorrect account numbers or IFSC codes creates legal and operational hurdles: (1) Immediate Action: Notify your bank branch manager and customer care within 24 hours in writing, providing transaction reference number, correct intended details, and wrong recipient details. (2) Beneficiary Consent Mandate: Under Indian banking law, a bank cannot unilaterally reverse or debit money from a customer's account without that account holder's explicit consent. (3) Inter-Bank Facilitation: Your bank branch contacts the manager of the recipient's branch, who officially contacts the recipient requesting permission to freeze or return the wrongfully credited funds. If refused, recovery requires legal notice under civil law.",
+    "source": "RBI Master Direction on Customer Service in Banks & Legal Recovery Precedents",
+    "source_url": "https://www.rbi.org.in/Scripts/BS_ViewMasCirculardetails.aspx",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "dispute_chargeback_cycles_visa_mastercard",
+    "category": "Failed Transactions, Refunds, and Payment Disputes",
+    "subcategory": "Card Chargeback Lifecycles",
+    "title": "Card Chargeback Mechanism: Evidence Submission & Pre-Arbitration Stages",
+    "keywords": [
+      "chargeback",
+      "Visa chargeback",
+      "Mastercard dispute",
+      "pre-arbitration",
+      "merchant fraud",
+      "non-delivery of goods",
+      "chargeback evidence"
+    ],
+    "questions": [
+      "What is a card chargeback and how does it work in India?",
+      "When can I file a chargeback on my debit or credit card?",
+      "What evidence do I need to win a chargeback dispute?",
+      "What happens if a merchant contests my chargeback?"
+    ],
+    "content": "Chargeback is a formal dispute mechanism provided by international card payment networks (RuPay, Visa, Mastercard): (1) Legitimate Grounds: Non-delivery of ordered goods/services, merchant billing errors, double charging, damaged goods where merchant refused return, or fraudulent transactions. (2) Step-by-Step Lifecycle: (a) Filing: Customer submits dispute form with invoices and merchant email logs to issuing bank within 60 to 120 days. (b) Re-presentment: The merchant acquiring bank has 30 days to contest with delivery proof. (c) Pre-Arbitration / Arbitration: If merchant evidence is invalid, network arbitrators award a permanent refund to the cardholder.",
+    "source": "Card Payment Networks Operating Regulations (RuPay/Visa/Mastercard) & RBI Directives",
+    "source_url": "https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "dispute_escalation_rbi_ombudsman",
+    "category": "Failed Transactions, Refunds, and Payment Disputes",
+    "subcategory": "RBI Integrated Ombudsman Scheme",
+    "title": "Payment Dispute Escalation: From Bank Grievance to RBI Integrated Ombudsman",
+    "keywords": [
+      "RBI Ombudsman",
+      "Reserve Bank Integrated Ombudsman Scheme",
+      "RB-IOS 2021",
+      "cms.rbi.org.in",
+      "complaint escalation",
+      "unresolved dispute"
+    ],
+    "questions": [
+      "How do I escalate an unresolved payment dispute to the RBI Ombudsman?",
+      "What is the website to file a complaint with RBI?",
+      "What is the timeline for bank to resolve a dispute before I go to RBI?",
+      "Can the RBI Ombudsman award compensation for mental harassment?"
+    ],
+    "content": "The Reserve Bank - Integrated Ombudsman Scheme (RB-IOS 2021) provides unified redressal across banks, NBFCs, and payment system participants: (1) Pre-Condition: Complainant must first lodge a complaint with the regulated bank or payment entity. If the entity rejects the complaint, provides an unsatisfactory response, or fails to respond within 30 days, the customer can approach the Ombudsman. (2) Electronic Filing: Complaints are filed 100% online at cms.rbi.org.in (free of charge, no lawyer required) or by writing to CRPC, RBI, Chandigarh. (3) Awarding Powers: Can order full refund, statutory interest, and up to ₹1,00,000 compensation for harassment and mental agony.",
+    "source": "Reserve Bank - Integrated Ombudsman Scheme (RB-IOS 2021)",
+    "source_url": "https://cms.rbi.org.in/",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "dispute_failed_auto_debit_charges",
+    "category": "Failed Transactions, Refunds, and Payment Disputes",
+    "subcategory": "Unfair Auto-Debit Bounce Charges",
+    "title": "Unfair Penalties on Failed Auto-Debits: Disputing System-Error NACH Charges",
+    "keywords": [
+      "auto-debit bounce",
+      "NACH bounce fee",
+      "system error bounce",
+      "unfair bank penalty",
+      "disputing bounce charge",
+      "refund of bounce fee"
+    ],
+    "questions": [
+      "Can a bank charge bounce fees if the auto-debit failed due to a bank server error?",
+      "How do I get a refund of an unfair NACH bounce fee?",
+      "What happens if a merchant presents a mandate twice on the same day?",
+      "Are banks allowed to charge high fees for failed ECS/NACH debits?"
+    ],
+    "content": "Customers frequently incur hefty bank bounce charges (₹250 - ₹500 + GST) through zero fault of their own: (1) Technical Failures Protected: If an account held sufficient balance on the due date and the auto-debit failed due to technical glitches, core banking downtimes, or merchant processing delays, banks are strictly prohibited from penalising the customer. (2) Duplicate Presentation: If a merchant presents an e-mandate multiple times on the same day, banks cannot levy compounding bounce charges for each presentation. (3) Refund Rights: Customers can demand an immediate reversal of wrongful bounce fees by providing account statement proof showing sufficient balance.",
+    "source": "RBI Guidelines on Customer Service in Banks & Model Operating Procedures",
+    "source_url": "https://www.rbi.org.in/Scripts/NotificationUser.aspx",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "dispute_customer_zero_liability_tat",
+    "category": "Failed Transactions, Refunds, and Payment Disputes",
+    "subcategory": "Zero Liability Fraud Timelines",
+    "title": "Customer Zero Liability Timelines: Reporting Fraud Within 3 Days",
+    "keywords": [
+      "zero liability",
+      "fraud reporting timeline",
+      "3 days zero liability",
+      "limited liability",
+      "4 to 7 days liability",
+      "RBI electronic transactions circular"
+    ],
+    "questions": [
+      "How quickly must I report fraudulent bank transactions to have zero liability?",
+      "What is the 3-day rule for unauthorized digital banking fraud?",
+      "How much liability do I have if I report bank fraud after 5 days?",
+      "Does zero liability apply if I shared my OTP?"
+    ],
+    "content": "RBI's landmark circular on Limiting Liability of Customers in Unauthorised Electronic Banking Transactions: (1) Zero Liability: Customer has ZERO financial liability if fraud occurred due to bank contributory negligence or third-party breach and is reported within 3 working days of receiving the SMS/email alert. (2) Limited Liability: If reported within 4 to 7 working days, customer liability is capped at transaction value or maximum ₹5,000 for basic accounts (₹10,000 for regular savings, ₹25,000 for credit cards with limit > ₹5 Lakh). (3) Exceeding 7 Days: Liability is determined by individual bank board policies. (4) Negligence Exception: Zero liability does not apply if the customer voluntarily shared passwords, PINs, or OTPs.",
+    "source": "RBI Master Circular on Customer Protection - Limiting Liability in Electronic Banking",
+    "source_url": "https://www.rbi.org.in/Scripts/NotificationUser.aspx",
+    "verification_date": "2026-03"
+  }
+]

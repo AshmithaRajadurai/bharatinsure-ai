@@ -1,0 +1,293 @@
+[
+  {
+    "id": "life-05",
+    "category": "Premiums, Renewals, and Policy Lapses",
+    "subcategory": "Grace Periods & Revival",
+    "title": "Grace Period, Policy Lapse & Policy Revival Mechanisms",
+    "keywords": [
+      "grace period",
+      "policy lapse",
+      "revival",
+      "premium due",
+      "paid-up value",
+      "surrender value",
+      "good health declaration"
+    ],
+    "questions": [
+      "What happens if I miss my insurance premium due date?",
+      "How long is the grace period in life insurance?",
+      "How do I revive a lapsed life insurance policy?",
+      "Does insurance cover death during the grace period?"
+    ],
+    "content": "Rules governing unpaid premiums and policy continuity: (1) Grace Period: Insurers grant 30 days of grace period for annual, half-yearly, and quarterly premium payment modes (15 days for monthly modes). If death occurs during the grace period, the full claim is payable after deducting the unpaid premium instalment. (2) Policy Lapse: If the premium remains unpaid at the expiry of the grace period, the policy lapses and all life cover ceases immediately. (3) Policy Revival: Lapsed policies can be revived within a statutory window of 2 to 5 years from the first unpaid premium date. Revival requires payment of all outstanding premium arrears plus penal interest and submission of a Declaration of Good Health or fresh medical screening.",
+    "source": "IRDAI Master Circular on Life Insurance Product Terms & Servicing",
+    "source_url": "https://irdai.gov.in/master-circulars",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "insfin-01",
+    "category": "Premiums, Renewals, and Policy Lapses",
+    "subcategory": "Digital Payments & AutoPay",
+    "title": "Online Insurance Purchase, Digital Premium Payments & UPI AutoPay Mandates",
+    "keywords": [
+      "digital premium payment",
+      "UPI AutoPay",
+      "e-mandate",
+      "NACH",
+      "standing instruction",
+      "auto-renewal",
+      "instant policy issuance"
+    ],
+    "questions": [
+      "How does UPI AutoPay work for insurance premium payment?",
+      "What is the limit for recurring insurance payments via UPI AutoPay?",
+      "Can I cancel a recurring UPI AutoPay insurance mandate anytime?",
+      "How fast is policy issued when buying online?"
+    ],
+    "content": "Digital insurance ecosystems facilitate paperless purchases and recurring collections: (1) UPI AutoPay & e-Mandates: Policyholders can establish automated recurring mandates for insurance premiums. Under RBI rules, e-mandates up to ₹1,00,000 per transaction for insurance premiums and mutual funds execute without recurring OTP authentication (pre-debit notification is sent 24 hours prior). (2) Mandate Management: AutoPay mandates can be paused, modified, or cancelled instantly via the policyholder's UPI app. (3) Electronic Policy Issuance: Online insurance purchases undergo instant digital underwriting via API integrations, issuing policy schedules instantly to email and DigiLocker.",
+    "source": "RBI Framework for Processing of e-mandates & NPCI UPI AutoPay Guidelines",
+    "source_url": "https://www.rbi.org.in/Scripts/NotificationUser.aspx",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "prem_grace_period_rules",
+    "category": "Premiums, Renewals, and Policy Lapses",
+    "subcategory": "Health & General Renewal Grace Periods",
+    "title": "Health Insurance Renewal Grace Periods & Continuity Rights",
+    "keywords": [
+      "health insurance renewal",
+      "30 days grace period",
+      "waiting period continuity",
+      "NCB preservation",
+      "break in policy",
+      "no cover during grace"
+    ],
+    "questions": [
+      "What happens if I forget to renew my health insurance on time?",
+      "How long is the grace period for renewing health insurance?",
+      "Do I lose my waiting period credits if health policy lapses?",
+      "Does health insurance cover medical claims during the 30-day renewal grace period?"
+    ],
+    "content": "Health insurance renewal rules establish continuity safeguards under IRDAI regulations: (1) 30-Day Grace Window: Policyholders receive a 30-day grace period from the expiry date to pay renewal premiums without losing accrued continuity benefits. (2) Preservation of Benefits: If renewed within 30 days, all accumulated No Claim Bonus (NCB) and completed waiting periods for pre-existing diseases are safely preserved. (3) No Risk Cover During Grace: Unlike life insurance, health insurance provides zero coverage for hospitalisations occurring during the grace period before the renewal premium is credited. (4) Break in Policy: If the renewal is delayed beyond 30 days, the policy lapses permanently, treating any subsequent application as a fresh policy with restarted waiting periods.",
+    "source": "IRDAI Health Insurance Regulations & Master Circular",
+    "source_url": "https://irdai.gov.in/master-circulars",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "prem_revival_underwriting_norms",
+    "category": "Premiums, Renewals, and Policy Lapses",
+    "subcategory": "Medical Revival Underwriting",
+    "title": "Medical Revival of Lapsed Policies: Fresh Disclosures & Morbidity Checks",
+    "keywords": [
+      "policy revival",
+      "medical underwriting revival",
+      "good health declaration",
+      "DGH",
+      "revival interest",
+      "moratorium clock",
+      "section 45 reset"
+    ],
+    "questions": [
+      "Can an insurer refuse to revive a lapsed policy?",
+      "Why do insurance companies ask for medical tests to revive a policy?",
+      "Does the Section 45 3-year clock reset after policy revival?",
+      "What interest rate is charged on unpaid premiums during revival?"
+    ],
+    "content": "Reviving a lapsed policy after months of non-payment involves underwriting re-assessment: (1) Right to Refuse: Revival is not an automatic right; it is a fresh contract requiring insurer agreement. If the policyholder has developed critical health conditions during the lapse period, the insurer can impose premium loadings, exclude conditions, or decline revival. (2) Declaration of Good Health (DGH): For short lapse periods (under 6 months), a simple self-certified DGH suffices. For lapses exceeding 6-12 months, comprehensive medical screening is required. (3) Section 45 Clock Reset: Section 45 states that the 3-year incontestability clock restarts from the date of policy revival for any facts declared at revival.",
+    "source": "IRDAI Master Circular on Life Insurance & Section 45 Insurance Act",
+    "source_url": "https://irdai.gov.in/master-circulars",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "prem_advance_premium_rules",
+    "category": "Premiums, Renewals, and Policy Lapses",
+    "subcategory": "Advance Premium Deposits",
+    "title": "Advance Premium Collection Rules: 30-Day Rule and Interest Prohibition",
+    "keywords": [
+      "advance premium",
+      "30 days before due date",
+      "IRDAI advance collection",
+      "premium deposit",
+      "interest prohibition"
+    ],
+    "questions": [
+      "Can I pay my insurance premium 6 months in advance?",
+      "How many days before the due date can insurance premium be collected?",
+      "Does an insurance company pay interest on advance premiums?",
+      "What happens to advance premium if the policyholder dies before the due date?"
+    ],
+    "content": "IRDAI establishes clear boundaries regarding the timing of advance premium collection: (1) 30-Day Window: Life and general insurers cannot collect renewal premiums more than 30 days prior to the statutory premium due date. (2) Exception for Long-Term Schemes: Certain approved pension or endowment plans allow advance deposits under specific Advance Premium Deposit facilities, but the money must be held in a non-interest-bearing escrow account and adjusted strictly on respective due dates. (3) Death Before Due Date: If the policyholder dies prior to the actual policy renewal date, any advance premium deposited is refunded in full to the nominee alongside the death claim.",
+    "source": "IRDAI Product Regulations & Master Circular on Insurance Servicing",
+    "source_url": "https://irdai.gov.in/regulations",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "prem_installment_loading_factors",
+    "category": "Premiums, Renewals, and Policy Lapses",
+    "subcategory": "Premium Payment Frequencies",
+    "title": "Premium Payment Frequencies: Modal Loading & Cost Differences",
+    "keywords": [
+      "modal loading",
+      "annual premium",
+      "monthly premium",
+      "half-yearly premium",
+      "quarterly premium",
+      "installment loading",
+      "frequency surcharge"
+    ],
+    "questions": [
+      "Why is monthly insurance premium more expensive than annual premium?",
+      "What is modal loading in insurance?",
+      "How much extra do you pay for quarterly or monthly insurance payments?",
+      "Can I change my premium payment frequency from monthly to annual?"
+    ],
+    "content": "Insurers permit policyholders to pay premiums annually, half-yearly, quarterly, or monthly via automated mandates, but apply 'Modal Loading': (1) Modal Loading Rationale: Paying in frequent instalments increases billing administration costs, bank transaction charges, and lapse risks. Insurers apply a surcharge (modal loading factor): Annual: 100% of base rate (0% surcharge); Half-Yearly: typically 51% to 52% of annual rate (2% to 4% surcharge); Quarterly: typically 26% to 26.5% of annual rate (4% to 6% surcharge); Monthly: typically 8.75% to 9% of annual rate (5% to 8% total surcharge). (2) Frequency Alteration: Policyholders can switch frequencies at policy renewal without penalty.",
+    "source": "IRDAI Life and General Insurance Pricing & Actuarial Guidelines",
+    "source_url": "https://irdai.gov.in/guidelines",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "prem_tax_deduction_80c_80d",
+    "category": "Premiums, Renewals, and Policy Lapses",
+    "subcategory": "Premium Tax Benefits",
+    "title": "Tax Deductions on Insurance Premiums: Section 80C and 80D Rules",
+    "keywords": [
+      "tax benefit",
+      "Section 80C",
+      "Section 80D",
+      "tax deduction",
+      "preventive health checkup",
+      "health premium tax",
+      "life insurance tax"
+    ],
+    "questions": [
+      "How much tax deduction is available for health insurance premiums under Section 80D?",
+      "What is the tax limit for life insurance premiums under Section 80C?",
+      "Can I claim preventive health checkup under 80D?",
+      "Are insurance tax deductions available under the New Tax Regime?"
+    ],
+    "content": "Insurance premiums qualify for income-tax deductions under Chapter VI-A of the Income Tax Act (Old Tax Regime): (1) Section 80D (Health Insurance): Deduction up to ₹25,000 for self, spouse, and dependent children (<60 years). Additional ₹25,000 for parents (<60 years) or ₹50,000 if parents are senior citizens (≥60 years). Maximum combined deduction: ₹1,00,000 if both insured and parents are senior citizens. (2) Preventive Health Check-Up: Within the 80D ceiling, up to ₹5,000 can be claimed for preventive health check-ups (cash payments permitted). (3) Section 80C (Life Insurance): Premiums paid for self, spouse, and children are eligible up to ₹1,50,000, provided annual premium does not exceed 10% of actual sum assured.",
+    "source": "Income Tax Act 1961 Section 80C & Section 80D Notifications",
+    "source_url": "https://www.incometax.gov.in/",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "prem_electronic_autopay_mandates",
+    "category": "Premiums, Renewals, and Policy Lapses",
+    "subcategory": "NACH & Standing Instructions",
+    "title": "NACH Mandates, Standing Instructions (SI) & Auto-Debit Failures",
+    "keywords": [
+      "NACH mandate",
+      "standing instruction",
+      "auto debit failure",
+      "NACH bounce charges",
+      "e-NACH",
+      "NPCI NACH rules"
+    ],
+    "questions": [
+      "What happens if an insurance auto-debit fails due to insufficient funds?",
+      "What is the difference between NACH and UPI AutoPay for insurance?",
+      "Does a bounced insurance auto-debit affect credit score?",
+      "How do I cancel a bank NACH mandate for insurance?"
+    ],
+    "content": "National Automated Clearing House (NACH) manages bulk recurring debits for insurance: (1) e-NACH Registration: Authorized via Aadhaar OTP or net banking credentials, establishing an automated mandate with the policyholder's bank. (2) Auto-Debit Bounces: If funds are insufficient on the presentation date, the bank rejects the debit and levies NACH bounce charges (typically ₹250 to ₹500 + GST). While the insurance policy does not immediately cancel due to the grace period, repeated bounces can result in policy lapse. (3) Bureau Reporting: Insurance premium bounces do not get reported to credit bureaus (unlike loan EMI bounces), but unpaid premiums lead to loss of risk cover.",
+    "source": "NPCI NACH Operating Guidelines & RBI Directives on Recurring Debits",
+    "source_url": "https://www.npci.org.in/",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "prem_cooling_off_cancellation",
+    "category": "Premiums, Renewals, and Policy Lapses",
+    "subcategory": "Free-Look Cancellation Mechanics",
+    "title": "Free-Look Cancellation Mechanics: Stamp Duty, Medical Costs & Deductions",
+    "keywords": [
+      "free look period",
+      "policy cancellation refund",
+      "cooling off period",
+      "stamp duty deduction",
+      "medical test charges",
+      "pro-rata risk premium"
+    ],
+    "questions": [
+      "How much money is refunded if I cancel my policy in the free look period?",
+      "What deductions are made when cancelling during free look?",
+      "Is free look 15 days or 30 days?",
+      "Can I cancel a policy in free look if I already filed a claim?"
+    ],
+    "content": "The Free-Look / Cooling-off provision grants policyholders the right to reconsider and cancel a policy: (1) Statutory Duration: 15 days from physical policy delivery; 30 days for policies acquired electronically or via distance marketing (tele-sales / web aggregators). (2) Permitted Insurer Deductions: Insurers cannot levy surrender charges or penalties, but must deduct: (a) Pro-rata risk premium for the exact days the cover was in force, (b) Actual stamp duty charges incurred on issuing the policy schedule, and (c) Actual medical examination fees borne by the insurer during pre-policy underwriting. (3) Claim Invalidation: If a claim was already lodged or paid during the free-look window, the policy cannot be cancelled under free-look provisions.",
+    "source": "IRDAI (Protection of Policyholders' Interests) Regulations",
+    "source_url": "https://irdai.gov.in/regulations",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "prem_forefeiture_non_payment",
+    "category": "Premiums, Renewals, and Policy Lapses",
+    "subcategory": "Premium Forfeiture & Non-Payment",
+    "title": "Premium Forfeiture on Non-Payment: Term Insurance vs Traditional Plans",
+    "keywords": [
+      "premium forfeiture",
+      "loss of premiums",
+      "non-payment consequences",
+      "term insurance non-refund",
+      "traditional policy forfeiture"
+    ],
+    "questions": [
+      "Do I get my money back if I stop paying term insurance premiums?",
+      "What happens to premiums paid if a policy is discontinued in Year 1?",
+      "Can an insurer forfeit all premiums paid?",
+      "When does an insurance company return money upon discontinuation?"
+    ],
+    "content": "The financial consequences of stopping premium payments depend on policy architecture: (1) Pure Term Insurance: Pure risk protection policies have zero investment or savings component. If premiums stop, all previously paid premiums are fully forfeited to the insurer, and risk coverage ceases at grace period end without any payout. (2) Traditional Endowment / Whole Life: If discontinued before completing the statutory minimum premium-paying period (typically 2 full consecutive years), all premiums are forfeited under product regulations, and no surrender value is payable. If premiums were paid for at least 2 full years, the policy acquires guaranteed paid-up or surrender value, preventing total forfeiture.",
+    "source": "IRDAI Product Filing Norms & Insurance Act 1938",
+    "source_url": "https://irdai.gov.in/regulations",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "prem_reinstatement_waiting_period",
+    "category": "Premiums, Renewals, and Policy Lapses",
+    "subcategory": "Reinstatement Waiting Periods",
+    "title": "Reinstatement of Health Insurance: Fresh Waiting Periods and Conditions",
+    "keywords": [
+      "reinstatement",
+      "break in policy",
+      "restarted waiting period",
+      "loss of NCB",
+      "fresh proposal",
+      "medical screening at reinstatement"
+    ],
+    "questions": [
+      "What happens if health insurance lapses for more than 30 days?",
+      "Do waiting periods restart if my health insurance breaks?",
+      "Can I get my No Claim Bonus back after policy lapses?",
+      "Does an insurer treat an expired health policy as a new policy?"
+    ],
+    "content": "Allowing a health insurance policy to remain expired beyond the 30-day renewal grace period creates a 'Break in Insurance': (1) Total Reset of Continuity: All continuity credits earned across previous claim-free years—including the 24-to-36 month waiting periods for pre-existing diseases and specific named ailments—are permanently extinguished. (2) Reinstatement as Fresh Proposal: The insurer treats any subsequent application as a brand-new proposal. The applicant must complete fresh proposal disclosures, undergo medical tests, and endure fresh 30-day initial waiting periods. (3) Forfeiture of Cumulative Bonus: All accumulated No Claim Bonus (which may have doubled the base sum insured) is lost immediately.",
+    "source": "IRDAI Health Insurance Standardization Guidelines & Master Circular",
+    "source_url": "https://irdai.gov.in/master-circulars",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "prem_bima_sugam_central_payment",
+    "category": "Premiums, Renewals, and Policy Lapses",
+    "subcategory": "Bima Sugam Central Infrastructure",
+    "title": "Bima Sugam Unified Digital Portal: Centralized Renewals & Portability",
+    "keywords": [
+      "Bima Sugam",
+      "centralized insurance portal",
+      "digital insurance marketplace",
+      "one-stop renewal",
+      "e-insurance account",
+      "IRDAI public digital platform"
+    ],
+    "questions": [
+      "What is Bima Sugam portal by IRDAI?",
+      "Can I renew all my insurance policies on Bima Sugam?",
+      "How does Bima Sugam make policy porting easier?",
+      "When does Bima Sugam become operational?"
+    ],
+    "content": "Bima Sugam is an ambitious digital public infrastructure created under IRDAI guidance to act as a unified, one-stop digital marketplace for the entire Indian insurance ecosystem: (1) Core Capabilities: Enables citizens to buy, renew, service, and settle claims across life, health, motor, and general insurance products from any licensed insurance company on a single platform. (2) Unified Account: Integrated with electronic Insurance Accounts (eIA) and DigiLocker, eliminating physical paperwork and allowing policyholders to view all household insurance policies in a single dashboard. (3) Frictionless Portability: Enables policyholders to port health policies across insurers with automated transfer of historical continuity data and waiting period credits.",
+    "source": "IRDAI Regulatory Framework for Bima Sugam (Insurance Electronic Marketplace)",
+    "source_url": "https://irdai.gov.in/regulations",
+    "verification_date": "2026-03"
+  }
+]

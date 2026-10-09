@@ -1,0 +1,302 @@
+[
+  {
+    "id": "multi_hindi_insurance_terminology",
+    "category": "Multilingual Insurance and Fintech Concepts",
+    "subcategory": "Hindi Financial Glossary",
+    "title": "Hindi Insurance & Banking Glossary: Bima, Kist, Daava, Bima Rashi & Nomini",
+    "keywords": [
+      "Hindi insurance terms",
+      "बीमा",
+      "किस्त",
+      "दावा",
+      "बीमा राशि",
+      "बीमाधारक",
+      "नामांकित",
+      "Hindi banking terms"
+    ],
+    "questions": [
+      "What is premium called in Hindi?",
+      "What is sum insured called in Hindi?",
+      "What are Hindi terms for insurance claim, policyholder, and nominee?",
+      "How do Hindi banking terms map to English concepts?"
+    ],
+    "content": "Authoritative standard mapping of insurance and banking terminology in Hindi (राजभाषा): (1) Insurance = बीमा (Bima), (2) Policyholder = बीमाधारक (Bimadharak), (3) Insurer = बीमाकर्ता (Bimakarta), (4) Premium = किस्त / प्रभार (Kist / Prabhar), (5) Sum Insured = बीमा राशि / जोखिम सुरक्षा (Bima Rashi), (6) Claim = दावा (Daava), (7) Cashless Settlement = कैशलेस निपटान (Cashless Niptan), (8) Nominee = नामांकित / वारिस (Namankit), (9) Maturity = परिपक्वता (Paripakvata), (10) Waiting Period = प्रतीक्षा अवधि (Prateeksha Avadhi), (11) Exclusions = अपवर्जन / बहिष्कृत शर्तें (Apavarjan). Essential for bilingual chatbots serving Hindi-speaking policyholders.",
+    "source": "IRDAI Hindi Official Terminology Glossary & Life Insurance Council Handbooks",
+    "source_url": "https://irdai.gov.in/",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "multi_tamil_insurance_fintech_terms",
+    "category": "Multilingual Insurance and Fintech Concepts",
+    "subcategory": "Tamil Financial Glossary",
+    "title": "Tamil Insurance & Fintech Terminology: Kaapidu, Thavanai, Urimai Koorudhal & Vatti",
+    "keywords": [
+      "Tamil insurance terms",
+      "காப்பீடு",
+      "தவணை",
+      "உரிமை கோருதல்",
+      "வட்டி",
+      "பயனாளிகள்",
+      "Tamil banking glossary"
+    ],
+    "questions": [
+      "What is insurance called in Tamil?",
+      "What is premium called in Tamil?",
+      "What is insurance claim in Tamil?",
+      "How are Tamil banking words translated to English?"
+    ],
+    "content": "Standardized vernacular mappings for Tamil (தமிழ்) banking and insurance interactions: (1) Insurance = காப்பீடு (Kaapidu), (2) Health Insurance = மருத்துவக் காப்பீடு (Maruthuva Kaapidu), (3) Life Insurance = ஆயுள் காப்பீடு (Aayul Kaapidu), (4) Premium = காப்பீட்டுத் தவணை (Kaapeettu Thavanai), (5) Sum Insured = காப்பீட்டுத் தொகை (Kaapeettu Thogai), (6) Insurance Claim = உரிமை கோருதல் (Urimai Koorudhal), (7) Nominee = பரிந்துரைக்கப்பட்டவர் / வாரிசு (Parindhuraikkappattavar), (8) Interest = வட்டி (Vatti), (9) Fixed Deposit = நிலையான வைப்பு நிதி (Nilaiyaana Vaippu Nidhi), (10) Maturity = முதிர்வு (Mudhirvu).",
+    "source": "State Bank of India & General Insurance Council Tamil Consumer Literacy Handbooks",
+    "source_url": "https://www.sbi.co.in/",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "multi_telugu_insurance_banking_glossary",
+    "category": "Multilingual Insurance and Fintech Concepts",
+    "subcategory": "Telugu Financial Glossary",
+    "title": "Telugu Insurance & Banking Terminology: Bheema, Kanthu, Claim, and Vaddi",
+    "keywords": [
+      "Telugu insurance terms",
+      "భీమా",
+      "వాయిదా",
+      "క్లెయిమ్",
+      "పరిహారం",
+      "వడ్డీ",
+      "నామినీ",
+      "Telugu financial terms"
+    ],
+    "questions": [
+      "What is insurance called in Telugu?",
+      "What is premium called in Telugu?",
+      "What is claim settlement called in Telugu?",
+      "What are Telugu terms for fixed deposit and nominee?"
+    ],
+    "content": "Official terminological glossary for Telugu (తెలుగు) insurance and financial communication: (1) Insurance = బీమా (Bheema), (2) Health Insurance = ఆరోగ్య బీమా (Aarogya Bheema), (3) Life Insurance = జీవిత బీమా (Jeevitha Bheema), (4) Premium = బీమా వాయిదా / ప్రీమియం (Bheema Vaayida), (5) Sum Insured = బీమా మొత్తం (Bheema Mottham), (6) Claim = దావా / పరిహార దాఖలు (Daava / Parihaara Daakhalu), (7) Nominee = నామినీ / వారసుడు (Nominee / Vaarasudu), (8) Interest = వడ్డీ (Vaddi), (9) Bank Account = బ్యాంకు ఖాతా (Bank Khaatha), (10) Fixed Deposit = స్థిర డిపాజిట్ (Sthira Deposit), (11) Maturity = పరిపక్వత (Paripakvatha).",
+    "source": "IRDAI Regional Consumer Literacy Circulars & Andhra Bank / UBI Language Manuals",
+    "source_url": "https://irdai.gov.in/",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "multi_kannada_insurance_fintech_terms",
+    "category": "Multilingual Insurance and Fintech Concepts",
+    "subcategory": "Kannada Financial Glossary",
+    "title": "Kannada Insurance & Banking Terminology: Vime, Kanthu, Vime Mottha & Hakku",
+    "keywords": [
+      "Kannada insurance terms",
+      "ವಿಮೆ",
+      "ಕಂತು",
+      "ವಿಮಾ ಮೊತ್ತ",
+      "ಹಕ್ಕು ಕೋರಿಕೆ",
+      "ಬಡ್ಡಿ",
+      "Kannada banking terms"
+    ],
+    "questions": [
+      "What is insurance called in Kannada?",
+      "What is premium called in Kannada?",
+      "What is insurance claim in Kannada?",
+      "What are Kannada terms for loan, interest, and nominee?"
+    ],
+    "content": "Standardized financial vocabulary for Kannada (ಕನ್ನಡ) policyholder assistance: (1) Insurance = ವಿಮೆ (Vime), (2) Health Insurance = ಆರೋಗ್ಯ ವಿಮೆ (Aarogya Vime), (3) Life Insurance = ಜೀವ ವಿಮೆ (Jeeva Vime), (4) Premium = ಕಂತು / ಪ್ರೀಮಿಯಂ (Kanthu), (5) Sum Insured = ವಿಮಾ ಮೊತ್ತ (Vima Mottha), (6) Claim = ಹಕ್ಕು ಮಂಡನೆ / ಕ್ಲೈಮ್ (Hakku Mandane), (7) Nominee = ನಾಮಿನಿ / ಉತ್ತರಾಧಿಕಾರಿ (Naamini), (8) Loan = ಸಾಲ (Saala), (9) Interest Rate = ಬಡ್ಡಿದರ (Baddi Dara), (10) Fixed Deposit = ನಿಶ್ಚಿತ ಠೇವಣಿ (Nishchitha Thevani), (11) Maturity = ಅವಧಿ ಮುಕ್ತಾಯ (Avadhi Mukthaaya).",
+    "source": "Canara Bank & Karnataka Gramin Bank Consumer Financial Education Handbooks",
+    "source_url": "https://canarabank.com/",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "multi_bengali_insurance_fintech_glossary",
+    "category": "Multilingual Insurance and Fintech Concepts",
+    "subcategory": "Bengali Financial Glossary",
+    "title": "Bengali Insurance & Banking Terminology: Bima, Kisti, Dabi & Shud",
+    "keywords": [
+      "Bengali insurance terms",
+      "বীমা",
+      "কিস্তি",
+      "দাবি",
+      "বীমার অংক",
+      "সুদ",
+      "উত্তরাধিকারী",
+      "Bengali banking glossary"
+    ],
+    "questions": [
+      "What is insurance called in Bengali?",
+      "What is premium called in Bengali?",
+      "What is claim called in Bengali?",
+      "What are Bengali terms for savings account and fixed deposit?"
+    ],
+    "content": "Formal vocabulary mapping for Bengali (বাংলা) financial services: (1) Insurance = বীমা (Bima), (2) Health Insurance = স্বাস্থ্য বীমা (Swasthya Bima), (3) Life Insurance = জীবন বীমা (Jibon Bima), (4) Premium = প্রিমিয়াম / কিস্তি (Kisti), (5) Sum Insured = বীমার অংক (Bimar Anko), (6) Insurance Claim = দাবি / বীমা দাবি (Dabi / Bima Dabi), (7) Nominee = মনোনীত ব্যক্তি / নমিনি (Mononito Byakti), (8) Interest Rate = সুদের হার (Suder Haar), (9) Fixed Deposit = স্থায়ী আমানত (Sthayee Amanat), (10) Maturity = মেয়াদপূর্তি (Meyadpurti), (11) Grace Period = রেয়াত সময় (Reyaath Shomoy).",
+    "source": "Life Insurance Corporation of India (LIC) Eastern Zonal Language Handbooks",
+    "source_url": "https://licindia.in/",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "multi_vernacular_claim_expressions",
+    "category": "Multilingual Insurance and Fintech Concepts",
+    "subcategory": "Vernacular Claim Phrasing",
+    "title": "Regional Vernacular Expressions for Cashless Claims & Hospital Discharges",
+    "keywords": [
+      "vernacular claim phrasing",
+      "bilingual medical claim",
+      "cashless discharge lingo",
+      "pre-auth colloquial",
+      "patient attendant queries",
+      "mixed language queries"
+    ],
+    "questions": [
+      "How do Indian patients ask about cashless discharge in regional languages?",
+      "What are common vernacular queries regarding hospital bills?",
+      "How does an AI assistant interpret mixed Hindi-English (Hinglish) claim questions?",
+      "What does 'bina paise diye ilaj' mean in health insurance?"
+    ],
+    "content": "Bridging conversational vernacular phrasing with technical insurance terms: (1) Cashless Admission: In Hindi policyholders frequently ask: 'क्या मुझे अस्पताल में बिना पैसे दिए इलाज मिलेगा?' (Bina paise diye ilaj = Cashless hospitalization), in Tamil: 'பணம் செலுத்தாமல் சிகிச்சை பெற முடியுமா?' (Panam seluthaamal sigichai). (2) Pre-Authorization Status: Colloquially referred to as 'Approval aana' or 'Approval varradhu' (waiting for TPA pre-auth letter). (3) Discharge Bill Queries: 'Mera kitna katega?' (What is my co-pay / non-medical deduction?). Chatbots must map colloquial phrasings directly to IRDAI pre-auth protocols.",
+    "source": "General Insurance Council Multi-Lingual Public Outreach Studies",
+    "source_url": "https://irdai.gov.in/",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "multi_digital_payment_regional_lingo",
+    "category": "Multilingual Insurance and Fintech Concepts",
+    "subcategory": "Vernacular Digital Payment Lingo",
+    "title": "Vernacular UPI & Digital Banking Lingo: Send, Receive, Collect, and PIN Myths",
+    "keywords": [
+      "vernacular UPI lingo",
+      "Hinglish UPI",
+      "paise bhejo",
+      "paise pao",
+      "QR scan vernacular",
+      "UPI PIN vernacular warning",
+      "regional digital literacy"
+    ],
+    "questions": [
+      "How do rural users describe UPI transactions in regional languages?",
+      "What is 'Paise Prapt Karein' vs 'Paise Bhejein' in UPI apps?",
+      "Why do scammers exploit English language confusion in UPI apps?",
+      "How do regional language prompts protect rural users from fraud?"
+    ],
+    "content": "Overcoming linguistic ambiguities in digital financial interfaces: (1) The Scam Vector: Scammers exploit English UI confusion by sending a 'Collect Request' and telling non-English speakers: 'Click Approve to receive money.' (2) Vernacular Clarity: Regional payment interfaces must translate 'Collect Request' as 'पैसा काटने का अनुरोध' (Hindi) or 'பணம் எடுக்கும் கோரிக்கை' (Tamil - Request to withdraw money from you). (3) Universal Rule: 'PIN daalna matlab paisa jaana' (Entering PIN means sending money). Vernacular chatbots must repeat this rule in the user's native dialect.",
+    "source": "NPCI Vernacular Digital Literacy Guidelines & RBI Sachet Multilingual Modules",
+    "source_url": "https://www.npci.org.in/",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "multi_regional_scam_tactics_language",
+    "category": "Multilingual Insurance and Fintech Concepts",
+    "subcategory": "Regional Language Fraud Scripts",
+    "title": "Regional Language Phone Scam Scripts: Electricity Cutoffs & Vernacular Threats",
+    "keywords": [
+      "regional scam script",
+      "bijli bill scam",
+      "electricity cutoff Hindi",
+      "vernacular cyber fraud",
+      "fake officer threat",
+      "threat of disconnection"
+    ],
+    "questions": [
+      "What is the regional electricity bill disconnection scam in Hindi and Bengali?",
+      "How do scammers use authoritative vernacular language to intimidate victims?",
+      "What does 'Bijli cut jayegi' SMS fraud look like?",
+      "Why are regional language scam warnings more effective?"
+    ],
+    "content": "Analyzing social engineering scripts deployed in regional dialects: (1) The Electricity Script: SMS in regional languages stating: 'प्रिय ग्राहक, आपकी बिजली आज रात 9:30 बजे काट दी जाएगी क्योंकि आपका पिछला बिल अपडेट नहीं हुआ है। तुरंत इस नंबर पर संपर्क करें।' (2) Intimidation in Native Tongue: Callers speak with regional bureaucratic dialects (mimicking state electricity board officers or police), creating panic that disarms critical thinking. (3) Response: Genuine utility boards never send personal mobile numbers for payment; bill payments must be checked strictly on official state portals or BBPS.",
+    "source": "I4C National Cybercrime Reporting Portal Threat Advisories",
+    "source_url": "https://cybercrime.gov.in/",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "multi_bima_vahak_vernacular_outreach",
+    "category": "Multilingual Insurance and Fintech Concepts",
+    "subcategory": "Vernacular Microinsurance Outreach",
+    "title": "Bima Vahak Vernacular Outreach: Translating Complex Policy Exclusions into Dialects",
+    "keywords": [
+      "Bima Vahak outreach",
+      "vernacular policy communication",
+      "local dialects",
+      "gram panchayat communication",
+      "exclusion explanation",
+      "simplified insurance"
+    ],
+    "questions": [
+      "How do Bima Vahaks explain policy exclusions in local village dialects?",
+      "Why is translating insurance terms into regional languages critical for financial inclusion?",
+      "What terms are most misunderstood by rural policyholders?",
+      "How does IRDAI ensure insurance terms are understood in rural India?"
+    ],
+    "content": "Grassroots linguistic adaptation under IRDAI's rural inclusion mandate: (1) Dialectal Translation: Bima Vahaks (local women counsellors) avoid dense legal English, translating concepts into local vernacular: 'Waiting Period' is explained as 'Bimari ke ilaaj ke liye nishchit intezaar ke mahine', 'Co-payment' as 'Bimari ke kharche mein aapka hissa'. (2) Transparency on Exclusions: Proactively explaining what is NOT covered (cosmetics, routine checkups) in the local tongue before collecting premiums prevents post-claim heartbreak and eliminates mis-selling at the village level.",
+    "source": "IRDAI Guidelines on Bima Vahak & Rural Financial Literacy Frameworks",
+    "source_url": "https://irdai.gov.in/guidelines",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "multi_colloquial_banking_slang_india",
+    "category": "Multilingual Insurance and Fintech Concepts",
+    "subcategory": "Colloquial Banking & Informal Finance",
+    "title": "Colloquial Banking & Informal Finance Slang: Chitti, Girvi, Bisi, and Hundi Systems",
+    "keywords": [
+      "informal finance slang",
+      "chitti",
+      "girvi",
+      "bisi",
+      "hundi",
+      "chit fund",
+      "informal moneylending",
+      "gold loan colloquial"
+    ],
+    "questions": [
+      "What is 'Chitti' or 'Bisi' in Indian informal finance?",
+      "What does 'Girvi' mean in banking and gold loans?",
+      "What is the historical 'Hundi' system?",
+      "Why are unregistered chit funds dangerous?"
+    ],
+    "content": "Deciphering colloquial informal financial terminology across India: (1) Chitti / Bisi (Chit Funds): Traditional rotating savings and credit associations where members pool monthly sums and bid for the corpus. Legal when registered under the Chit Funds Act 1982, but illegal and risky when operated informally without registration. (2) Girvi (Pawn / Hypothecation): Refers to pledging gold jewellery or brass utensils as collateral with moneylenders or banks (Gold Loans). (3) Hundi: Traditional historic informal bill of exchange; completely replaced by formal RTGS/NEFT banking rails.",
+    "source": "Chit Funds Act 1982 & Reserve Bank of India Financial Literacy Manual",
+    "source_url": "https://www.rbi.org.in/financialeducation/",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "multi_customer_information_sheet_vernacular",
+    "category": "Multilingual Insurance and Fintech Concepts",
+    "subcategory": "Vernacular Customer Information Sheets",
+    "title": "Vernacular Customer Information Sheets (CIS): Mandating Regional Health Summaries",
+    "keywords": [
+      "vernacular CIS",
+      "Customer Information Sheet",
+      "regional language policy document",
+      "simplified health summary",
+      "IRDAI mandate",
+      "local language CIS"
+    ],
+    "questions": [
+      "Does an insurance company have to provide policy details in my regional language?",
+      "What is a Customer Information Sheet (CIS) in regional languages?",
+      "Can I demand health insurance terms in Hindi, Tamil, or Bengali?",
+      "What must be included in a regional language CIS?"
+    ],
+    "content": "IRDAI Policyholder Protection mandates regarding multilingual documentation: (1) Mandatory Regional CIS: Insurers must provide a Customer Information Sheet (CIS) in the official regional language chosen by the proposer, alongside English. (2) Standard Structure: Presents essential contract terms in simplified regional text: Sum insured, room rent capping, co-payment percentage, waiting periods for pre-existing ailments, specific exclusions, and local Grievance Redressal Officer contact numbers in minimum 12-point readable font. Ensures policyholders cannot be blind-sided by English fine-print.",
+    "source": "IRDAI Master Circular on Customer Information Sheet (CIS) in Regional Languages",
+    "source_url": "https://irdai.gov.in/master-circulars",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "multi_multilingual_ai_guidelines_fintech",
+    "category": "Multilingual Insurance and Fintech Concepts",
+    "subcategory": "AI Guidelines for Indian Financial Assistance",
+    "title": "Linguistic Guidance for Multilingual AI Chatbots in Indian Financial Assistance",
+    "keywords": [
+      "multilingual AI",
+      "fintech chatbot",
+      "Indian languages",
+      "code mixing",
+      "Hinglish",
+      "transliteration",
+      "ethical financial AI"
+    ],
+    "questions": [
+      "How should an AI chatbot respond to mixed language financial queries (Hinglish)?",
+      "What rules govern multilingual financial chatbots in India?",
+      "How does an AI avoid hallucinating financial terms in regional translations?",
+      "Why should an AI preserve statutory numbers while translating into vernacular?"
+    ],
+    "content": "Best practices for agentic AI chatbots operating in multilingual Indian fintech environments: (1) Code-Mixing (Hinglish/Tanglish): Recognize that users frequently blend English terms ('mera claim reject ho gaya') with vernacular grammar; respond empathetically while preserving statutory English terms (e.g. 'Sum Insured', 'TPA', 'NEFT'). (2) Absolute Fact Preservation: Numerical limits (e.g. ₹5 Lakh DICGC cover, 30-day grace period, 24-month waiting period) must NEVER be modified or translated loosely. (3) Script Fidelity: Seamlessly handle both native scripts (देवनागरी, தமிழ், తెలుగు) and Romanized transliteration.",
+    "source": "Digital India Bhashini Division (MeitY) & RBI Fintech Department Directives",
+    "source_url": "https://bhashini.gov.in/",
+    "verification_date": "2026-03"
+  }
+]

@@ -1,0 +1,298 @@
+[
+  {
+    "id": "health-07",
+    "category": "Policy Terms, Benefits, and Conditions",
+    "subcategory": "Day-Care Procedures & Modern Treatments",
+    "title": "Day-Care Procedures & Modern Treatments: 24-Hour Rule Exceptions",
+    "keywords": [
+      "day-care",
+      "24-hour rule",
+      "modern treatments",
+      "robotic surgery",
+      "dialysis",
+      "chemotherapy",
+      "cataract",
+      "NABH"
+    ],
+    "questions": [
+      "What is a day-care procedure in health insurance?",
+      "Does health insurance require 24 hours hospitalization?",
+      "Are robotic surgeries covered under modern treatment guidelines?",
+      "Can I claim insurance for chemotherapy without staying overnight?"
+    ],
+    "content": "Traditional health insurance required a minimum of 24 continuous hours of in-patient hospitalisation to trigger claim admissibility. However, medical advancements have rendered overnight stays unnecessary for numerous procedures: (1) Day-Care Procedures: Medical treatments, surgeries, or procedures undertaken under general or local anaesthesia in a hospital/day-care centre that take less than 24 hours due to technological advancements (e.g. cataract, appendectomy, radiotherapy, chemotherapy, haemodialysis, hydrocele, lithotripsy). (2) Modern Treatments: IRDAI mandates coverage for 12 modern medical procedures up to specified limits without arbitrary exclusions, including robotic surgery, oral chemotherapy, stem cell therapy, balloon sinuplasty, and deep brain stimulation.",
+    "source": "IRDAI Guidelines on Standardization of Health Insurance - Day Care & Modern Treatment",
+    "source_url": "https://irdai.gov.in/guidelines",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "health-08",
+    "category": "Policy Terms, Benefits, and Conditions",
+    "subcategory": "NCB & Restoration Benefits",
+    "title": "No Claim Bonus (NCB) & Restoration Benefit",
+    "keywords": [
+      "no claim bonus",
+      "NCB",
+      "cumulative bonus",
+      "restoration benefit",
+      "refill",
+      "exhausted sum insured",
+      "automatic recharge"
+    ],
+    "questions": [
+      "What is No Claim Bonus in health insurance?",
+      "How much does health insurance NCB increase every year?",
+      "What is restoration benefit?",
+      "Does restoration benefit work for the same illness?"
+    ],
+    "content": "Key value-add features that expand your financial coverage: (1) No Claim Bonus (NCB) / Cumulative Bonus: For every claim-free year, insurers increase the Sum Insured by 5% to 50% (up to a maximum cap of 50% to 100% of base cover) without increasing the premium. If a claim occurs, the bonus reduces at the same rate it was acquired. (2) Restoration / Refill Benefit: If the base Sum Insured and cumulative bonus are exhausted due to claims in a policy year, the insurer automatically replenishes 100% of the base Sum Insured for subsequent hospitalisations within the same policy year. Rules vary: basic policies restore cover only for unrelated illnesses, while comprehensive plans restore for both related and unrelated illnesses after a 45-day waiting interval.",
+    "source": "IRDAI Master Circular on Health Insurance Products",
+    "source_url": "https://irdai.gov.in/master-circulars",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "terms-01",
+    "category": "Policy Terms, Benefits, and Conditions",
+    "subcategory": "Core Insurance Concepts",
+    "title": "Essential Insurance Concepts: Premium, Sum Insured vs Sum Assured, Deductibles",
+    "keywords": [
+      "sum insured",
+      "sum assured",
+      "premium",
+      "deductible",
+      "coinsurance",
+      "first party",
+      "third party",
+      "indemnity"
+    ],
+    "questions": [
+      "What is the difference between Sum Insured and Sum Assured?",
+      "What is insurance premium?",
+      "What does indemnity mean in insurance?",
+      "Who is the first party and third party in insurance?"
+    ],
+    "content": "Fundamental terminology governing all insurance contracts: (1) Sum Insured: The maximum monetary cap payable in indemnity-based contracts (health, motor, property) to reimburse actual financial losses incurred. You cannot profit from an indemnity contract. (2) Sum Assured: The pre-agreed fixed benefit amount payable in defined-benefit contracts (life insurance, critical illness) upon the occurrence of a specified event (demise, illness diagnosis), irrespective of actual expenditure. (3) Premium: The consideration fee paid by the policyholder to the insurer in exchange for undertaking the risk. (4) Parties to Contract: First party is the insured policyholder, second party is the insurance company, and third party is any external entity claiming liability against the insured.",
+    "source": "Insurance Regulatory and Development Authority of India (IRDAI) Handbook on Insurance",
+    "source_url": "https://irdai.gov.in/consumer-education",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "terms_indemnity_vs_benefit_contracts",
+    "category": "Policy Terms, Benefits, and Conditions",
+    "subcategory": "Indemnity vs Benefit Contracts",
+    "title": "Principle of Indemnity vs Benefit Contracts in Insurance Law",
+    "keywords": [
+      "principle of indemnity",
+      "benefit contract",
+      "indemnity contract",
+      "financial restitution",
+      "profit prohibition",
+      "double claim"
+    ],
+    "questions": [
+      "Can you claim medical expenses from two health insurance companies for the same bill?",
+      "What is the principle of indemnity?",
+      "Why does life insurance pay regardless of actual financial loss?",
+      "How do benefit policies differ from indemnity policies?"
+    ],
+    "content": "Insurance contracts operate on two distinct legal doctrines: (1) Principle of Indemnity: Governs non-life policies (health, motor, fire). Holds that insurance is a contract of financial restitution designed to return the insured to their exact pre-loss financial position—never to provide a financial profit. If a hospital bill is ₹3 Lakh, total reimbursement across all policies combined cannot exceed ₹3 Lakh. (2) Benefit Contracts: Governs life, personal accident, and critical illness policies. These are fixed-payout contracts triggered by an event, not actual loss measurement. A person holding three ₹50 Lakh term plans will have all three ₹50 Lakh claims settled (total ₹1.5 Crore) upon demise.",
+    "source": "Insurance Act 1938 & General Principles of Insurance Law",
+    "source_url": "https://irdai.gov.in/acts",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "terms_insurable_interest_doctrine",
+    "category": "Policy Terms, Benefits, and Conditions",
+    "subcategory": "Insurable Interest & Proximate Cause",
+    "title": "Insurable Interest Doctrine & Proximate Cause (Causa Proxima)",
+    "keywords": [
+      "insurable interest",
+      "proximate cause",
+      "causa proxima",
+      "legal financial stake",
+      "wager prohibition",
+      "chain of events"
+    ],
+    "questions": [
+      "Can I buy insurance on a stranger or a neighbor?",
+      "What is insurable interest in insurance?",
+      "What is the doctrine of proximate cause?",
+      "How do insurers decide the dominant cause of an accident?"
+    ],
+    "content": "Two foundational pillars of insurance jurisprudence: (1) Insurable Interest: A legal principle requiring that the proposer must have a direct financial or emotional stake in the subject matter being insured, such that its safety benefits them and its destruction or loss causes them direct pecuniary harm. Without insurable interest, an insurance contract is treated as an illegal wager under Section 30 of the Indian Contract Act. (2) Proximate Cause (Causa Proxima): The active, efficient, and dominant cause that sets a train of events in motion, bringing about the loss without the intervention of any independent force. Claims are paid or rejected based on whether the proximate cause (not remote causes) is an insured peril.",
+    "source": "Insurance Act 1938 & IRDAI Legal Handbooks",
+    "source_url": "https://irdai.gov.in/acts",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "terms_utmost_good_faith_uberrimae",
+    "category": "Policy Terms, Benefits, and Conditions",
+    "subcategory": "Utmost Good Faith",
+    "title": "Principle of Utmost Good Faith (Uberrimae Fidei) & Material Facts",
+    "keywords": [
+      "utmost good faith",
+      "uberrimae fidei",
+      "material fact",
+      "duty of disclosure",
+      "contract voidability",
+      "proposal form"
+    ],
+    "questions": [
+      "What is Uberrimae Fidei in insurance?",
+      "What happens if you hide a minor health detail when buying insurance?",
+      "What is considered a material fact in insurance?",
+      "Can an insurance contract be declared void for innocent non-disclosure?"
+    ],
+    "content": "Unlike ordinary commercial contracts governed by caveat emptor ('buyer beware'), insurance is founded on Uberrimae Fidei ('Utmost Good Faith'): (1) Mutual Duty of Full Disclosure: Both parties must disclose all material facts fully, accurately, and without concealment. (2) Material Fact Definition: Any fact that would influence the judgement of a prudent underwriter in deciding whether to accept the risk and what premium rate or conditions to attach (e.g. tobacco habits, surgical history, dangerous sports). (3) Breach Consequences: Concealing or misstating material facts renders the contract voidable at the insurer's discretion, entitling them to repudiate claims and forfeit premiums within the first 3 years of policy inception.",
+    "source": "Insurance Act 1938 & IRDAI Policyholder Protection Handbooks",
+    "source_url": "https://irdai.gov.in/regulations",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "terms_subrogation_and_contribution",
+    "category": "Policy Terms, Benefits, and Conditions",
+    "subcategory": "Subrogation & Contribution",
+    "title": "Subrogation and Contribution Principles across Multiple Policies",
+    "keywords": [
+      "subrogation",
+      "contribution",
+      "multiple health policies",
+      "third-party recovery",
+      "recovery rights",
+      "pro-rata claim sharing"
+    ],
+    "questions": [
+      "What is the principle of subrogation in insurance?",
+      "What is contribution when you have two health insurance policies?",
+      "Can an insurance company sue the person who damaged my car?",
+      "How do you coordinate claims between two health policies?"
+    ],
+    "content": "Principles preventing unjust enrichment in indemnity insurance: (1) Principle of Subrogation: Upon settling a claim in full, the insurer steps into the legal shoes of the insured, acquiring all legal rights and remedies to sue and recover damages from the third party that caused the loss. The insured cannot settle privately with the wrongdoer after claiming insurance. (2) Principle of Contribution: When the same risk is insured across multiple insurers, the policyholder can choose which insurer to approach first. If one insurer pays the full loss, it has the statutory right to call upon the other insurers to contribute their pro-rata share under IRDAI Contribution clauses.",
+    "source": "IRDAI Health Insurance Standardization Regulations & Legal Precedents",
+    "source_url": "https://irdai.gov.in/regulations",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "terms_grace_period_vs_free_look",
+    "category": "Policy Terms, Benefits, and Conditions",
+    "subcategory": "Grace Period vs Free-Look",
+    "title": "Grace Period vs Free-Look Period: Legal Distinctions & Rights",
+    "keywords": [
+      "grace period",
+      "free look period",
+      "policy start vs renewal",
+      "cancellation refund",
+      "risk cover continuation",
+      "30 days comparison"
+    ],
+    "questions": [
+      "What is the difference between grace period and free look period?",
+      "Does free look apply to renewed policies?",
+      "Can I make a claim during the free look period?",
+      "How do the rights of policyholders differ in grace period and free look?"
+    ],
+    "content": "Comparative regulatory analysis between two critical 15-30 day policy windows: (1) Free-Look Period: Applies exclusively at the START of a brand-new policy (15 days for offline, 30 days for digital/distance marketing). It provides an unconditional right to reject the contract and obtain a premium refund minus statutory costs. (2) Grace Period: Applies at the RENEWAL or periodic premium due date (15 days for monthly, 30 days for quarterly/annual modes) to allow delayed premium payment without forfeiting policy continuity. (3) Claim Rights: In life insurance grace periods, claims are paid minus the due instalment; in health insurance, no risk cover exists during grace until payment is made.",
+    "source": "IRDAI (Protection of Policyholders' Interests) Regulations",
+    "source_url": "https://irdai.gov.in/regulations",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "terms_endorsement_and_riders",
+    "category": "Policy Terms, Benefits, and Conditions",
+    "subcategory": "Endorsements & Policy Schedules",
+    "title": "Policy Endorsements, Schedule Attachments & Add-on Clauses",
+    "keywords": [
+      "endorsement",
+      "policy schedule",
+      "rider",
+      "add-on clause",
+      "policy modification",
+      "correct name in insurance",
+      "premium adjustment"
+    ],
+    "questions": [
+      "What is an endorsement in an insurance policy?",
+      "How do I correct my name or address on an insurance policy?",
+      "What takes precedence: policy schedule or general terms?",
+      "Can an insurer change terms via an endorsement?"
+    ],
+    "content": "An endorsement is an agreed written document attached to the base insurance contract that officially modifies, adds, deletes, or alters existing terms, conditions, or coverage parameters: (1) Non-Financial Endorsements: Name spelling corrections, date-of-birth updates, contact modifications, and nominee replacements (typically processed free of charge). (2) Financial Endorsements: Addition of optional riders, vehicle alterations (CNG kit fitting), changes in sum insured, or geographic zone changes which alter risk and trigger premium adjustments. (3) Legal Precedence: In any legal conflict, handwritten or typewritten endorsements take precedence over printed policy schedules, which in turn take precedence over standard pre-printed terms.",
+    "source": "General Insurance Council Operating Manual & IRDAI Guidelines",
+    "source_url": "https://irdai.gov.in/guidelines",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "terms_assignment_absolute_conditional",
+    "category": "Policy Terms, Benefits, and Conditions",
+    "subcategory": "Policy Assignment Provisions",
+    "title": "Policy Assignment: Absolute Assignment vs Conditional Assignment",
+    "keywords": [
+      "assignment",
+      "absolute assignment",
+      "conditional assignment",
+      "Section 38",
+      "Insurance Act",
+      "loan collateral",
+      "transfer of rights"
+    ],
+    "questions": [
+      "What is assignment of a life insurance policy under Section 38?",
+      "What is the difference between absolute assignment and conditional assignment?",
+      "Can I pledge my insurance policy as collateral for a bank loan?",
+      "Does nomination survive after policy assignment?"
+    ],
+    "content": "Section 38 of the Insurance Act 1938 governs the legal transfer of policy rights: (1) Absolute Assignment: The policyholder irrevocably transfers all title, rights, and interests in the policy to the assignee (often done for love and affection or legal settlement). The assignee becomes the sole owner. (2) Conditional Assignment: Used when pledging a life policy as collateral for a housing or personal loan from a bank. Policy ownership transfers to the lender solely until the debt is cleared. Upon full loan repayment, rights revert automatically to the insured. (3) Nomination Cancellation: Under Section 38, any existing nomination is automatically cancelled upon assignment, except when assigned to the insurer for a policy loan.",
+    "source": "Insurance Act 1938 Section 38 & IRDAI Policyholder Guidelines",
+    "source_url": "https://irdai.gov.in/acts",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "terms_portability_health_statutory_rights",
+    "category": "Policy Terms, Benefits, and Conditions",
+    "subcategory": "Health Insurance Portability",
+    "title": "Health Insurance Portability: 45-Day Advance Notice & Credit Transfer",
+    "keywords": [
+      "portability",
+      "port health insurance",
+      "45 days notice",
+      "credit transfer",
+      "waiting period porting",
+      "no claim bonus porting",
+      "switch insurer"
+    ],
+    "questions": [
+      "How do I port my health insurance to another company in India?",
+      "Do I lose my waiting period credits when porting health insurance?",
+      "How many days before renewal must I apply for health portability?",
+      "Can the new insurer reject a portability request?"
+    ],
+    "content": "IRDAI health insurance portability rules grant policyholders the legal right to switch insurance providers without sacrificing accrued continuity benefits: (1) Application Timeline: The policyholder must submit the portability request to the new insurer at least 45 days prior to the current policy renewal date. (2) Transfer of Credits: Completed waiting periods for pre-existing diseases and specific ailments are transferred in full to the new policy up to the existing Sum Insured. Accumulated No Claim Bonus (NCB) can be merged with the base Sum Insured. (3) Underwriting Discretion: The new insurer has 15 days to underwrite the proposal. If no decision is conveyed within 15 days, the application is deemed accepted.",
+    "source": "IRDAI Master Circular on Health Insurance Portability",
+    "source_url": "https://irdai.gov.in/master-circulars",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "terms_first_loss_policy_terms",
+    "category": "Policy Terms, Benefits, and Conditions",
+    "subcategory": "First Loss & Under-Insurance",
+    "title": "First Loss Insurance Policies & Under-Insurance Average Clauses",
+    "keywords": [
+      "first loss policy",
+      "under-insurance",
+      "condition of average",
+      "pro-rata penalty",
+      "commercial property",
+      "total value"
+    ],
+    "questions": [
+      "What is a first loss insurance policy?",
+      "What is under-insurance in property and commercial insurance?",
+      "How does the Condition of Average work in insurance claims?",
+      "When is first loss insurance used?"
+    ],
+    "content": "Specialized terms in property, burglary, and commercial general insurance: (1) Condition of Average: If the insured declares a Sum Insured lower than the true total market value of the property (under-insurance), the claim is reduced proportionally. Formula: Claim Payable = Actual Loss x (Sum Insured / Actual Total Value). The insured is treated as their own insurer for the uncovered portion. (2) First Loss Policy: An exception to the condition of average where the insured and insurer agree that a total loss of all goods (e.g. in a massive warehouse burglary) is physically impossible, insuring only a stated fraction (e.g. 25% first-loss cover) without invoking under-insurance penalties.",
+    "source": "General Insurance Council Commercial Underwriting Guidelines",
+    "source_url": "https://irdai.gov.in/guidelines",
+    "verification_date": "2026-03"
+  }
+]

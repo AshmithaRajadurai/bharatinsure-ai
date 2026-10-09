@@ -1,0 +1,298 @@
+[
+  {
+    "id": "pf-01",
+    "category": "Personal Budgeting, Saving, and Financial Planning",
+    "subcategory": "Budgeting & 50/30/20 Rule",
+    "title": "Budgeting Principles & The 50/30/20 Budgeting Rule",
+    "keywords": [
+      "budgeting",
+      "50-30-20 rule",
+      "needs",
+      "wants",
+      "savings",
+      "personal finance",
+      "cash flow management",
+      "financial discipline"
+    ],
+    "questions": [
+      "What is the 50/30/20 budgeting rule?",
+      "How do I start budgeting my monthly salary?",
+      "What percentage of salary should I save?",
+      "How do I separate needs from wants?"
+    ],
+    "content": "Budgeting is the foundational practice of personal finance that tracks incoming cash flows and allocates expenditures strategically: (1) The 50/30/20 Rule: A widely recommended budgeting framework: 50% for Needs (essential living expenses: rent/home EMI, groceries, utilities, basic transportation, essential insurance), 30% for Wants (lifestyle choices: dining out, vacations, entertainment, shopping, hobbies), and 20% for Savings & Debt Reduction (emergency fund, SIP investments, extra principal loan repayments). (2) Implementation: Track every expense across 90 days; automate transfers to savings on the day salary is credited ('pay yourself first').",
+    "source": "Reserve Bank of India (RBI) Financial Education Handbooks",
+    "source_url": "https://www.rbi.org.in/financialeducation/",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "pf-02",
+    "category": "Personal Budgeting, Saving, and Financial Planning",
+    "subcategory": "Emergency Fund Sizing",
+    "title": "Emergency Fund: Purpose, Ideal Sizing & Where to Park Funds",
+    "keywords": [
+      "emergency fund",
+      "liquidity",
+      "rainy day fund",
+      "6 months expenses",
+      "liquid funds",
+      "sweep-in FD",
+      "financial safety net"
+    ],
+    "questions": [
+      "How much should I keep in an emergency fund?",
+      "Where should I keep my emergency fund money in India?",
+      "Why is an emergency fund important?",
+      "Should an emergency fund be invested in stocks?"
+    ],
+    "content": "An emergency fund is a dedicated financial safety net designed exclusively for unexpected crises: (1) Ideal Sizing: Standard guideline is 3 to 6 months of mandatory living expenses (rent, EMIs, groceries, insurance premiums, utilities). For freelancers, single-income households, or volatile industries, 9 to 12 months is recommended. (2) Golden Rule: Capital preservation and immediate liquidity take absolute precedence over seeking high returns; NEVER invest emergency funds in volatile equities or illiquid real estate. (3) Where to Park: Divide across: (a) 20% in high-yield savings accounts, (b) 50% in sweep-in FDs, and (c) 30% in instant-redemption Liquid mutual funds.",
+    "source": "RBI Consumer Financial Guidance & Investor Awareness Portals",
+    "source_url": "https://www.rbi.org.in/financialeducation/",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "pf-03",
+    "category": "Personal Budgeting, Saving, and Financial Planning",
+    "subcategory": "Needs vs Wants & Lifestyle Inflation",
+    "title": "Needs vs Wants, The 30-Day Rule & Curbing Lifestyle Inflation",
+    "keywords": [
+      "needs vs wants",
+      "lifestyle inflation",
+      "lifestyle creep",
+      "30-day rule",
+      "impulse buying",
+      "mindful spending",
+      "frugal living"
+    ],
+    "questions": [
+      "What is lifestyle inflation and how do I prevent it?",
+      "What is the 30-day rule for impulse buying?",
+      "How do I distinguish between needs and wants?",
+      "Why do people stay broke even after getting a pay raise?"
+    ],
+    "content": "Strategies to combat subconscious financial degradation: (1) Lifestyle Inflation (Lifestyle Creep): The tendency to automatically increase discretionary consumption as income rises (e.g. buying expensive cars, luxury clothes, dining at pricey restaurants whenever a raise or bonus occurs), leaving net savings unchanged. (2) The 30-Day Rule: When tempted by a non-essential 'want', deliberately postpone the purchase for 30 days. If you still feel a genuine desire after 30 days, proceed; in 80% of cases, the impulsive urge evaporates. (3) 50% Raise Rule: Whenever income increases, automatically allocate at least 50% of the net increment directly into long-term investments.",
+    "source": "SEBI Investor Education Financial Planning Modules",
+    "source_url": "https://investor.sebi.gov.in/",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "pf-04",
+    "category": "Personal Budgeting, Saving, and Financial Planning",
+    "subcategory": "Debt Avalanche vs Snowball",
+    "title": "Debt Management Strategies: Debt Avalanche vs Debt Snowball",
+    "keywords": [
+      "debt avalanche",
+      "debt snowball",
+      "debt payoff",
+      "high interest debt",
+      "credit card payoff",
+      "psychological momentum"
+    ],
+    "questions": [
+      "What is the difference between debt avalanche and debt snowball?",
+      "Which debt payoff method saves the most money?",
+      "How should I prioritize paying off multiple loans?",
+      "What is the fastest way to get out of debt?"
+    ],
+    "content": "Two proven frameworks for systematically eradicating consumer liabilities: (1) Debt Avalanche (Mathematically Optimal): List all debts in descending order of interest rate. Pay statutory minimums on all debts, while throwing every spare rupee at the debt carrying the HIGHEST interest rate (e.g. 42% credit cards, then 16% personal loans). Minimizes total interest paid over time. (2) Debt Snowball (Psychologically Motivating): List all debts by outstanding balance size from smallest to largest, irrespective of interest rate. Pay off the smallest debt balance first to gain quick psychological wins and build momentum. Choose Avalanche for maximum rupee savings, Snowball for behavioural motivation.",
+    "source": "RBI Financial Literacy Guides on Debt Management & Credit Discipline",
+    "source_url": "https://www.rbi.org.in/financialeducation/",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "pf-05",
+    "category": "Personal Budgeting, Saving, and Financial Planning",
+    "subcategory": "Goal-Based Financial Planning",
+    "title": "Goal-Based Financial Planning: Short, Medium & Long-Term Goals",
+    "keywords": [
+      "goal-based planning",
+      "short-term goals",
+      "medium-term goals",
+      "long-term goals",
+      "retirement corpus",
+      "children education",
+      "asset allocation by horizon"
+    ],
+    "questions": [
+      "How do I create a goal-based financial plan?",
+      "Where should I invest for short-term goals versus long-term goals?",
+      "How do I calculate how much I need for retirement?",
+      "What is time horizon in financial planning?"
+    ],
+    "content": "Goal-based financial planning attaches every rupee of investment to a concrete life milestone: (1) Short-Term Goals (< 3 years): Vacation, gadget purchase, down payment for a car. Risk tolerance: Low. Instruments: Recurring deposits, Short-Duration Debt funds, Arbitrage funds. Avoid equity volatility. (2) Medium-Term Goals (3 to 7 years): Home down payment, marriage expenses. Risk tolerance: Moderate. Instruments: Hybrid / Balanced Advantage mutual funds, Multi-Asset funds. (3) Long-Term Goals (> 7 to 20+ years): Child's higher education, retirement corpus. Risk tolerance: High. Instruments: Diversified Equity mutual funds, Index funds, PPF, NPS.",
+    "source": "SEBI Investor Education Handbooks on Goal-Based Planning",
+    "source_url": "https://investor.sebi.gov.in/",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "pf-06",
+    "category": "Personal Budgeting, Saving, and Financial Planning",
+    "subcategory": "Common Financial Mistakes",
+    "title": "Common Personal Finance Mistakes & How to Avoid Them",
+    "keywords": [
+      "financial mistakes",
+      "under-insurance",
+      "mixing investment and insurance",
+      "delaying investing",
+      "FD bias",
+      "ignoring inflation"
+    ],
+    "questions": [
+      "What are the biggest financial mistakes young professionals make?",
+      "Why should you never mix insurance with investment?",
+      "What happens if I delay investing in my 20s?",
+      "Why is keeping all money in savings bank accounts dangerous?"
+    ],
+    "content": "Systematic traps that derail wealth accumulation: (1) Mixing Insurance with Investment: Buying low-yield endowment plans or ULIPs instead of combining pure term life insurance with low-cost direct mutual funds. (2) Delaying Early Investing: Waiting until age 35 to invest sacrifices the most powerful compounding years; starting at 25 vs 35 can cut final retirement corpus in half for the same monthly SIP. (3) Inadequate Health Insurance: Relying solely on a modest corporate employer cover without having an independent retail family floater. (4) Excessive Cash Drag: Leaving substantial sums idle in 3% savings accounts losing value to 6% inflation.",
+    "source": "RBI & SEBI Joint Investor Education Literature on Financial Prudence",
+    "source_url": "https://www.rbi.org.in/financialeducation/",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "pf_net_worth_calculation_assets_liabilities",
+    "category": "Personal Budgeting, Saving, and Financial Planning",
+    "subcategory": "Net Worth Calculation",
+    "title": "Net Worth Calculation: Tracking Financial Assets vs Liabilities",
+    "keywords": [
+      "net worth",
+      "personal balance sheet",
+      "assets vs liabilities",
+      "liquid net worth",
+      "tracking wealth",
+      "financial health audit"
+    ],
+    "questions": [
+      "How do I calculate my personal net worth?",
+      "What is the difference between total net worth and liquid net worth?",
+      "Is my primary home included in my net worth?",
+      "How often should I calculate my net worth?"
+    ],
+    "content": "A personal balance sheet evaluates overall financial solvency: (1) Fundamental Formula: Net Worth = Total Assets - Total Liabilities. (2) Assets Categorization: Liquid Assets (cash, bank accounts, liquid funds), Investment Assets (equity shares, mutual funds, EPF/PPF, NPS, gold, SGBs), and Real Assets (real estate, vehicle). (3) Liabilities: Outstanding home loans, vehicle loans, education loans, credit card balances, and personal loans. (4) Liquid Net Worth: Evaluates net worth excluding primary residential home and physical vehicles to determine true investable retirement readiness; should be calculated annually.",
+    "source": "SEBI Investor Education Financial Health Worksheets",
+    "source_url": "https://investor.sebi.gov.in/",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "pf_rule_of_72_compounding_math",
+    "category": "Personal Budgeting, Saving, and Financial Planning",
+    "subcategory": "The Rule of 72 & Financial Math",
+    "title": "The Rule of 72 and Doubling Horizons: Practical Mathematical Financial Rules",
+    "keywords": [
+      "Rule of 72",
+      "doubling money formula",
+      "Rule of 114",
+      "Rule of 144",
+      "mental math personal finance",
+      "compounding speed"
+    ],
+    "questions": [
+      "What is the Rule of 72 in personal finance?",
+      "How long does it take for an investment to double at 12% returns?",
+      "What is the Rule of 114 and Rule of 144?",
+      "How do financial math rules help in quick decision making?"
+    ],
+    "content": "Mental calculation heuristics that simplify financial planning: (1) Rule of 72 (Doubling Time): Approximates the number of years required to double an investment at a fixed annual compound rate. Formula: Years to Double = 72 / (Annual Interest Rate). E.g. at 12% mutual fund returns, money doubles in 6 years (72/12 = 6). At 6% FD rate, it takes 12 years (72/6 = 12). (2) Rule of 114 (Tripling Time): Years to triple money = 114 / Annual Rate. (3) Rule of 144 (Quadrupling Time): Years to quadruple money = 144 / Annual Rate.",
+    "source": "RBI Financial Literacy Guides & Mathematical Finance Fundamentals",
+    "source_url": "https://www.rbi.org.in/financialeducation/",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "pf_inflation_protective_asset_allocation",
+    "category": "Personal Budgeting, Saving, and Financial Planning",
+    "subcategory": "Asset Allocation Across Horizons",
+    "title": "Asset Allocation across Equities, Debt, Gold, and Real Estate",
+    "keywords": [
+      "asset allocation",
+      "equities vs debt",
+      "gold allocation",
+      "100 minus age rule",
+      "rebalancing portfolio",
+      "risk management"
+    ],
+    "questions": [
+      "What is the ideal asset allocation for a 30-year-old?",
+      "What is the 100 minus age rule in investing?",
+      "How much gold should be in an investment portfolio?",
+      "Why should you rebalance your investment portfolio every year?"
+    ],
+    "content": "Structuring capital across distinct asset classes determines 90%+ of portfolio return variance: (1) '100 Minus Age' Heuristic: A common starting guideline suggesting Equity Allocation % = 100 - Current Age (e.g. a 30-year-old allocates 70% in equities, 30% in debt). (2) Role of Gold: Financial planners recommend 5% to 10% allocation in Sovereign Gold Bonds or Gold ETFs to provide a defensive hedge against geopolitical turmoil and currency debasement. (3) Annual Rebalancing: When equities surge, rebalance back to target weights by selling excess equity and purchasing debt, enforcing buying low and selling high automatically.",
+    "source": "SEBI Investor Education Financial Planning Guidelines",
+    "source_url": "https://investor.sebi.gov.in/",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "pf_financial_independence_fire_framework",
+    "category": "Personal Budgeting, Saving, and Financial Planning",
+    "subcategory": "FIRE & Safe Withdrawal Rates",
+    "title": "Financial Independence, Retire Early (FIRE): Safe Withdrawal Rates (4% Rule)",
+    "keywords": [
+      "FIRE movement",
+      "financial independence",
+      "retire early",
+      "4 percent rule",
+      "safe withdrawal rate",
+      "25x annual expenses",
+      "corpus calculation"
+    ],
+    "questions": [
+      "What is the FIRE movement in personal finance?",
+      "What is the 4% safe withdrawal rule?",
+      "How much money do I need to retire early in India?",
+      "What is the 25x rule for retirement corpus?"
+    ],
+    "content": "The Financial Independence, Retire Early (FIRE) movement uses mathematical frameworks for early retirement: (1) The 25x Rule: You have achieved financial independence when your accumulated liquid investment portfolio reaches 25 to 30 times your annual household expenses. (2) The 4% Safe Withdrawal Rate (Trinity Study): Suggests that an investor with a balanced equity-and-debt portfolio can withdraw 4% of the initial corpus in Year 1 (adjusting for inflation annually thereafter) with near-zero probability of running out of money across a 30-year retirement. In India's higher inflation context, conservative planners advise a 3.0% to 3.5% withdrawal rate.",
+    "source": "AMFI Financial Planning Studies & Global Actuarial Retirement Models",
+    "source_url": "https://www.amfiindia.com/",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "pf_insurance_adequacy_hlv_method",
+    "category": "Personal Budgeting, Saving, and Financial Planning",
+    "subcategory": "Insurance Adequacy & HLV",
+    "title": "Insurance Adequacy Calculation: Human Life Value (HLV) & Expense Multipliers",
+    "keywords": [
+      "insurance adequacy",
+      "HLV",
+      "human life value",
+      "income multiplier",
+      "15x annual income",
+      "liabilities coverage",
+      "term insurance calculation"
+    ],
+    "questions": [
+      "How much life insurance cover do I actually need?",
+      "How is Human Life Value (HLV) calculated?",
+      "What is the income multiplier method for term insurance?",
+      "Should home loans be added to life insurance cover?"
+    ],
+    "content": "Calculating the precise quantum of life insurance protection required: (1) Income Multiplier Benchmark: Rule of thumb recommends buying pure term insurance equal to 15 to 20 times your current annual income. (2) Comprehensive Needs-Based Formula: Ideal Cover = [Present Value of Future Family Living Expenses until dependents are independent] + [All Outstanding Debts & Home Loans] + [Future Major Goals: Higher Education, Marriage] - [Existing Liquid Assets & Investments]. (3) Ensure that the claim payout, if invested in safe fixed income, generates sufficient interest to replace the breadwinner's net salary permanently.",
+    "source": "IRDAI Consumer Education Material on Life Insurance Sizing",
+    "source_url": "https://irdai.gov.in/consumer-education",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "pf_estate_planning_wills_probate",
+    "category": "Personal Budgeting, Saving, and Financial Planning",
+    "subcategory": "Estate Planning & Wills",
+    "title": "Estate Planning Basics: Registered Wills, Probate and Succession in India",
+    "keywords": [
+      "estate planning",
+      "will",
+      "registered will",
+      "probate",
+      "Indian Succession Act 1925",
+      "intestate succession",
+      "two witnesses"
+    ],
+    "questions": [
+      "Why is writing a Will important even for middle-class families?",
+      "What makes a Will legally valid in India?",
+      "Does a Will need to be registered in court?",
+      "What is probate of a Will under the Indian Succession Act?"
+    ],
+    "content": "Ensuring smooth transition of assets under the Indian Succession Act 1925: (1) Intestate Succession: Dying without a valid Will causes assets to be divided strictly according to rigid personal religious succession laws, frequently creating acrimonious legal battles among family members. (2) Legal Validity of a Will: Can be handwritten on plain paper. Must clearly state sound mind, list assets and beneficiaries, appoint an Executor, and be signed in the simultaneous presence of at least TWO independent attesting witnesses. (3) Registration: Registration with the Sub-Registrar is optional but highly recommended to defeat allegations of forgery. (4) Supremacy: A valid Will supersedes nominations.",
+    "source": "Indian Succession Act 1925 & Ministry of Law Legal Frameworks",
+    "source_url": "https://legislative.gov.in/sites/default/files/A1925-39.pdf",
+    "verification_date": "2026-03"
+  }
+]

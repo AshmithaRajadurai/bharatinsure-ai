@@ -1,0 +1,299 @@
+[
+  {
+    "id": "sec-01",
+    "category": "Cybersecurity, Phishing, and Safe Digital Banking",
+    "subcategory": "Phishing & Fake Customer Care",
+    "title": "Phishing Scams, Impersonation & Fake Customer Care Numbers",
+    "keywords": [
+      "phishing",
+      "fake customer care",
+      "Google search scams",
+      "impersonation",
+      "bank fraud",
+      "smishing",
+      "vishing",
+      "social engineering"
+    ],
+    "questions": [
+      "How do scammers manipulate search engines to show fake customer care numbers?",
+      "What is phishing, vishing, and smishing?",
+      "How do I find my bank's genuine customer care number?",
+      "Why should I never trust search engine numbers for banks or airlines?"
+    ],
+    "content": "Social engineering cyber fraud targeting banking consumers: (1) Modus Operandi: Fraudsters create deceptive websites or edit Google Maps and search engine business listings with their own mobile numbers. When victims search for customer care, scammers answer posing as bank officials and extract debit card CVVs, net banking passwords, or send fraudulent UPI collect requests. (2) Vishing & Smishing: Voice calls (vishing) or SMS text alerts (smishing) urging immediate action regarding 'KYC suspension' or 'electricity disconnection'. (3) Golden Defense: Look up customer care numbers ONLY from the back of your physical card or the bank's official HTTPS verified portal.",
+    "source": "RBI Sachet Portal & Ministry of Home Affairs (MHA) Cyber Dost Advisories",
+    "source_url": "https://sachet.rbi.org.in/",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "sec-02",
+    "category": "Cybersecurity, Phishing, and Safe Digital Banking",
+    "subcategory": "QR Code & Collect Request Scams",
+    "title": "QR Code Scams & Fraudulent UPI Collect Requests Explained",
+    "keywords": [
+      "QR code scam",
+      "UPI collect request",
+      "OLX scam",
+      "receive money fraud",
+      "merchant QR fraud",
+      "advance payment scam"
+    ],
+    "questions": [
+      "How do QR code scams work on classified portals like OLX?",
+      "Can I receive money by scanning a QR code?",
+      "What is a UPI collect request?",
+      "What should I do if a stranger sends a collect request on Google Pay?"
+    ],
+    "content": "Tactics exploited on e-commerce marketplaces and second-hand platforms: (1) The Scam Script: A fraudster posing as an eager buyer on OLX or Facebook Marketplace agrees to purchase goods and sends a QR code or UPI 'Collect Request' over WhatsApp, falsely claiming: 'Scan this QR code or click Pay to receive your advance payment.' (2) Technical Reality: Scanning any QR code or approving a collect request authorizes an immediate DEBIT from your bank account; receiving funds requires zero authorization. (3) Action: Decline all unsolicited collect requests immediately and block the sender.",
+    "source": "NPCI Cyber Security Guidelines & Cyber Dost Directives",
+    "source_url": "https://www.npci.org.in/what-we-do/upi/security-tips",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "sec-03",
+    "category": "Cybersecurity, Phishing, and Safe Digital Banking",
+    "subcategory": "OTP Theft & SIM Swap",
+    "title": "OTP Theft, SIM Swap Fraud & Second-Factor Authentication Safety",
+    "keywords": [
+      "OTP theft",
+      "SIM swap",
+      "2FA",
+      "two-factor authentication",
+      "eSIM fraud",
+      "telecom disconnection",
+      "unauthorized SIM issuance"
+    ],
+    "questions": [
+      "What is SIM swap fraud and how does it happen?",
+      "Why does mobile network signal disappear during a SIM swap scam?",
+      "Can banks reverse transactions if an OTP was shared?",
+      "How can I protect my phone number from unauthorized SIM swap?"
+    ],
+    "content": "Attacking two-factor authentication (2FA) mechanisms: (1) SIM Swap Mechanics: Fraudsters obtain fake ID documents in your name and apply to telecom operators for a duplicate physical SIM or eSIM, claiming your phone was lost. Once issued, your legitimate SIM loses cellular reception, and all SMS banking OTPs and call verifications route directly to the scammer's handset. (2) Warning Sign: Sudden unexplainable loss of cellular network connectivity in areas with normal coverage. (3) Action: Immediately contact your telecom operator from another phone to report unauthorized SIM swap, and contact your bank to freeze internet banking and UPI.",
+    "source": "DoT Sanchar Saathi Advisories & RBI Cyber Security Guidelines",
+    "source_url": "https://sancharsaathi.gov.in/",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "sec-04",
+    "category": "Cybersecurity, Phishing, and Safe Digital Banking",
+    "subcategory": "Remote-Access App Scams",
+    "title": "Remote-Access App Scams (AnyDesk, TeamViewer) & Screen Sharing Risks",
+    "keywords": [
+      "remote access app",
+      "AnyDesk scam",
+      "TeamViewer",
+      "RustDesk",
+      "screen sharing fraud",
+      "banking app access",
+      "accessibility permissions"
+    ],
+    "questions": [
+      "How do scammers use AnyDesk or QuickSupport to steal bank money?",
+      "Why do fraudsters ask me to download screen-sharing apps?",
+      "Can an app see my banking passwords while screen sharing?",
+      "What should I do if I accidentally installed a remote access app for a caller?"
+    ],
+    "content": "Exploiting legitimate technical support software for financial theft: (1) The Trap: Impersonating bank or telecom executives resolving a transaction or KYC issue, the caller directs the victim to download remote-access apps (AnyDesk, TeamViewer QuickSupport, RustDesk). (2) Nine-Digit Code Exploitation: Once the victim shares the 9-digit session code, the scammer mirrors the phone screen in real time, observes the victim entering banking PINs, or triggers automated transfers. (3) Defence: Never download remote-access apps on instructions from unknown callers; uninstall suspicious apps and disconnect Wi-Fi/mobile data immediately.",
+    "source": "RBI Consumer Alerts on Remote Access Software & Cyber Dost Bulletins",
+    "source_url": "https://sachet.rbi.org.in/",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "sec-05",
+    "category": "Cybersecurity, Phishing, and Safe Digital Banking",
+    "subcategory": "Fake Payment Screenshots",
+    "title": "Fake Payment Screenshots & Spoof Payment App Scams",
+    "keywords": [
+      "fake payment screenshot",
+      "spoof payment app",
+      "Paytm spoof",
+      "fake UPI confirmation",
+      "soundbox verification",
+      "merchant fraud"
+    ],
+    "questions": [
+      "How do fraudsters create fake UPI payment confirmation screens?",
+      "What are spoof payment apps?",
+      "Why should merchants never rely on customer phone screens for payment proof?",
+      "How does a merchant soundbox prevent fake payment scams?"
+    ],
+    "content": "Point-of-sale fraud targeting merchants and retail shops: (1) Spoof Apps: Fraudsters utilize spoof applications that simulate the graphical user interface of popular UPI apps (Paytm, PhonePe, Google Pay), generating animated 'Payment Successful' screens, bogus transaction IDs, and simulated audio chimes without executing any banking transfer. (2) Safe Protocol for Merchants: Never accept a customer's smartphone screen as confirmation. Always verify that: (a) An official incoming transaction SMS arrived on the merchant's registered phone, (b) The merchant POS soundbox announced the credit, or (c) The transaction appears in the merchant business dashboard.",
+    "source": "NPCI Merchant Security Advisory on Payment Confirmations",
+    "source_url": "https://www.npci.org.in/what-we-do/upi/security-tips",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "sec_digital_arrest_extortion_scams",
+    "category": "Cybersecurity, Phishing, and Safe Digital Banking",
+    "subcategory": "Digital Arrest Extortion Scams",
+    "title": "'Digital Arrest' Extortion Scams: Impersonating CBI, ED, and Police",
+    "keywords": [
+      "digital arrest",
+      "CBI impersonation",
+      "ED scam",
+      "police video call",
+      "Skype interrogation",
+      "fake court summons",
+      "extortion fraud"
+    ],
+    "questions": [
+      "What is a 'Digital Arrest' scam in India?",
+      "Can police or CBI arrest someone over a Skype or WhatsApp video call?",
+      "What should I do if someone claiming to be police says a parcel with narcotics was found in my name?",
+      "Why do scammers tell victims to stay in a room on video call?"
+    ],
+    "content": "A high-pressure cyber extortion epidemic: (1) The Modus Operandi: Victims receive calls claiming a courier parcel in their name was intercepted containing passports, narcotics, or illegal goods. Callers transfer the call to accomplices dressed in police/CBI uniforms operating against backdrops mimicking real police stations over Skype/WhatsApp video calls. (2) Fictitious 'Digital Arrest': Scammers claim the victim is under 'digital arrest', ordering them to isolate in a room and transfer their entire life savings into 'Supreme Court secret verification escrow accounts'. (3) Reality: Indian law recognizes NO concept of 'Digital Arrest'; no police force interrogates or demands fund transfers over video calls. Hang up and dial 1930.",
+    "source": "Ministry of Home Affairs (MHA) & Indian Cybercrime Coordination Centre (I4C) Advisory",
+    "source_url": "https://cybercrime.gov.in/",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "sec_sim_swap_telecom_verification",
+    "category": "Cybersecurity, Phishing, and Safe Digital Banking",
+    "subcategory": "SIM Swap Telecom Protections",
+    "title": "SIM Swap Protection: Telecom Cooling Periods & Multi-Factor Authentication",
+    "keywords": [
+      "SIM swap protection",
+      "telecom cooling period",
+      "24 hour SMS freeze",
+      "DoT mandate",
+      "eSIM safety",
+      "biometric re-verification"
+    ],
+    "questions": [
+      "What is the 24-hour SMS freeze after a SIM replacement?",
+      "How does DoT protect against fraudulent eSIM activation?",
+      "What should I do if I get an SMS saying a duplicate SIM was requested?",
+      "Can I prevent SIM swaps with my telecom provider?"
+    ],
+    "content": "Department of Telecommunications (DoT) mandates safeguards against unauthorized SIM replacement: (1) Mandatory 24-Hour SMS Barring: When a SIM card is replaced, upgraded, or converted to an eSIM, all incoming and outgoing SMS facilities (including banking OTPs) are strictly frozen for 24 hours to prevent immediate financial draining. (2) Pre-Activation Warning SMS: Telecom providers must dispatch automated warning alerts to the active SIM before activating a duplicate; users can immediately reply with cancellation codes. (3) Physical Biometrics: High-security SIM swaps require in-person biometric authentication at authorized telecom brand stores.",
+    "source": "Department of Telecommunications (DoT) Security Directives on SIM Issuance",
+    "source_url": "https://sancharsaathi.gov.in/",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "sec_public_wifi_man_in_middle",
+    "category": "Cybersecurity, Phishing, and Safe Digital Banking",
+    "subcategory": "Public Wi-Fi & MitM Risks",
+    "title": "Public Wi-Fi Risks: Man-in-the-Middle Attacks & SSL Encryption Safeguards",
+    "keywords": [
+      "public Wi-Fi",
+      "Man in the Middle",
+      "MitM attack",
+      "packet sniffing",
+      "VPN protection",
+      "rogue hotspot",
+      "evil twin Wi-Fi"
+    ],
+    "questions": [
+      "Is it safe to do net banking or UPI on airport or railway Wi-Fi?",
+      "What is a Man-in-the-Middle attack on public Wi-Fi?",
+      "How do hackers steal banking passwords on open Wi-Fi networks?",
+      "Why should you use mobile data instead of public Wi-Fi for banking?"
+    ],
+    "content": "Cyber risks inherent in unsecured open networks: (1) The Danger: Public Wi-Fi networks (airports, cafes, railway stations) frequently lack encryption, enabling cybercriminals to deploy 'Evil Twin' rogue hotspots or packet-sniffing tools. (2) Man-in-the-Middle (MitM) Attacks: The attacker intercepts traffic passing between your device and the internet, spoofing SSL certificates and harvesting session tokens, credit card entries, and login credentials. (3) Golden Rules: Never access banking applications, UPI, or enter payment details on public Wi-Fi; always switch to private cellular mobile data (4G/5G) or route traffic through a secure Virtual Private Network (VPN).",
+    "source": "CERT-In Cyber Security Guidelines for Internet Users",
+    "source_url": "https://www.cert-in.org.in/",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "sec_deepfake_ai_voice_cloning",
+    "category": "Cybersecurity, Phishing, and Safe Digital Banking",
+    "subcategory": "AI Voice Cloning & Deepfakes",
+    "title": "Deepfakes and AI Voice Cloning in Financial Extortion & Verification Protocols",
+    "keywords": [
+      "AI voice cloning",
+      "deepfake audio",
+      "family emergency scam",
+      "voice synthesis",
+      "family code word",
+      "financial extortion"
+    ],
+    "questions": [
+      "How do scammers clone a family member's voice using AI?",
+      "What should I do if a caller sounding like my child or friend cries for emergency money?",
+      "How can families protect themselves from AI voice cloning scams?",
+      "What is a family duress safe word?"
+    ],
+    "content": "Emergence of synthetic artificial intelligence voice cloning in cyber extortion: (1) How It Operates: Attackers harvest short 3 to 5-second audio samples of an individual from public social media reels or phone calls, using generative voice models to clone their voice, emotional pitch, and cadence. (2) The Distress Call: The scammer calls parents or relatives using the cloned voice, crying that they have been arrested, met with an accident, or kidnapped, pleading for urgent ransom transfers. (3) Protection Protocol: Never send money immediately; hang up and call the family member back directly on their known phone number, or ask a pre-agreed 'Family Safe Word' known only to household members.",
+    "source": "CERT-In Vulnerability & Emerging Threats Advisory on AI-Generated Voice Scams",
+    "source_url": "https://www.cert-in.org.in/",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "sec_malicious_apk_sideloading",
+    "category": "Cybersecurity, Phishing, and Safe Digital Banking",
+    "subcategory": "Malicious APK Sideloading",
+    "title": "Malicious APK Sideloading: Trojan Downloaders via WhatsApp & SMS",
+    "keywords": [
+      "malicious APK",
+      "sideloading",
+      "trojan app",
+      "SMS forwarding trojan",
+      "accessibility service abuse",
+      "fake wedding card APK",
+      "fake challan APK"
+    ],
+    "questions": [
+      "What happens if I install an APK sent on WhatsApp?",
+      "What is a wedding invitation or traffic challan APK scam?",
+      "How do malicious APKs read banking OTPs silently?",
+      "How do I remove a hidden banking trojan from my Android phone?"
+    ],
+    "content": "The leading vector for device compromise and banking account draining on Android: (1) Distribution Vector: Fraudsters send malicious Android Package Kit (.apk) files over WhatsApp or SMS masquerading as wedding cards, traffic challan receipts, courier tracking apps, or government subsidy forms. (2) Silent Permissions: Once sideloaded, the malware requests 'Accessibility Services' and 'SMS Permissions', hiding its home-screen icon. It intercepts all incoming SMS OTPs and forwards them silently to the scammer's server while dismissing notifications. (3) Defence: Never enable 'Install Unknown Apps' in Android settings; stick strictly to the official Google Play Store.",
+    "source": "CERT-In Advisory on Android Banking Trojans & MHA Cyber Dost Alerts",
+    "source_url": "https://cybercrime.gov.in/",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "sec_two_factor_auth_token_security",
+    "category": "Cybersecurity, Phishing, and Safe Digital Banking",
+    "subcategory": "Two-Factor Authentication Security",
+    "title": "Two-Factor Authentication (2FA): Hardware Keys, Authenticator Apps vs SMS OTP",
+    "keywords": [
+      "2FA",
+      "two-factor authentication",
+      "TOTP",
+      "Google Authenticator",
+      "hardware security key",
+      "SMS OTP vulnerability",
+      "NIST guidelines"
+    ],
+    "questions": [
+      "Why is an Authenticator app safer than SMS OTP?",
+      "What are the vulnerabilities of SMS-based OTP?",
+      "What is a Time-based One-Time Password (TOTP)?",
+      "How do hardware security keys protect financial accounts?"
+    ],
+    "content": "Evaluating the security hierarchy of multi-factor authentication methods: (1) SMS OTP Vulnerabilities: Susceptible to SIM swap attacks, SS7 cellular network interception, shoulder surfing, and malicious SMS-forwarding APKs. (2) Time-Based One-Time Passwords (TOTP): Apps like Google Authenticator or Microsoft Authenticator generate ephemeral 6-digit codes stored locally in cryptographic phone enclaves, remaining 100% immune to SIM swap fraud and network interception. (3) Hardware Security Keys: Physical FIDO2/WebAuthn USB keys (YubiKey) provide the ultimate phishing resistance because authentication is cryptographically bound to the browser's verified domain.",
+    "source": "RBI Cyber Security Framework in Banks & CERT-In Authentication Guidelines",
+    "source_url": "https://www.cert-in.org.in/",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "sec_safe_atm_pos_card_skimming",
+    "category": "Cybersecurity, Phishing, and Safe Digital Banking",
+    "subcategory": "ATM & POS Card Skimming",
+    "title": "Card Skimming & Shimming: Identifying Tampered ATM Slots and POS Terminals",
+    "keywords": [
+      "card skimming",
+      "card shimming",
+      "ATM skimmer",
+      "pinhole camera",
+      "tampered card slot",
+      "EMV chip security",
+      "keypad overlay"
+    ],
+    "questions": [
+      "What is card skimming at an ATM?",
+      "How do I spot an ATM skimmer device?",
+      "What is card shimming in chip cards?",
+      "Why should you cover your hand while typing your ATM PIN?"
+    ],
+    "content": "Physical tampering targeting payment cards at ATMs and merchant terminals: (1) Skimmer Devices: Fraudsters attach false reader overlays onto the ATM card insertion slot to copy the magnetic stripe data, accompanied by a pinhole camera or false keypad overlay to record the 4-digit ATM PIN. (2) Shimming: Ultra-thin circuit boards inserted invisibly inside smart chip slots to intercept communication. (3) Simple Defence Protocols: Always jiggle the card slot before inserting your card (loose or protruding parts indicate tampering), and ALWAYS cover the keypad completely with your other hand while keying in your PIN to defeat hidden cameras.",
+    "source": "RBI Master Circular on Security and Risk Mitigation for Card Transactions",
+    "source_url": "https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx",
+    "verification_date": "2026-03"
+  }
+]

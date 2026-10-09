@@ -1,0 +1,293 @@
+[
+  {
+    "id": "travel-01",
+    "category": "Travel Insurance",
+    "subcategory": "Medical Emergency Hospitalization",
+    "title": "International & Overseas Medical Emergency Hospitalization",
+    "keywords": [
+      "travel insurance",
+      "international travel",
+      "medical emergency",
+      "overseas hospitalization",
+      "cashless overseas",
+      "assistance company",
+      "TPA"
+    ],
+    "questions": [
+      "What does international travel insurance cover?",
+      "How does cashless hospitalisation work outside India?",
+      "Are pre-existing diseases covered during foreign travel?",
+      "What is emergency medical evacuation?"
+    ],
+    "content": "Overseas Travel Insurance provides vital protection against exorbitant foreign healthcare costs: (1) Emergency In-patient Medical Hospitalisation: Reimburses or cashlessly settles hospital room, surgery, ICU, and prescription costs incurred due to sudden injury or unexpected sickness while abroad. (2) Cashless Network: Operates through global assistance partners (Third-Party Administrators like Europ Assistance, Allianz Partners) who issue Letters of Guarantee (GOP) directly to international hospitals. (3) Emergency Medical Evacuation: Covers transport to the nearest qualified medical facility or repatriation back to India via air ambulance when local care is inadequate. (4) Pre-existing Conditions: Excluded except under life-threatening emergency stabilization riders.",
+    "source": "IRDAI Travel Insurance Regulations & Product Standardization",
+    "source_url": "https://irdai.gov.in/regulations",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "travel-02",
+    "category": "Travel Insurance",
+    "subcategory": "Delays, Baggage & Passport Loss",
+    "title": "Flight Delays, Baggage Loss, Delay & Passport Loss",
+    "keywords": [
+      "flight delay",
+      "baggage loss",
+      "checked baggage delay",
+      "loss of passport",
+      "consular fees",
+      "emergency purchases",
+      "PIR"
+    ],
+    "questions": [
+      "Does travel insurance pay if my flight is delayed?",
+      "What compensation is given for lost checked baggage?",
+      "How do I claim for lost passport during international travel?",
+      "What is a Property Irregularity Report (PIR)?"
+    ],
+    "content": "Travel insurance reimburses logistical disruptions incurred during transit: (1) Checked Baggage Delay: Pays fixed emergency allowances (for purchasing essential clothing, toiletries, and medication) if luggage is delayed beyond a deductible threshold (typically 6 to 12 hours) by the airline. (2) Total Baggage Loss: Reimburses the market or depreciated value of permanently lost checked-in luggage, subject to per-bag and per-item sub-limits, upon airline issuance of a non-traceable certificate. (3) Property Irregularity Report (PIR): Mandatory document obtained from airline baggage service counters immediately at the terminal to establish claim validity. (4) Passport Loss: Covers actual consular fees, legal fees, and administrative expenses required to obtain emergency travel certificates or duplicate passports from Indian embassies.",
+    "source": "IRDAI Guidelines on Overseas Travel Insurance Standards",
+    "source_url": "https://irdai.gov.in/guidelines",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "travel-03",
+    "category": "Travel Insurance",
+    "subcategory": "Trip Cancellation & Interruption",
+    "title": "Trip Cancellation and Trip Interruption Coverage",
+    "keywords": [
+      "trip cancellation",
+      "trip interruption",
+      "non-refundable bookings",
+      "flight cancellation",
+      "curtailment",
+      "covered reasons"
+    ],
+    "questions": [
+      "What is trip cancellation insurance?",
+      "When can I claim for a cancelled holiday trip?",
+      "Does travel insurance cover non-refundable hotel bookings?",
+      "What is trip curtailment?"
+    ],
+    "content": "Trip cancellation and interruption benefits reimburse non-refundable, prepaid travel and lodging expenses: (1) Trip Cancellation: Reimburses unrecovered airline tickets, cruise fares, visa fees, and hotel bookings when a journey must be cancelled prior to departure due to listed unforeseen events (e.g. sudden death or severe hospitalisation of the insured or immediate family member, natural disaster rendering destination uninhabitable, or military unrest). (2) Trip Interruption / Curtailment: Reimburses unutilised accommodation and the cost of emergency return economy flights to India if an ongoing trip is cut short due to an emergency at home. (3) Non-covered Reasons: Voluntarily changing plans, minor rain showers, or personal disputes are strictly excluded.",
+    "source": "IRDAI Master Circular on Travel Insurance Products",
+    "source_url": "https://irdai.gov.in/master-circulars",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "travel_schengen_visa_mandate",
+    "category": "Travel Insurance",
+    "subcategory": "Schengen Visa Requirements",
+    "title": "Schengen Visa Travel Insurance: €30,000 Minimum Coverage Mandate",
+    "keywords": [
+      "Schengen visa",
+      "30000 euros",
+      "mandatory travel insurance",
+      "Europe travel",
+      "repatriation",
+      "zero deductible"
+    ],
+    "questions": [
+      "What are the travel insurance requirements for a Schengen visa?",
+      "What is the minimum medical cover for Europe travel?",
+      "Does Schengen travel insurance cover COVID-19?",
+      "Why do European embassies verify travel insurance policies?"
+    ],
+    "content": "Under Regulation (EC) No 810/2009 of the European Parliament (Schengen Visa Code), all travellers applying for short-stay visas across the Schengen Area must possess valid travel medical insurance: (1) Minimum Medical Sum Insured: Mandatory minimum coverage of €30,000 (or $50,000 USD) covering emergency medical expenses, hospitalisation, and repatriation of mortal remains. (2) Full Territorial Validity: Must be valid across all 29 member countries of the Schengen Area for the entire duration of the stay. (3) Deductibles: Must feature a low or zero deductible. (4) Verification: Consulates verify policy certificate authentications directly; travel policies with lower coverage or exclusions for emergency treatment result in immediate visa refusal.",
+    "source": "European Parliament Visa Code Regulation (EC) 810/2009 & IRDAI Guidelines",
+    "source_url": "https://irdai.gov.in/regulations",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "travel_pre_existing_emergency",
+    "category": "Travel Insurance",
+    "subcategory": "Pre-Existing Disease Life-Saving Cover",
+    "title": "Pre-Existing Conditions in Travel Insurance: Emergency Relief Rules",
+    "keywords": [
+      "pre-existing condition",
+      "PED",
+      "life saving emergency",
+      "cardiac arrest overseas",
+      "stabilization cover",
+      "PED exclusion travel"
+    ],
+    "questions": [
+      "Does travel insurance cover heart attacks if I have a pre-existing condition?",
+      "What is life-saving emergency relief in travel insurance?",
+      "Are regular prescription medicines abroad covered?",
+      "How do travel insurers verify pre-existing medical history?"
+    ],
+    "content": "Overseas travel insurance generally treats pre-existing diseases (PED) as permanent exclusions, with one crucial regulatory exception: (1) Life-Threatening Emergency Relief: Standard travel policies incorporate a dedicated sub-limit (typically $2,000 to $10,000 or up to 10% of sum insured) designed to cover medical measures solely required to stabilise a sudden, life-threatening emergency arising from a known pre-existing illness (e.g. acute cardiac arrest, sudden diabetic coma) until the patient is declared fit to travel back to India. (2) Routine Care Exclusion: Routine doctor visits, continuous dialysis, routine insulin prescriptions, or anticipated follow-up surgeries abroad remain permanently non-payable. (3) Declaration: Failure to disclose known PED at policy purchase voids emergency relief benefits.",
+    "source": "IRDAI Product Filing Norms for General and Health Insurers - Overseas Travel Cover",
+    "source_url": "https://irdai.gov.in/guidelines",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "travel_hijack_distress_allowance",
+    "category": "Travel Insurance",
+    "subcategory": "Hijack & Catastrophe Distress",
+    "title": "Aircraft Hijack Distress Allowance and Natural Catastrophe Relocation",
+    "keywords": [
+      "hijack distress",
+      "common carrier hijack",
+      "distress allowance",
+      "natural catastrophe",
+      "earthquake relocation",
+      "hotel accommodation"
+    ],
+    "questions": [
+      "Does travel insurance pay compensation if a flight is hijacked?",
+      "What is hijack distress allowance in travel insurance?",
+      "What happens if a natural disaster hits while travelling overseas?",
+      "Does insurance cover extra hotel costs during an earthquake abroad?"
+    ],
+    "content": "Travel insurance plans incorporate distress benefits for catastrophic global events: (1) Hijack Distress Allowance: If the common carrier (aircraft or passenger vessel) on which the insured is travelling is hijacked and detained for more than a specified minimum duration (typically 12 or 24 continuous hours), the insurer pays a daily distress cash allowance (e.g. $100 to $200 per day up to a policy cap of $1,000 to $2,000) for every full 24 hours of detention. (2) Natural Disaster & Catastrophe Evacuation: If an insured's overseas accommodation is rendered uninhabitable by an earthquake, flood, volcanic eruption, or hurricane, the policy reimburses reasonable additional hotel lodging and alternative transport expenses.",
+    "source": "IRDAI Standard Overseas Travel Insurance Terms & Conditions",
+    "source_url": "https://irdai.gov.in/guidelines",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "travel_trip_curtailment_rules",
+    "category": "Travel Insurance",
+    "subcategory": "Trip Curtailment & Compassionate Visit",
+    "title": "Trip Curtailment & Compassionate Family Visit Provisions",
+    "keywords": [
+      "trip curtailment",
+      "compassionate visit",
+      "family emergency",
+      "round trip ticket",
+      "hospitalized abroad alone",
+      "unexpected return"
+    ],
+    "questions": [
+      "What is compassionate visit cover in travel insurance?",
+      "Can my family member fly to visit me if I am hospitalized abroad?",
+      "What is the difference between trip cancellation and trip curtailment?",
+      "Does travel insurance cover flight tickets to return home early?"
+    ],
+    "content": "When international journeys are disrupted by family emergencies or critical hospital stays: (1) Trip Curtailment: Reimburses unutilised non-refundable travel accommodation and covers additional airfare required to cut short the trip and return to India immediately due to sudden death or intensive hospitalisation of an immediate family member (spouse, child, parent) in India. (2) Compassionate Visit Cover: If the insured traveller is hospitalised abroad in intensive care for more than 5 to 7 consecutive days and has no adult family member present, the policy reimburses a round-trip economy class flight ticket and reasonable hotel accommodation for one immediate family member to fly from India and remain at the bedside.",
+    "source": "IRDAI Travel Insurance Standardization Rules",
+    "source_url": "https://irdai.gov.in/guidelines",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "travel_loss_of_passport_consular",
+    "category": "Travel Insurance",
+    "subcategory": "Loss of International Travel Documents",
+    "title": "Loss of Passport and Travel Documents: Embassy Procedure & Reimbursables",
+    "keywords": [
+      "loss of passport",
+      "emergency certificate",
+      "Indian Embassy",
+      "consular charges",
+      "police report abroad",
+      "travel document theft"
+    ],
+    "questions": [
+      "What to do if passport is lost abroad and how to claim insurance?",
+      "What documents are required to claim passport loss from insurance?",
+      "Does travel insurance pay for hotel stay while waiting for a new passport?",
+      "What is an Emergency Certificate issued by the Indian Embassy?"
+    ],
+    "content": "Losing an Indian passport abroad requires coordination between local police, consular authorities, and the travel insurer: (1) Mandatory First Step: File an immediate Police Report in the foreign jurisdiction within 24 hours of detecting theft or loss to obtain a written Police Loss Receipt. (2) Consular Services: Apply to the nearest Indian Embassy or Consulate-General for an Emergency Certificate (one-way travel document to return to India) or a temporary passport replacement. (3) Insurance Reimbursables: The travel policy reimburses actual official embassy fees, biometric application charges, and necessary local transit/accommodation costs incurred while awaiting replacement documents up to the policy limit (usually $250 to $500).",
+    "source": "Ministry of External Affairs (MEA) Consular Manual & IRDAI Travel Norms",
+    "source_url": "https://irdai.gov.in/guidelines",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "travel_adventure_sports_exclusion",
+    "category": "Travel Insurance",
+    "subcategory": "Hazardous & Adventure Sports",
+    "title": "Adventure Sports Exclusions and High-Altitude Trekking Riders",
+    "keywords": [
+      "adventure sports",
+      "hazardous activities",
+      "skydiving",
+      "scuba diving",
+      "bungee jumping",
+      "trekking rider",
+      "extreme sports exclusion"
+    ],
+    "questions": [
+      "Does standard travel insurance cover injuries from skiing or scuba diving?",
+      "Is skydiving covered in overseas travel insurance?",
+      "What adventure sports rider is needed for trekking in Nepal or Alps?",
+      "Why do insurance companies exclude extreme sports?"
+    ],
+    "content": "Standard travel insurance policies permanently exclude injuries and hospitalisations resulting from participation in hazardous or extreme sports: (1) Listed Excluded Sports: Bungee jumping, skydiving, scuba diving (unless PADI certified and below 30 metres), mountaineering using ropes, paragliding, hang-gliding, motor racing, and white-water rafting above grade 3. (2) Specialized Adventure Sports Riders: Travellers engaging in skiing, snowboarding, or high-altitude trekking (above 3,000 metres) must purchase dedicated adventure sports add-ons with elevated premiums to ensure medical rescue and helicopter evacuation are covered. (3) Intoxication Rule: Any injury sustained while under the influence of alcohol or non-prescribed narcotics is non-claimable under all circumstances.",
+    "source": "IRDAI Guidelines on Policy Exclusions and General Insurance Underwriting",
+    "source_url": "https://irdai.gov.in/guidelines",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "travel_evacuation_repatriation_remains",
+    "category": "Travel Insurance",
+    "subcategory": "Repatriation of Mortal Remains",
+    "title": "Medical Evacuation & Repatriation of Mortal Remains: International Norms",
+    "keywords": [
+      "repatriation of remains",
+      "medical evacuation",
+      "mortal remains",
+      "international repatriation",
+      "air ambulance",
+      "embalming"
+    ],
+    "questions": [
+      "How much does it cost to bring mortal remains back to India from abroad?",
+      "Does travel insurance cover repatriation of mortal remains?",
+      "How does air ambulance medical evacuation work overseas?",
+      "What assistance does the insurer provide in case of death abroad?"
+    ],
+    "content": "International medical evacuation and repatriation represent critical high-liability protections in overseas policies: (1) Medical Evacuation: When a local hospital lacks specialised facilities (e.g. complex cardiovascular or neurosurgical care), the insurer's international assistance wing arranges medical transport—including chartered air ambulances equipped with intensive care equipment and medical doctors—to the nearest suitable tertiary care facility. (2) Repatriation of Mortal Remains: In the tragic event of death abroad, international repatriation costs can exceed $20,000 to $50,000 USD. The travel insurer coordinates embalming, local government post-mortem clearances, consular documentation, and cargo flight transport of remains back to the deceased's home in India or pays for local burial/cremation abroad.",
+    "source": "IRDAI Overseas Travel Insurance Regulations & Consular Protocols",
+    "source_url": "https://irdai.gov.in/regulations",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "travel_student_overseas_cover",
+    "category": "Travel Insurance",
+    "subcategory": "Student Overseas Health Plans",
+    "title": "Student Overseas Health Insurance: University Waivers & Long-Term Cover",
+    "keywords": [
+      "student travel insurance",
+      "study abroad",
+      "university health insurance waiver",
+      "sponsor protection",
+      "study interruption",
+      "mental health cover"
+    ],
+    "questions": [
+      "What is student overseas travel insurance?",
+      "Can Indian travel insurance replace expensive US university health insurance?",
+      "What is study interruption cover for foreign students?",
+      "What is sponsor protection in student travel insurance?"
+    ],
+    "content": "Students pursuing higher education in countries like the US, UK, Canada, and Germany require specialised long-term student travel insurance: (1) University Insurance Waiver: Indian student travel policies provide identical coverage (including pregnancy, mental health, and substance abuse rehabilitation) to university-mandated US healthcare plans at 60% lower premium costs, enabling students to submit waiver forms to universities. (2) Study Interruption Cover: Reimburses non-refundable tuition fees paid for the ongoing semester if studies are discontinued due to medical incapacitation or parent demise. (3) Sponsor Protection: Pays remaining tuition fees if the designated sponsor financing education passes away prematurely.",
+    "source": "IRDAI Product Guidelines for Long-Term Overseas Student Travel Covers",
+    "source_url": "https://irdai.gov.in/guidelines",
+    "verification_date": "2026-03"
+  },
+  {
+    "id": "travel_missed_connection_rules",
+    "category": "Travel Insurance",
+    "subcategory": "Missed Connection & Denied Boarding",
+    "title": "Missed Flight Connections and Denied Boarding Rights",
+    "keywords": [
+      "missed connection",
+      "connecting flight",
+      "denied boarding",
+      "transit delay",
+      "airline overbooking",
+      "alternative flight"
+    ],
+    "questions": [
+      "What happens if I miss my connecting flight due to a delay in the first flight?",
+      "Does travel insurance pay for a new flight if connection is missed?",
+      "What compensation is provided for denied boarding due to airline overbooking?",
+      "How long must the layover be to claim missed connection?"
+    ],
+    "content": "Missed flight connections cause severe onward itinerary disruptions: (1) Missed Connection Cover: Reimburses reasonable extra economy travel arrangements and hotel accommodations if an incoming flight is delayed due to weather, mechanical fault, or air traffic control, causing the traveller to miss a connecting flight at an intermediate transit airport. (2) Minimum Layover Requirement: The original flight booking must have respected the airline's published Minimum Connecting Time (MCT) (typically at least 90 to 120 minutes for international transfers). (3) Denied Boarding: Reimburses out-of-pocket food and lodging expenses if the airline overbooks the flight and refuses boarding, provided the passenger arrived before check-in cutoff.",
+    "source": "Directorate General of Civil Aviation (DGCA) Passenger Charter & IRDAI Guidelines",
+    "source_url": "https://irdai.gov.in/guidelines",
+    "verification_date": "2026-03"
+  }
+]
