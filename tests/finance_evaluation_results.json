@@ -1,0 +1,109 @@
+{
+  "retrieval_accuracy_percent": 100.0,
+  "average_retrieval_latency_ms": 27.76,
+  "total_test_queries": 52,
+  "total_indexed_documents": 73,
+  "sample_generation_results": [
+    {
+      "label": "Digital Payments - UPI PIN",
+      "question": "Do I need to enter my UPI PIN to receive money from a buyer?",
+      "wall_latency_ms": 3717.5,
+      "backend_latency_ms": 3671.8,
+      "sources": [
+        "fintech-02"
+      ],
+      "answer_preview": "No, you do not need to enter your UPI PIN to receive money from a buyer. Entering a PIN always authorizes funds to be transferred to the account."
+    },
+    {
+      "label": "Banking - FD vs RD",
+      "question": "What is the difference between Fixed Deposit FD and Recurring Deposit RD?",
+      "wall_latency_ms": 3793.2,
+      "backend_latency_ms": 3741.8,
+      "sources": [
+        "bank-02"
+      ],
+      "answer_preview": "Fixed Deposit (FD) offers a guaranteed interest rate and a fixed tenure, while Recurring Deposit (RD) allows for more flexibility with a longer term and variable interest rates."
+    },
+    {
+      "label": "Banking - Negative Balance",
+      "question": "Can a savings account balance become negative due to minimum balance penalty?",
+      "wall_latency_ms": 3736.1,
+      "backend_latency_ms": 3702.5,
+      "sources": [
+        "bank-01",
+        "bank-03"
+      ],
+      "answer_preview": "No, a savings account balance cannot become negative due to the minimum balance penalty."
+    },
+    {
+      "label": "Loans - Flat vs Reducing",
+      "question": "Why is a reducing balance interest rate cheaper than a flat interest rate on a loan?",
+      "wall_latency_ms": 4795.3,
+      "backend_latency_ms": 4755.0,
+      "sources": [
+        "loan-02"
+      ],
+      "answer_preview": "A reducing balance interest rate is cheaper than a flat interest rate on a loan because it offers a more predictable and stable repayment schedule. With a reducing balance, the bor"
+    },
+    {
+      "label": "Loans - Foreclosure",
+      "question": "Can banks charge foreclosure penalty on floating rate home loans?",
+      "wall_latency_ms": 4535.9,
+      "backend_latency_ms": 4494.0,
+      "sources": [
+        "loan-04"
+      ],
+      "answer_preview": "Yes, banks can charge a foreclosure penalty on floating rate home loans. This penalty is calculated based on the difference between the current market rate and the loan's floating "
+    },
+    {
+      "label": "Credit - MAD Trap",
+      "question": "What happens if I only pay the Minimum Amount Due MAD on my credit card?",
+      "wall_latency_ms": 4205.5,
+      "backend_latency_ms": 4166.6,
+      "sources": [
+        "cred-04"
+      ],
+      "answer_preview": "If you only pay the Minimum Amount Due (MAD) on your credit card, you risk immediate late payment penalties and negative reporting to CIBIL (Consumer Credit Information Bureau). Th"
+    },
+    {
+      "label": "Investments - SGB",
+      "question": "What is Sovereign Gold Bond SGB and are the capital gains tax-free?",
+      "wall_latency_ms": 4417.3,
+      "backend_latency_ms": 4377.0,
+      "sources": [
+        "inv-04"
+      ],
+      "answer_preview": "Sovereign Gold Bond (SGB) is a type of government bond that is backed by gold. It is considered a safe investment due to its high credit rating and the fact that the government gua"
+    },
+    {
+      "label": "Personal Finance - 50/30/20",
+      "question": "Explain the 50/30/20 budgeting rule in simple words.",
+      "wall_latency_ms": 4236.4,
+      "backend_latency_ms": 4185.6,
+      "sources": [
+        "pf-01"
+      ],
+      "answer_preview": "The 50/30/20 budgeting rule allocates 50% of your income towards necessities, 30% towards non-essential expenses, and 20% towards discretionary spending. This approach helps ensure"
+    },
+    {
+      "label": "Digital Security - QR Scam",
+      "question": "Can scanning a QR code deduct money from my account?",
+      "wall_latency_ms": 10681.9,
+      "backend_latency_ms": 10637.7,
+      "sources": [
+        "sec-02"
+      ],
+      "answer_preview": "No, scanning a QR code does not directly deduct money from your account. This is a common scam tactic where fraudsters use QR codes to trick users into making transactions. Always "
+    },
+    {
+      "label": "Insurance-Fintech - eIA",
+      "question": "What is an Electronic Insurance Account eIA and what are its benefits?",
+      "wall_latency_ms": 11679.7,
+      "backend_latency_ms": 11177.1,
+      "sources": [
+        "insfin-02"
+      ],
+      "answer_preview": "An Electronic Insurance Account (eIA) is a digital storage solution for insurance policies established under the Indian Real Estate (IRDAI) regulations. It offers several benefits,"
+    }
+  ]
+}
