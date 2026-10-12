@@ -25,10 +25,37 @@ class OllamaLocalService:
         self.model_name = model_name
         self.chat_endpoint = f"{self.base_url}/api/chat"
         self.tags_endpoint = f"{self.base_url}/api/tags"
+        self.generate_endpoint = f"{self.base_url}/api/generate"
         self.exact_parameters = EXACT_PARAMETERS
         self.last_latency_ms = 0.0
         self.last_tokens_per_sec = 0.0
         self.last_eval_count = 0
+
+    def preload_model(self, keep_alive: str = "60m") -> bool:
+        """
+        Preload target model into Ollama RAM to prevent cold-start latency.
+        """
+        try:
+            payload = {"model": self.model_name, "keep_alive": keep_alive}
+            req = urllib.request.Request(
+                self.generate_endpoint,
+                headers={"Content-Type": "application/json"},
+                data=json.dumps(payload).encode("utf-8")
+            )
+            with urllib.request.urlopen(req, timeout=30.0) as resp:
+                data = json.loads(resp.read().decode("utf-8"))
+                return data.get("done", False)
+        except Exception as e:
+            print(f"[Ollama] Warm-up preload notice: {e}")
+            return False
+
+    def set_model_name(self, model_name: str):
+        """Allow switching between qwen2.5:3b and smaller alternatives like qwen2.5:0.5b."""
+        self.model_name = model_name
+        if "0.5b" in model_name.lower():
+            self.exact_parameters = 494032768  # ~494M params
+        else:
+            self.exact_parameters = EXACT_PARAMETERS
 
     def check_connection(self) -> Dict[str, Any]:
         """
@@ -126,25 +153,25 @@ class OllamaLocalService:
     def generate(
         self,
         messages: List[Dict[str, str]],
-        max_new_tokens: int = 120,
+        max_new_tokens: int = 100,
         temperature: float = 0.2
     ) -> Dict[str, Any]:
         """
         Execute real local inference using Ollama's chat API with performance optimizations:
-        - keep_alive: keeps model resident in RAM between calls
-        - num_ctx: 2048 (avoids heavy 32k KV allocation on CPU)
+        - keep_alive: 60m keeps model resident in RAM between calls
+        - num_ctx: 1536 (compact context avoids heavy KV allocation on CPU)
         - num_thread: 8 (matches CPU cores)
-        - num_predict: 120 (concise 60-120 word responses)
+        - num_predict: max_new_tokens (concise 60-100 word responses)
         """
         t0 = time.time()
         payload = {
             "model": self.model_name,
             "messages": messages,
             "stream": False,
-            "keep_alive": "30m",
+            "keep_alive": "60m",
             "options": {
                 "temperature": temperature,
-                "num_ctx": 2048,
+                "num_ctx": 1536,
                 "num_predict": max_new_tokens,
                 "num_thread": 8
             }
@@ -184,7 +211,7 @@ class OllamaLocalService:
                     "latency_ms": latency_ms,
                     "tokens_generated": eval_count,
                     "tokens_per_sec": tokens_per_sec,
-                    "model_name": f"{self.model_name} (Ollama Local LLM - 3.1B Params)",
+                    "model_name": f"{self.model_name} (Ollama Local LLM - {round(self.exact_parameters/1e9, 1)}B Params)",
                     "parameters": self.exact_parameters
                 }
         except urllib.error.URLError as e:
@@ -195,7 +222,7 @@ class OllamaLocalService:
     def generate_stream(
         self,
         messages: List[Dict[str, str]],
-        max_new_tokens: int = 120,
+        max_new_tokens: int = 100,
         temperature: float = 0.2
     ):
         """
@@ -206,10 +233,10 @@ class OllamaLocalService:
             "model": self.model_name,
             "messages": messages,
             "stream": True,
-            "keep_alive": "30m",
+            "keep_alive": "60m",
             "options": {
                 "temperature": temperature,
-                "num_ctx": 2048,
+                "num_ctx": 1536,
                 "num_predict": max_new_tokens,
                 "num_thread": 8
             }

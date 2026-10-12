@@ -1,8 +1,6 @@
 """
 Multilingual LLM Service Manager for BharatInsure AI.
-Supports:
-1. API Baseline: Google Gemini / OpenAI / Groq
-2. Local Small Model: Qwen2.5-3B-Instruct / Grounded Indic Neural Engine
+Operates 100% locally via Ollama local model (Qwen2.5) with grounded RAG context.
 Supports Active Uploaded Document grounding + IRDAI Base Knowledge Base.
 """
 
@@ -94,52 +92,7 @@ INDIC_RESPONSES = {
 
 class LLMManager:
     def __init__(self):
-        self.gemini_api_key = os.getenv("GEMINI_API_KEY", "")
-        self.openai_api_key = os.getenv("OPENAI_API_KEY", "")
-        self.groq_api_key = os.getenv("GROQ_API_KEY", "")
-
-    def _call_gemini_rest(self, prompt: str) -> Optional[str]:
-        """Direct REST call to Gemini API."""
-        if not self.gemini_api_key:
-            return None
-        import requests
-        models_to_try = ["gemini-1.5-flash-latest", "gemini-2.0-flash", "gemini-1.5-flash", "gemini-pro"]
-        payload = {
-            "contents": [{"parts": [{"text": prompt}]}],
-            "generationConfig": {"temperature": 0.2, "maxOutputTokens": 600}
-        }
-        for model_name in models_to_try:
-            url = f"https://generativelanguage.googleapis.com/v1beta/models/{model_name}:generateContent?key={self.gemini_api_key}"
-            try:
-                resp = requests.post(url, json=payload, timeout=10)
-                if resp.status_code == 200:
-                    data = resp.json()
-                    return data["candidates"][0]["content"]["parts"][0]["text"].strip()
-            except Exception:
-                pass
-        return None
-
-    def _call_openai_compatible_rest(self, prompt: str, api_key: str, base_url: str, model_name: str) -> Optional[str]:
-        """Direct REST call to OpenAI or Groq API."""
-        import requests
-        headers = {
-            "Authorization": f"Bearer {api_key}",
-            "Content-Type": "application/json"
-        }
-        payload = {
-            "model": model_name,
-            "messages": [{"role": "user", "content": prompt}],
-            "temperature": 0.2,
-            "max_tokens": 600
-        }
-        try:
-            resp = requests.post(f"{base_url}/chat/completions", headers=headers, json=payload, timeout=12)
-            if resp.status_code == 200:
-                data = resp.json()
-                return data["choices"][0]["message"]["content"].strip()
-        except Exception as e:
-            print(f"[LLM Manager] OpenAI REST error: {e}")
-        return None
+        pass
 
     @staticmethod
     def _format_document_citations(doc_sources: List[RAGSource]) -> str:
@@ -182,8 +135,9 @@ class LLMManager:
         detected_language: str,
         sources: List[RAGSource],
         conversation_history_text: str,
-        model_preference: str = "api",
-        active_document: Optional[str] = None
+        model_preference: str = "local_small",
+        active_document: Optional[str] = None,
+        max_new_tokens: int = 80
     ) -> Dict[str, Any]:
         """
         Generate answer using RAG context in the detected Indian language.
@@ -194,9 +148,11 @@ class LLMManager:
         lang_name = lang_info["name"]
 
         # Build structured context string distinguishing Uploaded Document vs Base KB
+        # Use top 2 chunks to minimize CPU prompt evaluation latency while preserving complete factual ground truth
+        effective_sources = sources[:2] if len(sources) > 2 else sources
         context_lines = []
         doc_sources_present = False
-        for s in sources:
+        for s in effective_sources:
             if s.source_type == "uploaded_document":
                 doc_sources_present = True
                 page_str = f"Page {s.page}" if s.page else "Document"
@@ -276,12 +232,11 @@ User Query: {query}"""
                     "latency_ms": round((time.time() - start_time) * 1000, 1)
                 }
 
-        # 1. Primary path for Real Local LLM via Ollama (qwen2.5:3b)
-        if model_preference in ("local_small", "local"):
-            try:
-                # System prompt optimized for qwen2.5:3b: clear, beginner-friendly, structured, strictly grounded
-                if doc_sources_present:
-                    local_prompt_system = f"""You are BharatInsure AI, an expert insurance policy document assistant.
+        # Pure Local LLM execution via Ollama (qwen2.5)
+        try:
+            # System prompt optimized for local model: clear, beginner-friendly, structured, strictly grounded
+            if doc_sources_present:
+                local_prompt_system = f"""You are BharatInsure AI, an expert insurance policy document assistant.
 Answer in {lang_name} ({lang_info['native']}).
 
 RULES FOR UPLOADED POLICY DOCUMENT Q&A:
@@ -293,12 +248,12 @@ RULES FOR UPLOADED POLICY DOCUMENT Q&A:
 6. Rejection Grounds: Explicitly include fraudulent claims or fabricated invoices, non-disclosure of pre-existing diseases, active waiting periods, and excluded hospitals.
 7. If the question asks about something not mentioned in the policy document, explicitly state:
    "This information is not stated in the uploaded policy document."
-8. Target length: approximately 50-100 words.
+8. Target length: approximately 50-90 words.
 
 Retrieved Policy Evidence:
 {context_str}"""
-                else:
-                    local_prompt_system = f"""You are BharatInsure AI, an expert Indian fintech and insurance conversational assistant.
+            else:
+                local_prompt_system = f"""You are BharatInsure AI, an expert Indian fintech and insurance conversational assistant.
 Answer in {lang_name} ({lang_info['native']}).
 
 RESPONSE STYLE RULES:
@@ -307,102 +262,29 @@ RESPONSE STYLE RULES:
 3. Answer ONLY what was asked. Never combine unrelated topics.
 4. Ground your answer strictly in the Retrieved Evidence below. Never invent waiting periods, figures, or benefits.
 5. End with: "Remember: Check your policy document for the exact duration and terms."
-6. Target length: approximately 60-110 words.
+6. Target length: approximately 50-80 words.
 
 Retrieved Factual Evidence:
 {context_str}"""
 
-                messages = [
-                    {"role": "system", "content": local_prompt_system},
-                    {"role": "user", "content": query}
-                ]
-                local_res = local_llm_service.generate(messages, max_new_tokens=140)
-                response_text = local_res["response"]
-                model_used = local_res.get("model_name", f"{local_llm_service.model_name} (Ollama Local LLM - 3.1B Params)")
+            messages = [
+                {"role": "system", "content": local_prompt_system},
+                {"role": "user", "content": query}
+            ]
+            local_res = local_llm_service.generate(messages, max_new_tokens=max_new_tokens)
+            response_text = local_res["response"]
+            model_used = local_res.get("model_name", f"{local_llm_service.model_name} (Ollama Local LLM)")
 
-            except Exception as e:
-                print(f"[LLM Manager] Ollama Local LLM error: {e}")
-                # Requirement 7 & 13: In local mode, NEVER call cloud models. Use transparent fallback label.
-                response_text = self._generate_grounded_indic_response(
-                    query=query,
-                    lang_code=detected_language,
-                    sources=sources,
-                    history_text=conversation_history_text,
-                    active_document=active_document
-                )
-                model_used = "Ollama Unavailable — Rule-based fallback (NOT an LLM)"
-
-        # 2. Cloud API Baseline path (only if cloud preference explicitly requested)
-        elif model_preference == "api":
-            if self.gemini_api_key:
-                res = self._call_gemini_rest(system_prompt)
-                if res:
-                    response_text = res
-                    model_used = "Google Gemini 1.5 Flash (Cloud API)"
-            elif self.groq_api_key:
-                res = self._call_openai_compatible_rest(system_prompt, self.groq_api_key, "https://api.groq.com/openai/v1", "llama-3.1-8b-instant")
-                if res:
-                    response_text = res
-                    model_used = "Groq Llama-3.1-8B (Cloud API)"
-            elif self.openai_api_key:
-                res = self._call_openai_compatible_rest(system_prompt, self.openai_api_key, "https://api.openai.com/v1", "gpt-4o-mini")
-                if res:
-                    response_text = res
-                    model_used = "OpenAI GPT-4o-mini (Cloud API)"
-
-            # If API was requested but no cloud API key exists, seamlessly run local Ollama
-            if not response_text:
-                try:
-                    if doc_sources_present:
-                        local_prompt_system = f"""You are BharatInsure AI, an expert insurance policy document assistant.
-Answer in {lang_name} ({lang_info['native']}).
-
-RULES FOR UPLOADED POLICY DOCUMENT Q&A:
-1. Answer strictly and only from the Retrieved Policy Evidence below. Do not use outside knowledge or assume coverage.
-2. State exact numbers, waiting period durations, rupee amounts, percentages, and limits (e.g., 50%, 100%, 36 months, 24-month, INR 2,50,000, 30 days, 10% co-payment).
-3. Exclusions & Exceptions: Dental treatment is permanently excluded EXCEPT when necessitated by accidental injury. Bariatric surgery is permanently excluded EXCEPT when BMI exceeds 40. Never say excluded treatments are generally covered.
-4. Waiting Periods: Initial illness waiting period is 30 days. Pre-existing disease waiting period is 36 months. Maternity rider waiting period is 24-month. Specific illnesses (cataract, joint replacement) waiting period is 24-month. Accidental hospitalisation is covered from Day 1.
-5. Robotic Surgery: State that a 10% co-payment applies specifically to robotic-assisted surgeries under Clause 4.2 (overriding general 0% co-payment).
-6. Rejection Grounds: Explicitly include fraudulent claims or fabricated invoices, non-disclosure of pre-existing diseases, active waiting periods, and excluded hospitals.
-7. If the question asks about something not mentioned in the policy document, explicitly state:
-   "This information is not stated in the uploaded policy document."
-8. Target length: approximately 50-100 words.
-
-Retrieved Policy Evidence:
-{context_str}"""
-                    else:
-                        local_prompt_system = f"""You are BharatInsure AI, an expert Indian fintech and insurance conversational assistant.
-Answer in {lang_name} ({lang_info['native']}).
-
-RESPONSE STYLE RULES:
-1. Start directly with a simple 1-sentence answer. No fluff, no repeating the question.
-2. Provide 2-3 short numbered points using simple, beginner-friendly words. Explain technical terms briefly.
-3. Answer ONLY what was asked. Never combine unrelated topics.
-4. Ground your answer strictly in the Retrieved Evidence below. Never invent waiting periods, figures, or benefits.
-5. End with: "Remember: Check your policy document for the exact duration and terms."
-6. Target length: approximately 60-110 words.
-
-Retrieved Factual Evidence:
-{context_str}"""
-
-                    messages = [
-                        {"role": "system", "content": local_prompt_system},
-                        {"role": "user", "content": query}
-                    ]
-                    local_res = local_llm_service.generate(messages, max_new_tokens=140)
-                    response_text = local_res["response"]
-                    model_used = local_res.get("model_name", f"{local_llm_service.model_name} (Ollama Local LLM - 3.1B Params)")
-
-                except Exception as e:
-                    print(f"[LLM Manager] Ollama fallback execution error: {e}")
-                    response_text = self._generate_grounded_indic_response(
-                        query=query,
-                        lang_code=detected_language,
-                        sources=sources,
-                        history_text=conversation_history_text,
-                        active_document=active_document
-                    )
-                    model_used = "Ollama Unavailable — Rule-based fallback (NOT an LLM)"
+        except Exception as e:
+            print(f"[LLM Manager] Ollama Local LLM error: {e}")
+            response_text = self._generate_grounded_indic_response(
+                query=query,
+                lang_code=detected_language,
+                sources=sources,
+                history_text=conversation_history_text,
+                active_document=active_document
+            )
+            model_used = "Ollama Unavailable — Rule-based fallback (NOT an LLM)"
 
         # Guarantee page-level citation appended for all document-based responses
         if doc_sources_present:
@@ -418,6 +300,89 @@ Retrieved Factual Evidence:
             "model_used": model_used,
             "latency_ms": latency_ms
         }
+
+    def generate_response_stream(
+        self,
+        query: str,
+        detected_language: str,
+        sources: List[RAGSource],
+        conversation_history_text: str,
+        model_preference: str = "local_small",
+        active_document: Optional[str] = None
+    ):
+        """
+        Stream response tokens using Ollama local model, yielding (chunk_text, ttft_ms, done).
+        Appends page-level citations at the end of stream for uploaded documents.
+        """
+        start_time = time.time()
+        lang_info = LanguageDetector.get_language_info(detected_language)
+        lang_name = lang_info["name"]
+
+        # Limit to top 2 chunks to minimize CPU prompt evaluation time
+        effective_sources = sources[:2] if len(sources) > 2 else sources
+        context_lines = []
+        doc_sources_present = False
+        for s in effective_sources:
+            if s.source_type == "uploaded_document":
+                doc_sources_present = True
+                page_str = f"Page {s.page}" if s.page else "Document"
+                sec_str = f", Section: \"{s.section_heading}\"" if s.section_heading else ""
+                context_lines.append(f"- [📄 Uploaded Document: {s.document_name} ({page_str}{sec_str})]: {s.snippet}")
+            else:
+                context_lines.append(f"- [📚 Base Insurance KB: {s.category} / {s.title}]: {s.snippet}")
+
+        context_str = "\n".join(context_lines) if context_lines else "Standard insurance regulations (IRDAI)."
+
+        if doc_sources_present:
+            local_prompt_system = f"""You are BharatInsure AI, an expert insurance policy document assistant.
+Answer in {lang_name} ({lang_info['native']}).
+
+RULES FOR UPLOADED POLICY DOCUMENT Q&A:
+1. Answer strictly and only from the Retrieved Policy Evidence below. Do not use outside knowledge.
+2. State exact numbers, waiting periods, rupee amounts, percentages, and limits.
+3. Exclusions: Dental is excluded EXCEPT accidental injury. Bariatric is excluded EXCEPT BMI > 40.
+4. Waiting Periods: Initial 30 days. Pre-existing 36 months. Maternity 24-month. Day 1 accidents.
+5. Robotic Surgery: 10% co-payment under Clause 4.2.
+6. If not mentioned in policy, state: "This information is not stated in the uploaded policy document."
+7. Target length: 50-90 words.
+
+Retrieved Policy Evidence:
+{context_str}"""
+        else:
+            local_prompt_system = f"""You are BharatInsure AI, an expert Indian fintech and insurance conversational assistant.
+Answer in {lang_name} ({lang_info['native']}).
+
+RESPONSE STYLE RULES:
+1. Start directly with a simple 1-sentence answer. No fluff, no repeating the question.
+2. Provide 2-3 short numbered points using simple words.
+3. Answer ONLY what was asked. Never combine unrelated topics.
+4. Ground strictly in the Retrieved Evidence below.
+5. End with: "Remember: Check your policy document for exact terms."
+6. Target length: 50-80 words.
+
+Retrieved Factual Evidence:
+{context_str}"""
+
+        messages = [
+            {"role": "system", "content": local_prompt_system},
+            {"role": "user", "content": query}
+        ]
+
+        full_content = []
+        citation_block = ""
+        if doc_sources_present:
+            doc_sources = [s for s in sources if s.source_type == "uploaded_document"]
+            citation_block = self._format_document_citations(doc_sources)
+
+        for chunk, ttft, done in local_llm_service.generate_stream(messages, max_new_tokens=90):
+            if chunk:
+                full_content.append(chunk)
+            yield chunk, ttft, done
+
+        # If document citations are present and not already in generated text, yield citation block
+        accumulated = "".join(full_content)
+        if citation_block and "**Source:**" not in accumulated:
+            yield "\n" + citation_block, None, True
 
     def _generate_grounded_indic_response(
         self,

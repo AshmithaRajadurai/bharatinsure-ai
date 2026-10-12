@@ -21,10 +21,25 @@ from backend.api.retrieve import router as retrieve_router
 from backend.api.benchmark import router as benchmark_router
 from backend.api.documents import router as documents_router
 
+from contextlib import asynccontextmanager
+import threading
+from backend.services.llm.local_model_service import local_llm_service
+
+@asynccontextmanager
+async def lifespan(app: FastAPI):
+    # Asynchronously warm up Ollama model in RAM so user turns never experience cold start
+    def warm_up():
+        print("[Startup] Warming up Ollama local model in RAM...", flush=True)
+        local_llm_service.preload_model(keep_alive="60m")
+        print("[Startup] Ollama local model successfully resident in RAM.", flush=True)
+    threading.Thread(target=warm_up, daemon=True).start()
+    yield
+
 app = FastAPI(
     title="BharatInsure AI – Multilingual Fintech & Insurance Assistant",
     description="Multilingual Insurance Assistant with RAG, Speech-to-Text, Voice synthesis, and Model Efficiency Benchmarks",
-    version="1.0.0"
+    version="1.0.0",
+    lifespan=lifespan
 )
 
 # Enable CORS for frontend integration

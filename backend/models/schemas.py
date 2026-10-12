@@ -26,7 +26,7 @@ class ChatRequest(BaseModel):
     message: str
     session_id: Optional[str] = "default-session"
     language: Optional[str] = "auto" # "auto" or specific code
-    model_preference: Optional[str] = "api" # "api" or "local_small"
+    model_preference: Optional[str] = "local_small" # "local_small" (Ollama Local Model)
     input_type: Optional[str] = "text" # "text" or "voice"
 
 class ChatResponse(BaseModel):
