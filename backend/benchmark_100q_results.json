@@ -1,0 +1,1015 @@
+{
+  "metrics": {
+    "total_questions": 100,
+    "answerable_questions": 90,
+    "unanswerable_questions": 10,
+    "recall_at_1": 94.4,
+    "recall_at_3": 96.7,
+    "precision_at_3": 90.9,
+    "abstention_accuracy": 80.0,
+    "overall_accuracy": 95.0,
+    "avg_latency_ms": 729.8
+  },
+  "results": [
+    {
+      "id": "T01-Q1",
+      "topic": "Health Insurance",
+      "query": "How many days of medical expenses are covered under pre and post hospitalization in health insurance?",
+      "status": "PASS (Recall@3)",
+      "passed": true,
+      "top_hit": "health_pre_post_hospitalization",
+      "score": 0.563,
+      "latency_ms": 729.5
+    },
+    {
+      "id": "T01-Q2",
+      "topic": "Health Insurance",
+      "query": "Can I get cashless medical treatment if the hospital is not on my insurer's empanelled list?",
+      "status": "PASS (Recall@3)",
+      "passed": true,
+      "top_hit": "health_cashless_everywhere_initiative",
+      "score": 0.8,
+      "latency_ms": 677.5
+    },
+    {
+      "id": "T01-Q3",
+      "topic": "Health Insurance",
+      "query": "Ayurveda and homeopathic hospitalisation cover conditions under IRDAI",
+      "status": "PASS (Recall@3)",
+      "passed": true,
+      "top_hit": "health_ayush_coverage",
+      "score": 0.343,
+      "latency_ms": 631.8
+    },
+    {
+      "id": "T02-Q1",
+      "topic": "Life Insurance",
+      "query": "Can an insurance company reject a life insurance claim after 3 years under Section 45?",
+      "status": "PASS (Recall@3)",
+      "passed": true,
+      "top_hit": "life-04",
+      "score": 0.627,
+      "latency_ms": 622.7
+    },
+    {
+      "id": "T02-Q2",
+      "topic": "Life Insurance",
+      "query": "How does Married Women's Property Act Section 6 protect term life insurance from court attachment and creditors?",
+      "status": "PASS (Recall@3)",
+      "passed": true,
+      "top_hit": "life_mwpa_section6",
+      "score": 0.507,
+      "latency_ms": 719.1
+    },
+    {
+      "id": "T02-Q3",
+      "topic": "Life Insurance",
+      "query": "What is the formula for reduced paid-up sum assured if I stop paying endowment premiums?",
+      "status": "PASS (Recall@3)",
+      "passed": true,
+      "top_hit": "life_paid_up_policy_value",
+      "score": 0.576,
+      "latency_ms": 623.6
+    },
+    {
+      "id": "T03-Q1",
+      "topic": "Motor Insurance",
+      "query": "What is the mandatory sum insured and annual premium for Compulsory Personal Accident (CPA) cover for vehicle owners?",
+      "status": "PASS (Recall@3)",
+      "passed": true,
+      "top_hit": "motor_cpa_mandatory_cover",
+      "score": 0.569,
+      "latency_ms": 428.8
+    },
+    {
+      "id": "T03-Q2",
+      "topic": "Motor Insurance",
+      "query": "When is a damaged car declared a Constructive Total Loss (CTL) in motor insurance?",
+      "status": "PASS (Recall@3)",
+      "passed": true,
+      "top_hit": "motor_total_loss_constructive",
+      "score": 0.722,
+      "latency_ms": 349.9
+    },
+    {
+      "id": "T03-Q3",
+      "topic": "Motor Insurance",
+      "query": "zerodep car insurence plastic ruber depriciation deduction",
+      "status": "FAIL",
+      "passed": false,
+      "top_hit": "None",
+      "score": 0.0,
+      "latency_ms": 323.1
+    },
+    {
+      "id": "T04-Q1",
+      "topic": "Travel Insurance",
+      "query": "What is the minimum medical insurance cover required for a Schengen visa to Europe?",
+      "status": "PASS (Recall@3)",
+      "passed": true,
+      "top_hit": "travel_schengen_visa_mandate",
+      "score": 0.653,
+      "latency_ms": 356.7
+    },
+    {
+      "id": "T04-Q2",
+      "topic": "Travel Insurance",
+      "query": "What document must I get from the airline at the airport if my luggage is lost?",
+      "status": "FAIL",
+      "passed": false,
+      "top_hit": "None",
+      "score": 0.0,
+      "latency_ms": 326.6
+    },
+    {
+      "id": "T04-Q3",
+      "topic": "Travel Insurance",
+      "query": "Does travel insurance cover extreme adventure sports like skydiving or scuba diving?",
+      "status": "PASS (Recall@3)",
+      "passed": true,
+      "top_hit": "travel_adventure_sports_exclusion",
+      "score": 0.655,
+      "latency_ms": 322.8
+    },
+    {
+      "id": "T05-Q1",
+      "topic": "Insurance Claims and Claim Settlement",
+      "query": "What is the IRDAI timeline for issuing cashless pre-authorization and final hospital discharge approval?",
+      "status": "PASS (Recall@3)",
+      "passed": true,
+      "top_hit": "claim_cashless_preauth_timeline",
+      "score": 0.8,
+      "latency_ms": 430.4
+    },
+    {
+      "id": "T05-Q2",
+      "topic": "Insurance Claims and Claim Settlement",
+      "query": "What penal interest must an insurer pay if claim payment is delayed beyond statutory deadlines?",
+      "status": "PASS (Recall@3)",
+      "passed": true,
+      "top_hit": "claim_delay_interest_bank_rate",
+      "score": 0.3,
+      "latency_ms": 518.7
+    },
+    {
+      "id": "T05-Q3",
+      "topic": "Insurance Claims and Claim Settlement",
+      "query": "What does signing a claim discharge voucher 'Under Protest' mean?",
+      "status": "PASS (Recall@3)",
+      "passed": true,
+      "top_hit": "claim_discharge_voucher_under_protest",
+      "score": 0.719,
+      "latency_ms": 424.8
+    },
+    {
+      "id": "T06-Q1",
+      "topic": "Premiums, Renewals, and Policy Lapses",
+      "query": "How many days is the grace period for annual and monthly insurance premium payment?",
+      "status": "PASS (Recall@3)",
+      "passed": true,
+      "top_hit": "life-05",
+      "score": 0.432,
+      "latency_ms": 727.2
+    },
+    {
+      "id": "T06-Q2",
+      "topic": "Premiums, Renewals, and Policy Lapses",
+      "query": "What happens to accumulated No Claim Bonus and waiting periods if health insurance is not renewed within the 30-day grace period?",
+      "status": "PASS (Recall@3)",
+      "passed": true,
+      "top_hit": "prem_grace_period_rules",
+      "score": 0.449,
+      "latency_ms": 1207.7
+    },
+    {
+      "id": "T06-Q3",
+      "topic": "Premiums, Renewals, and Policy Lapses",
+      "query": "What is the RBI limit for automated recurring insurance payments on UPI AutoPay without entering OTP?",
+      "status": "PASS (Recall@3)",
+      "passed": true,
+      "top_hit": "insfin-01",
+      "score": 0.868,
+      "latency_ms": 1293.0
+    },
+    {
+      "id": "T07-Q1",
+      "topic": "Waiting Periods, Exclusions, Co-payments, and Sub-limits",
+      "query": "What is the maximum waiting period for pre-existing diseases allowed under revised IRDAI guidelines?",
+      "status": "PASS (Recall@3)",
+      "passed": true,
+      "top_hit": "health-02",
+      "score": 0.434,
+      "latency_ms": 1090.9
+    },
+    {
+      "id": "T07-Q2",
+      "topic": "Waiting Periods, Exclusions, Co-payments, and Sub-limits",
+      "query": "How does proportionate deduction apply when a patient exceeds their eligible room rent limit?",
+      "status": "PASS (Recall@3)",
+      "passed": true,
+      "top_hit": "health_proportionate_deductions_rule",
+      "score": 0.531,
+      "latency_ms": 1055.2
+    },
+    {
+      "id": "T07-Q3",
+      "topic": "Waiting Periods, Exclusions, Co-payments, and Sub-limits",
+      "query": "What is the 5-year moratorium period in health insurance regarding claim repudiation?",
+      "status": "PASS (Recall@3)",
+      "passed": true,
+      "top_hit": "wait_ped_moratorium_period",
+      "score": 0.556,
+      "latency_ms": 912.1
+    },
+    {
+      "id": "T08-Q1",
+      "topic": "Policy Terms, Benefits, and Conditions",
+      "query": "What is the difference between Sum Insured in health insurance and Sum Assured in life insurance?",
+      "status": "PASS (Recall@3)",
+      "passed": true,
+      "top_hit": "terms-01",
+      "score": 0.623,
+      "latency_ms": 669.5
+    },
+    {
+      "id": "T08-Q2",
+      "topic": "Policy Terms, Benefits, and Conditions",
+      "query": "What is the principle of Uberrimae Fidei and duty of disclosure in insurance contracts?",
+      "status": "PASS (Recall@3)",
+      "passed": true,
+      "top_hit": "terms_utmost_good_faith_uberrimae",
+      "score": 0.584,
+      "latency_ms": 702.4
+    },
+    {
+      "id": "T08-Q3",
+      "topic": "Policy Terms, Benefits, and Conditions",
+      "query": "How many days in advance must a policyholder apply to port health insurance to another company?",
+      "status": "PASS (Recall@3)",
+      "passed": true,
+      "top_hit": "terms_portability_health_statutory_rights",
+      "score": 0.514,
+      "latency_ms": 595.4
+    },
+    {
+      "id": "T09-Q1",
+      "topic": "Policyholder Rights, Grievances, and Complaints",
+      "query": "What is the maximum claim dispute value that can be heard by the Insurance Ombudsman?",
+      "status": "PASS (Recall@3)",
+      "passed": true,
+      "top_hit": "claim-04",
+      "score": 0.448,
+      "latency_ms": 679.6
+    },
+    {
+      "id": "T09-Q2",
+      "topic": "Policyholder Rights, Grievances, and Complaints",
+      "query": "Is an Insurance Ombudsman award binding on the insurance company and the customer?",
+      "status": "PASS (Recall@3)",
+      "passed": true,
+      "top_hit": "rights_ombudsman_binding_awards",
+      "score": 0.5,
+      "latency_ms": 644.4
+    },
+    {
+      "id": "T09-Q3",
+      "topic": "Policyholder Rights, Grievances, and Complaints",
+      "query": "What is the statutory turnaround time for an insurance company to resolve a complaint on IRDAI Bima Bharosa?",
+      "status": "PASS (Recall@3)",
+      "passed": true,
+      "top_hit": "rights_bima_bharosa_eprotect",
+      "score": 0.383,
+      "latency_ms": 714.0
+    },
+    {
+      "id": "T10-Q1",
+      "topic": "Insurance Fraud, Consumer Protection, and Regulatory Guidance",
+      "query": "Does IRDAI call policyholders to distribute unclaimed bonuses or negotiate policy refunds?",
+      "status": "PASS (Recall@3)",
+      "passed": true,
+      "top_hit": "fraud_fake_telecallers_spurious_offers",
+      "score": 0.365,
+      "latency_ms": 669.7
+    },
+    {
+      "id": "T10-Q2",
+      "topic": "Insurance Fraud, Consumer Protection, and Regulatory Guidance",
+      "query": "What is the statutory penalty for rebating of agent commission under Section 41 of the Insurance Act?",
+      "status": "PASS (Recall@3)",
+      "passed": true,
+      "top_hit": "fraud_agent_rebating_prohibition",
+      "score": 0.735,
+      "latency_ms": 1288.6
+    },
+    {
+      "id": "T10-Q3",
+      "topic": "Insurance Fraud, Consumer Protection, and Regulatory Guidance",
+      "query": "What is the IRDAI Bima Vistaar all-in-one inclusive insurance policy?",
+      "status": "PASS (Recall@3)",
+      "passed": true,
+      "top_hit": "fraud_irdai_bima_vistaar_scheme",
+      "score": 0.554,
+      "latency_ms": 905.8
+    },
+    {
+      "id": "T11-Q1",
+      "topic": "Savings Accounts and Basic Banking",
+      "query": "Can a bank turn an account balance negative if the customer fails to maintain minimum balance?",
+      "status": "PASS (Recall@3)",
+      "passed": true,
+      "top_hit": "bank-03",
+      "score": 0.54,
+      "latency_ms": 716.4
+    },
+    {
+      "id": "T11-Q2",
+      "topic": "Savings Accounts and Basic Banking",
+      "query": "How many free cash withdrawals per month are guaranteed under a BSBDA zero-balance account?",
+      "status": "PASS (Recall@3)",
+      "passed": true,
+      "top_hit": "bank_bsbda_zero_balance_limits",
+      "score": 0.524,
+      "latency_ms": 642.3
+    },
+    {
+      "id": "T11-Q3",
+      "topic": "Savings Accounts and Basic Banking",
+      "query": "What is the RBI UDGAM portal for unclaimed deposits older than 10 years?",
+      "status": "PASS (Recall@3)",
+      "passed": true,
+      "top_hit": "bank_dea_fund_unclaimed_deposits",
+      "score": 0.588,
+      "latency_ms": 638.7
+    },
+    {
+      "id": "T12-Q1",
+      "topic": "Fixed Deposits and Recurring Deposits",
+      "query": "What is the DICGC deposit insurance limit per depositor per bank in India?",
+      "status": "PASS (Recall@3)",
+      "passed": true,
+      "top_hit": "bank-02",
+      "score": 1.0,
+      "latency_ms": 715.5
+    },
+    {
+      "id": "T12-Q2",
+      "topic": "Fixed Deposits and Recurring Deposits",
+      "query": "What is the difference between Form 15G and Form 15H to prevent TDS on fixed deposit interest?",
+      "status": "PASS (Recall@3)",
+      "passed": true,
+      "top_hit": "fd_tds_form15g_form15h",
+      "score": 1.0,
+      "latency_ms": 756.6
+    },
+    {
+      "id": "T12-Q3",
+      "topic": "Fixed Deposits and Recurring Deposits",
+      "query": "How much loan can I get against a bank fixed deposit and what is the interest spread?",
+      "status": "PASS (Recall@3)",
+      "passed": true,
+      "top_hit": "fd_loan_against_fd_overdraft",
+      "score": 0.893,
+      "latency_ms": 6037.0
+    },
+    {
+      "id": "T13-Q1",
+      "topic": "Loans, Interest Rates, and EMIs",
+      "query": "Can banks charge prepayment or foreclosure penalties on floating-rate retail home loans under RBI rules?",
+      "status": "PASS (Recall@3)",
+      "passed": true,
+      "top_hit": "loan-04",
+      "score": 0.425,
+      "latency_ms": 2798.5
+    },
+    {
+      "id": "T13-Q2",
+      "topic": "Loans, Interest Rates, and EMIs",
+      "query": "What is a Key Fact Statement (KFS) and Annual Percentage Rate (APR) mandated by RBI for loans?",
+      "status": "PASS (Recall@3)",
+      "passed": true,
+      "top_hit": "loan_kfs_key_fact_statement",
+      "score": 0.678,
+      "latency_ms": 1181.6
+    },
+    {
+      "id": "T13-Q3",
+      "topic": "Loans, Interest Rates, and EMIs",
+      "query": "Between what hours are loan recovery agents legally permitted to call borrowers under RBI fair practices?",
+      "status": "PASS (Recall@3)",
+      "passed": true,
+      "top_hit": "loan_recovery_agents_fair_practices",
+      "score": 0.477,
+      "latency_ms": 972.8
+    },
+    {
+      "id": "T14-Q1",
+      "topic": "UPI and Digital Payments",
+      "query": "Do I need to enter my UPI PIN to receive money in my bank account?",
+      "status": "PASS (Recall@3)",
+      "passed": true,
+      "top_hit": "fintech-02",
+      "score": 0.952,
+      "latency_ms": 1351.8
+    },
+    {
+      "id": "T14-Q2",
+      "topic": "UPI and Digital Payments",
+      "query": "What is the per-transaction limit for UPI Lite payments without entering a PIN?",
+      "status": "PASS (Recall@3)",
+      "passed": true,
+      "top_hit": "upi_lite_offline_small_value",
+      "score": 0.856,
+      "latency_ms": 1144.1
+    },
+    {
+      "id": "T14-Q3",
+      "topic": "UPI and Digital Payments",
+      "query": "What is the enhanced UPI transaction limit of \u20b95 Lakh for hospitals and educational institutions?",
+      "status": "PASS (Recall@3)",
+      "passed": true,
+      "top_hit": "upi_transaction_limits_rbi_npci",
+      "score": 0.935,
+      "latency_ms": 1584.0
+    },
+    {
+      "id": "T15-Q1",
+      "topic": "NEFT, RTGS, IMPS, and Other Payment Systems",
+      "query": "What is the minimum transaction amount required to initiate an RTGS transfer?",
+      "status": "PASS (Recall@3)",
+      "passed": true,
+      "top_hit": "fintech-03",
+      "score": 0.462,
+      "latency_ms": 1357.4
+    },
+    {
+      "id": "T15-Q2",
+      "topic": "NEFT, RTGS, IMPS, and Other Payment Systems",
+      "query": "How many settlement batches does NEFT run in a day under 24x7 operations?",
+      "status": "PASS (Recall@3)",
+      "passed": true,
+      "top_hit": "neft_operating_timelines_24x7",
+      "score": 0.613,
+      "latency_ms": 1036.6
+    },
+    {
+      "id": "T15-Q3",
+      "topic": "NEFT, RTGS, IMPS, and Other Payment Systems",
+      "query": "What is the Positive Pay System (PPS) for high-value cheque clearing above \u20b950,000?",
+      "status": "PASS (Recall@3)",
+      "passed": true,
+      "top_hit": "cts_cheque_truncation_system",
+      "score": 0.683,
+      "latency_ms": 880.6
+    },
+    {
+      "id": "T16-Q1",
+      "topic": "Failed Transactions, Refunds, and Payment Disputes",
+      "query": "What is the statutory auto-reversal penalty compensation per day of delay under RBI TAT framework?",
+      "status": "PASS (Recall@3)",
+      "passed": true,
+      "top_hit": "fintech-05",
+      "score": 0.892,
+      "latency_ms": 419.1
+    },
+    {
+      "id": "T16-Q2",
+      "topic": "Failed Transactions, Refunds, and Payment Disputes",
+      "query": "What is the turnaround time (TAT) for auto-reversal of a failed UPI transaction where money was debited?",
+      "status": "PASS (Recall@3)",
+      "passed": true,
+      "top_hit": "fintech-05",
+      "score": 0.949,
+      "latency_ms": 320.5
+    },
+    {
+      "id": "T16-Q3",
+      "topic": "Failed Transactions, Refunds, and Payment Disputes",
+      "query": "Within how many days must an unauthorized digital banking transaction be reported to enjoy zero customer liability?",
+      "status": "PASS (Recall@3)",
+      "passed": true,
+      "top_hit": "dispute_customer_zero_liability_tat",
+      "score": 0.843,
+      "latency_ms": 288.6
+    },
+    {
+      "id": "T17-Q1",
+      "topic": "Credit Scores and Credit Reports",
+      "query": "What is the ideal Credit Utilization Ratio (CUR) benchmark recommended for maintaining a 750+ credit score?",
+      "status": "PASS (Recall@3)",
+      "passed": true,
+      "top_hit": "cred-02",
+      "score": 0.87,
+      "latency_ms": 190.9
+    },
+    {
+      "id": "T17-Q2",
+      "topic": "Credit Scores and Credit Reports",
+      "query": "Within how many days must credit bureaus like CIBIL resolve a credit report dispute under RBI directives?",
+      "status": "PASS (Recall@3)",
+      "passed": true,
+      "top_hit": "cred-06",
+      "score": 0.866,
+      "latency_ms": 174.8
+    },
+    {
+      "id": "T17-Q3",
+      "topic": "Credit Scores and Credit Reports",
+      "query": "What is the difference between a 'Settled' and 'Closed' status on a loan in a CIBIL report?",
+      "status": "FAIL",
+      "passed": false,
+      "top_hit": "cred-01",
+      "score": 0.841,
+      "latency_ms": 168.4
+    },
+    {
+      "id": "T18-Q1",
+      "topic": "Mutual Funds and Systematic Investment Plans",
+      "query": "What are the capital gains tax rates on equity mutual funds for STCG and LTCG under Budget 2024?",
+      "status": "PASS (Recall@3)",
+      "passed": true,
+      "top_hit": "mf_capital_gains_taxation_equity_debt",
+      "score": 0.642,
+      "latency_ms": 208.9
+    },
+    {
+      "id": "T18-Q2",
+      "topic": "Mutual Funds and Systematic Investment Plans",
+      "query": "What is the lock-in period for Equity Linked Savings Schemes (ELSS) mutual funds under Section 80C?",
+      "status": "PASS (Recall@3)",
+      "passed": true,
+      "top_hit": "mf_elss_tax_saving_mutual_funds",
+      "score": 0.689,
+      "latency_ms": 215.6
+    },
+    {
+      "id": "T18-Q3",
+      "topic": "Mutual Funds and Systematic Investment Plans",
+      "query": "Why do direct plans of mutual funds deliver higher returns than regular plans?",
+      "status": "PASS (Recall@3)",
+      "passed": true,
+      "top_hit": "mf_direct_vs_regular_plans",
+      "score": 0.502,
+      "latency_ms": 173.7
+    },
+    {
+      "id": "T19-Q1",
+      "topic": "Stocks, Bonds, and Securities Markets",
+      "query": "What is the annual coupon interest rate and maturity period of Sovereign Gold Bonds (SGB)?",
+      "status": "PASS (Recall@3)",
+      "passed": true,
+      "top_hit": "stocks_sovereign_gold_bonds_tax_free",
+      "score": 0.557,
+      "latency_ms": 213.9
+    },
+    {
+      "id": "T19-Q2",
+      "topic": "Stocks, Bonds, and Securities Markets",
+      "query": "How does ASBA work when applying for shares in a retail IPO?",
+      "status": "PASS (Recall@3)",
+      "passed": true,
+      "top_hit": "stocks_asba_ipo_application",
+      "score": 0.677,
+      "latency_ms": 495.7
+    },
+    {
+      "id": "T19-Q3",
+      "topic": "Stocks, Bonds, and Securities Markets",
+      "query": "What is the T+1 settlement cycle for Indian equity markets?",
+      "status": "PASS (Recall@3)",
+      "passed": true,
+      "top_hit": "fintech-05",
+      "score": 0.532,
+      "latency_ms": 457.8
+    },
+    {
+      "id": "T20-Q1",
+      "topic": "Investment Risks, Returns, and Investor Protection",
+      "query": "What is the maximum timeline for intermediaries to resolve complaints on SEBI SCORES 2.0 portal?",
+      "status": "PASS (Recall@3)",
+      "passed": true,
+      "top_hit": "investor_scores_portal_dispute",
+      "score": 0.471,
+      "latency_ms": 2435.4
+    },
+    {
+      "id": "T20-Q2",
+      "topic": "Investment Risks, Returns, and Investor Protection",
+      "query": "What is the compensation limit provided by the Investor Protection Fund (IPF) at NSE if a stockbroker defaults?",
+      "status": "PASS (Recall@3)",
+      "passed": true,
+      "top_hit": "investor_protection_fund_ipf",
+      "score": 0.712,
+      "latency_ms": 2318.2
+    },
+    {
+      "id": "T20-Q3",
+      "topic": "Investment Risks, Returns, and Investor Protection",
+      "query": "What penalties does the Banning of Unregulated Deposit Schemes (BUDS) Act 2019 impose on Ponzi scams?",
+      "status": "PASS (Recall@3)",
+      "passed": true,
+      "top_hit": "inv-07",
+      "score": 0.735,
+      "latency_ms": 797.9
+    },
+    {
+      "id": "T21-Q1",
+      "topic": "Personal Budgeting, Saving, and Financial Planning",
+      "query": "How does the 50/30/20 budgeting rule divide monthly take-home salary?",
+      "status": "PASS (Recall@3)",
+      "passed": true,
+      "top_hit": "pf-01",
+      "score": 1.0,
+      "latency_ms": 2306.0
+    },
+    {
+      "id": "T21-Q2",
+      "topic": "Personal Budgeting, Saving, and Financial Planning",
+      "query": "What is the difference between Debt Avalanche and Debt Snowball repayment strategies?",
+      "status": "PASS (Recall@3)",
+      "passed": true,
+      "top_hit": "pf-04",
+      "score": 0.71,
+      "latency_ms": 460.3
+    },
+    {
+      "id": "T21-Q3",
+      "topic": "Personal Budgeting, Saving, and Financial Planning",
+      "query": "How many months of expenses should be parked in an emergency fund and where should it be kept?",
+      "status": "PASS (Recall@3)",
+      "passed": true,
+      "top_hit": "pf-02",
+      "score": 0.936,
+      "latency_ms": 425.2
+    },
+    {
+      "id": "T22-Q1",
+      "topic": "Cybersecurity, Phishing, and Safe Digital Banking",
+      "query": "What is the 'Digital Arrest' scam where callers impersonate police or CBI over video calls?",
+      "status": "PASS (Recall@3)",
+      "passed": true,
+      "top_hit": "sec_digital_arrest_extortion_scams",
+      "score": 0.542,
+      "latency_ms": 403.8
+    },
+    {
+      "id": "T22-Q2",
+      "topic": "Cybersecurity, Phishing, and Safe Digital Banking",
+      "query": "What is the mandatory 24-hour SMS freeze period after a SIM replacement or upgrade under DoT rules?",
+      "status": "PASS (Recall@3)",
+      "passed": true,
+      "top_hit": "sec_sim_swap_telecom_verification",
+      "score": 0.508,
+      "latency_ms": 447.9
+    },
+    {
+      "id": "T22-Q3",
+      "topic": "Cybersecurity, Phishing, and Safe Digital Banking",
+      "query": "Why should you never install AnyDesk or TeamViewer on instructions from a phone caller?",
+      "status": "PASS (Recall@3)",
+      "passed": true,
+      "top_hit": "sec-04",
+      "score": 0.281,
+      "latency_ms": 475.5
+    },
+    {
+      "id": "T23-Q1",
+      "topic": "Financial Fraud Reporting and Complaint Channels",
+      "query": "What is the national helpline number and official portal to report online financial cyber fraud in India?",
+      "status": "PASS (Recall@3)",
+      "passed": true,
+      "top_hit": "sec-06",
+      "score": 0.516,
+      "latency_ms": 420.4
+    },
+    {
+      "id": "T23-Q2",
+      "topic": "Financial Fraud Reporting and Complaint Channels",
+      "query": "What is the 'Golden Hour' in cyber financial fraud reporting for freezing stolen funds?",
+      "status": "PASS (Recall@3)",
+      "passed": true,
+      "top_hit": "fraudrep_golden_hour_bank_freeze",
+      "score": 0.619,
+      "latency_ms": 510.0
+    },
+    {
+      "id": "T23-Q3",
+      "topic": "Financial Fraud Reporting and Complaint Channels",
+      "query": "What is the Department of Telecom Chakshu portal on Sanchar Saathi used for?",
+      "status": "PASS (Recall@3)",
+      "passed": true,
+      "top_hit": "fraudrep_chakshu_sanchar_saathi_mule",
+      "score": 0.643,
+      "latency_ms": 394.6
+    },
+    {
+      "id": "T24-Q1",
+      "topic": "KYC, Aadhaar, and Identity Verification",
+      "query": "What are the 6 Officially Valid Documents (OVDs) recognized by RBI for bank account KYC?",
+      "status": "PASS (Recall@3)",
+      "passed": true,
+      "top_hit": "kyc_officially_valid_documents_ovd",
+      "score": 0.59,
+      "latency_ms": 446.8
+    },
+    {
+      "id": "T24-Q2",
+      "topic": "KYC, Aadhaar, and Identity Verification",
+      "query": "How does locking Aadhaar biometrics via mAadhaar app prevent AePS banking fraud?",
+      "status": "PASS (Recall@3)",
+      "passed": true,
+      "top_hit": "kyc_aadhaar_biometric_lock_unlock",
+      "score": 0.585,
+      "latency_ms": 426.9
+    },
+    {
+      "id": "T24-Q3",
+      "topic": "KYC, Aadhaar, and Identity Verification",
+      "query": "What is the 14-digit CKYC Identifier Number (KIN) managed by CERSAI?",
+      "status": "PASS (Recall@3)",
+      "passed": true,
+      "top_hit": "kyc_ckyc_central_registry_cersai",
+      "score": 0.566,
+      "latency_ms": 770.6
+    },
+    {
+      "id": "T25-Q1",
+      "topic": "Digital Banking Services and Mobile Banking",
+      "query": "What is Card-on-File Tokenization (CoFT) mandated by RBI for online shopping safety?",
+      "status": "PASS (Recall@3)",
+      "passed": true,
+      "top_hit": "digibk_card_tokenization_rbi_coft",
+      "score": 0.489,
+      "latency_ms": 614.4
+    },
+    {
+      "id": "T25-Q2",
+      "topic": "Digital Banking Services and Mobile Banking",
+      "query": "What is the transaction limit for contactless NFC tap-and-pay cards without entering a PIN?",
+      "status": "PASS (Recall@3)",
+      "passed": true,
+      "top_hit": "digibk_contactless_tap_and_pay_nfc",
+      "score": 0.559,
+      "latency_ms": 501.5
+    },
+    {
+      "id": "T25-Q3",
+      "topic": "Digital Banking Services and Mobile Banking",
+      "query": "What is an electronic Insurance Account (eIA) and what repositories manage it?",
+      "status": "PASS (Recall@3)",
+      "passed": true,
+      "top_hit": "insfin-02",
+      "score": 1.0,
+      "latency_ms": 576.8
+    },
+    {
+      "id": "T26-Q1",
+      "topic": "Financial Inclusion, Government Financial Schemes, and Basic Financial Services",
+      "query": "What is the annual premium and life cover provided under Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY)?",
+      "status": "PASS (Recall@3)",
+      "passed": true,
+      "top_hit": "scheme_pmjjby_life_insurance",
+      "score": 0.753,
+      "latency_ms": 588.0
+    },
+    {
+      "id": "T26-Q2",
+      "topic": "Financial Inclusion, Government Financial Schemes, and Basic Financial Services",
+      "query": "What is the annual premium and accidental death cover under Pradhan Mantri Suraksha Bima Yojana (PMSBY)?",
+      "status": "PASS (Recall@3)",
+      "passed": true,
+      "top_hit": "scheme_pmsby_accident_insurance",
+      "score": 0.725,
+      "latency_ms": 616.3
+    },
+    {
+      "id": "T26-Q3",
+      "topic": "Financial Inclusion, Government Financial Schemes, and Basic Financial Services",
+      "query": "What are the Shishu, Kishor, and Tarun loan categories under Pradhan Mantri MUDRA Yojana?",
+      "status": "PASS (Recall@3)",
+      "passed": true,
+      "top_hit": "scheme_pm_mudra_yojana_loans",
+      "score": 0.657,
+      "latency_ms": 595.0
+    },
+    {
+      "id": "T27-Q1",
+      "topic": "Financial Terminology and Frequently Asked Questions",
+      "query": "What is the difference between APR (Annual Percentage Rate) and APY (Annual Percentage Yield)?",
+      "status": "PASS (Recall@3)",
+      "passed": true,
+      "top_hit": "terms_apr_vs_apy_interest_rates",
+      "score": 0.689,
+      "latency_ms": 535.3
+    },
+    {
+      "id": "T27-Q2",
+      "topic": "Financial Terminology and Frequently Asked Questions",
+      "query": "What is the legal procedure and penalty for a bounced cheque under Section 138 of the Negotiable Instruments Act?",
+      "status": "PASS (Recall@3)",
+      "passed": true,
+      "top_hit": "terms_faq_banking_bounces_and_penalties",
+      "score": 0.517,
+      "latency_ms": 564.4
+    },
+    {
+      "id": "T27-Q3",
+      "topic": "Financial Terminology and Frequently Asked Questions",
+      "query": "When should an investor use CAGR versus XIRR to measure investment performance?",
+      "status": "PASS (Recall@3)",
+      "passed": true,
+      "top_hit": "terms_cagr_vs_xirr_investment_returns",
+      "score": 0.373,
+      "latency_ms": 526.5
+    },
+    {
+      "id": "T28-Q1",
+      "topic": "Tax Basics and Financial Compliance",
+      "query": "What is the maximum tax deduction for health insurance under Section 80D for self and senior citizen parents?",
+      "status": "PASS (Recall@3)",
+      "passed": true,
+      "top_hit": "terms-02",
+      "score": 0.578,
+      "latency_ms": 623.4
+    },
+    {
+      "id": "T28-Q2",
+      "topic": "Tax Basics and Financial Compliance",
+      "query": "What is the additional tax deduction limit for voluntary NPS contribution under Section 80CCD(1B)?",
+      "status": "PASS (Recall@3)",
+      "passed": true,
+      "top_hit": "tax_section_80ccd_nps_additional_deduction",
+      "score": 0.571,
+      "latency_ms": 570.4
+    },
+    {
+      "id": "T28-Q3",
+      "topic": "Tax Basics and Financial Compliance",
+      "query": "How does the Section 87A rebate provide zero tax liability up to \u20b97 Lakh in the New Tax Regime?",
+      "status": "PASS (Recall@3)",
+      "passed": true,
+      "top_hit": "tax_section_87a_rebate_rules",
+      "score": 0.729,
+      "latency_ms": 556.1
+    },
+    {
+      "id": "T29-Q1",
+      "topic": "Multilingual Insurance and Fintech Concepts",
+      "query": "What are the Hindi terms for insurance premium, claim, sum insured, and nominee?",
+      "status": "PASS (Recall@3)",
+      "passed": true,
+      "top_hit": "multi_hindi_insurance_terminology",
+      "score": 0.521,
+      "latency_ms": 536.2
+    },
+    {
+      "id": "T29-Q2",
+      "topic": "Multilingual Insurance and Fintech Concepts",
+      "query": "What is health insurance, premium, and claim called in Tamil (\u0bae\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0b95\u0bcd \u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc0\u0b9f\u0bc1)?",
+      "status": "PASS (Recall@3)",
+      "passed": true,
+      "top_hit": "multi_tamil_insurance_fintech_terms",
+      "score": 0.406,
+      "latency_ms": 603.6
+    },
+    {
+      "id": "T29-Q3",
+      "topic": "Multilingual Insurance and Fintech Concepts",
+      "query": "What does 'Customer Information Sheet' (CIS) provide in regional languages under IRDAI norms?",
+      "status": "PASS (Recall@3)",
+      "passed": true,
+      "top_hit": "multi_customer_information_sheet_vernacular",
+      "score": 0.579,
+      "latency_ms": 578.4
+    },
+    {
+      "id": "T30-Q1",
+      "topic": "Policy Document Interpretation and Evidence-Based Question Answering",
+      "query": "What is the Doctrine of Contra Proferentem when an insurance policy clause is ambiguous?",
+      "status": "PASS (Recall@3)",
+      "passed": true,
+      "top_hit": "docqa_detecting_ambiguous_clauses_contra_proferentem",
+      "score": 0.704,
+      "latency_ms": 574.2
+    },
+    {
+      "id": "T30-Q2",
+      "topic": "Policy Document Interpretation and Evidence-Based Question Answering",
+      "query": "In what mathematical order are room rent capping, non-payable deductions, and co-payment applied on hospital claims?",
+      "status": "PASS (Recall@3)",
+      "passed": true,
+      "top_hit": "docqa_calculating_claim_deductions_case",
+      "score": 0.444,
+      "latency_ms": 607.4
+    },
+    {
+      "id": "T30-Q3",
+      "topic": "Policy Document Interpretation and Evidence-Based Question Answering",
+      "query": "What is the principled abstention protocol when an uploaded policy document is silent on a question?",
+      "status": "PASS (Recall@3)",
+      "passed": true,
+      "top_hit": "docqa_principled_abstention_missing_facts",
+      "score": 0.548,
+      "latency_ms": 585.7
+    },
+    {
+      "id": "UNANS-01",
+      "topic": "Unanswerable / Out-of-Scope",
+      "query": "What is the statutory interest rate for cryptocurrency staking approved by IRDAI regulations?",
+      "status": "PASS (Abstained)",
+      "passed": true,
+      "top_hit": "None",
+      "score": 0.0,
+      "latency_ms": 606.2
+    },
+    {
+      "id": "UNANS-02",
+      "topic": "Unanswerable / Out-of-Scope",
+      "query": "Does BharatInsure cover pet medical surgery for domestic macaws and parrots in London?",
+      "status": "PASS (Abstained)",
+      "passed": true,
+      "top_hit": "None",
+      "score": 0.0,
+      "latency_ms": 619.8
+    },
+    {
+      "id": "UNANS-03",
+      "topic": "Unanswerable / Out-of-Scope",
+      "query": "Who won the Formula 1 World Championship according to the Reserve Bank of India?",
+      "status": "PASS (Abstained)",
+      "passed": true,
+      "top_hit": "None",
+      "score": 0.0,
+      "latency_ms": 591.6
+    },
+    {
+      "id": "UNANS-04",
+      "topic": "Unanswerable / Out-of-Scope",
+      "query": "What is the corporate income tax rate in Dubai for real estate developers under SEBI guidelines?",
+      "status": "PASS (Abstained)",
+      "passed": true,
+      "top_hit": "tax_capital_gains_real_estate_section_54",
+      "score": 0.274,
+      "latency_ms": 648.4
+    },
+    {
+      "id": "UNANS-05",
+      "topic": "Unanswerable / Out-of-Scope",
+      "query": "How many kilograms of rice are provided in the California public school lunch program by NPCI?",
+      "status": "FAIL (Spurious top score: 0.507)",
+      "passed": false,
+      "top_hit": "upi_transaction_limits_rbi_npci",
+      "score": 0.507,
+      "latency_ms": 410.3
+    },
+    {
+      "id": "UNANS-06",
+      "topic": "Unanswerable / Out-of-Scope",
+      "query": "What is the flight speed of a Boeing 787 Dreamliner according to the Insurance Ombudsman?",
+      "status": "PASS (Abstained)",
+      "passed": true,
+      "top_hit": "claim-04",
+      "score": 0.302,
+      "latency_ms": 217.6
+    },
+    {
+      "id": "UNANS-07",
+      "topic": "Unanswerable / Out-of-Scope",
+      "query": "Can I claim third party motor insurance if an asteroid crashes into my lunar rover on the Moon?",
+      "status": "PASS (Abstained)",
+      "passed": true,
+      "top_hit": "None",
+      "score": 0.0,
+      "latency_ms": 191.1
+    },
+    {
+      "id": "UNANS-08",
+      "topic": "Unanswerable / Out-of-Scope",
+      "query": "What recipe for chocolate cake is approved under RBI master directions on banking?",
+      "status": "PASS (Abstained)",
+      "passed": true,
+      "top_hit": "inv-01",
+      "score": 0.256,
+      "latency_ms": 179.2
+    },
+    {
+      "id": "UNANS-09",
+      "topic": "Unanswerable / Out-of-Scope",
+      "query": "Who was appointed prime minister of Australia according to UIDAI Aadhaar regulations?",
+      "status": "PASS (Abstained)",
+      "passed": true,
+      "top_hit": "None",
+      "score": 0.0,
+      "latency_ms": 171.6
+    },
+    {
+      "id": "UNANS-10",
+      "topic": "Unanswerable / Out-of-Scope",
+      "query": "What is the admission cutoff score for Harvard Business School under Income Tax Section 80D?",
+      "status": "FAIL (Spurious top score: 0.363)",
+      "passed": false,
+      "top_hit": "terms-02",
+      "score": 0.363,
+      "latency_ms": 168.1
+    }
+  ]
+}

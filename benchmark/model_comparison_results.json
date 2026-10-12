@@ -1,0 +1,92 @@
+{
+  "qwen2.5:3b": {
+    "param_desc": "3.09 Billion (Baseline Q4_K_M)",
+    "disk_size_mb": 1840.5,
+    "avg_ttft_ms": 5788.1,
+    "avg_total_ms": 10496.8,
+    "avg_tps": 4.17,
+    "runs": [
+      {
+        "prompt_id": "Q1-PED-EN",
+        "ttft_ms": 10181.9,
+        "total_ms": 13898.6,
+        "tokens": 46,
+        "tps": 3.31,
+        "fact_score": "1/2",
+        "preview": "- Initial Waiting Period for Pre-Existing Diseases: Typically 12 months, as per ..."
+      },
+      {
+        "prompt_id": "Q2-UPI-EN",
+        "ttft_ms": 4706.7,
+        "total_ms": 8580.3,
+        "tokens": 47,
+        "tps": 5.48,
+        "fact_score": "1/2",
+        "preview": "- UPI stands for Unified Payments Interface, a platform for initiating and recei..."
+      },
+      {
+        "prompt_id": "Q3-PED-TA",
+        "ttft_ms": 4571.7,
+        "total_ms": 12098.5,
+        "tokens": 43,
+        "tps": 3.55,
+        "fact_score": "0/2",
+        "preview": "- Initial Waiting Period in Motor Insurance: 30 days. - Emergency Hospitalizatio..."
+      },
+      {
+        "prompt_id": "Q4-PED-HI",
+        "ttft_ms": 3692.1,
+        "total_ms": 7409.7,
+        "tokens": 32,
+        "tps": 4.32,
+        "fact_score": "0/2",
+        "preview": "- Initial Waiting Period in Health Insurance: 30 days - No claims are payable du..."
+      }
+    ]
+  },
+  "qwen2.5:0.5b": {
+    "param_desc": "494 Million (Candidate Q4_K_M)",
+    "disk_size_mb": 397.0,
+    "avg_ttft_ms": 3221.4,
+    "avg_total_ms": 4621.2,
+    "avg_tps": 7.74,
+    "runs": [
+      {
+        "prompt_id": "Q1-PED-EN",
+        "ttft_ms": 4695.8,
+        "total_ms": 5008.4,
+        "tokens": 19,
+        "tps": 3.79,
+        "fact_score": "1/2",
+        "preview": "The standard waiting period for pre-existing diseases under IRDAI regulations is..."
+      },
+      {
+        "prompt_id": "Q2-UPI-EN",
+        "ttft_ms": 3216.3,
+        "total_ms": 5031.7,
+        "tokens": 46,
+        "tps": 9.14,
+        "fact_score": "0/2",
+        "preview": "UPI stands for Unified Payment Interface, which is a digital payment system that..."
+      },
+      {
+        "prompt_id": "Q3-PED-TA",
+        "ttft_ms": 2522.0,
+        "total_ms": 4281.0,
+        "tokens": 38,
+        "tps": 8.88,
+        "fact_score": "0/2",
+        "preview": "மருத்துவ காப்பீட்டில் முன்பிருந்த நோய்க்கான காத்திருப..."
+      },
+      {
+        "prompt_id": "Q4-PED-HI",
+        "ttft_ms": 2451.5,
+        "total_ms": 4163.7,
+        "tokens": 38,
+        "tps": 9.13,
+        "fact_score": "0/2",
+        "preview": "विभिन्न विद्यार्थी ने जीत दिया कि विभिन्न विद्यार्थियों की प्रती..."
+      }
+    ]
+  }
+}
