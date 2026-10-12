@@ -7,7 +7,7 @@ import InputArea from "./components/InputArea";
 import ChatHistoryDrawer from "./components/ChatHistoryDrawer";
 import MyDocumentsDrawer from "./components/MyDocumentsDrawer";
 import RAGInspectorModal from "./components/RAGInspectorModal";
-import { sendChatMessage } from "./services/api";
+import { sendChatMessage, streamChatMessage } from "./services/api";
 import { UI_TRANSLATIONS } from "./translations/translations";
 
 export default function App() {
@@ -210,30 +210,112 @@ export default function App() {
     updateCurrentSessionInStorage(newMessages);
     setIsLoading(true);
 
+    let streamedContent = "";
+    let assistantMeta = {
+      detected_language: uiLang,
+      language_name: uiLang === "en" ? "English" : uiLang === "hi" ? "Hindi" : "Tamil",
+      language_flag: "🇮🇳",
+      sources: [],
+      model_used: "qwen2.5:3b (Ollama Local LLM)",
+      latency_ms: 0
+    };
+
+    const assistantMsgPlaceholder = {
+      role: "assistant",
+      content: "",
+      detected_language: uiLang,
+      language_name: uiLang === "en" ? "English" : uiLang === "hi" ? "Hindi" : "Tamil",
+      language_flag: "🇮🇳",
+      sources: [],
+      model_used: "qwen2.5:3b (Ollama Local LLM)",
+      latency_ms: 0,
+      timestamp: new Date().toLocaleTimeString([], { hour: "2-digit", minute: "2-digit" })
+    };
+
+    const workingMessages = [...newMessages, assistantMsgPlaceholder];
+    setMessages(workingMessages);
+
     try {
-      const response = await sendChatMessage({
+      await streamChatMessage({
         message: text,
         sessionId: sessionId,
         language: "auto",
         modelPreference: activeModel,
-        inputType: inputType
+        inputType: inputType,
+        onMeta: (meta) => {
+          assistantMeta = { ...assistantMeta, ...meta };
+          setMessages((prev) => {
+            const updated = [...prev];
+            const lastIdx = updated.length - 1;
+            if (lastIdx >= 0 && updated[lastIdx].role === "assistant") {
+              updated[lastIdx] = {
+                ...updated[lastIdx],
+                detected_language: meta.detected_language || updated[lastIdx].detected_language,
+                language_name: meta.language_name || updated[lastIdx].language_name,
+                language_flag: meta.language_flag || updated[lastIdx].language_flag,
+                sources: meta.sources || [],
+                model_used: meta.model_used || updated[lastIdx].model_used,
+                active_document: meta.active_document
+              };
+            }
+            return updated;
+          });
+        },
+        onToken: (token) => {
+          streamedContent += token;
+          setMessages((prev) => {
+            const updated = [...prev];
+            const lastIdx = updated.length - 1;
+            if (lastIdx >= 0 && updated[lastIdx].role === "assistant") {
+              updated[lastIdx] = {
+                ...updated[lastIdx],
+                content: streamedContent
+              };
+            }
+            return updated;
+          });
+        },
+        onDone: (doneData) => {
+          setMessages((prev) => {
+            const updated = [...prev];
+            const lastIdx = updated.length - 1;
+            if (lastIdx >= 0 && updated[lastIdx].role === "assistant") {
+              updated[lastIdx] = {
+                ...updated[lastIdx],
+                content: doneData.response || streamedContent,
+                latency_ms: doneData.latency_ms || updated[lastIdx].latency_ms,
+                ttft_ms: doneData.ttft_ms
+              };
+            }
+            updateCurrentSessionInStorage(updated);
+            return updated;
+          });
+        },
+        onError: async (err) => {
+          console.warn("Stream encounter issue, falling back to sync endpoint:", err);
+          const response = await sendChatMessage({
+            message: text,
+            sessionId: sessionId,
+            language: "auto",
+            modelPreference: activeModel,
+            inputType: inputType
+          });
+          const assistantMsg = {
+            role: "assistant",
+            content: response.response,
+            detected_language: response.detected_language,
+            language_name: response.language_name,
+            language_flag: response.language_flag,
+            sources: response.sources || [],
+            model_used: response.model_used,
+            latency_ms: response.latency_ms,
+            timestamp: new Date().toLocaleTimeString([], { hour: "2-digit", minute: "2-digit" })
+          };
+          const finalMessages = [...newMessages, assistantMsg];
+          setMessages(finalMessages);
+          updateCurrentSessionInStorage(finalMessages);
+        }
       });
-
-      const assistantMsg = {
-        role: "assistant",
-        content: response.response,
-        detected_language: response.detected_language,
-        language_name: response.language_name,
-        language_flag: response.language_flag,
-        sources: response.sources || [],
-        model_used: response.model_used,
-        latency_ms: response.latency_ms,
-        timestamp: new Date().toLocaleTimeString([], { hour: "2-digit", minute: "2-digit" })
-      };
-
-      const finalMessages = [...newMessages, assistantMsg];
-      setMessages(finalMessages);
-      updateCurrentSessionInStorage(finalMessages);
     } catch (err) {
       console.error("Chat error:", err);
       const errorMsg = {

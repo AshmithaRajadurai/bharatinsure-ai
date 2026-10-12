@@ -8,7 +8,7 @@ export async function sendChatMessage({
   message,
   sessionId = "default-session",
   language = "auto",
-  modelPreference = "api",
+  modelPreference = "local_small",
   inputType = "text"
 }) {
   const response = await fetch(`${API_BASE_URL}/chat`, {
@@ -29,6 +29,66 @@ export async function sendChatMessage({
   }
 
   return response.json();
+}
+
+export async function streamChatMessage({
+  message,
+  sessionId = "default-session",
+  language = "auto",
+  modelPreference = "local_small",
+  inputType = "text",
+  onMeta,
+  onToken,
+  onDone,
+  onError
+}) {
+  try {
+    const response = await fetch(`${API_BASE_URL}/chat/stream`, {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({
+        message,
+        session_id: sessionId,
+        language,
+        model_preference: modelPreference,
+        input_type: inputType
+      })
+    });
+
+    if (!response.ok) {
+      const errorData = await response.json().catch(() => ({}));
+      throw new Error(errorData.detail || `Server responded with status ${response.status}`);
+    }
+
+    const reader = response.body.getReader();
+    const decoder = new TextDecoder("utf-8");
+    let buffer = "";
+
+    while (true) {
+      const { done, value } = await reader.read();
+      if (done) break;
+      buffer += decoder.decode(value, { stream: true });
+      const blocks = buffer.split("\n\n");
+      buffer = blocks.pop() || "";
+
+      for (const block of blocks) {
+        const line = block.trim();
+        if (line.startsWith("data: ")) {
+          try {
+            const data = JSON.parse(line.slice(6));
+            if (data.type === "meta" && onMeta) onMeta(data);
+            else if (data.type === "token" && onToken) onToken(data.token);
+            else if (data.type === "done" && onDone) onDone(data);
+          } catch (e) {
+            console.error("Error parsing stream event:", e, line);
+          }
+        }
+      }
+    }
+  } catch (err) {
+    if (onError) onError(err);
+    else throw err;
+  }
 }
 
 export async function uploadSpeechAudio(audioBlob, hintLanguage = "auto") {
