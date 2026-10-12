@@ -483,6 +483,9 @@ class InsuranceRAGRetriever:
         is_nominee_bank_query = any(k in q_lower for k in ["nominee", "nomination", "நாமினி", "नॉमिनी"]) and any(k in q_lower for k in ["bank", "savings", "account", "வங்கி", "खाता"])
         is_card_liability_query = any(k in q_lower for k in ["unauthorized", "3 days", "card fraud", "debit vs credit", "debit card"]) or ("liability" in q_lower and "card" in q_lower)
         is_credit_dispute_query = any(k in q_lower for k in ["dispute", "erroneous", "error", "unknown loan", "30 days"]) and any(k in q_lower for k in ["cibil", "credit", "report", "சிபில்"])
+        is_rtgs_neft_query = any(k in q_lower for k in ["rtgs", "neft", "imps", "gross settlement", "2 lakh", "2,00,000"])
+        is_tax_query = any(k in q_lower for k in ["80c", "80d", "section 80", "tax deduction", "income tax", "tax benefits"])
+        is_third_party_motor_query = any(k in q_lower for k in ["third party", "third-party", "comprehensive", "own damage", "zero dep", "zero depreciation"]) and any(k in q_lower for k in ["motor", "car", "bike", "vehicle", "insurance"])
 
         candidates: List[RAGSource] = []
         for idx, doc in enumerate(self.documents):
@@ -512,9 +515,11 @@ class InsuranceRAGRetriever:
 
             # 1. PED vs Maternity Disambiguation
             if is_ped_query and not is_maternity_query:
-                # If query specifically asks about PED, heavily penalize maternity chunks
+                # If query specifically asks about PED, heavily penalize maternity chunks and boost PED chunk
                 if doc_id == "health-06" or "maternity" in doc_title_lower:
                     final_score *= 0.15
+                elif doc_id == "health-02" or ("waiting period" in doc_title_lower and "pre-existing" in doc_title_lower):
+                    final_score = min(1.0, final_score + 0.50)
             elif is_maternity_query and not is_ped_query:
                 # If query asks about maternity, penalize general PED chunk
                 if doc_id == "health-02" and "maternity" not in doc_title_lower:
@@ -599,6 +604,21 @@ class InsuranceRAGRetriever:
             if is_eia_query:
                 if doc_id == "insfin-02" or "electronic insurance account" in doc_title_lower:
                     final_score = min(1.0, final_score + 0.45)
+
+            # 18. RTGS / NEFT / IMPS Large Value Transfers Intent
+            if is_rtgs_neft_query:
+                if doc_id in ("fintech-03", "rtgs_large_value_transfer") or "rtgs" in doc_title_lower or "neft" in doc_title_lower:
+                    final_score = min(1.0, final_score + 0.50)
+
+            # 19. Section 80C & 80D Tax Benefits Intent
+            if is_tax_query:
+                if doc_id == "terms-02" or "80d" in doc_title_lower or "80c" in doc_title_lower:
+                    final_score = min(1.0, final_score + 0.50)
+
+            # 20. Motor Insurance (Third-Party vs Comprehensive) Intent
+            if is_third_party_motor_query:
+                if doc_id in ("motor-01", "motor-02") or "third-party" in doc_title_lower or "comprehensive" in doc_title_lower:
+                    final_score = min(1.0, final_score + 0.50)
 
             # Cap score between 0.0 and 1.0
             final_score = round(min(1.0, max(0.0, final_score)), 3)
